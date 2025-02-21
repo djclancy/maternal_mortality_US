@@ -6,7 +6,7 @@ The United States has a high maternal mortality rate compared to other peer nati
 
 ## Data Sources
 
-* [CDC WONDER](https://wonder.cdc.gov/deaths-by-underlying-cause.html) for general information on pregnancy-related deaths.
+* [CDC WONDER](https://wonder.cdc.gov/deaths-by-underlying-cause.html) for general information on pregnancy-related deaths. This source data set will likely be the primary one, it is accessible through queries with an online portal and we will need to do some preprossessing to get it into workable form for subsequent data analysis. We can get county-level year-over-year information for the number of people who died due to pregnancy related issues (under some usage restrictions for privacy purposes). The information can be download as a ```.txt``` file. 
 * [NCHS](https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm) for information on number of births and infant deaths.
 * [Census American Community Survey](https://www.census.gov/programs-surveys/acs) for some general information on the year-to-year changes in large population centers throughout the US.
 
