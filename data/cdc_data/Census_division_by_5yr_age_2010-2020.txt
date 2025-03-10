@@ -1,0 +1,277 @@
+"Notes"	"Census Division"	"Census Division Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	Deaths	Population	Crude Rate
+	"Division 1: New England"	"CENS-D1"	"< 1 year"	"1"	0	1648905	Unreliable
+	"Division 1: New England"	"CENS-D1"	"1-4 years"	"1-4"	0	6788556	Unreliable
+	"Division 1: New England"	"CENS-D1"	"5-9 years"	"5-9"	0	8959930	Unreliable
+	"Division 1: New England"	"CENS-D1"	"10-14 years"	"10-14"	0	9556442	Unreliable
+	"Division 1: New England"	"CENS-D1"	"15-19 years"	"15-19"	Suppressed	10903571	Suppressed
+	"Division 1: New England"	"CENS-D1"	"20-24 years"	"20-24"	21	11180522	0.2
+	"Division 1: New England"	"CENS-D1"	"25-29 years"	"25-29"	50	10672682	0.5
+	"Division 1: New England"	"CENS-D1"	"30-34 years"	"30-34"	69	10236983	0.7
+	"Division 1: New England"	"CENS-D1"	"35-39 years"	"35-39"	54	9740392	0.6
+	"Division 1: New England"	"CENS-D1"	"40-44 years"	"40-44"	41	10135874	0.4
+	"Division 1: New England"	"CENS-D1"	"45-49 years"	"45-49"	16	11297906	Unreliable
+	"Division 1: New England"	"CENS-D1"	"50-54 years"	"50-54"	15	12116209	Unreliable
+	"Division 1: New England"	"CENS-D1"	"55-59 years"	"55-59"	Suppressed	11852313	Suppressed
+	"Division 1: New England"	"CENS-D1"	"60-64 years "	"60-64"	Suppressed	10449401	Suppressed
+	"Division 1: New England"	"CENS-D1"	"65-69 years"	"65-69"	0	8389232	Unreliable
+	"Division 1: New England"	"CENS-D1"	"70-74 years"	"70-74"	0	6179328	Unreliable
+	"Division 1: New England"	"CENS-D1"	"75-79 years"	"75-79"	Suppressed	4396667	Suppressed
+	"Division 1: New England"	"CENS-D1"	"80-84 years"	"80-84"	0	3289409	Unreliable
+	"Division 1: New England"	"CENS-D1"	"85-89 years"	"85-89"	0	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"90-94 years"	"90-94"	0	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"95-99 years"	"95-99"	0	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"100+ years"	"100+"	0	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"Division 1: New England"	"CENS-D1"			273	161618388	0.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"< 1 year"	"1"	0	5232495	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1-4 years"	"1-4"	0	21117346	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"5-9 years"	"5-9"	0	26668346	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"10-14 years"	"10-14"	0	27378945	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"15-19 years"	"15-19"	33	29292597	0.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"20-24 years"	"20-24"	167	30616482	0.5
+	"Division 2: Middle Atlantic"	"CENS-D2"	"25-29 years"	"25-29"	285	31562619	0.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"30-34 years"	"30-34"	357	30150787	1.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"35-39 years"	"35-39"	312	28395300	1.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"40-44 years"	"40-44"	186	28741684	0.6
+	"Division 2: Middle Atlantic"	"CENS-D2"	"45-49 years"	"45-49"	64	30915546	0.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"50-54 years"	"50-54"	114	32554472	0.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"55-59 years"	"55-59"	Suppressed	31696277	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"60-64 years "	"60-64"	0	27982465	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"65-69 years"	"65-69"	Suppressed	22477751	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"70-74 years"	"70-74"	Suppressed	16908051	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"75-79 years"	"75-79"	Suppressed	12417770	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"80-84 years"	"80-84"	0	9355784	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"85-89 years"	"85-89"	0	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"90-94 years"	"90-94"	0	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"95-99 years"	"95-99"	0	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"100+ years"	"100+"	0	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"			1524	453984680	0.3
+	"Division 3: East North Central"	"CENS-D3"	"< 1 year"	"1"	0	6064891	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"1-4 years"	"1-4"	0	24950803	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"5-9 years"	"5-9"	0	32303688	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"10-14 years"	"10-14"	Suppressed	33521583	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"15-19 years"	"15-19"	60	34722883	0.2
+	"Division 3: East North Central"	"CENS-D3"	"20-24 years"	"20-24"	238	35398365	0.7
+	"Division 3: East North Central"	"CENS-D3"	"25-29 years"	"25-29"	349	34091944	1.0
+	"Division 3: East North Central"	"CENS-D3"	"30-34 years"	"30-34"	339	32846447	1.0
+	"Division 3: East North Central"	"CENS-D3"	"35-39 years"	"35-39"	294	31829520	0.9
+	"Division 3: East North Central"	"CENS-D3"	"40-44 years"	"40-44"	147	32007363	0.5
+	"Division 3: East North Central"	"CENS-D3"	"45-49 years"	"45-49"	105	33944537	0.3
+	"Division 3: East North Central"	"CENS-D3"	"50-54 years"	"50-54"	110	35961376	0.3
+	"Division 3: East North Central"	"CENS-D3"	"55-59 years"	"55-59"	Suppressed	35835022	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"60-64 years "	"60-64"	Suppressed	31945180	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"65-69 years"	"65-69"	Suppressed	25513031	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"70-74 years"	"70-74"	0	18891120	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"75-79 years"	"75-79"	0	13620576	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"80-84 years"	"80-84"	0	9923581	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"85-89 years"	"85-89"	0	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"90-94 years"	"90-94"	0	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"95-99 years"	"95-99"	0	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"100+ years"	"100+"	0	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"Division 3: East North Central"	"CENS-D3"			1654	514005891	0.3
+	"Division 4: West North Central"	"CENS-D4"	"< 1 year"	"1"	0	2942439	Unreliable
+	"Division 4: West North Central"	"CENS-D4"	"1-4 years"	"1-4"	0	12054809	Unreliable
+	"Division 4: West North Central"	"CENS-D4"	"5-9 years"	"5-9"	0	15270926	Unreliable
+	"Division 4: West North Central"	"CENS-D4"	"10-14 years"	"10-14"	Suppressed	15269668	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"15-19 years"	"15-19"	26	15510592	0.2
+	"Division 4: West North Central"	"CENS-D4"	"20-24 years"	"20-24"	108	16275614	0.7
+	"Division 4: West North Central"	"CENS-D4"	"25-29 years"	"25-29"	158	15552312	1.0
+	"Division 4: West North Central"	"CENS-D4"	"30-34 years"	"30-34"	159	15262139	1.0
+	"Division 4: West North Central"	"CENS-D4"	"35-39 years"	"35-39"	127	14404553	0.9
+	"Division 4: West North Central"	"CENS-D4"	"40-44 years"	"40-44"	92	13775630	0.7
+	"Division 4: West North Central"	"CENS-D4"	"45-49 years"	"45-49"	34	14451056	0.2
+	"Division 4: West North Central"	"CENS-D4"	"50-54 years"	"50-54"	59	15591637	0.4
+	"Division 4: West North Central"	"CENS-D4"	"55-59 years"	"55-59"	Suppressed	15773550	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"60-64 years "	"60-64"	0	14054379	Unreliable
+	"Division 4: West North Central"	"CENS-D4"	"65-69 years"	"65-69"	Suppressed	11244639	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"70-74 years"	"70-74"	0	8365237	Unreliable
+	"Division 4: West North Central"	"CENS-D4"	"75-79 years"	"75-79"	Suppressed	6165622	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"80-84 years"	"80-84"	0	4590362	Unreliable
+	"Division 4: West North Central"	"CENS-D4"	"85-89 years"	"85-89"	0	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"90-94 years"	"90-94"	0	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"95-99 years"	"95-99"	0	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"100+ years"	"100+"	0	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
+"Total"	"Division 4: West North Central"	"CENS-D4"			768	231671915	0.3
+	"Division 5: South Atlantic"	"CENS-D5"	"< 1 year"	"1"	0	8120715	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"1-4 years"	"1-4"	0	33151096	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"5-9 years"	"5-9"	0	42352839	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"10-14 years"	"10-14"	Suppressed	43171605	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"15-19 years"	"15-19"	72	44355496	0.2
+	"Division 5: South Atlantic"	"CENS-D5"	"20-24 years"	"20-24"	316	46822006	0.7
+	"Division 5: South Atlantic"	"CENS-D5"	"25-29 years"	"25-29"	528	47378595	1.1
+	"Division 5: South Atlantic"	"CENS-D5"	"30-34 years"	"30-34"	580	45516698	1.3
+	"Division 5: South Atlantic"	"CENS-D5"	"35-39 years"	"35-39"	528	44169604	1.2
+	"Division 5: South Atlantic"	"CENS-D5"	"40-44 years"	"40-44"	285	44681611	0.6
+	"Division 5: South Atlantic"	"CENS-D5"	"45-49 years"	"45-49"	120	46944122	0.3
+	"Division 5: South Atlantic"	"CENS-D5"	"50-54 years"	"50-54"	141	48005855	0.3
+	"Division 5: South Atlantic"	"CENS-D5"	"55-59 years"	"55-59"	Suppressed	46512261	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"60-64 years "	"60-64"	0	42171301	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"65-69 years"	"65-69"	0	36181689	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"70-74 years"	"70-74"	0	28155640	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"75-79 years"	"75-79"	0	20035697	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"80-84 years"	"80-84"	0	13808704	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"85-89 years"	"85-89"	0	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"90-94 years"	"90-94"	0	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"95-99 years"	"95-99"	0	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"100+ years"	"100+"	0	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
+"Total"	"Division 5: South Atlantic"	"CENS-D5"			2580	695183436	0.4
+	"Division 6: East South Central"	"CENS-D6"	"< 1 year"	"1"	0	2533964	Unreliable
+	"Division 6: East South Central"	"CENS-D6"	"1-4 years"	"1-4"	0	10366614	Unreliable
+	"Division 6: East South Central"	"CENS-D6"	"5-9 years"	"5-9"	0	13203203	Unreliable
+	"Division 6: East South Central"	"CENS-D6"	"10-14 years"	"10-14"	Suppressed	13507026	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"15-19 years"	"15-19"	26	13654554	0.2
+	"Division 6: East South Central"	"CENS-D6"	"20-24 years"	"20-24"	137	14385554	1.0
+	"Division 6: East South Central"	"CENS-D6"	"25-29 years"	"25-29"	200	13986852	1.4
+	"Division 6: East South Central"	"CENS-D6"	"30-34 years"	"30-34"	178	13311642	1.3
+	"Division 6: East South Central"	"CENS-D6"	"35-39 years"	"35-39"	167	13005104	1.3
+	"Division 6: East South Central"	"CENS-D6"	"40-44 years"	"40-44"	97	13083831	0.7
+	"Division 6: East South Central"	"CENS-D6"	"45-49 years"	"45-49"	32	13686561	0.2
+	"Division 6: East South Central"	"CENS-D6"	"50-54 years"	"50-54"	43	14188670	0.3
+	"Division 6: East South Central"	"CENS-D6"	"55-59 years"	"55-59"	Suppressed	14056915	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"60-64 years "	"60-64"	Suppressed	12776641	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"65-69 years"	"65-69"	0	10628738	Unreliable
+	"Division 6: East South Central"	"CENS-D6"	"70-74 years"	"70-74"	Suppressed	8056166	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"75-79 years"	"75-79"	0	5688909	Unreliable
+	"Division 6: East South Central"	"CENS-D6"	"80-84 years"	"80-84"	0	3851281	Unreliable
+	"Division 6: East South Central"	"CENS-D6"	"85-89 years"	"85-89"	0	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"90-94 years"	"90-94"	0	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"95-99 years"	"95-99"	0	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"100+ years"	"100+"	0	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"Division 6: East South Central"	"CENS-D6"			886	207539854	0.4
+	"Division 7: West South Central"	"CENS-D7"	"< 1 year"	"1"	0	5940435	Unreliable
+	"Division 7: West South Central"	"CENS-D7"	"1-4 years"	"1-4"	0	24206185	Unreliable
+	"Division 7: West South Central"	"CENS-D7"	"5-9 years"	"5-9"	0	30658056	Unreliable
+	"Division 7: West South Central"	"CENS-D7"	"10-14 years"	"10-14"	Suppressed	30584532	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"15-19 years"	"15-19"	75	29892250	0.3
+	"Division 7: West South Central"	"CENS-D7"	"20-24 years"	"20-24"	259	30615179	0.8
+	"Division 7: West South Central"	"CENS-D7"	"25-29 years"	"25-29"	388	31132125	1.2
+	"Division 7: West South Central"	"CENS-D7"	"30-34 years"	"30-34"	430	30205283	1.4
+	"Division 7: West South Central"	"CENS-D7"	"35-39 years"	"35-39"	386	28765498	1.3
+	"Division 7: West South Central"	"CENS-D7"	"40-44 years"	"40-44"	260	27592224	0.9
+	"Division 7: West South Central"	"CENS-D7"	"45-49 years"	"45-49"	186	27377278	0.7
+	"Division 7: West South Central"	"CENS-D7"	"50-54 years"	"50-54"	224	27265625	0.8
+	"Division 7: West South Central"	"CENS-D7"	"55-59 years"	"55-59"	Suppressed	26137424	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"60-64 years "	"60-64"	Suppressed	22789437	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"65-69 years"	"65-69"	Suppressed	18304907	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"70-74 years"	"70-74"	0	13586752	Unreliable
+	"Division 7: West South Central"	"CENS-D7"	"75-79 years"	"75-79"	0	9566089	Unreliable
+	"Division 7: West South Central"	"CENS-D7"	"80-84 years"	"80-84"	0	6565746	Unreliable
+	"Division 7: West South Central"	"CENS-D7"	"85-89 years"	"85-89"	0	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"90-94 years"	"90-94"	0	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"95-99 years"	"95-99"	0	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"100+ years"	"100+"	0	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"Division 7: West South Central"	"CENS-D7"			2224	427449993	0.5
+	"Division 8: Mountain"	"CENS-D8"	"< 1 year"	"1"	0	3362676	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"1-4 years"	"1-4"	0	13779934	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"5-9 years"	"5-9"	0	17817027	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"10-14 years"	"10-14"	Suppressed	17847904	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"15-19 years"	"15-19"	25	17484175	0.1
+	"Division 8: Mountain"	"CENS-D8"	"20-24 years"	"20-24"	94	18304914	0.5
+	"Division 8: Mountain"	"CENS-D8"	"25-29 years"	"25-29"	176	18683101	0.9
+	"Division 8: Mountain"	"CENS-D8"	"30-34 years"	"30-34"	173	18038141	1.0
+	"Division 8: Mountain"	"CENS-D8"	"35-39 years"	"35-39"	168	17097916	1.0
+	"Division 8: Mountain"	"CENS-D8"	"40-44 years"	"40-44"	77	16208477	0.5
+	"Division 8: Mountain"	"CENS-D8"	"45-49 years"	"45-49"	30	16005250	0.2
+	"Division 8: Mountain"	"CENS-D8"	"50-54 years"	"50-54"	39	16216955	0.2
+	"Division 8: Mountain"	"CENS-D8"	"55-59 years"	"55-59"	Suppressed	16164311	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"60-64 years "	"60-64"	Suppressed	14883781	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"65-69 years"	"65-69"	0	12593132	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"70-74 years"	"70-74"	0	9542862	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"75-79 years"	"75-79"	0	6613767	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"80-84 years"	"80-84"	0	4434679	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"85-89 years"	"85-89"	0	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"90-94 years"	"90-94"	0	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"95-99 years"	"95-99"	0	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"100+ years"	"100+"	0	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"Division 8: Mountain"	"CENS-D8"			785	259299560	0.3
+	"Division 9: Pacific"	"CENS-D9"	"< 1 year"	"1"	0	7181128	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"1-4 years"	"1-4"	0	29126172	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"5-9 years"	"5-9"	0	36864982	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"10-14 years"	"10-14"	0	36986754	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"15-19 years"	"15-19"	49	37938863	0.1
+	"Division 9: Pacific"	"CENS-D9"	"20-24 years"	"20-24"	141	40772260	0.3
+	"Division 9: Pacific"	"CENS-D9"	"25-29 years"	"25-29"	220	43312788	0.5
+	"Division 9: Pacific"	"CENS-D9"	"30-34 years"	"30-34"	305	41448578	0.7
+	"Division 9: Pacific"	"CENS-D9"	"35-39 years"	"35-39"	295	38889582	0.8
+	"Division 9: Pacific"	"CENS-D9"	"40-44 years"	"40-44"	141	37665173	0.4
+	"Division 9: Pacific"	"CENS-D9"	"45-49 years"	"45-49"	43	37920984	0.1
+	"Division 9: Pacific"	"CENS-D9"	"50-54 years"	"50-54"	54	37998527	0.1
+	"Division 9: Pacific"	"CENS-D9"	"55-59 years"	"55-59"	Suppressed	36588157	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"60-64 years "	"60-64"	Suppressed	32317739	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"65-69 years"	"65-69"	0	26026761	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"70-74 years"	"70-74"	0	19140019	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"75-79 years"	"75-79"	0	13430726	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"80-84 years"	"80-84"	0	9561878	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"85-89 years"	"85-89"	Suppressed	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"90-94 years"	"90-94"	Suppressed	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"95-99 years"	"95-99"	0	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"100+ years"	"100+"	0	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"Division 9: Pacific"	"CENS-D9"			1256	573640264	0.2
+"Total"					11950	3524393981	0.3
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"ICD-10 Codes: O00-O99 (Pregnancy, childbirth and the puerperium)"
+"Year/Month: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: Census Division; Five-Year Age Groups"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Mar 10, 2025 7:27:47 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Mar 10, 2025 7:27:47 PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"6. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"8. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
