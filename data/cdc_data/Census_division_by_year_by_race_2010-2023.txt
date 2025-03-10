@@ -1,0 +1,428 @@
+Notes	Census Division	Census Division Code	Year	Year Code	Race	Race Code	Deaths	Population	Crude Rate
+	Division 1: New England	CENS-D1	2010	2010	American Indian or Alaska Native	1002-5	0	35666	Unreliable
+	Division 1: New England	CENS-D1	2010	2010	White	2106-3	12	5069159	Unreliable
+	Division 1: New England	CENS-D1	2011	2011	American Indian or Alaska Native	1002-5	0	35970	Unreliable
+	Division 1: New England	CENS-D1	2011	2011	White	2106-3	17	5058660	Unreliable
+	Division 1: New England	CENS-D1	2012	2012	American Indian or Alaska Native	1002-5	0	36793	Unreliable
+	Division 1: New England	CENS-D1	2012	2012	Asian or Pacific Islander	A-PI	0	300680	Unreliable
+	Division 1: New England	CENS-D1	2012	2012	White	2106-3	15	5032870	Unreliable
+	Division 1: New England	CENS-D1	2013	2013	American Indian or Alaska Native	1002-5	0	37400	Unreliable
+	Division 1: New England	CENS-D1	2013	2013	Asian or Pacific Islander	A-PI	0	310725	Unreliable
+	Division 1: New England	CENS-D1	2013	2013	White	2106-3	16	5005190	Unreliable
+	Division 1: New England	CENS-D1	2014	2014	American Indian or Alaska Native	1002-5	0	37949	Unreliable
+	Division 1: New England	CENS-D1	2014	2014	Asian or Pacific Islander	A-PI	0	327029	Unreliable
+	Division 1: New England	CENS-D1	2014	2014	White	2106-3	19	4978307	Unreliable
+	Division 1: New England	CENS-D1	2015	2015	American Indian or Alaska Native	1002-5	0	38229	Unreliable
+	Division 1: New England	CENS-D1	2015	2015	White	2106-3	17	4946851	Unreliable
+	Division 1: New England	CENS-D1	2016	2016	American Indian or Alaska Native	1002-5	0	38483	Unreliable
+	Division 1: New England	CENS-D1	2016	2016	White	2106-3	31	4906061	0.6
+	Division 1: New England	CENS-D1	2017	2017	American Indian or Alaska Native	1002-5	0	39134	Unreliable
+	Division 1: New England	CENS-D1	2017	2017	White	2106-3	24	4875677	0.5
+	Division 1: New England	CENS-D1	2018	2018	White	2106-3	17	4842226	Unreliable
+	Division 1: New England	CENS-D1	2019	2019	American Indian or Alaska Native	1002-5	0	40283	Unreliable
+	Division 1: New England	CENS-D1	2019	2019	White	2106-3	17	4793365	Unreliable
+	Division 1: New England	CENS-D1	2020	2020	American Indian or Alaska Native	1002-5	0	40972	Unreliable
+	Division 1: New England	CENS-D1	2020	2020	White	2106-3	31	4748846	0.7
+	Division 1: New England	CENS-D1	2021	2021	American Indian or Alaska Native	1002-5	0	35260	Unreliable
+	Division 1: New England	CENS-D1	2021	2021	Asian	A	0	359765	Unreliable
+	Division 1: New England	CENS-D1	2021	2021	Native Hawaiian or Other Pacific Islander	NHOPI	0	6406	Unreliable
+	Division 1: New England	CENS-D1	2021	2021	White	2106-3	26	4715995	0.6
+	Division 1: New England	CENS-D1	2021	2021	More than one race	M	0	158402	Unreliable
+	Division 1: New England	CENS-D1	2021	2021	Not Available	999	0	Not Available	Not Available
+	Division 1: New England	CENS-D1	2022	2022	American Indian or Alaska Native	1002-5	0	35701	Unreliable
+	Division 1: New England	CENS-D1	2022	2022	Black or African American	2054-5	13	532830	Unreliable
+	Division 1: New England	CENS-D1	2022	2022	Native Hawaiian or Other Pacific Islander	NHOPI	0	6505	Unreliable
+	Division 1: New England	CENS-D1	2022	2022	White	2106-3	31	4650773	0.7
+	Division 1: New England	CENS-D1	2022	2022	More than one race	M	0	162843	Unreliable
+	Division 1: New England	CENS-D1	2022	2022	Not Available	999	0	Not Available	Not Available
+	Division 1: New England	CENS-D1	2023	2023	American Indian or Alaska Native	1002-5	0	37249	Unreliable
+	Division 1: New England	CENS-D1	2023	2023	Asian	A	0	374019	Unreliable
+	Division 1: New England	CENS-D1	2023	2023	Native Hawaiian or Other Pacific Islander	NHOPI	0	6622	Unreliable
+	Division 1: New England	CENS-D1	2023	2023	White	2106-3	18	4616686	Unreliable
+	Division 1: New England	CENS-D1	2023	2023	Not Available	999	0	Not Available	Not Available
+	Division 2: Middle Atlantic	CENS-D2	2010	2010	American Indian or Alaska Native	1002-5	0	134836	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2010	2010	Black or African American	2054-5	57	2771176	2.1
+	Division 2: Middle Atlantic	CENS-D2	2010	2010	White	2106-3	67	12370407	0.5
+	Division 2: Middle Atlantic	CENS-D2	2011	2011	Black or African American	2054-5	50	2781363	1.8
+	Division 2: Middle Atlantic	CENS-D2	2011	2011	White	2106-3	78	12353445	0.6
+	Division 2: Middle Atlantic	CENS-D2	2012	2012	American Indian or Alaska Native	1002-5	0	137896	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2012	2012	Black or African American	2054-5	49	2793190	1.8
+	Division 2: Middle Atlantic	CENS-D2	2012	2012	White	2106-3	71	12281664	0.6
+	Division 2: Middle Atlantic	CENS-D2	2013	2013	American Indian or Alaska Native	1002-5	0	139367	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2013	2013	Asian or Pacific Islander	A-PI	10	1291622	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2013	2013	Black or African American	2054-5	65	2799281	2.3
+	Division 2: Middle Atlantic	CENS-D2	2013	2013	White	2106-3	80	12213633	0.7
+	Division 2: Middle Atlantic	CENS-D2	2014	2014	Black or African American	2054-5	65	2817292	2.3
+	Division 2: Middle Atlantic	CENS-D2	2014	2014	White	2106-3	81	12145547	0.7
+	Division 2: Middle Atlantic	CENS-D2	2015	2015	American Indian or Alaska Native	1002-5	0	142422	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2015	2015	Asian or Pacific Islander	A-PI	13	1381090	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2015	2015	Black or African American	2054-5	43	2820296	1.5
+	Division 2: Middle Atlantic	CENS-D2	2015	2015	White	2106-3	79	12067536	0.7
+	Division 2: Middle Atlantic	CENS-D2	2016	2016	American Indian or Alaska Native	1002-5	0	143226	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2016	2016	Black or African American	2054-5	58	2816998	2.1
+	Division 2: Middle Atlantic	CENS-D2	2016	2016	White	2106-3	84	11952924	0.7
+	Division 2: Middle Atlantic	CENS-D2	2017	2017	American Indian or Alaska Native	1002-5	0	145100	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2017	2017	Black or African American	2054-5	48	2829266	1.7
+	Division 2: Middle Atlantic	CENS-D2	2017	2017	White	2106-3	77	11871989	0.6
+	Division 2: Middle Atlantic	CENS-D2	2018	2018	American Indian or Alaska Native	1002-5	0	143884	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2018	2018	Black or African American	2054-5	56	2792426	2
+	Division 2: Middle Atlantic	CENS-D2	2018	2018	White	2106-3	69	11690729	0.6
+	Division 2: Middle Atlantic	CENS-D2	2019	2019	American Indian or Alaska Native	1002-5	0	143700	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2019	2019	Black or African American	2054-5	65	2777623	2.3
+	Division 2: Middle Atlantic	CENS-D2	2019	2019	White	2106-3	82	11563299	0.7
+	Division 2: Middle Atlantic	CENS-D2	2020	2020	American Indian or Alaska Native	1002-5	0	146001	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2020	2020	Black or African American	2054-5	52	2768402	1.9
+	Division 2: Middle Atlantic	CENS-D2	2020	2020	White	2106-3	73	11419684	0.6
+	Division 2: Middle Atlantic	CENS-D2	2021	2021	American Indian or Alaska Native	1002-5	0	128535	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2021	2021	Asian	A	12	1378583	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2021	2021	Black or African American	2054-5	62	2681318	2.3
+	Division 2: Middle Atlantic	CENS-D2	2021	2021	Native Hawaiian or Other Pacific Islander	NHOPI	0	20970	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2021	2021	White	2106-3	102	11450710	0.9
+	Division 2: Middle Atlantic	CENS-D2	2021	2021	Not Available	999	0	Not Available	Not Available
+	Division 2: Middle Atlantic	CENS-D2	2022	2022	Black or African American	2054-5	55	2665441	2.1
+	Division 2: Middle Atlantic	CENS-D2	2022	2022	White	2106-3	96	11224405	0.9
+	Division 2: Middle Atlantic	CENS-D2	2022	2022	More than one race	M	0	448778	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2022	2022	Not Available	999	0	Not Available	Not Available
+	Division 2: Middle Atlantic	CENS-D2	2023	2023	American Indian or Alaska Native	1002-5	0	132720	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2023	2023	Black or African American	2054-5	52	2647512	2
+	Division 2: Middle Atlantic	CENS-D2	2023	2023	Native Hawaiian or Other Pacific Islander	NHOPI	0	21869	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2023	2023	White	2106-3	52	11158939	0.5
+	Division 2: Middle Atlantic	CENS-D2	2023	2023	Not Available	999	0	Not Available	Not Available
+	Division 3: East North Central	CENS-D3	2010	2010	American Indian or Alaska Native	1002-5	0	129908	Unreliable
+	Division 3: East North Central	CENS-D3	2010	2010	Black or African American	2054-5	41	2573951	1.6
+	Division 3: East North Central	CENS-D3	2010	2010	White	2106-3	99	15316654	0.6
+	Division 3: East North Central	CENS-D3	2011	2011	Black or African American	2054-5	44	2585593	1.7
+	Division 3: East North Central	CENS-D3	2011	2011	White	2106-3	118	15294875	0.8
+	Division 3: East North Central	CENS-D3	2012	2012	American Indian or Alaska Native	1002-5	0	132619	Unreliable
+	Division 3: East North Central	CENS-D3	2012	2012	Black or African American	2054-5	49	2588074	1.9
+	Division 3: East North Central	CENS-D3	2012	2012	White	2106-3	96	15200385	0.6
+	Division 3: East North Central	CENS-D3	2013	2013	American Indian or Alaska Native	1002-5	0	133922	Unreliable
+	Division 3: East North Central	CENS-D3	2013	2013	Black or African American	2054-5	43	2588771	1.7
+	Division 3: East North Central	CENS-D3	2013	2013	White	2106-3	90	15139793	0.6
+	Division 3: East North Central	CENS-D3	2014	2014	American Indian or Alaska Native	1002-5	0	134884	Unreliable
+	Division 3: East North Central	CENS-D3	2014	2014	Black or African American	2054-5	38	2590159	1.5
+	Division 3: East North Central	CENS-D3	2014	2014	White	2106-3	91	15060699	0.6
+	Division 3: East North Central	CENS-D3	2015	2015	Black or African American	2054-5	49	2589102	1.9
+	Division 3: East North Central	CENS-D3	2015	2015	White	2106-3	112	14962146	0.7
+	Division 3: East North Central	CENS-D3	2016	2016	American Indian or Alaska Native	1002-5	0	136048	Unreliable
+	Division 3: East North Central	CENS-D3	2016	2016	Black or African American	2054-5	42	2579530	1.6
+	Division 3: East North Central	CENS-D3	2016	2016	White	2106-3	123	14841646	0.8
+	Division 3: East North Central	CENS-D3	2017	2017	American Indian or Alaska Native	1002-5	0	137034	Unreliable
+	Division 3: East North Central	CENS-D3	2017	2017	Black or African American	2054-5	46	2582031	1.8
+	Division 3: East North Central	CENS-D3	2017	2017	White	2106-3	108	14747867	0.7
+	Division 3: East North Central	CENS-D3	2018	2018	American Indian or Alaska Native	1002-5	0	137510	Unreliable
+	Division 3: East North Central	CENS-D3	2018	2018	Black or African American	2054-5	30	2583547	1.2
+	Division 3: East North Central	CENS-D3	2018	2018	White	2106-3	79	14641042	0.5
+	Division 3: East North Central	CENS-D3	2019	2019	Black or African American	2054-5	36	2583305	1.4
+	Division 3: East North Central	CENS-D3	2019	2019	White	2106-3	107	14524936	0.7
+	Division 3: East North Central	CENS-D3	2020	2020	Black or African American	2054-5	51	2585337	2
+	Division 3: East North Central	CENS-D3	2020	2020	White	2106-3	111	14391172	0.8
+	Division 3: East North Central	CENS-D3	2021	2021	Black or African American	2054-5	65	2445477	2.7
+	Division 3: East North Central	CENS-D3	2021	2021	Native Hawaiian or Other Pacific Islander	NHOPI	0	11770	Unreliable
+	Division 3: East North Central	CENS-D3	2021	2021	White	2106-3	131	14223223	0.9
+	Division 3: East North Central	CENS-D3	2021	2021	Not Available	999	0	Not Available	Not Available
+	Division 3: East North Central	CENS-D3	2022	2022	American Indian or Alaska Native	1002-5	0	115290	Unreliable
+	Division 3: East North Central	CENS-D3	2022	2022	Black or African American	2054-5	61	2429032	2.5
+	Division 3: East North Central	CENS-D3	2022	2022	Native Hawaiian or Other Pacific Islander	NHOPI	0	11995	Unreliable
+	Division 3: East North Central	CENS-D3	2022	2022	White	2106-3	112	13987697	0.8
+	Division 3: East North Central	CENS-D3	2022	2022	Not Available	999	0	Not Available	Not Available
+	Division 3: East North Central	CENS-D3	2023	2023	Black or African American	2054-5	41	2433593	1.7
+	Division 3: East North Central	CENS-D3	2023	2023	Native Hawaiian or Other Pacific Islander	NHOPI	0	12510	Unreliable
+	Division 3: East North Central	CENS-D3	2023	2023	White	2106-3	90	13961393	0.6
+	Division 3: East North Central	CENS-D3	2023	2023	More than one race	M	0	492351	Unreliable
+	Division 3: East North Central	CENS-D3	2023	2023	Not Available	999	0	Not Available	Not Available
+	Division 4: West North Central	CENS-D4	2010	2010	Asian or Pacific Islander	A-PI	0	240016	Unreliable
+	Division 4: West North Central	CENS-D4	2010	2010	White	2106-3	29	7103560	0.4
+	Division 4: West North Central	CENS-D4	2011	2011	Asian or Pacific Islander	A-PI	0	248258	Unreliable
+	Division 4: West North Central	CENS-D4	2011	2011	White	2106-3	48	7125964	0.7
+	Division 4: West North Central	CENS-D4	2012	2012	Black or African American	2054-5	19	632178	Unreliable
+	Division 4: West North Central	CENS-D4	2012	2012	White	2106-3	54	7111525	0.8
+	Division 4: West North Central	CENS-D4	2013	2013	Black or African American	2054-5	15	643676	Unreliable
+	Division 4: West North Central	CENS-D4	2013	2013	White	2106-3	58	7111609	0.8
+	Division 4: West North Central	CENS-D4	2014	2014	Black or African American	2054-5	15	655125	Unreliable
+	Division 4: West North Central	CENS-D4	2014	2014	White	2106-3	51	7100081	0.7
+	Division 4: West North Central	CENS-D4	2015	2015	Black or African American	2054-5	15	662902	Unreliable
+	Division 4: West North Central	CENS-D4	2015	2015	White	2106-3	47	7084748	0.7
+	Division 4: West North Central	CENS-D4	2016	2016	Black or African American	2054-5	25	672856	3.7
+	Division 4: West North Central	CENS-D4	2016	2016	White	2106-3	51	7049460	0.7
+	Division 4: West North Central	CENS-D4	2017	2017	Black or African American	2054-5	14	687205	Unreliable
+	Division 4: West North Central	CENS-D4	2017	2017	White	2106-3	58	7023908	0.8
+	Division 4: West North Central	CENS-D4	2018	2018	Black or African American	2054-5	10	698963	Unreliable
+	Division 4: West North Central	CENS-D4	2018	2018	White	2106-3	49	6994024	0.7
+	Division 4: West North Central	CENS-D4	2019	2019	Black or African American	2054-5	12	708492	Unreliable
+	Division 4: West North Central	CENS-D4	2019	2019	White	2106-3	38	6960911	0.5
+	Division 4: West North Central	CENS-D4	2020	2020	Black or African American	2054-5	24	718860	3.3
+	Division 4: West North Central	CENS-D4	2020	2020	White	2106-3	60	6930488	0.9
+	Division 4: West North Central	CENS-D4	2021	2021	Black or African American	2054-5	15	657706	Unreliable
+	Division 4: West North Central	CENS-D4	2021	2021	White	2106-3	75	6840175	1.1
+	Division 4: West North Central	CENS-D4	2021	2021	Not Available	999	0	Not Available	Not Available
+	Division 4: West North Central	CENS-D4	2022	2022	Black or African American	2054-5	15	661394	Unreliable
+	Division 4: West North Central	CENS-D4	2022	2022	White	2106-3	47	6762797	0.7
+	Division 4: West North Central	CENS-D4	2022	2022	Not Available	999	0	Not Available	Not Available
+	Division 4: West North Central	CENS-D4	2023	2023	Black or African American	2054-5	21	672406	3.1
+	Division 4: West North Central	CENS-D4	2023	2023	Native Hawaiian or Other Pacific Islander	NHOPI	0	14854	Unreliable
+	Division 4: West North Central	CENS-D4	2023	2023	White	2106-3	38	6765327	0.6
+	Division 4: West North Central	CENS-D4	2023	2023	Not Available	999	0	Not Available	Not Available
+	Division 5: South Atlantic	CENS-D5	2010	2010	Black or African American	2054-5	82	6001550	1.4
+	Division 5: South Atlantic	CENS-D5	2010	2010	White	2106-3	72	16921390	0.4
+	Division 5: South Atlantic	CENS-D5	2011	2011	Black or African American	2054-5	97	6079062	1.6
+	Division 5: South Atlantic	CENS-D5	2011	2011	White	2106-3	72	17015308	0.4
+	Division 5: South Atlantic	CENS-D5	2012	2012	American Indian or Alaska Native	1002-5	0	185345	Unreliable
+	Division 5: South Atlantic	CENS-D5	2012	2012	Black or African American	2054-5	88	6148253	1.4
+	Division 5: South Atlantic	CENS-D5	2012	2012	White	2106-3	80	17040342	0.5
+	Division 5: South Atlantic	CENS-D5	2013	2013	American Indian or Alaska Native	1002-5	0	187701	Unreliable
+	Division 5: South Atlantic	CENS-D5	2013	2013	Black or African American	2054-5	108	6208524	1.7
+	Division 5: South Atlantic	CENS-D5	2013	2013	White	2106-3	122	17052910	0.7
+	Division 5: South Atlantic	CENS-D5	2014	2014	Black or African American	2054-5	140	6284520	2.2
+	Division 5: South Atlantic	CENS-D5	2014	2014	White	2106-3	126	17120223	0.7
+	Division 5: South Atlantic	CENS-D5	2015	2015	Black or African American	2054-5	123	6357636	1.9
+	Division 5: South Atlantic	CENS-D5	2015	2015	White	2106-3	151	17196419	0.9
+	Division 5: South Atlantic	CENS-D5	2016	2016	American Indian or Alaska Native	1002-5	0	193747	Unreliable
+	Division 5: South Atlantic	CENS-D5	2016	2016	Black or African American	2054-5	118	6419026	1.8
+	Division 5: South Atlantic	CENS-D5	2016	2016	White	2106-3	129	17250824	0.7
+	Division 5: South Atlantic	CENS-D5	2017	2017	Black or African American	2054-5	129	6490272	2
+	Division 5: South Atlantic	CENS-D5	2017	2017	White	2106-3	116	17321787	0.7
+	Division 5: South Atlantic	CENS-D5	2018	2018	Asian or Pacific Islander	A-PI	11	1242551	Unreliable
+	Division 5: South Atlantic	CENS-D5	2018	2018	Black or African American	2054-5	91	6534484	1.4
+	Division 5: South Atlantic	CENS-D5	2018	2018	White	2106-3	108	17368743	0.6
+	Division 5: South Atlantic	CENS-D5	2019	2019	Black or African American	2054-5	142	6569078	2.2
+	Division 5: South Atlantic	CENS-D5	2019	2019	White	2106-3	119	17366761	0.7
+	Division 5: South Atlantic	CENS-D5	2020	2020	Black or African American	2054-5	148	6621842	2.2
+	Division 5: South Atlantic	CENS-D5	2020	2020	White	2106-3	128	17399675	0.7
+	Division 5: South Atlantic	CENS-D5	2021	2021	Asian	A	11	1171104	Unreliable
+	Division 5: South Atlantic	CENS-D5	2021	2021	Black or African American	2054-5	205	6406341	3.2
+	Division 5: South Atlantic	CENS-D5	2021	2021	Native Hawaiian or Other Pacific Islander	NHOPI	0	33039	Unreliable
+	Division 5: South Atlantic	CENS-D5	2021	2021	White	2106-3	205	17045970	1.2
+	Division 5: South Atlantic	CENS-D5	2021	2021	Not Available	999	0	Not Available	Not Available
+	Division 5: South Atlantic	CENS-D5	2022	2022	Black or African American	2054-5	139	6433729	2.2
+	Division 5: South Atlantic	CENS-D5	2022	2022	Native Hawaiian or Other Pacific Islander	NHOPI	0	34277	Unreliable
+	Division 5: South Atlantic	CENS-D5	2022	2022	White	2106-3	149	17049616	0.9
+	Division 5: South Atlantic	CENS-D5	2022	2022	Not Available	999	0	Not Available	Not Available
+	Division 5: South Atlantic	CENS-D5	2023	2023	Black or African American	2054-5	123	6487050	1.9
+	Division 5: South Atlantic	CENS-D5	2023	2023	Native Hawaiian or Other Pacific Islander	NHOPI	0	35835	Unreliable
+	Division 5: South Atlantic	CENS-D5	2023	2023	White	2106-3	122	17222580	0.7
+	Division 5: South Atlantic	CENS-D5	2023	2023	Not Available	999	0	Not Available	Not Available
+	Division 6: East South Central	CENS-D6	2010	2010	American Indian or Alaska Native	1002-5	0	39055	Unreliable
+	Division 6: East South Central	CENS-D6	2010	2010	Black or African American	2054-5	18	1681424	Unreliable
+	Division 6: East South Central	CENS-D6	2010	2010	White	2106-3	23	5596952	0.4
+	Division 6: East South Central	CENS-D6	2011	2011	American Indian or Alaska Native	1002-5	0	39532	Unreliable
+	Division 6: East South Central	CENS-D6	2011	2011	Asian or Pacific Islander	A-PI	0	120828	Unreliable
+	Division 6: East South Central	CENS-D6	2011	2011	Black or African American	2054-5	24	1701015	1.4
+	Division 6: East South Central	CENS-D6	2011	2011	White	2106-3	19	5611638	Unreliable
+	Division 6: East South Central	CENS-D6	2012	2012	American Indian or Alaska Native	1002-5	0	39794	Unreliable
+	Division 6: East South Central	CENS-D6	2012	2012	Black or African American	2054-5	33	1711017	1.9
+	Division 6: East South Central	CENS-D6	2012	2012	White	2106-3	34	5590281	0.6
+	Division 6: East South Central	CENS-D6	2013	2013	American Indian or Alaska Native	1002-5	0	40005	Unreliable
+	Division 6: East South Central	CENS-D6	2013	2013	Asian or Pacific Islander	A-PI	0	130814	Unreliable
+	Division 6: East South Central	CENS-D6	2013	2013	Black or African American	2054-5	23	1720212	1.3
+	Division 6: East South Central	CENS-D6	2013	2013	White	2106-3	45	5581975	0.8
+	Division 6: East South Central	CENS-D6	2014	2014	Black or African American	2054-5	11	1728893	Unreliable
+	Division 6: East South Central	CENS-D6	2014	2014	White	2106-3	30	5574602	0.5
+	Division 6: East South Central	CENS-D6	2015	2015	American Indian or Alaska Native	1002-5	0	40879	Unreliable
+	Division 6: East South Central	CENS-D6	2015	2015	Black or African American	2054-5	30	1732894	1.7
+	Division 6: East South Central	CENS-D6	2015	2015	White	2106-3	33	5561639	0.6
+	Division 6: East South Central	CENS-D6	2016	2016	American Indian or Alaska Native	1002-5	0	40934	Unreliable
+	Division 6: East South Central	CENS-D6	2016	2016	Black or African American	2054-5	35	1732596	2
+	Division 6: East South Central	CENS-D6	2016	2016	White	2106-3	65	5548490	1.2
+	Division 6: East South Central	CENS-D6	2017	2017	American Indian or Alaska Native	1002-5	0	41252	Unreliable
+	Division 6: East South Central	CENS-D6	2017	2017	Black or African American	2054-5	41	1736436	2.4
+	Division 6: East South Central	CENS-D6	2017	2017	White	2106-3	68	5541285	1.2
+	Division 6: East South Central	CENS-D6	2018	2018	American Indian or Alaska Native	1002-5	0	41661	Unreliable
+	Division 6: East South Central	CENS-D6	2018	2018	Black or African American	2054-5	42	1737510	2.4
+	Division 6: East South Central	CENS-D6	2018	2018	White	2106-3	57	5534678	1
+	Division 6: East South Central	CENS-D6	2019	2019	American Indian or Alaska Native	1002-5	0	42028	Unreliable
+	Division 6: East South Central	CENS-D6	2019	2019	Black or African American	2054-5	46	1734960	2.7
+	Division 6: East South Central	CENS-D6	2019	2019	White	2106-3	59	5522601	1.1
+	Division 6: East South Central	CENS-D6	2020	2020	Black or African American	2054-5	55	1734581	3.2
+	Division 6: East South Central	CENS-D6	2020	2020	White	2106-3	71	5517644	1.3
+	Division 6: East South Central	CENS-D6	2021	2021	Black or African American	2054-5	68	1698585	4
+	Division 6: East South Central	CENS-D6	2021	2021	Native Hawaiian or Other Pacific Islander	NHOPI	0	7782	Unreliable
+	Division 6: East South Central	CENS-D6	2021	2021	White	2106-3	100	5490477	1.8
+	Division 6: East South Central	CENS-D6	2021	2021	Not Available	999	0	Not Available	Not Available
+	Division 6: East South Central	CENS-D6	2022	2022	American Indian or Alaska Native	1002-5	0	40077	Unreliable
+	Division 6: East South Central	CENS-D6	2022	2022	Asian	A	0	146736	Unreliable
+	Division 6: East South Central	CENS-D6	2022	2022	Black or African American	2054-5	48	1683577	2.9
+	Division 6: East South Central	CENS-D6	2022	2022	Native Hawaiian or Other Pacific Islander	NHOPI	0	8220	Unreliable
+	Division 6: East South Central	CENS-D6	2022	2022	White	2106-3	49	5470865	0.9
+	Division 6: East South Central	CENS-D6	2022	2022	Not Available	999	0	Not Available	Not Available
+	Division 6: East South Central	CENS-D6	2023	2023	Black or African American	2054-5	46	1683461	2.7
+	Division 6: East South Central	CENS-D6	2023	2023	Native Hawaiian or Other Pacific Islander	NHOPI	0	8824	Unreliable
+	Division 6: East South Central	CENS-D6	2023	2023	White	2106-3	56	5508562	1
+	Division 6: East South Central	CENS-D6	2023	2023	More than one race	M	0	166336	Unreliable
+	Division 6: East South Central	CENS-D6	2023	2023	Not Available	999	0	Not Available	Not Available
+	Division 7: West South Central	CENS-D7	2010	2010	Black or African American	2054-5	37	2339278	1.6
+	Division 7: West South Central	CENS-D7	2010	2010	White	2106-3	96	11520512	0.8
+	Division 7: West South Central	CENS-D7	2011	2011	Black or African American	2054-5	55	2382340	2.3
+	Division 7: West South Central	CENS-D7	2011	2011	White	2106-3	106	11675061	0.9
+	Division 7: West South Central	CENS-D7	2012	2012	Black or African American	2054-5	75	2419413	3.1
+	Division 7: West South Central	CENS-D7	2012	2012	White	2106-3	139	11732156	1.2
+	Division 7: West South Central	CENS-D7	2013	2013	Black or African American	2054-5	82	2456972	3.3
+	Division 7: West South Central	CENS-D7	2013	2013	White	2106-3	157	11804922	1.3
+	Division 7: West South Central	CENS-D7	2014	2014	Black or African American	2054-5	75	2495926	3
+	Division 7: West South Central	CENS-D7	2014	2014	White	2106-3	145	11927403	1.2
+	Division 7: West South Central	CENS-D7	2015	2015	Black or African American	2054-5	87	2531922	3.4
+	Division 7: West South Central	CENS-D7	2015	2015	White	2106-3	136	12034521	1.1
+	Division 7: West South Central	CENS-D7	2016	2016	Black or African American	2054-5	93	2556921	3.6
+	Division 7: West South Central	CENS-D7	2016	2016	White	2106-3	144	12091675	1.2
+	Division 7: West South Central	CENS-D7	2017	2017	Black or African American	2054-5	70	2587449	2.7
+	Division 7: West South Central	CENS-D7	2017	2017	White	2106-3	145	12156576	1.2
+	Division 7: West South Central	CENS-D7	2018	2018	American Indian or Alaska Native	1002-5	0	337003	Unreliable
+	Division 7: West South Central	CENS-D7	2018	2018	Black or African American	2054-5	52	2616615	2
+	Division 7: West South Central	CENS-D7	2018	2018	White	2106-3	100	12205704	0.8
+	Division 7: West South Central	CENS-D7	2019	2019	Black or African American	2054-5	43	2642262	1.6
+	Division 7: West South Central	CENS-D7	2019	2019	White	2106-3	93	12243585	0.8
+	Division 7: West South Central	CENS-D7	2020	2020	Asian or Pacific Islander	A-PI	13	847802	Unreliable
+	Division 7: West South Central	CENS-D7	2020	2020	Black or African American	2054-5	71	2680169	2.6
+	Division 7: West South Central	CENS-D7	2020	2020	White	2106-3	134	12288991	1.1
+	Division 7: West South Central	CENS-D7	2021	2021	Black or African American	2054-5	83	2600347	3.2
+	Division 7: West South Central	CENS-D7	2021	2021	White	2106-3	204	12063431	1.7
+	Division 7: West South Central	CENS-D7	2021	2021	Not Available	999	0	Not Available	Not Available
+	Division 7: West South Central	CENS-D7	2022	2022	Black or African American	2054-5	55	2630274	2.1
+	Division 7: West South Central	CENS-D7	2022	2022	White	2106-3	140	12072350	1.2
+	Division 7: West South Central	CENS-D7	2022	2022	Not Available	999	0	Not Available	Not Available
+	Division 7: West South Central	CENS-D7	2023	2023	Black or African American	2054-5	65	2681672	2.4
+	Division 7: West South Central	CENS-D7	2023	2023	Native Hawaiian or Other Pacific Islander	NHOPI	0	32102	Unreliable
+	Division 7: West South Central	CENS-D7	2023	2023	White	2106-3	106	12155080	0.9
+	Division 7: West South Central	CENS-D7	2023	2023	Not Available	999	0	Not Available	Not Available
+	Division 8: Mountain	CENS-D8	2010	2010	Asian or Pacific Islander	A-PI	0	364700	Unreliable
+	Division 8: Mountain	CENS-D8	2010	2010	White	2106-3	41	7662783	0.5
+	Division 8: Mountain	CENS-D8	2011	2011	White	2106-3	40	7728361	0.5
+	Division 8: Mountain	CENS-D8	2012	2012	American Indian or Alaska Native	1002-5	11	382634	Unreliable
+	Division 8: Mountain	CENS-D8	2012	2012	White	2106-3	36	7753002	0.5
+	Division 8: Mountain	CENS-D8	2013	2013	Asian or Pacific Islander	A-PI	0	402399	Unreliable
+	Division 8: Mountain	CENS-D8	2013	2013	White	2106-3	67	7791593	0.9
+	Division 8: Mountain	CENS-D8	2014	2014	White	2106-3	67	7848348	0.9
+	Division 8: Mountain	CENS-D8	2015	2015	American Indian or Alaska Native	1002-5	11	397709	Unreliable
+	Division 8: Mountain	CENS-D8	2015	2015	White	2106-3	47	7904349	0.6
+	Division 8: Mountain	CENS-D8	2016	2016	White	2106-3	54	7954798	0.7
+	Division 8: Mountain	CENS-D8	2017	2017	White	2106-3	70	7998278	0.9
+	Division 8: Mountain	CENS-D8	2018	2018	White	2106-3	46	8070576	0.6
+	Division 8: Mountain	CENS-D8	2019	2019	Black or African American	2054-5	11	501942	Unreliable
+	Division 8: Mountain	CENS-D8	2019	2019	White	2106-3	59	8119386	0.7
+	Division 8: Mountain	CENS-D8	2020	2020	American Indian or Alaska Native	1002-5	12	425826	Unreliable
+	Division 8: Mountain	CENS-D8	2020	2020	Black or African American	2054-5	12	519133	Unreliable
+	Division 8: Mountain	CENS-D8	2020	2020	White	2106-3	72	8180762	0.9
+	Division 8: Mountain	CENS-D8	2021	2021	American Indian or Alaska Native	1002-5	18	389852	Unreliable
+	Division 8: Mountain	CENS-D8	2021	2021	Black or African American	2054-5	10	449189	Unreliable
+	Division 8: Mountain	CENS-D8	2021	2021	White	2106-3	81	8007097	1
+	Division 8: Mountain	CENS-D8	2021	2021	Not Available	999	0	Not Available	Not Available
+	Division 8: Mountain	CENS-D8	2022	2022	Asian	A	0	421481	Unreliable
+	Division 8: Mountain	CENS-D8	2022	2022	Native Hawaiian or Other Pacific Islander	NHOPI	0	45151	Unreliable
+	Division 8: Mountain	CENS-D8	2022	2022	White	2106-3	74	7990063	0.9
+	Division 8: Mountain	CENS-D8	2022	2022	Not Available	999	0	Not Available	Not Available
+	Division 8: Mountain	CENS-D8	2023	2023	Black or African American	2054-5	10	471576	Unreliable
+	Division 8: Mountain	CENS-D8	2023	2023	White	2106-3	52	8008488	0.6
+	Division 8: Mountain	CENS-D8	2023	2023	Not Available	999	0	Not Available	Not Available
+	Division 9: Pacific	CENS-D9	2010	2010	Asian or Pacific Islander	A-PI	22	3110899	0.7
+	Division 9: Pacific	CENS-D9	2010	2010	Black or African American	2054-5	16	1318460	Unreliable
+	Division 9: Pacific	CENS-D9	2010	2010	White	2106-3	64	15251844	0.4
+	Division 9: Pacific	CENS-D9	2011	2011	Asian or Pacific Islander	A-PI	10	3159444	Unreliable
+	Division 9: Pacific	CENS-D9	2011	2011	Black or African American	2054-5	18	1334833	Unreliable
+	Division 9: Pacific	CENS-D9	2011	2011	White	2106-3	69	15347589	0.4
+	Division 9: Pacific	CENS-D9	2012	2012	Asian or Pacific Islander	A-PI	13	3235902	Unreliable
+	Division 9: Pacific	CENS-D9	2012	2012	Black or African American	2054-5	15	1344899	Unreliable
+	Division 9: Pacific	CENS-D9	2012	2012	White	2106-3	76	15347124	0.5
+	Division 9: Pacific	CENS-D9	2013	2013	Asian or Pacific Islander	A-PI	14	3287129	Unreliable
+	Division 9: Pacific	CENS-D9	2013	2013	Black or African American	2054-5	21	1353225	1.6
+	Division 9: Pacific	CENS-D9	2013	2013	White	2106-3	77	15359110	0.5
+	Division 9: Pacific	CENS-D9	2014	2014	Asian or Pacific Islander	A-PI	19	3373721	Unreliable
+	Division 9: Pacific	CENS-D9	2014	2014	Black or African American	2054-5	21	1367032	1.5
+	Division 9: Pacific	CENS-D9	2014	2014	White	2106-3	80	15436295	0.5
+	Division 9: Pacific	CENS-D9	2015	2015	American Indian or Alaska Native	1002-5	0	479079	Unreliable
+	Division 9: Pacific	CENS-D9	2015	2015	Asian or Pacific Islander	A-PI	14	3448456	Unreliable
+	Division 9: Pacific	CENS-D9	2015	2015	Black or African American	2054-5	18	1375172	Unreliable
+	Division 9: Pacific	CENS-D9	2015	2015	White	2106-3	74	15464526	0.5
+	Division 9: Pacific	CENS-D9	2016	2016	Asian or Pacific Islander	A-PI	23	3481855	0.7
+	Division 9: Pacific	CENS-D9	2016	2016	Black or African American	2054-5	14	1374631	Unreliable
+	Division 9: Pacific	CENS-D9	2016	2016	White	2106-3	80	15460848	0.5
+	Division 9: Pacific	CENS-D9	2017	2017	Asian or Pacific Islander	A-PI	12	3569180	Unreliable
+	Division 9: Pacific	CENS-D9	2017	2017	Black or African American	2054-5	25	1383116	1.8
+	Division 9: Pacific	CENS-D9	2017	2017	White	2106-3	89	15464632	0.6
+	Division 9: Pacific	CENS-D9	2018	2018	Asian or Pacific Islander	A-PI	18	3607500	Unreliable
+	Division 9: Pacific	CENS-D9	2018	2018	Black or African American	2054-5	14	1388138	Unreliable
+	Division 9: Pacific	CENS-D9	2018	2018	White	2106-3	74	15389005	0.5
+	Division 9: Pacific	CENS-D9	2019	2019	Asian or Pacific Islander	A-PI	24	3622253	0.7
+	Division 9: Pacific	CENS-D9	2019	2019	Black or African American	2054-5	16	1389248	Unreliable
+	Division 9: Pacific	CENS-D9	2019	2019	White	2106-3	73	15295484	0.5
+	Division 9: Pacific	CENS-D9	2020	2020	Asian or Pacific Islander	A-PI	15	3645948	Unreliable
+	Division 9: Pacific	CENS-D9	2020	2020	Black or African American	2054-5	24	1392376	1.7
+	Division 9: Pacific	CENS-D9	2020	2020	White	2106-3	82	15159297	0.5
+	Division 9: Pacific	CENS-D9	2021	2021	Asian	A	18	3162971	Unreliable
+	Division 9: Pacific	CENS-D9	2021	2021	Black or African American	2054-5	20	1200984	1.7
+	Division 9: Pacific	CENS-D9	2021	2021	White	2106-3	94	14582621	0.6
+	Division 9: Pacific	CENS-D9	2021	2021	Not Available	999	0	Not Available	Not Available
+	Division 9: Pacific	CENS-D9	2022	2022	Asian	A	11	3192131	Unreliable
+	Division 9: Pacific	CENS-D9	2022	2022	Black or African American	2054-5	15	1190203	Unreliable
+	Division 9: Pacific	CENS-D9	2022	2022	White	2106-3	63	14307097	0.4
+	Division 9: Pacific	CENS-D9	2022	2022	Not Available	999	0	Not Available	Not Available
+	Division 9: Pacific	CENS-D9	2023	2023	Black or African American	2054-5	17	1190317	Unreliable
+	Division 9: Pacific	CENS-D9	2023	2023	White	2106-3	60	14221225	0.4
+	Division 9: Pacific	CENS-D9	2023	2023	Not Available	999	0	Not Available	Not Available
+									
+---									
+"Dataset: Underlying Cause of Death, 1999-2020"									
+Query Parameters:									
+"ICD-10 Codes: O00-O99 (Pregnancy, childbirth and the puerperium)"									
+Sex: Female									
+Ten-Year Age Groups: 5-14 years; 15-24 years; 25-34 years; 35-44 years; 45-54 years; 55-64 years									
+Year/Month: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020									
+Group By: Census Division; Year; Race									
+Show Totals: Disabled									
+Show Zero Values: True									
+Show Suppressed: False									
+"Calculate Rates Per: 100,000"									
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)									
+---									
+Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information.									
+---									
+"Query Date: Mar 10, 2025 8:57:18 PM"									
+---									
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"									
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"									
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"									
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Mar 10, 2025 8:57:18 PM"									
+---									
+Messages:									
+1. Totals are not available for these results due to suppression constraints. More Information:									
+http://wonder.cdc.gov/wonder/help/faq.html#Privacy.									
+2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows.									
+---									
+Caveats:									
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"									
+http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision.									
+2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:									
+http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality.									
+3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:									
+http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable.									
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"									
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"									
+http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated.									
+5. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the									
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"									
+of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin									
+"are inconsistent between these two data sources, death rates will be biased. More information:"									
+http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences.									
+"6. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"									
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"									
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"									
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"									
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"									
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"									
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"									
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"									
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"									
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"									
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"									
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"									
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"									
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"									
+are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident									
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"									
+figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1									
+estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population									
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"									
+were available at the time of release.									
+"7. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"									
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"									
+in information available to individual states and probable errors. Caution should be used in interpreting these data. More									
+information can be found at: https://www.cdc.gov/nchs/maternal-mortality/.									

@@ -1,0 +1,658 @@
+Notes	Census Division	Census Division Code	Year	Year Code	Ten-Year Age Groups	Ten-Year Age Groups Code	Deaths	Population	Crude Rate
+	Division 1: New England	CENS-D1	2010	2010	5-14 years	14-May	0	862900	Unreliable
+	Division 1: New England	CENS-D1	2010	2010	15-24 years	15-24	0	993592	Unreliable
+	Division 1: New England	CENS-D1	2010	2010	25-34 years	25-34	10	882732	Unreliable
+	Division 1: New England	CENS-D1	2010	2010	55-64 years	55-64	0	949575	Unreliable
+	Division 1: New England	CENS-D1	2011	2011	5-14 years	14-May	0	852243	Unreliable
+	Division 1: New England	CENS-D1	2011	2011	35-44 years	35-44	14	960732	Unreliable
+	Division 1: New England	CENS-D1	2011	2011	55-64 years	55-64	0	989633	Unreliable
+	Division 1: New England	CENS-D1	2012	2012	5-14 years	14-May	0	847177	Unreliable
+	Division 1: New England	CENS-D1	2012	2012	55-64 years	55-64	0	1002859	Unreliable
+	Division 1: New England	CENS-D1	2013	2013	5-14 years	14-May	0	839506	Unreliable
+	Division 1: New England	CENS-D1	2014	2014	5-14 years	14-May	0	830706	Unreliable
+	Division 1: New England	CENS-D1	2014	2014	25-34 years	25-34	13	944095	Unreliable
+	Division 1: New England	CENS-D1	2014	2014	55-64 years	55-64	0	1042140	Unreliable
+	Division 1: New England	CENS-D1	2015	2015	5-14 years	14-May	0	821028	Unreliable
+	Division 1: New England	CENS-D1	2015	2015	55-64 years	55-64	0	1061729	Unreliable
+	Division 1: New England	CENS-D1	2016	2016	5-14 years	14-May	0	812495	Unreliable
+	Division 1: New England	CENS-D1	2016	2016	25-34 years	25-34	14	955625	Unreliable
+	Division 1: New England	CENS-D1	2016	2016	35-44 years	35-44	14	887400	Unreliable
+	Division 1: New England	CENS-D1	2016	2016	55-64 years	55-64	0	1076450	Unreliable
+	Division 1: New England	CENS-D1	2017	2017	5-14 years	14-May	0	806266	Unreliable
+	Division 1: New England	CENS-D1	2017	2017	25-34 years	25-34	14	967709	Unreliable
+	Division 1: New England	CENS-D1	2018	2018	5-14 years	14-May	0	801711	Unreliable
+	Division 1: New England	CENS-D1	2018	2018	25-34 years	25-34	15	981637	Unreliable
+	Division 1: New England	CENS-D1	2018	2018	45-54 years	45-54	0	1031034	Unreliable
+	Division 1: New England	CENS-D1	2018	2018	55-64 years	55-64	0	1097342	Unreliable
+	Division 1: New England	CENS-D1	2019	2019	5-14 years	14-May	0	792980	Unreliable
+	Division 1: New England	CENS-D1	2019	2019	25-34 years	25-34	11	986523	Unreliable
+	Division 1: New England	CENS-D1	2019	2019	45-54 years	45-54	0	997569	Unreliable
+	Division 1: New England	CENS-D1	2019	2019	55-64 years	55-64	0	1101210	Unreliable
+	Division 1: New England	CENS-D1	2020	2020	5-14 years	14-May	0	786482	Unreliable
+	Division 1: New England	CENS-D1	2020	2020	25-34 years	25-34	18	988871	Unreliable
+	Division 1: New England	CENS-D1	2020	2020	35-44 years	35-44	16	913542	Unreliable
+	Division 1: New England	CENS-D1	2021	2021	5-14 years	14-May	0	804517	Unreliable
+	Division 1: New England	CENS-D1	2021	2021	25-34 years	25-34	11	994443	Unreliable
+	Division 1: New England	CENS-D1	2021	2021	35-44 years	35-44	19	950943	Unreliable
+	Division 1: New England	CENS-D1	2021	2021	55-64 years	55-64	0	1110084	Unreliable
+	Division 1: New England	CENS-D1	2022	2022	5-14 years	14-May	0	788983	Unreliable
+	Division 1: New England	CENS-D1	2022	2022	25-34 years	25-34	19	985064	Unreliable
+	Division 1: New England	CENS-D1	2022	2022	35-44 years	35-44	19	960058	Unreliable
+	Division 1: New England	CENS-D1	2022	2022	45-54 years	45-54	0	938333	Unreliable
+	Division 1: New England	CENS-D1	2022	2022	55-64 years	55-64	0	1092752	Unreliable
+	Division 1: New England	CENS-D1	2023	2023	5-14 years	14-May	0	786457	Unreliable
+	Division 1: New England	CENS-D1	2023	2023	35-44 years	35-44	15	981950	Unreliable
+	Division 1: New England	CENS-D1	2023	2023	45-54 years	45-54	0	929860	Unreliable
+	Division 1: New England	CENS-D1	2023	2023	55-64 years	55-64	0	1083432	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2010	2010	5-14 years	14-May	0	2480154	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2010	2010	15-24 years	15-24	23	2791087	0.8
+	Division 2: Middle Atlantic	CENS-D2	2010	2010	25-34 years	25-34	56	2659904	2.1
+	Division 2: Middle Atlantic	CENS-D2	2010	2010	35-44 years	35-44	44	2777913	1.6
+	Division 2: Middle Atlantic	CENS-D2	2010	2010	55-64 years	55-64	0	2592565	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2011	2011	5-14 years	14-May	0	2458462	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2011	2011	15-24 years	15-24	20	2774381	0.7
+	Division 2: Middle Atlantic	CENS-D2	2011	2011	25-34 years	25-34	64	2702897	2.4
+	Division 2: Middle Atlantic	CENS-D2	2011	2011	35-44 years	35-44	31	2714781	1.1
+	Division 2: Middle Atlantic	CENS-D2	2011	2011	45-54 years	45-54	20	3149904	0.6
+	Division 2: Middle Atlantic	CENS-D2	2011	2011	55-64 years	55-64	0	2693432	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2012	2012	5-14 years	14-May	0	2447739	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2012	2012	15-24 years	15-24	20	2770878	0.7
+	Division 2: Middle Atlantic	CENS-D2	2012	2012	25-34 years	25-34	48	2738437	1.8
+	Division 2: Middle Atlantic	CENS-D2	2012	2012	35-44 years	35-44	31	2681002	1.2
+	Division 2: Middle Atlantic	CENS-D2	2012	2012	45-54 years	45-54	25	3114919	0.8
+	Division 2: Middle Atlantic	CENS-D2	2012	2012	55-64 years	55-64	0	2721156	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2013	2013	5-14 years	14-May	0	2433791	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2013	2013	15-24 years	15-24	14	2746000	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2013	2013	25-34 years	25-34	71	2774794	2.6
+	Division 2: Middle Atlantic	CENS-D2	2013	2013	35-44 years	35-44	45	2647920	1.7
+	Division 2: Middle Atlantic	CENS-D2	2013	2013	45-54 years	45-54	25	3073214	0.8
+	Division 2: Middle Atlantic	CENS-D2	2013	2013	55-64 years	55-64	0	2768184	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2014	2014	5-14 years	14-May	0	2418505	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2014	2014	15-24 years	15-24	17	2734643	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2014	2014	25-34 years	25-34	64	2810579	2.3
+	Division 2: Middle Atlantic	CENS-D2	2014	2014	35-44 years	35-44	45	2630823	1.7
+	Division 2: Middle Atlantic	CENS-D2	2014	2014	45-54 years	45-54	25	3033972	0.8
+	Division 2: Middle Atlantic	CENS-D2	2014	2014	55-64 years	55-64	0	2814978	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2015	2015	5-14 years	14-May	0	2401017	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2015	2015	15-24 years	15-24	16	2707363	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2015	2015	25-34 years	25-34	53	2836245	1.9
+	Division 2: Middle Atlantic	CENS-D2	2015	2015	35-44 years	35-44	44	2612007	1.7
+	Division 2: Middle Atlantic	CENS-D2	2015	2015	45-54 years	45-54	22	2992963	0.7
+	Division 2: Middle Atlantic	CENS-D2	2015	2015	55-64 years	55-64	0	2861749	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2016	2016	5-14 years	14-May	0	2393015	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2016	2016	15-24 years	15-24	19	2672354	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2016	2016	25-34 years	25-34	59	2845121	2.1
+	Division 2: Middle Atlantic	CENS-D2	2016	2016	35-44 years	35-44	42	2574344	1.6
+	Division 2: Middle Atlantic	CENS-D2	2016	2016	45-54 years	45-54	29	2935001	1
+	Division 2: Middle Atlantic	CENS-D2	2016	2016	55-64 years	55-64	0	2887790	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2017	2017	5-14 years	14-May	0	2380892	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2017	2017	15-24 years	15-24	21	2645191	0.8
+	Division 2: Middle Atlantic	CENS-D2	2017	2017	25-34 years	25-34	60	2875566	2.1
+	Division 2: Middle Atlantic	CENS-D2	2017	2017	35-44 years	35-44	27	2579140	1
+	Division 2: Middle Atlantic	CENS-D2	2017	2017	45-54 years	45-54	20	2883108	0.7
+	Division 2: Middle Atlantic	CENS-D2	2018	2018	5-14 years	14-May	0	2352241	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2018	2018	15-24 years	15-24	13	2576775	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2018	2018	25-34 years	25-34	41	2839629	1.4
+	Division 2: Middle Atlantic	CENS-D2	2018	2018	35-44 years	35-44	73	2557934	2.9
+	Division 2: Middle Atlantic	CENS-D2	2018	2018	55-64 years	55-64	0	2915593	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2019	2019	5-14 years	14-May	0	2335716	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2019	2019	15-24 years	15-24	20	2536838	0.8
+	Division 2: Middle Atlantic	CENS-D2	2019	2019	25-34 years	25-34	66	2834435	2.3
+	Division 2: Middle Atlantic	CENS-D2	2019	2019	35-44 years	35-44	62	2560498	2.4
+	Division 2: Middle Atlantic	CENS-D2	2020	2020	5-14 years	14-May	0	2325324	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2020	2020	15-24 years	15-24	17	2499069	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2020	2020	25-34 years	25-34	60	2818933	2.1
+	Division 2: Middle Atlantic	CENS-D2	2020	2020	35-44 years	35-44	54	2570117	2.1
+	Division 2: Middle Atlantic	CENS-D2	2020	2020	45-54 years	45-54	0	2624043	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2020	2020	55-64 years	55-64	0	2901242	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2021	2021	5-14 years	14-May	0	2418682	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2021	2021	15-24 years	15-24	21	2563855	0.8
+	Division 2: Middle Atlantic	CENS-D2	2021	2021	25-34 years	25-34	75	2828946	2.7
+	Division 2: Middle Atlantic	CENS-D2	2021	2021	35-44 years	35-44	80	2679661	3
+	Division 2: Middle Atlantic	CENS-D2	2021	2021	55-64 years	55-64	0	2960397	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2022	2022	5-14 years	14-May	0	2356617	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2022	2022	15-24 years	15-24	22	2625416	0.8
+	Division 2: Middle Atlantic	CENS-D2	2022	2022	25-34 years	25-34	70	2786697	2.5
+	Division 2: Middle Atlantic	CENS-D2	2022	2022	35-44 years	35-44	61	2666314	2.3
+	Division 2: Middle Atlantic	CENS-D2	2023	2023	5-14 years	14-May	0	2353907	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2023	2023	15-24 years	15-24	16	2580098	Unreliable
+	Division 2: Middle Atlantic	CENS-D2	2023	2023	25-34 years	25-34	50	2783451	1.8
+	Division 2: Middle Atlantic	CENS-D2	2023	2023	35-44 years	35-44	39	2705698	1.4
+	Division 2: Middle Atlantic	CENS-D2	2023	2023	55-64 years	55-64	0	2857620	Unreliable
+	Division 3: East North Central	CENS-D3	2010	2010	5-14 years	14-May	0	3038551	Unreliable
+	Division 3: East North Central	CENS-D3	2010	2010	15-24 years	15-24	33	3191897	1
+	Division 3: East North Central	CENS-D3	2010	2010	25-34 years	25-34	57	2942685	1.9
+	Division 3: East North Central	CENS-D3	2010	2010	35-44 years	35-44	32	3035924	1.1
+	Division 3: East North Central	CENS-D3	2010	2010	45-54 years	45-54	19	3519667	Unreliable
+	Division 3: East North Central	CENS-D3	2011	2011	15-24 years	15-24	40	3187773	1.3
+	Division 3: East North Central	CENS-D3	2011	2011	25-34 years	25-34	60	2965830	2
+	Division 3: East North Central	CENS-D3	2011	2011	35-44 years	35-44	46	2975651	1.5
+	Division 3: East North Central	CENS-D3	2011	2011	45-54 years	45-54	24	3466787	0.7
+	Division 3: East North Central	CENS-D3	2011	2011	55-64 years	55-64	0	3027541	Unreliable
+	Division 3: East North Central	CENS-D3	2012	2012	5-14 years	14-May	0	2997908	Unreliable
+	Division 3: East North Central	CENS-D3	2012	2012	15-24 years	15-24	27	3180521	0.8
+	Division 3: East North Central	CENS-D3	2012	2012	25-34 years	25-34	55	2974381	1.8
+	Division 3: East North Central	CENS-D3	2012	2012	35-44 years	35-44	34	2942248	1.2
+	Division 3: East North Central	CENS-D3	2012	2012	45-54 years	45-54	32	3404238	0.9
+	Division 3: East North Central	CENS-D3	2012	2012	55-64 years	55-64	0	3065673	Unreliable
+	Division 3: East North Central	CENS-D3	2013	2013	5-14 years	14-May	0	2981409	Unreliable
+	Division 3: East North Central	CENS-D3	2013	2013	15-24 years	15-24	24	3181426	0.8
+	Division 3: East North Central	CENS-D3	2013	2013	25-34 years	25-34	54	2985167	1.8
+	Division 3: East North Central	CENS-D3	2013	2013	35-44 years	35-44	30	2920371	1
+	Division 3: East North Central	CENS-D3	2013	2013	45-54 years	45-54	28	3333921	0.8
+	Division 3: East North Central	CENS-D3	2014	2014	5-14 years	14-May	0	2954825	Unreliable
+	Division 3: East North Central	CENS-D3	2014	2014	15-24 years	15-24	24	3174754	0.8
+	Division 3: East North Central	CENS-D3	2014	2014	25-34 years	25-34	45	2999925	1.5
+	Division 3: East North Central	CENS-D3	2014	2014	35-44 years	35-44	41	2903859	1.4
+	Division 3: East North Central	CENS-D3	2014	2014	45-54 years	45-54	27	3273495	0.8
+	Division 3: East North Central	CENS-D3	2014	2014	55-64 years	55-64	0	3176305	Unreliable
+	Division 3: East North Central	CENS-D3	2015	2015	15-24 years	15-24	23	3150549	0.7
+	Division 3: East North Central	CENS-D3	2015	2015	25-34 years	25-34	72	3013432	2.4
+	Division 3: East North Central	CENS-D3	2015	2015	35-44 years	35-44	39	2884065	1.4
+	Division 3: East North Central	CENS-D3	2015	2015	45-54 years	45-54	30	3218896	0.9
+	Division 3: East North Central	CENS-D3	2015	2015	55-64 years	55-64	0	3221676	Unreliable
+	Division 3: East North Central	CENS-D3	2016	2016	5-14 years	14-May	0	2891261	Unreliable
+	Division 3: East North Central	CENS-D3	2016	2016	15-24 years	15-24	38	3114636	1.2
+	Division 3: East North Central	CENS-D3	2016	2016	25-34 years	25-34	67	3031385	2.2
+	Division 3: East North Central	CENS-D3	2016	2016	35-44 years	35-44	39	2849692	1.4
+	Division 3: East North Central	CENS-D3	2016	2016	45-54 years	45-54	25	3157966	0.8
+	Division 3: East North Central	CENS-D3	2016	2016	55-64 years	55-64	0	3248381	Unreliable
+	Division 3: East North Central	CENS-D3	2017	2017	5-14 years	14-May	0	2872322	Unreliable
+	Division 3: East North Central	CENS-D3	2017	2017	15-24 years	15-24	24	3089913	0.8
+	Division 3: East North Central	CENS-D3	2017	2017	25-34 years	25-34	72	3049327	2.4
+	Division 3: East North Central	CENS-D3	2017	2017	35-44 years	35-44	33	2849811	1.2
+	Division 3: East North Central	CENS-D3	2017	2017	45-54 years	45-54	27	3098427	0.9
+	Division 3: East North Central	CENS-D3	2018	2018	5-14 years	14-May	0	2858598	Unreliable
+	Division 3: East North Central	CENS-D3	2018	2018	15-24 years	15-24	21	3059024	0.7
+	Division 3: East North Central	CENS-D3	2018	2018	25-34 years	25-34	51	3071595	1.7
+	Division 3: East North Central	CENS-D3	2018	2018	35-44 years	35-44	37	2865464	1.3
+	Division 3: East North Central	CENS-D3	2018	2018	55-64 years	55-64	0	3275081	Unreliable
+	Division 3: East North Central	CENS-D3	2019	2019	15-24 years	15-24	19	3030082	Unreliable
+	Division 3: East North Central	CENS-D3	2019	2019	25-34 years	25-34	71	3082008	2.3
+	Division 3: East North Central	CENS-D3	2019	2019	35-44 years	35-44	53	2875937	1.8
+	Division 3: East North Central	CENS-D3	2019	2019	45-54 years	45-54	0	2947665	Unreliable
+	Division 3: East North Central	CENS-D3	2020	2020	5-14 years	14-May	0	2823795	Unreliable
+	Division 3: East North Central	CENS-D3	2020	2020	15-24 years	15-24	25	3001218	0.8
+	Division 3: East North Central	CENS-D3	2020	2020	25-34 years	25-34	84	3079303	2.7
+	Division 3: East North Central	CENS-D3	2020	2020	35-44 years	35-44	57	2891139	2
+	Division 3: East North Central	CENS-D3	2020	2020	55-64 years	55-64	0	3236702	Unreliable
+	Division 3: East North Central	CENS-D3	2021	2021	15-24 years	15-24	27	3039869	0.9
+	Division 3: East North Central	CENS-D3	2021	2021	25-34 years	25-34	96	3069421	3.1
+	Division 3: East North Central	CENS-D3	2021	2021	35-44 years	35-44	76	2954781	2.6
+	Division 3: East North Central	CENS-D3	2021	2021	55-64 years	55-64	0	3213946	Unreliable
+	Division 3: East North Central	CENS-D3	2022	2022	15-24 years	15-24	16	3070774	Unreliable
+	Division 3: East North Central	CENS-D3	2022	2022	25-34 years	25-34	92	3040161	3
+	Division 3: East North Central	CENS-D3	2022	2022	35-44 years	35-44	70	2937761	2.4
+	Division 3: East North Central	CENS-D3	2022	2022	55-64 years	55-64	0	3126185	Unreliable
+	Division 3: East North Central	CENS-D3	2023	2023	5-14 years	14-May	0	2813672	Unreliable
+	Division 3: East North Central	CENS-D3	2023	2023	15-24 years	15-24	17	3037248	Unreliable
+	Division 3: East North Central	CENS-D3	2023	2023	25-34 years	25-34	70	3062221	2.3
+	Division 3: East North Central	CENS-D3	2023	2023	35-44 years	35-44	46	2982568	1.5
+	Division 4: West North Central	CENS-D4	2010	2010	5-14 years	14-May	0	1337114	Unreliable
+	Division 4: West North Central	CENS-D4	2010	2010	15-24 years	15-24	10	1405542	Unreliable
+	Division 4: West North Central	CENS-D4	2010	2010	25-34 years	25-34	15	1327032	Unreliable
+	Division 4: West North Central	CENS-D4	2011	2011	5-14 years	14-May	0	1339906	Unreliable
+	Division 4: West North Central	CENS-D4	2011	2011	25-34 years	25-34	30	1349960	2.2
+	Division 4: West North Central	CENS-D4	2011	2011	35-44 years	35-44	14	1240021	Unreliable
+	Division 4: West North Central	CENS-D4	2011	2011	55-64 years	55-64	0	1300651	Unreliable
+	Division 4: West North Central	CENS-D4	2012	2012	5-14 years	14-May	0	1348478	Unreliable
+	Division 4: West North Central	CENS-D4	2012	2012	15-24 years	15-24	20	1407368	1.4
+	Division 4: West North Central	CENS-D4	2012	2012	25-34 years	25-34	27	1362693	2
+	Division 4: West North Central	CENS-D4	2012	2012	35-44 years	35-44	19	1235495	Unreliable
+	Division 4: West North Central	CENS-D4	2012	2012	45-54 years	45-54	12	1462499	Unreliable
+	Division 4: West North Central	CENS-D4	2012	2012	55-64 years	55-64	0	1321784	Unreliable
+	Division 4: West North Central	CENS-D4	2013	2013	5-14 years	14-May	0	1357576	Unreliable
+	Division 4: West North Central	CENS-D4	2013	2013	15-24 years	15-24	17	1415454	Unreliable
+	Division 4: West North Central	CENS-D4	2013	2013	25-34 years	25-34	23	1369471	1.7
+	Division 4: West North Central	CENS-D4	2013	2013	35-44 years	35-44	25	1239660	2
+	Division 4: West North Central	CENS-D4	2013	2013	45-54 years	45-54	14	1427592	Unreliable
+	Division 4: West North Central	CENS-D4	2013	2013	55-64 years	55-64	0	1352300	Unreliable
+	Division 4: West North Central	CENS-D4	2014	2014	5-14 years	14-May	0	1359890	Unreliable
+	Division 4: West North Central	CENS-D4	2014	2014	15-24 years	15-24	12	1420689	Unreliable
+	Division 4: West North Central	CENS-D4	2014	2014	25-34 years	25-34	25	1377612	1.8
+	Division 4: West North Central	CENS-D4	2014	2014	35-44 years	35-44	24	1243274	1.9
+	Division 4: West North Central	CENS-D4	2014	2014	45-54 years	45-54	12	1399019	Unreliable
+	Division 4: West North Central	CENS-D4	2014	2014	55-64 years	55-64	0	1377110	Unreliable
+	Division 4: West North Central	CENS-D4	2015	2015	5-14 years	14-May	0	1360014	Unreliable
+	Division 4: West North Central	CENS-D4	2015	2015	25-34 years	25-34	28	1378504	2
+	Division 4: West North Central	CENS-D4	2015	2015	35-44 years	35-44	14	1250517	Unreliable
+	Division 4: West North Central	CENS-D4	2015	2015	45-54 years	45-54	17	1370495	Unreliable
+	Division 4: West North Central	CENS-D4	2015	2015	55-64 years	55-64	0	1403071	Unreliable
+	Division 4: West North Central	CENS-D4	2016	2016	5-14 years	14-May	0	1358136	Unreliable
+	Division 4: West North Central	CENS-D4	2016	2016	15-24 years	15-24	14	1412343	Unreliable
+	Division 4: West North Central	CENS-D4	2016	2016	25-34 years	25-34	31	1381091	2.2
+	Division 4: West North Central	CENS-D4	2016	2016	35-44 years	35-44	22	1254129	1.8
+	Division 4: West North Central	CENS-D4	2016	2016	45-54 years	45-54	12	1340656	Unreliable
+	Division 4: West North Central	CENS-D4	2016	2016	55-64 years	55-64	0	1421245	Unreliable
+	Division 4: West North Central	CENS-D4	2017	2017	5-14 years	14-May	0	1363283	Unreliable
+	Division 4: West North Central	CENS-D4	2017	2017	15-24 years	15-24	15	1402105	Unreliable
+	Division 4: West North Central	CENS-D4	2017	2017	25-34 years	25-34	39	1388535	2.8
+	Division 4: West North Central	CENS-D4	2017	2017	35-44 years	35-44	16	1274153	Unreliable
+	Division 4: West North Central	CENS-D4	2017	2017	55-64 years	55-64	0	1434042	Unreliable
+	Division 4: West North Central	CENS-D4	2018	2018	5-14 years	14-May	0	1365796	Unreliable
+	Division 4: West North Central	CENS-D4	2018	2018	15-24 years	15-24	10	1397262	Unreliable
+	Division 4: West North Central	CENS-D4	2018	2018	25-34 years	25-34	29	1391296	2.1
+	Division 4: West North Central	CENS-D4	2018	2018	35-44 years	35-44	25	1296107	1.9
+	Division 4: West North Central	CENS-D4	2018	2018	55-64 years	55-64	0	1440993	Unreliable
+	Division 4: West North Central	CENS-D4	2019	2019	5-14 years	14-May	0	1365861	Unreliable
+	Division 4: West North Central	CENS-D4	2019	2019	25-34 years	25-34	30	1390725	2.2
+	Division 4: West North Central	CENS-D4	2019	2019	35-44 years	35-44	19	1317073	Unreliable
+	Division 4: West North Central	CENS-D4	2019	2019	55-64 years	55-64	0	1439132	Unreliable
+	Division 4: West North Central	CENS-D4	2020	2020	15-24 years	15-24	14	1392362	Unreliable
+	Division 4: West North Central	CENS-D4	2020	2020	25-34 years	25-34	40	1388516	2.9
+	Division 4: West North Central	CENS-D4	2020	2020	35-44 years	35-44	33	1337185	2.5
+	Division 4: West North Central	CENS-D4	2020	2020	55-64 years	55-64	0	1428309	Unreliable
+	Division 4: West North Central	CENS-D4	2021	2021	5-14 years	14-May	0	1390278	Unreliable
+	Division 4: West North Central	CENS-D4	2021	2021	15-24 years	15-24	17	1414931	Unreliable
+	Division 4: West North Central	CENS-D4	2021	2021	25-34 years	25-34	46	1377113	3.3
+	Division 4: West North Central	CENS-D4	2021	2021	35-44 years	35-44	40	1371263	2.9
+	Division 4: West North Central	CENS-D4	2021	2021	55-64 years	55-64	0	1412019	Unreliable
+	Division 4: West North Central	CENS-D4	2022	2022	5-14 years	14-May	0	1363491	Unreliable
+	Division 4: West North Central	CENS-D4	2022	2022	25-34 years	25-34	42	1362077	3.1
+	Division 4: West North Central	CENS-D4	2022	2022	35-44 years	35-44	23	1370738	1.7
+	Division 4: West North Central	CENS-D4	2022	2022	55-64 years	55-64	0	1371555	Unreliable
+	Division 4: West North Central	CENS-D4	2023	2023	5-14 years	14-May	0	1370736	Unreliable
+	Division 4: West North Central	CENS-D4	2023	2023	25-34 years	25-34	40	1371324	2.9
+	Division 4: West North Central	CENS-D4	2023	2023	35-44 years	35-44	23	1395034	1.6
+	Division 4: West North Central	CENS-D4	2023	2023	55-64 years	55-64	0	1351597	Unreliable
+	Division 5: South Atlantic	CENS-D5	2010	2010	15-24 years	15-24	26	4026764	0.6
+	Division 5: South Atlantic	CENS-D5	2010	2010	25-34 years	25-34	75	3908990	1.9
+	Division 5: South Atlantic	CENS-D5	2010	2010	35-44 years	35-44	50	4105521	1.2
+	Division 5: South Atlantic	CENS-D5	2011	2011	5-14 years	14-May	0	3737544	Unreliable
+	Division 5: South Atlantic	CENS-D5	2011	2011	15-24 years	15-24	37	4043152	0.9
+	Division 5: South Atlantic	CENS-D5	2011	2011	25-34 years	25-34	80	3979036	2
+	Division 5: South Atlantic	CENS-D5	2011	2011	35-44 years	35-44	53	4056990	1.3
+	Division 5: South Atlantic	CENS-D5	2011	2011	55-64 years	55-64	0	3955738	Unreliable
+	Division 5: South Atlantic	CENS-D5	2012	2012	5-14 years	14-May	0	3767736	Unreliable
+	Division 5: South Atlantic	CENS-D5	2012	2012	15-24 years	15-24	34	4067950	0.8
+	Division 5: South Atlantic	CENS-D5	2012	2012	25-34 years	25-34	72	4037159	1.8
+	Division 5: South Atlantic	CENS-D5	2012	2012	35-44 years	35-44	51	4049334	1.3
+	Division 5: South Atlantic	CENS-D5	2012	2012	45-54 years	45-54	12	4471768	Unreliable
+	Division 5: South Atlantic	CENS-D5	2013	2013	5-14 years	14-May	0	3788273	Unreliable
+	Division 5: South Atlantic	CENS-D5	2013	2013	15-24 years	15-24	45	4062434	1.1
+	Division 5: South Atlantic	CENS-D5	2013	2013	25-34 years	25-34	92	4089837	2.2
+	Division 5: South Atlantic	CENS-D5	2013	2013	35-44 years	35-44	66	4046135	1.6
+	Division 5: South Atlantic	CENS-D5	2013	2013	45-54 years	45-54	31	4449991	0.7
+	Division 5: South Atlantic	CENS-D5	2014	2014	5-14 years	14-May	0	3806238	Unreliable
+	Division 5: South Atlantic	CENS-D5	2014	2014	15-24 years	15-24	35	4069150	0.9
+	Division 5: South Atlantic	CENS-D5	2014	2014	25-34 years	25-34	105	4172818	2.5
+	Division 5: South Atlantic	CENS-D5	2014	2014	35-44 years	35-44	79	4056879	1.9
+	Division 5: South Atlantic	CENS-D5	2014	2014	45-54 years	45-54	53	4437724	1.2
+	Division 5: South Atlantic	CENS-D5	2015	2015	5-14 years	14-May	0	3815258	Unreliable
+	Division 5: South Atlantic	CENS-D5	2015	2015	15-24 years	15-24	40	4064783	1
+	Division 5: South Atlantic	CENS-D5	2015	2015	25-34 years	25-34	104	4247654	2.4
+	Division 5: South Atlantic	CENS-D5	2015	2015	35-44 years	35-44	80	4072594	2
+	Division 5: South Atlantic	CENS-D5	2015	2015	45-54 years	45-54	61	4439599	1.4
+	Division 5: South Atlantic	CENS-D5	2015	2015	55-64 years	55-64	0	4255738	Unreliable
+	Division 5: South Atlantic	CENS-D5	2016	2016	5-14 years	14-May	0	3824636	Unreliable
+	Division 5: South Atlantic	CENS-D5	2016	2016	15-24 years	15-24	27	4043981	0.7
+	Division 5: South Atlantic	CENS-D5	2016	2016	25-34 years	25-34	109	4308331	2.5
+	Division 5: South Atlantic	CENS-D5	2016	2016	35-44 years	35-44	75	4068584	1.8
+	Division 5: South Atlantic	CENS-D5	2016	2016	45-54 years	45-54	43	4441201	1
+	Division 5: South Atlantic	CENS-D5	2017	2017	5-14 years	14-May	0	3842976	Unreliable
+	Division 5: South Atlantic	CENS-D5	2017	2017	15-24 years	15-24	36	4037498	0.9
+	Division 5: South Atlantic	CENS-D5	2017	2017	25-34 years	25-34	105	4374719	2.4
+	Division 5: South Atlantic	CENS-D5	2017	2017	35-44 years	35-44	77	4109257	1.9
+	Division 5: South Atlantic	CENS-D5	2017	2017	45-54 years	45-54	36	4431752	0.8
+	Division 5: South Atlantic	CENS-D5	2017	2017	55-64 years	55-64	0	4427156	Unreliable
+	Division 5: South Atlantic	CENS-D5	2018	2018	5-14 years	14-May	0	3859717	Unreliable
+	Division 5: South Atlantic	CENS-D5	2018	2018	15-24 years	15-24	35	4042008	0.9
+	Division 5: South Atlantic	CENS-D5	2018	2018	25-34 years	25-34	98	4416488	2.2
+	Division 5: South Atlantic	CENS-D5	2018	2018	35-44 years	35-44	80	4154884	1.9
+	Division 5: South Atlantic	CENS-D5	2018	2018	45-54 years	45-54	0	4383302	Unreliable
+	Division 5: South Atlantic	CENS-D5	2018	2018	55-64 years	55-64	0	4488803	Unreliable
+	Division 5: South Atlantic	CENS-D5	2019	2019	5-14 years	14-May	0	3862874	Unreliable
+	Division 5: South Atlantic	CENS-D5	2019	2019	15-24 years	15-24	34	4033602	0.8
+	Division 5: South Atlantic	CENS-D5	2019	2019	25-34 years	25-34	133	4441101	3
+	Division 5: South Atlantic	CENS-D5	2019	2019	35-44 years	35-44	97	4192225	2.3
+	Division 5: South Atlantic	CENS-D5	2019	2019	55-64 years	55-64	0	4537862	Unreliable
+	Division 5: South Atlantic	CENS-D5	2020	2020	5-14 years	14-May	0	3881603	Unreliable
+	Division 5: South Atlantic	CENS-D5	2020	2020	15-24 years	15-24	39	4050060	1
+	Division 5: South Atlantic	CENS-D5	2020	2020	25-34 years	25-34	135	4469366	3
+	Division 5: South Atlantic	CENS-D5	2020	2020	35-44 years	35-44	105	4247971	2.5
+	Division 5: South Atlantic	CENS-D5	2021	2021	5-14 years	14-May	0	3928251	Unreliable
+	Division 5: South Atlantic	CENS-D5	2021	2021	15-24 years	15-24	46	4090455	1.1
+	Division 5: South Atlantic	CENS-D5	2021	2021	25-34 years	25-34	210	4415635	4.8
+	Division 5: South Atlantic	CENS-D5	2021	2021	35-44 years	35-44	169	4315795	3.9
+	Division 5: South Atlantic	CENS-D5	2021	2021	55-64 years	55-64	0	4559603	Unreliable
+	Division 5: South Atlantic	CENS-D5	2022	2022	15-24 years	15-24	41	4239677	1
+	Division 5: South Atlantic	CENS-D5	2022	2022	25-34 years	25-34	146	4425705	3.3
+	Division 5: South Atlantic	CENS-D5	2022	2022	35-44 years	35-44	107	4358231	2.5
+	Division 5: South Atlantic	CENS-D5	2022	2022	55-64 years	55-64	0	4524537	Unreliable
+	Division 5: South Atlantic	CENS-D5	2023	2023	5-14 years	14-May	0	3931047	Unreliable
+	Division 5: South Atlantic	CENS-D5	2023	2023	15-24 years	15-24	39	4226643	0.9
+	Division 5: South Atlantic	CENS-D5	2023	2023	25-34 years	25-34	136	4485115	3
+	Division 5: South Atlantic	CENS-D5	2023	2023	35-44 years	35-44	80	4484645	1.8
+	Division 5: South Atlantic	CENS-D5	2023	2023	55-64 years	55-64	0	4552852	Unreliable
+	Division 6: East South Central	CENS-D6	2010	2010	5-14 years	14-May	0	1191762	Unreliable
+	Division 6: East South Central	CENS-D6	2010	2010	15-24 years	15-24	12	1266804	Unreliable
+	Division 6: East South Central	CENS-D6	2010	2010	25-34 years	25-34	23	1200876	1.9
+	Division 6: East South Central	CENS-D6	2010	2010	55-64 years	55-64	0	1174728	Unreliable
+	Division 6: East South Central	CENS-D6	2011	2011	5-14 years	14-May	0	1194211	Unreliable
+	Division 6: East South Central	CENS-D6	2011	2011	15-24 years	15-24	12	1271583	Unreliable
+	Division 6: East South Central	CENS-D6	2011	2011	25-34 years	25-34	21	1213556	1.7
+	Division 6: East South Central	CENS-D6	2011	2011	55-64 years	55-64	0	1222188	Unreliable
+	Division 6: East South Central	CENS-D6	2012	2012	5-14 years	14-May	0	1199485	Unreliable
+	Division 6: East South Central	CENS-D6	2012	2012	15-24 years	15-24	14	1271360	Unreliable
+	Division 6: East South Central	CENS-D6	2012	2012	25-34 years	25-34	31	1217454	2.5
+	Division 6: East South Central	CENS-D6	2012	2012	35-44 years	35-44	16	1207832	Unreliable
+	Division 6: East South Central	CENS-D6	2012	2012	55-64 years	55-64	0	1232122	Unreliable
+	Division 6: East South Central	CENS-D6	2013	2013	5-14 years	14-May	0	1199551	Unreliable
+	Division 6: East South Central	CENS-D6	2013	2013	15-24 years	15-24	20	1273303	1.6
+	Division 6: East South Central	CENS-D6	2013	2013	25-34 years	25-34	28	1220202	2.3
+	Division 6: East South Central	CENS-D6	2013	2013	45-54 years	45-54	11	1322406	Unreliable
+	Division 6: East South Central	CENS-D6	2013	2013	55-64 years	55-64	0	1249411	Unreliable
+	Division 6: East South Central	CENS-D6	2014	2014	5-14 years	14-May	0	1195813	Unreliable
+	Division 6: East South Central	CENS-D6	2014	2014	25-34 years	25-34	17	1231310	Unreliable
+	Division 6: East South Central	CENS-D6	2014	2014	35-44 years	35-44	16	1205985	Unreliable
+	Division 6: East South Central	CENS-D6	2015	2015	5-14 years	14-May	0	1188084	Unreliable
+	Division 6: East South Central	CENS-D6	2015	2015	25-34 years	25-34	27	1244207	2.2
+	Division 6: East South Central	CENS-D6	2015	2015	35-44 years	35-44	17	1202772	Unreliable
+	Division 6: East South Central	CENS-D6	2015	2015	45-54 years	45-54	11	1296360	Unreliable
+	Division 6: East South Central	CENS-D6	2016	2016	5-14 years	14-May	0	1182453	Unreliable
+	Division 6: East South Central	CENS-D6	2016	2016	15-24 years	15-24	19	1249609	Unreliable
+	Division 6: East South Central	CENS-D6	2016	2016	25-34 years	25-34	33	1257876	2.6
+	Division 6: East South Central	CENS-D6	2016	2016	35-44 years	35-44	31	1192312	2.6
+	Division 6: East South Central	CENS-D6	2016	2016	45-54 years	45-54	20	1286272	1.6
+	Division 6: East South Central	CENS-D6	2016	2016	55-64 years	55-64	0	1298580	Unreliable
+	Division 6: East South Central	CENS-D6	2017	2017	5-14 years	14-May	0	1182348	Unreliable
+	Division 6: East South Central	CENS-D6	2017	2017	15-24 years	15-24	18	1238714	Unreliable
+	Division 6: East South Central	CENS-D6	2017	2017	25-34 years	25-34	46	1272407	3.6
+	Division 6: East South Central	CENS-D6	2017	2017	35-44 years	35-44	33	1191561	2.8
+	Division 6: East South Central	CENS-D6	2017	2017	45-54 years	45-54	13	1273425	Unreliable
+	Division 6: East South Central	CENS-D6	2017	2017	55-64 years	55-64	0	1311059	Unreliable
+	Division 6: East South Central	CENS-D6	2018	2018	5-14 years	14-May	0	1181250	Unreliable
+	Division 6: East South Central	CENS-D6	2018	2018	15-24 years	15-24	15	1233063	Unreliable
+	Division 6: East South Central	CENS-D6	2018	2018	25-34 years	25-34	50	1281122	3.9
+	Division 6: East South Central	CENS-D6	2018	2018	35-44 years	35-44	36	1195961	3
+	Division 6: East South Central	CENS-D6	2018	2018	55-64 years	55-64	0	1320115	Unreliable
+	Division 6: East South Central	CENS-D6	2019	2019	5-14 years	14-May	0	1179201	Unreliable
+	Division 6: East South Central	CENS-D6	2019	2019	15-24 years	15-24	22	1224027	1.8
+	Division 6: East South Central	CENS-D6	2019	2019	25-34 years	25-34	50	1289750	3.9
+	Division 6: East South Central	CENS-D6	2019	2019	35-44 years	35-44	36	1201724	3
+	Division 6: East South Central	CENS-D6	2019	2019	45-54 years	45-54	0	1234709	Unreliable
+	Division 6: East South Central	CENS-D6	2019	2019	55-64 years	55-64	0	1326424	Unreliable
+	Division 6: East South Central	CENS-D6	2020	2020	15-24 years	15-24	19	1223166	Unreliable
+	Division 6: East South Central	CENS-D6	2020	2020	25-34 years	25-34	52	1296213	4
+	Division 6: East South Central	CENS-D6	2020	2020	35-44 years	35-44	56	1208477	4.6
+	Division 6: East South Central	CENS-D6	2020	2020	55-64 years	55-64	0	1326099	Unreliable
+	Division 6: East South Central	CENS-D6	2021	2021	5-14 years	14-May	0	1205444	Unreliable
+	Division 6: East South Central	CENS-D6	2021	2021	15-24 years	15-24	36	1247528	2.9
+	Division 6: East South Central	CENS-D6	2021	2021	25-34 years	25-34	76	1298955	5.9
+	Division 6: East South Central	CENS-D6	2021	2021	35-44 years	35-44	60	1234956	4.9
+	Division 6: East South Central	CENS-D6	2021	2021	45-54 years	45-54	0	1220020	Unreliable
+	Division 6: East South Central	CENS-D6	2021	2021	55-64 years	55-64	0	1324801	Unreliable
+	Division 6: East South Central	CENS-D6	2022	2022	5-14 years	14-May	0	1185010	Unreliable
+	Division 6: East South Central	CENS-D6	2022	2022	15-24 years	15-24	18	1287495	Unreliable
+	Division 6: East South Central	CENS-D6	2022	2022	25-34 years	25-34	38	1296536	2.9
+	Division 6: East South Central	CENS-D6	2022	2022	35-44 years	35-44	42	1232456	3.4
+	Division 6: East South Central	CENS-D6	2022	2022	55-64 years	55-64	0	1299005	Unreliable
+	Division 6: East South Central	CENS-D6	2023	2023	5-14 years	14-May	0	1198533	Unreliable
+	Division 6: East South Central	CENS-D6	2023	2023	15-24 years	15-24	17	1283060	Unreliable
+	Division 6: East South Central	CENS-D6	2023	2023	25-34 years	25-34	50	1312121	3.8
+	Division 6: East South Central	CENS-D6	2023	2023	35-44 years	35-44	34	1255795	2.7
+	Division 6: East South Central	CENS-D6	2023	2023	55-64 years	55-64	0	1291135	Unreliable
+	Division 7: West South Central	CENS-D7	2010	2010	5-14 years	14-May	0	2605868	Unreliable
+	Division 7: West South Central	CENS-D7	2010	2010	15-24 years	15-24	31	2587839	1.2
+	Division 7: West South Central	CENS-D7	2010	2010	25-34 years	25-34	60	2540400	2.4
+	Division 7: West South Central	CENS-D7	2010	2010	35-44 years	35-44	37	2432333	1.5
+	Division 7: West South Central	CENS-D7	2010	2010	45-54 years	45-54	11	2539258	Unreliable
+	Division 7: West South Central	CENS-D7	2011	2011	15-24 years	15-24	25	2613692	1
+	Division 7: West South Central	CENS-D7	2011	2011	25-34 years	25-34	66	2592807	2.5
+	Division 7: West South Central	CENS-D7	2011	2011	35-44 years	35-44	46	2446109	1.9
+	Division 7: West South Central	CENS-D7	2011	2011	45-54 years	45-54	29	2536679	1.1
+	Division 7: West South Central	CENS-D7	2012	2012	15-24 years	15-24	32	2635976	1.2
+	Division 7: West South Central	CENS-D7	2012	2012	25-34 years	25-34	82	2628312	3.1
+	Division 7: West South Central	CENS-D7	2012	2012	35-44 years	35-44	57	2467803	2.3
+	Division 7: West South Central	CENS-D7	2012	2012	45-54 years	45-54	48	2517423	1.9
+	Division 7: West South Central	CENS-D7	2012	2012	55-64 years	55-64	0	2166748	Unreliable
+	Division 7: West South Central	CENS-D7	2013	2013	5-14 years	14-May	0	2696168	Unreliable
+	Division 7: West South Central	CENS-D7	2013	2013	15-24 years	15-24	27	2654890	1
+	Division 7: West South Central	CENS-D7	2013	2013	25-34 years	25-34	85	2665726	3.2
+	Division 7: West South Central	CENS-D7	2013	2013	35-44 years	35-44	67	2491906	2.7
+	Division 7: West South Central	CENS-D7	2013	2013	45-54 years	45-54	69	2501081	2.8
+	Division 7: West South Central	CENS-D7	2014	2014	15-24 years	15-24	33	2679999	1.2
+	Division 7: West South Central	CENS-D7	2014	2014	25-34 years	25-34	67	2725679	2.5
+	Division 7: West South Central	CENS-D7	2014	2014	35-44 years	35-44	67	2529087	2.6
+	Division 7: West South Central	CENS-D7	2014	2014	45-54 years	45-54	54	2504014	2.2
+	Division 7: West South Central	CENS-D7	2014	2014	55-64 years	55-64	0	2270548	Unreliable
+	Division 7: West South Central	CENS-D7	2015	2015	15-24 years	15-24	39	2698449	1.4
+	Division 7: West South Central	CENS-D7	2015	2015	25-34 years	25-34	72	2777597	2.6
+	Division 7: West South Central	CENS-D7	2015	2015	35-44 years	35-44	49	2561330	1.9
+	Division 7: West South Central	CENS-D7	2015	2015	45-54 years	45-54	70	2510965	2.8
+	Division 7: West South Central	CENS-D7	2015	2015	55-64 years	55-64	0	2327557	Unreliable
+	Division 7: West South Central	CENS-D7	2016	2016	15-24 years	15-24	38	2697529	1.4
+	Division 7: West South Central	CENS-D7	2016	2016	25-34 years	25-34	77	2818323	2.7
+	Division 7: West South Central	CENS-D7	2016	2016	35-44 years	35-44	64	2576263	2.5
+	Division 7: West South Central	CENS-D7	2016	2016	45-54 years	45-54	65	2507883	2.6
+	Division 7: West South Central	CENS-D7	2016	2016	55-64 years	55-64	0	2367775	Unreliable
+	Division 7: West South Central	CENS-D7	2017	2017	15-24 years	15-24	19	2699828	Unreliable
+	Division 7: West South Central	CENS-D7	2017	2017	25-34 years	25-34	76	2850533	2.7
+	Division 7: West South Central	CENS-D7	2017	2017	35-44 years	35-44	69	2617798	2.6
+	Division 7: West South Central	CENS-D7	2017	2017	45-54 years	45-54	58	2509150	2.3
+	Division 7: West South Central	CENS-D7	2018	2018	15-24 years	15-24	34	2713753	1.3
+	Division 7: West South Central	CENS-D7	2018	2018	25-34 years	25-34	62	2876573	2.2
+	Division 7: West South Central	CENS-D7	2018	2018	35-44 years	35-44	58	2660318	2.2
+	Division 7: West South Central	CENS-D7	2018	2018	55-64 years	55-64	0	2435284	Unreliable
+	Division 7: West South Central	CENS-D7	2019	2019	5-14 years	14-May	0	2793906	Unreliable
+	Division 7: West South Central	CENS-D7	2019	2019	15-24 years	15-24	18	2725401	Unreliable
+	Division 7: West South Central	CENS-D7	2019	2019	25-34 years	25-34	74	2890596	2.6
+	Division 7: West South Central	CENS-D7	2019	2019	35-44 years	35-44	48	2696881	1.8
+	Division 7: West South Central	CENS-D7	2019	2019	55-64 years	55-64	0	2455068	Unreliable
+	Division 7: West South Central	CENS-D7	2020	2020	5-14 years	14-May	0	2815271	Unreliable
+	Division 7: West South Central	CENS-D7	2020	2020	15-24 years	15-24	38	2750062	1.4
+	Division 7: West South Central	CENS-D7	2020	2020	25-34 years	25-34	97	2905199	3.3
+	Division 7: West South Central	CENS-D7	2020	2020	35-44 years	35-44	84	2743375	3.1
+	Division 7: West South Central	CENS-D7	2021	2021	15-24 years	15-24	35	2784629	1.3
+	Division 7: West South Central	CENS-D7	2021	2021	25-34 years	25-34	149	2870726	5.2
+	Division 7: West South Central	CENS-D7	2021	2021	35-44 years	35-44	113	2787732	4.1
+	Division 7: West South Central	CENS-D7	2021	2021	45-54 years	45-54	0	2486505	Unreliable
+	Division 7: West South Central	CENS-D7	2021	2021	55-64 years	55-64	0	2438152	Unreliable
+	Division 7: West South Central	CENS-D7	2022	2022	15-24 years	15-24	22	2897408	0.8
+	Division 7: West South Central	CENS-D7	2022	2022	25-34 years	25-34	93	2885405	3.2
+	Division 7: West South Central	CENS-D7	2022	2022	35-44 years	35-44	92	2814429	3.3
+	Division 7: West South Central	CENS-D7	2022	2022	45-54 years	45-54	0	2495802	Unreliable
+	Division 7: West South Central	CENS-D7	2022	2022	55-64 years	55-64	0	2404743	Unreliable
+	Division 7: West South Central	CENS-D7	2023	2023	5-14 years	14-May	0	2841144	Unreliable
+	Division 7: West South Central	CENS-D7	2023	2023	15-24 years	15-24	28	2886546	1
+	Division 7: West South Central	CENS-D7	2023	2023	25-34 years	25-34	84	2936244	2.9
+	Division 7: West South Central	CENS-D7	2023	2023	35-44 years	35-44	72	2890741	2.5
+	Division 8: Mountain	CENS-D8	2010	2010	5-14 years	14-May	0	1537986	Unreliable
+	Division 8: Mountain	CENS-D8	2010	2010	15-24 years	15-24	10	1519324	Unreliable
+	Division 8: Mountain	CENS-D8	2010	2010	25-34 years	25-34	25	1507447	1.7
+	Division 8: Mountain	CENS-D8	2010	2010	55-64 years	55-64	0	1294797	Unreliable
+	Division 8: Mountain	CENS-D8	2011	2011	5-14 years	14-May	0	1551166	Unreliable
+	Division 8: Mountain	CENS-D8	2011	2011	15-24 years	15-24	12	1533526	Unreliable
+	Division 8: Mountain	CENS-D8	2011	2011	25-34 years	25-34	15	1528822	Unreliable
+	Division 8: Mountain	CENS-D8	2011	2011	35-44 years	35-44	15	1405883	Unreliable
+	Division 8: Mountain	CENS-D8	2011	2011	55-64 years	55-64	0	1354761	Unreliable
+	Division 8: Mountain	CENS-D8	2012	2012	5-14 years	14-May	0	1563378	Unreliable
+	Division 8: Mountain	CENS-D8	2012	2012	25-34 years	25-34	23	1542099	1.5
+	Division 8: Mountain	CENS-D8	2012	2012	35-44 years	35-44	20	1420125	1.4
+	Division 8: Mountain	CENS-D8	2012	2012	55-64 years	55-64	0	1378364	Unreliable
+	Division 8: Mountain	CENS-D8	2013	2013	5-14 years	14-May	0	1578136	Unreliable
+	Division 8: Mountain	CENS-D8	2013	2013	15-24 years	15-24	14	1559528	Unreliable
+	Division 8: Mountain	CENS-D8	2013	2013	25-34 years	25-34	35	1553009	2.3
+	Division 8: Mountain	CENS-D8	2013	2013	35-44 years	35-44	19	1435978	Unreliable
+	Division 8: Mountain	CENS-D8	2013	2013	45-54 years	45-54	10	1462984	Unreliable
+	Division 8: Mountain	CENS-D8	2014	2014	5-14 years	14-May	0	1587236	Unreliable
+	Division 8: Mountain	CENS-D8	2014	2014	15-24 years	15-24	16	1571758	Unreliable
+	Division 8: Mountain	CENS-D8	2014	2014	25-34 years	25-34	26	1580184	1.6
+	Division 8: Mountain	CENS-D8	2014	2014	35-44 years	35-44	25	1455233	1.7
+	Division 8: Mountain	CENS-D8	2014	2014	45-54 years	45-54	12	1457845	Unreliable
+	Division 8: Mountain	CENS-D8	2014	2014	55-64 years	55-64	0	1434974	Unreliable
+	Division 8: Mountain	CENS-D8	2015	2015	5-14 years	14-May	0	1594345	Unreliable
+	Division 8: Mountain	CENS-D8	2015	2015	25-34 years	25-34	25	1608165	1.6
+	Division 8: Mountain	CENS-D8	2015	2015	35-44 years	35-44	24	1473209	1.6
+	Division 8: Mountain	CENS-D8	2015	2015	45-54 years	45-54	11	1457222	Unreliable
+	Division 8: Mountain	CENS-D8	2015	2015	55-64 years	55-64	0	1466050	Unreliable
+	Division 8: Mountain	CENS-D8	2016	2016	15-24 years	15-24	11	1583339	Unreliable
+	Division 8: Mountain	CENS-D8	2016	2016	25-34 years	25-34	33	1637965	2
+	Division 8: Mountain	CENS-D8	2016	2016	35-44 years	35-44	20	1488574	1.3
+	Division 8: Mountain	CENS-D8	2016	2016	55-64 years	55-64	0	1494192	Unreliable
+	Division 8: Mountain	CENS-D8	2017	2017	5-14 years	14-May	0	1598055	Unreliable
+	Division 8: Mountain	CENS-D8	2017	2017	15-24 years	15-24	11	1580919	Unreliable
+	Division 8: Mountain	CENS-D8	2017	2017	25-34 years	25-34	47	1669542	2.8
+	Division 8: Mountain	CENS-D8	2017	2017	35-44 years	35-44	25	1519377	1.6
+	Division 8: Mountain	CENS-D8	2017	2017	55-64 years	55-64	0	1514078	Unreliable
+	Division 8: Mountain	CENS-D8	2018	2018	5-14 years	14-May	0	1608684	Unreliable
+	Division 8: Mountain	CENS-D8	2018	2018	25-34 years	25-34	25	1701646	1.5
+	Division 8: Mountain	CENS-D8	2018	2018	35-44 years	35-44	28	1556634	1.8
+	Division 8: Mountain	CENS-D8	2018	2018	45-54 years	45-54	0	1448445	Unreliable
+	Division 8: Mountain	CENS-D8	2019	2019	5-14 years	14-May	0	1609620	Unreliable
+	Division 8: Mountain	CENS-D8	2019	2019	25-34 years	25-34	42	1727962	2.4
+	Division 8: Mountain	CENS-D8	2019	2019	35-44 years	35-44	33	1587928	2.1
+	Division 8: Mountain	CENS-D8	2019	2019	55-64 years	55-64	0	1544808	Unreliable
+	Division 8: Mountain	CENS-D8	2020	2020	5-14 years	14-May	0	1613559	Unreliable
+	Division 8: Mountain	CENS-D8	2020	2020	15-24 years	15-24	19	1633106	Unreliable
+	Division 8: Mountain	CENS-D8	2020	2020	25-34 years	25-34	53	1754942	3
+	Division 8: Mountain	CENS-D8	2020	2020	35-44 years	35-44	27	1621483	1.7
+	Division 8: Mountain	CENS-D8	2020	2020	55-64 years	55-64	0	1549906	Unreliable
+	Division 8: Mountain	CENS-D8	2021	2021	15-24 years	15-24	14	1651336	Unreliable
+	Division 8: Mountain	CENS-D8	2021	2021	25-34 years	25-34	60	1742323	3.4
+	Division 8: Mountain	CENS-D8	2021	2021	35-44 years	35-44	42	1647155	2.5
+	Division 8: Mountain	CENS-D8	2021	2021	45-54 years	45-54	0	1449922	Unreliable
+	Division 8: Mountain	CENS-D8	2021	2021	55-64 years	55-64	0	1525311	Unreliable
+	Division 8: Mountain	CENS-D8	2022	2022	5-14 years	14-May	0	1583177	Unreliable
+	Division 8: Mountain	CENS-D8	2022	2022	15-24 years	15-24	16	1718604	Unreliable
+	Division 8: Mountain	CENS-D8	2022	2022	25-34 years	25-34	42	1749600	2.4
+	Division 8: Mountain	CENS-D8	2022	2022	35-44 years	35-44	31	1652968	1.9
+	Division 8: Mountain	CENS-D8	2022	2022	45-54 years	45-54	0	1453425	Unreliable
+	Division 8: Mountain	CENS-D8	2022	2022	55-64 years	55-64	0	1496116	Unreliable
+	Division 8: Mountain	CENS-D8	2023	2023	5-14 years	14-May	0	1571886	Unreliable
+	Division 8: Mountain	CENS-D8	2023	2023	15-24 years	15-24	14	1704221	Unreliable
+	Division 8: Mountain	CENS-D8	2023	2023	25-34 years	25-34	32	1773912	1.8
+	Division 8: Mountain	CENS-D8	2023	2023	35-44 years	35-44	27	1687422	1.6
+	Division 9: Pacific	CENS-D9	2010	2010	5-14 years	14-May	0	3279344	Unreliable
+	Division 9: Pacific	CENS-D9	2010	2010	15-24 years	15-24	18	3525651	Unreliable
+	Division 9: Pacific	CENS-D9	2010	2010	25-34 years	25-34	46	3461791	1.3
+	Division 9: Pacific	CENS-D9	2010	2010	35-44 years	35-44	33	3404546	1
+	Division 9: Pacific	CENS-D9	2011	2011	5-14 years	14-May	0	3279351	Unreliable
+	Division 9: Pacific	CENS-D9	2011	2011	15-24 years	15-24	17	3545017	Unreliable
+	Division 9: Pacific	CENS-D9	2011	2011	25-34 years	25-34	44	3514503	1.3
+	Division 9: Pacific	CENS-D9	2011	2011	35-44 years	35-44	33	3393009	1
+	Division 9: Pacific	CENS-D9	2011	2011	55-64 years	55-64	0	3034296	Unreliable
+	Division 9: Pacific	CENS-D9	2012	2012	5-14 years	14-May	0	3277817	Unreliable
+	Division 9: Pacific	CENS-D9	2012	2012	15-24 years	15-24	15	3562016	Unreliable
+	Division 9: Pacific	CENS-D9	2012	2012	25-34 years	25-34	48	3553446	1.4
+	Division 9: Pacific	CENS-D9	2012	2012	35-44 years	35-44	36	3397140	1.1
+	Division 9: Pacific	CENS-D9	2012	2012	55-64 years	55-64	0	3088908	Unreliable
+	Division 9: Pacific	CENS-D9	2013	2013	5-14 years	14-May	0	3285128	Unreliable
+	Division 9: Pacific	CENS-D9	2013	2013	15-24 years	15-24	16	3542525	Unreliable
+	Division 9: Pacific	CENS-D9	2013	2013	25-34 years	25-34	44	3612746	1.2
+	Division 9: Pacific	CENS-D9	2013	2013	35-44 years	35-44	36	3394463	1.1
+	Division 9: Pacific	CENS-D9	2013	2013	45-54 years	45-54	16	3488662	Unreliable
+	Division 9: Pacific	CENS-D9	2014	2014	5-14 years	14-May	0	3287477	Unreliable
+	Division 9: Pacific	CENS-D9	2014	2014	15-24 years	15-24	20	3529908	0.6
+	Division 9: Pacific	CENS-D9	2014	2014	25-34 years	25-34	43	3704088	1.2
+	Division 9: Pacific	CENS-D9	2014	2014	35-44 years	35-44	48	3417069	1.4
+	Division 9: Pacific	CENS-D9	2014	2014	45-54 years	45-54	11	3498152	Unreliable
+	Division 9: Pacific	CENS-D9	2014	2014	55-64 years	55-64	0	3216384	Unreliable
+	Division 9: Pacific	CENS-D9	2015	2015	5-14 years	14-May	0	3285946	Unreliable
+	Division 9: Pacific	CENS-D9	2015	2015	15-24 years	15-24	19	3492978	Unreliable
+	Division 9: Pacific	CENS-D9	2015	2015	25-34 years	25-34	38	3780979	1
+	Division 9: Pacific	CENS-D9	2015	2015	35-44 years	35-44	34	3428921	1
+	Division 9: Pacific	CENS-D9	2015	2015	45-54 years	45-54	15	3496674	Unreliable
+	Division 9: Pacific	CENS-D9	2015	2015	55-64 years	55-64	0	3281735	Unreliable
+	Division 9: Pacific	CENS-D9	2016	2016	5-14 years	14-May	0	3290171	Unreliable
+	Division 9: Pacific	CENS-D9	2016	2016	15-24 years	15-24	14	3444936	Unreliable
+	Division 9: Pacific	CENS-D9	2016	2016	25-34 years	25-34	49	3841788	1.3
+	Division 9: Pacific	CENS-D9	2016	2016	35-44 years	35-44	44	3426095	1.3
+	Division 9: Pacific	CENS-D9	2016	2016	45-54 years	45-54	12	3471776	Unreliable
+	Division 9: Pacific	CENS-D9	2016	2016	55-64 years	55-64	0	3323831	Unreliable
+	Division 9: Pacific	CENS-D9	2017	2017	5-14 years	14-May	0	3294371	Unreliable
+	Division 9: Pacific	CENS-D9	2017	2017	15-24 years	15-24	22	3412720	0.6
+	Division 9: Pacific	CENS-D9	2017	2017	25-34 years	25-34	53	3902973	1.4
+	Division 9: Pacific	CENS-D9	2017	2017	35-44 years	35-44	41	3476088	1.2
+	Division 9: Pacific	CENS-D9	2017	2017	45-54 years	45-54	14	3449648	Unreliable
+	Division 9: Pacific	CENS-D9	2017	2017	55-64 years	55-64	0	3364333	Unreliable
+	Division 9: Pacific	CENS-D9	2018	2018	5-14 years	14-May	0	3289110	Unreliable
+	Division 9: Pacific	CENS-D9	2018	2018	15-24 years	15-24	15	3383059	Unreliable
+	Division 9: Pacific	CENS-D9	2018	2018	25-34 years	25-34	50	3927079	1.3
+	Division 9: Pacific	CENS-D9	2018	2018	35-44 years	35-44	43	3507527	1.2
+	Division 9: Pacific	CENS-D9	2019	2019	5-14 years	14-May	0	3275616	Unreliable
+	Division 9: Pacific	CENS-D9	2019	2019	15-24 years	15-24	16	3347752	Unreliable
+	Division 9: Pacific	CENS-D9	2019	2019	25-34 years	25-34	55	3938041	1.4
+	Division 9: Pacific	CENS-D9	2019	2019	35-44 years	35-44	44	3531744	1.2
+	Division 9: Pacific	CENS-D9	2020	2020	5-14 years	14-May	0	3259071	Unreliable
+	Division 9: Pacific	CENS-D9	2020	2020	15-24 years	15-24	18	3312092	Unreliable
+	Division 9: Pacific	CENS-D9	2020	2020	25-34 years	25-34	55	3923924	1.4
+	Division 9: Pacific	CENS-D9	2020	2020	35-44 years	35-44	44	3557035	1.2
+	Division 9: Pacific	CENS-D9	2021	2021	5-14 years	14-May	0	3280879	Unreliable
+	Division 9: Pacific	CENS-D9	2021	2021	15-24 years	15-24	14	3317932	Unreliable
+	Division 9: Pacific	CENS-D9	2021	2021	25-34 years	25-34	74	3844181	1.9
+	Division 9: Pacific	CENS-D9	2021	2021	35-44 years	35-44	55	3603955	1.5
+	Division 9: Pacific	CENS-D9	2022	2022	5-14 years	14-May	0	3177503	Unreliable
+	Division 9: Pacific	CENS-D9	2022	2022	15-24 years	15-24	13	3379662	Unreliable
+	Division 9: Pacific	CENS-D9	2022	2022	25-34 years	25-34	49	3780493	1.3
+	Division 9: Pacific	CENS-D9	2022	2022	35-44 years	35-44	44	3582221	1.2
+	Division 9: Pacific	CENS-D9	2022	2022	55-64 years	55-64	0	3215918	Unreliable
+	Division 9: Pacific	CENS-D9	2023	2023	5-14 years	14-May	0	3147301	Unreliable
+	Division 9: Pacific	CENS-D9	2023	2023	15-24 years	15-24	10	3330778	Unreliable
+	Division 9: Pacific	CENS-D9	2023	2023	25-34 years	25-34	51	3771656	1.4
+	Division 9: Pacific	CENS-D9	2023	2023	35-44 years	35-44	35	3644604	1
+	Division 9: Pacific	CENS-D9	2023	2023	45-54 years	45-54	0	3251039	Unreliable
+	Division 9: Pacific	CENS-D9	2023	2023	55-64 years	55-64	0	3207855	Unreliable
+									
+---									
+"Dataset: Underlying Cause of Death, 1999-2020"									
+Query Parameters:									
+"ICD-10 Codes: O00-O99 (Pregnancy, childbirth and the puerperium)"									
+Sex: Female									
+Ten-Year Age Groups: 5-14 years; 15-24 years; 25-34 years; 35-44 years; 45-54 years; 55-64 years									
+Year/Month: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020									
+Group By: Census Division; Year; Ten-Year Age Groups									
+Show Totals: Disabled									
+Show Zero Values: True									
+Show Suppressed: False									
+"Calculate Rates Per: 100,000"									
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)									
+---									
+Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information.									
+---									
+"Query Date: Mar 10, 2025 9:04:14 PM"									
+---									
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"									
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"									
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"									
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Mar 10, 2025 9:04:14 PM"									
+---									
+Messages:									
+1. Totals are not available for these results due to suppression constraints. More Information:									
+http://wonder.cdc.gov/wonder/help/faq.html#Privacy.									
+2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows.									
+---									
+Caveats:									
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"									
+http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision.									
+2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:									
+http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality.									
+3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:									
+http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable.									
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"									
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"									
+http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated.									
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"									
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"									
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"									
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"									
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"									
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"									
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"									
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"									
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"									
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"									
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"									
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"									
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"									
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"									
+are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident									
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"									
+figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1									
+estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population									
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"									
+were available at the time of release.									
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"									
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"									
+in information available to individual states and probable errors. Caution should be used in interpreting these data. More									
+information can be found at: https://www.cdc.gov/nchs/maternal-mortality/.									
