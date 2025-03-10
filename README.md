@@ -13,12 +13,22 @@ The United States has a high maternal mortality rate compared to other peer nati
 ## KPIs
 
 * Data-collection and transformation: We need to reformat some of the CDC data.
-* Accurately model the population-level causes of state-by-state and year-by-year disparities in maternal mortality.
+* Accurately model the population-level causes of state-by-state, region-by-region, and year-by-year disparities in maternal mortality.
 
 ## Stakeholders
 
 * People who are pregnant, may become pregnant, or who care about others who are pregnant.
 * Public health officials.
+
+
+## Week 2 Tasks
+* Gather and clean regional data from the CDC (by year).
+* Add the data from the CDC on obesity rates, nutrition, and other healthy lifestyle datasets.
+* State-by-state data for states with a lot of data.
+* Search for data on access on maternal care/hospital access (possibly looking through news articles for their data).
+* Try to find risk categories for the data.
+* Try to incorporate race data for regional data.
+* Looking at age-ranges for regional data.
 
 
 
