@@ -34,6 +34,7 @@ The United States has a high maternal mortality rate compared to other peer nati
 
 [^1]: https://www.cbsnews.com/news/us-maternal-mortality-rate-higher-whats-different/
 [^2]: Some of this data is restricted and so we cannot include conclusions whenever there are fewer than 10 deaths in some region over a period of time.
-[^3]: https://www.kff.org/racial-equity-and-health-policy/issue-brief/racial-disparities-in-maternal-and-infant-health-current-status-and-efforts-to-address-them/
+
+[^1]: https://www.kff.org/racial-equity-and-health-policy/issue-brief/racial-disparities-in-maternal-and-infant-health-current-status-and-efforts-to-address-them/
 
 
