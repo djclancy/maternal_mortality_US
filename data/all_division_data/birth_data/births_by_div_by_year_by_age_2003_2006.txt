@@ -1,0 +1,353 @@
+"Notes"	"Census Division"	"Census Division Code"	"Year"	"Year Code"	"Age of Mother 9"	"Age of Mother 9 Code"	Births
+	"Division 1: New England"	"CENS-D1"	"2003"	"2003"	"Under 15 years"	"15"	123
+	"Division 1: New England"	"CENS-D1"	"2003"	"2003"	"15-19 years"	"15-19"	10937
+	"Division 1: New England"	"CENS-D1"	"2003"	"2003"	"20-24 years"	"20-24"	29242
+	"Division 1: New England"	"CENS-D1"	"2003"	"2003"	"25-29 years"	"25-29"	40964
+	"Division 1: New England"	"CENS-D1"	"2003"	"2003"	"30-34 years"	"30-34"	53962
+	"Division 1: New England"	"CENS-D1"	"2003"	"2003"	"35-39 years"	"35-39"	29231
+	"Division 1: New England"	"CENS-D1"	"2003"	"2003"	"40-44 years"	"40-44"	6320
+	"Division 1: New England"	"CENS-D1"	"2003"	"2003"	"45-49 years"	"45-49"	310
+	"Division 1: New England"	"CENS-D1"	"2003"	"2003"	"50 years and over"	"50+"	14
+	"Division 1: New England"	"CENS-D1"	"2004"	"2004"	"Under 15 years"	"15"	109
+	"Division 1: New England"	"CENS-D1"	"2004"	"2004"	"15-19 years"	"15-19"	10994
+	"Division 1: New England"	"CENS-D1"	"2004"	"2004"	"20-24 years"	"20-24"	28709
+	"Division 1: New England"	"CENS-D1"	"2004"	"2004"	"25-29 years"	"25-29"	40801
+	"Division 1: New England"	"CENS-D1"	"2004"	"2004"	"30-34 years"	"30-34"	51738
+	"Division 1: New England"	"CENS-D1"	"2004"	"2004"	"35-39 years"	"35-39"	29375
+	"Division 1: New England"	"CENS-D1"	"2004"	"2004"	"40-44 years"	"40-44"	6360
+	"Division 1: New England"	"CENS-D1"	"2004"	"2004"	"45-49 years"	"45-49"	363
+	"Division 1: New England"	"CENS-D1"	"2004"	"2004"	"50 years and over"	"50+"	17
+	"Division 1: New England"	"CENS-D1"	"2005"	"2005"	"Under 15 years"	"15"	132
+	"Division 1: New England"	"CENS-D1"	"2005"	"2005"	"15-19 years"	"15-19"	10844
+	"Division 1: New England"	"CENS-D1"	"2005"	"2005"	"20-24 years"	"20-24"	28941
+	"Division 1: New England"	"CENS-D1"	"2005"	"2005"	"25-29 years"	"25-29"	40869
+	"Division 1: New England"	"CENS-D1"	"2005"	"2005"	"30-34 years"	"30-34"	49402
+	"Division 1: New England"	"CENS-D1"	"2005"	"2005"	"35-39 years"	"35-39"	29175
+	"Division 1: New England"	"CENS-D1"	"2005"	"2005"	"40-44 years"	"40-44"	6335
+	"Division 1: New England"	"CENS-D1"	"2005"	"2005"	"45-49 years"	"45-49"	368
+	"Division 1: New England"	"CENS-D1"	"2005"	"2005"	"50 years and over"	"50+"	41
+	"Division 1: New England"	"CENS-D1"	"2006"	"2006"	"Under 15 years"	"15"	117
+	"Division 1: New England"	"CENS-D1"	"2006"	"2006"	"15-19 years"	"15-19"	11192
+	"Division 1: New England"	"CENS-D1"	"2006"	"2006"	"20-24 years"	"20-24"	30185
+	"Division 1: New England"	"CENS-D1"	"2006"	"2006"	"25-29 years"	"25-29"	42023
+	"Division 1: New England"	"CENS-D1"	"2006"	"2006"	"30-34 years"	"30-34"	47599
+	"Division 1: New England"	"CENS-D1"	"2006"	"2006"	"35-39 years"	"35-39"	29027
+	"Division 1: New England"	"CENS-D1"	"2006"	"2006"	"40-44 years"	"40-44"	6346
+	"Division 1: New England"	"CENS-D1"	"2006"	"2006"	"45-49 years"	"45-49"	394
+	"Division 1: New England"	"CENS-D1"	"2006"	"2006"	"50 years and over"	"50+"	25
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2003"	"2003"	"Under 15 years"	"15"	561
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2003"	"2003"	"15-19 years"	"15-19"	37690
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2003"	"2003"	"20-24 years"	"20-24"	102551
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2003"	"2003"	"25-29 years"	"25-29"	131285
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2003"	"2003"	"30-34 years"	"30-34"	146074
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2003"	"2003"	"35-39 years"	"35-39"	79574
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2003"	"2003"	"40-44 years"	"40-44"	17778
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2003"	"2003"	"45-49 years"	"45-49"	1085
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2003"	"2003"	"50 years and over"	"50+"	58
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2004"	"2004"	"Under 15 years"	"15"	565
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2004"	"2004"	"15-19 years"	"15-19"	36769
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2004"	"2004"	"20-24 years"	"20-24"	100571
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2004"	"2004"	"25-29 years"	"25-29"	131327
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2004"	"2004"	"30-34 years"	"30-34"	142346
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2004"	"2004"	"35-39 years"	"35-39"	79316
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2004"	"2004"	"40-44 years"	"40-44"	17907
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2004"	"2004"	"45-49 years"	"45-49"	1069
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2004"	"2004"	"50 years and over"	"50+"	78
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2005"	"2005"	"Under 15 years"	"15"	584
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2005"	"2005"	"15-19 years"	"15-19"	36852
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2005"	"2005"	"20-24 years"	"20-24"	100795
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2005"	"2005"	"25-29 years"	"25-29"	132161
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2005"	"2005"	"30-34 years"	"30-34"	137272
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2005"	"2005"	"35-39 years"	"35-39"	78683
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2005"	"2005"	"40-44 years"	"40-44"	17991
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2005"	"2005"	"45-49 years"	"45-49"	1101
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2005"	"2005"	"50 years and over"	"50+"	71
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2006"	"2006"	"Under 15 years"	"15"	530
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2006"	"2006"	"15-19 years"	"15-19"	38200
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2006"	"2006"	"20-24 years"	"20-24"	104400
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2006"	"2006"	"25-29 years"	"25-29"	136025
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2006"	"2006"	"30-34 years"	"30-34"	135799
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2006"	"2006"	"35-39 years"	"35-39"	80162
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2006"	"2006"	"40-44 years"	"40-44"	17846
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2006"	"2006"	"45-49 years"	"45-49"	1134
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2006"	"2006"	"50 years and over"	"50+"	118
+	"Division 3: East North Central"	"CENS-D3"	"2003"	"2003"	"Under 15 years"	"15"	892
+	"Division 3: East North Central"	"CENS-D3"	"2003"	"2003"	"15-19 years"	"15-19"	60799
+	"Division 3: East North Central"	"CENS-D3"	"2003"	"2003"	"20-24 years"	"20-24"	154955
+	"Division 3: East North Central"	"CENS-D3"	"2003"	"2003"	"25-29 years"	"25-29"	170839
+	"Division 3: East North Central"	"CENS-D3"	"2003"	"2003"	"30-34 years"	"30-34"	150599
+	"Division 3: East North Central"	"CENS-D3"	"2003"	"2003"	"35-39 years"	"35-39"	67675
+	"Division 3: East North Central"	"CENS-D3"	"2003"	"2003"	"40-44 years"	"40-44"	13292
+	"Division 3: East North Central"	"CENS-D3"	"2003"	"2003"	"45-49 years"	"45-49"	670
+	"Division 3: East North Central"	"CENS-D3"	"2003"	"2003"	"50 years and over"	"50+"	21
+	"Division 3: East North Central"	"CENS-D3"	"2004"	"2004"	"Under 15 years"	"15"	959
+	"Division 3: East North Central"	"CENS-D3"	"2004"	"2004"	"15-19 years"	"15-19"	60526
+	"Division 3: East North Central"	"CENS-D3"	"2004"	"2004"	"20-24 years"	"20-24"	152968
+	"Division 3: East North Central"	"CENS-D3"	"2004"	"2004"	"25-29 years"	"25-29"	172404
+	"Division 3: East North Central"	"CENS-D3"	"2004"	"2004"	"30-34 years"	"30-34"	147830
+	"Division 3: East North Central"	"CENS-D3"	"2004"	"2004"	"35-39 years"	"35-39"	67547
+	"Division 3: East North Central"	"CENS-D3"	"2004"	"2004"	"40-44 years"	"40-44"	13792
+	"Division 3: East North Central"	"CENS-D3"	"2004"	"2004"	"45-49 years"	"45-49"	732
+	"Division 3: East North Central"	"CENS-D3"	"2004"	"2004"	"50 years and over"	"50+"	38
+	"Division 3: East North Central"	"CENS-D3"	"2005"	"2005"	"Under 15 years"	"15"	947
+	"Division 3: East North Central"	"CENS-D3"	"2005"	"2005"	"15-19 years"	"15-19"	59859
+	"Division 3: East North Central"	"CENS-D3"	"2005"	"2005"	"20-24 years"	"20-24"	151310
+	"Division 3: East North Central"	"CENS-D3"	"2005"	"2005"	"25-29 years"	"25-29"	175679
+	"Division 3: East North Central"	"CENS-D3"	"2005"	"2005"	"30-34 years"	"30-34"	143319
+	"Division 3: East North Central"	"CENS-D3"	"2005"	"2005"	"35-39 years"	"35-39"	67718
+	"Division 3: East North Central"	"CENS-D3"	"2005"	"2005"	"40-44 years"	"40-44"	13711
+	"Division 3: East North Central"	"CENS-D3"	"2005"	"2005"	"45-49 years"	"45-49"	707
+	"Division 3: East North Central"	"CENS-D3"	"2005"	"2005"	"50 years and over"	"50+"	41
+	"Division 3: East North Central"	"CENS-D3"	"2006"	"2006"	"Under 15 years"	"15"	891
+	"Division 3: East North Central"	"CENS-D3"	"2006"	"2006"	"15-19 years"	"15-19"	61510
+	"Division 3: East North Central"	"CENS-D3"	"2006"	"2006"	"20-24 years"	"20-24"	154606
+	"Division 3: East North Central"	"CENS-D3"	"2006"	"2006"	"25-29 years"	"25-29"	179718
+	"Division 3: East North Central"	"CENS-D3"	"2006"	"2006"	"30-34 years"	"30-34"	140174
+	"Division 3: East North Central"	"CENS-D3"	"2006"	"2006"	"35-39 years"	"35-39"	68558
+	"Division 3: East North Central"	"CENS-D3"	"2006"	"2006"	"40-44 years"	"40-44"	13349
+	"Division 3: East North Central"	"CENS-D3"	"2006"	"2006"	"45-49 years"	"45-49"	774
+	"Division 3: East North Central"	"CENS-D3"	"2006"	"2006"	"50 years and over"	"50+"	39
+	"Division 4: West North Central"	"CENS-D4"	"2003"	"2003"	"Under 15 years"	"15"	298
+	"Division 4: West North Central"	"CENS-D4"	"2003"	"2003"	"15-19 years"	"15-19"	24921
+	"Division 4: West North Central"	"CENS-D4"	"2003"	"2003"	"20-24 years"	"20-24"	70286
+	"Division 4: West North Central"	"CENS-D4"	"2003"	"2003"	"25-29 years"	"25-29"	78569
+	"Division 4: West North Central"	"CENS-D4"	"2003"	"2003"	"30-34 years"	"30-34"	63227
+	"Division 4: West North Central"	"CENS-D4"	"2003"	"2003"	"35-39 years"	"35-39"	26646
+	"Division 4: West North Central"	"CENS-D4"	"2003"	"2003"	"40-44 years"	"40-44"	5420
+	"Division 4: West North Central"	"CENS-D4"	"2003"	"2003"	"45-49 years"	"45-49"	275
+	"Division 4: West North Central"	"CENS-D4"	"2003"	"2003"	"50 years and over"	"50+"	19
+	"Division 4: West North Central"	"CENS-D4"	"2004"	"2004"	"Under 15 years"	"15"	332
+	"Division 4: West North Central"	"CENS-D4"	"2004"	"2004"	"15-19 years"	"15-19"	24929
+	"Division 4: West North Central"	"CENS-D4"	"2004"	"2004"	"20-24 years"	"20-24"	70788
+	"Division 4: West North Central"	"CENS-D4"	"2004"	"2004"	"25-29 years"	"25-29"	80644
+	"Division 4: West North Central"	"CENS-D4"	"2004"	"2004"	"30-34 years"	"30-34"	62572
+	"Division 4: West North Central"	"CENS-D4"	"2004"	"2004"	"35-39 years"	"35-39"	27299
+	"Division 4: West North Central"	"CENS-D4"	"2004"	"2004"	"40-44 years"	"40-44"	5466
+	"Division 4: West North Central"	"CENS-D4"	"2004"	"2004"	"45-49 years"	"45-49"	304
+	"Division 4: West North Central"	"CENS-D4"	"2004"	"2004"	"50 years and over"	"50+"	21
+	"Division 4: West North Central"	"CENS-D4"	"2005"	"2005"	"Under 15 years"	"15"	288
+	"Division 4: West North Central"	"CENS-D4"	"2005"	"2005"	"15-19 years"	"15-19"	24666
+	"Division 4: West North Central"	"CENS-D4"	"2005"	"2005"	"20-24 years"	"20-24"	71890
+	"Division 4: West North Central"	"CENS-D4"	"2005"	"2005"	"25-29 years"	"25-29"	83281
+	"Division 4: West North Central"	"CENS-D4"	"2005"	"2005"	"30-34 years"	"30-34"	61068
+	"Division 4: West North Central"	"CENS-D4"	"2005"	"2005"	"35-39 years"	"35-39"	27692
+	"Division 4: West North Central"	"CENS-D4"	"2005"	"2005"	"40-44 years"	"40-44"	5536
+	"Division 4: West North Central"	"CENS-D4"	"2005"	"2005"	"45-49 years"	"45-49"	296
+	"Division 4: West North Central"	"CENS-D4"	"2005"	"2005"	"50 years and over"	"50+"	16
+	"Division 4: West North Central"	"CENS-D4"	"2006"	"2006"	"Under 15 years"	"15"	301
+	"Division 4: West North Central"	"CENS-D4"	"2006"	"2006"	"15-19 years"	"15-19"	25745
+	"Division 4: West North Central"	"CENS-D4"	"2006"	"2006"	"20-24 years"	"20-24"	73984
+	"Division 4: West North Central"	"CENS-D4"	"2006"	"2006"	"25-29 years"	"25-29"	88008
+	"Division 4: West North Central"	"CENS-D4"	"2006"	"2006"	"30-34 years"	"30-34"	61538
+	"Division 4: West North Central"	"CENS-D4"	"2006"	"2006"	"35-39 years"	"35-39"	28283
+	"Division 4: West North Central"	"CENS-D4"	"2006"	"2006"	"40-44 years"	"40-44"	5512
+	"Division 4: West North Central"	"CENS-D4"	"2006"	"2006"	"45-49 years"	"45-49"	359
+	"Division 4: West North Central"	"CENS-D4"	"2006"	"2006"	"50 years and over"	"50+"	22
+	"Division 5: South Atlantic"	"CENS-D5"	"2003"	"2003"	"Under 15 years"	"15"	1402
+	"Division 5: South Atlantic"	"CENS-D5"	"2003"	"2003"	"15-19 years"	"15-19"	78748
+	"Division 5: South Atlantic"	"CENS-D5"	"2003"	"2003"	"20-24 years"	"20-24"	190592
+	"Division 5: South Atlantic"	"CENS-D5"	"2003"	"2003"	"25-29 years"	"25-29"	190918
+	"Division 5: South Atlantic"	"CENS-D5"	"2003"	"2003"	"30-34 years"	"30-34"	174602
+	"Division 5: South Atlantic"	"CENS-D5"	"2003"	"2003"	"35-39 years"	"35-39"	83394
+	"Division 5: South Atlantic"	"CENS-D5"	"2003"	"2003"	"40-44 years"	"40-44"	17735
+	"Division 5: South Atlantic"	"CENS-D5"	"2003"	"2003"	"45-49 years"	"45-49"	839
+	"Division 5: South Atlantic"	"CENS-D5"	"2003"	"2003"	"50 years and over"	"50+"	38
+	"Division 5: South Atlantic"	"CENS-D5"	"2004"	"2004"	"Under 15 years"	"15"	1476
+	"Division 5: South Atlantic"	"CENS-D5"	"2004"	"2004"	"15-19 years"	"15-19"	80171
+	"Division 5: South Atlantic"	"CENS-D5"	"2004"	"2004"	"20-24 years"	"20-24"	194314
+	"Division 5: South Atlantic"	"CENS-D5"	"2004"	"2004"	"25-29 years"	"25-29"	196983
+	"Division 5: South Atlantic"	"CENS-D5"	"2004"	"2004"	"30-34 years"	"30-34"	173781
+	"Division 5: South Atlantic"	"CENS-D5"	"2004"	"2004"	"35-39 years"	"35-39"	85651
+	"Division 5: South Atlantic"	"CENS-D5"	"2004"	"2004"	"40-44 years"	"40-44"	18717
+	"Division 5: South Atlantic"	"CENS-D5"	"2004"	"2004"	"45-49 years"	"45-49"	933
+	"Division 5: South Atlantic"	"CENS-D5"	"2004"	"2004"	"50 years and over"	"50+"	56
+	"Division 5: South Atlantic"	"CENS-D5"	"2005"	"2005"	"Under 15 years"	"15"	1453
+	"Division 5: South Atlantic"	"CENS-D5"	"2005"	"2005"	"15-19 years"	"15-19"	81676
+	"Division 5: South Atlantic"	"CENS-D5"	"2005"	"2005"	"20-24 years"	"20-24"	198933
+	"Division 5: South Atlantic"	"CENS-D5"	"2005"	"2005"	"25-29 years"	"25-29"	204818
+	"Division 5: South Atlantic"	"CENS-D5"	"2005"	"2005"	"30-34 years"	"30-34"	173558
+	"Division 5: South Atlantic"	"CENS-D5"	"2005"	"2005"	"35-39 years"	"35-39"	88540
+	"Division 5: South Atlantic"	"CENS-D5"	"2005"	"2005"	"40-44 years"	"40-44"	19119
+	"Division 5: South Atlantic"	"CENS-D5"	"2005"	"2005"	"45-49 years"	"45-49"	1087
+	"Division 5: South Atlantic"	"CENS-D5"	"2005"	"2005"	"50 years and over"	"50+"	48
+	"Division 5: South Atlantic"	"CENS-D5"	"2006"	"2006"	"Under 15 years"	"15"	1379
+	"Division 5: South Atlantic"	"CENS-D5"	"2006"	"2006"	"15-19 years"	"15-19"	86614
+	"Division 5: South Atlantic"	"CENS-D5"	"2006"	"2006"	"20-24 years"	"20-24"	209041
+	"Division 5: South Atlantic"	"CENS-D5"	"2006"	"2006"	"25-29 years"	"25-29"	216847
+	"Division 5: South Atlantic"	"CENS-D5"	"2006"	"2006"	"30-34 years"	"30-34"	174909
+	"Division 5: South Atlantic"	"CENS-D5"	"2006"	"2006"	"35-39 years"	"35-39"	92812
+	"Division 5: South Atlantic"	"CENS-D5"	"2006"	"2006"	"40-44 years"	"40-44"	19457
+	"Division 5: South Atlantic"	"CENS-D5"	"2006"	"2006"	"45-49 years"	"45-49"	1094
+	"Division 5: South Atlantic"	"CENS-D5"	"2006"	"2006"	"50 years and over"	"50+"	66
+	"Division 6: East South Central"	"CENS-D6"	"2003"	"2003"	"Under 15 years"	"15"	619
+	"Division 6: East South Central"	"CENS-D6"	"2003"	"2003"	"15-19 years"	"15-19"	31670
+	"Division 6: East South Central"	"CENS-D6"	"2003"	"2003"	"20-24 years"	"20-24"	74600
+	"Division 6: East South Central"	"CENS-D6"	"2003"	"2003"	"25-29 years"	"25-29"	63038
+	"Division 6: East South Central"	"CENS-D6"	"2003"	"2003"	"30-34 years"	"30-34"	44822
+	"Division 6: East South Central"	"CENS-D6"	"2003"	"2003"	"35-39 years"	"35-39"	17711
+	"Division 6: East South Central"	"CENS-D6"	"2003"	"2003"	"40-44 years"	"40-44"	3448
+	"Division 6: East South Central"	"CENS-D6"	"2003"	"2003"	"45-49 years"	"45-49"	141
+	"Division 6: East South Central"	"CENS-D6"	"2003"	"2003"	"50 years and over"	"50+"	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"2004"	"2004"	"Under 15 years"	"15"	623
+	"Division 6: East South Central"	"CENS-D6"	"2004"	"2004"	"15-19 years"	"15-19"	31458
+	"Division 6: East South Central"	"CENS-D6"	"2004"	"2004"	"20-24 years"	"20-24"	74466
+	"Division 6: East South Central"	"CENS-D6"	"2004"	"2004"	"25-29 years"	"25-29"	64643
+	"Division 6: East South Central"	"CENS-D6"	"2004"	"2004"	"30-34 years"	"30-34"	44495
+	"Division 6: East South Central"	"CENS-D6"	"2004"	"2004"	"35-39 years"	"35-39"	18303
+	"Division 6: East South Central"	"CENS-D6"	"2004"	"2004"	"40-44 years"	"40-44"	3536
+	"Division 6: East South Central"	"CENS-D6"	"2004"	"2004"	"45-49 years"	"45-49"	166
+	"Division 6: East South Central"	"CENS-D6"	"2004"	"2004"	"50 years and over"	"50+"	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"2005"	"2005"	"Under 15 years"	"15"	595
+	"Division 6: East South Central"	"CENS-D6"	"2005"	"2005"	"15-19 years"	"15-19"	31693
+	"Division 6: East South Central"	"CENS-D6"	"2005"	"2005"	"20-24 years"	"20-24"	75569
+	"Division 6: East South Central"	"CENS-D6"	"2005"	"2005"	"25-29 years"	"25-29"	66937
+	"Division 6: East South Central"	"CENS-D6"	"2005"	"2005"	"30-34 years"	"30-34"	44109
+	"Division 6: East South Central"	"CENS-D6"	"2005"	"2005"	"35-39 years"	"35-39"	18333
+	"Division 6: East South Central"	"CENS-D6"	"2005"	"2005"	"40-44 years"	"40-44"	3627
+	"Division 6: East South Central"	"CENS-D6"	"2005"	"2005"	"45-49 years"	"45-49"	165
+	"Division 6: East South Central"	"CENS-D6"	"2005"	"2005"	"50 years and over"	"50+"	11
+	"Division 6: East South Central"	"CENS-D6"	"2006"	"2006"	"Under 15 years"	"15"	576
+	"Division 6: East South Central"	"CENS-D6"	"2006"	"2006"	"15-19 years"	"15-19"	34137
+	"Division 6: East South Central"	"CENS-D6"	"2006"	"2006"	"20-24 years"	"20-24"	78753
+	"Division 6: East South Central"	"CENS-D6"	"2006"	"2006"	"25-29 years"	"25-29"	70924
+	"Division 6: East South Central"	"CENS-D6"	"2006"	"2006"	"30-34 years"	"30-34"	44141
+	"Division 6: East South Central"	"CENS-D6"	"2006"	"2006"	"35-39 years"	"35-39"	19447
+	"Division 6: East South Central"	"CENS-D6"	"2006"	"2006"	"40-44 years"	"40-44"	3693
+	"Division 6: East South Central"	"CENS-D6"	"2006"	"2006"	"45-49 years"	"45-49"	205
+	"Division 6: East South Central"	"CENS-D6"	"2006"	"2006"	"50 years and over"	"50+"	17
+	"Division 7: West South Central"	"CENS-D7"	"2003"	"2003"	"Under 15 years"	"15"	1354
+	"Division 7: West South Central"	"CENS-D7"	"2003"	"2003"	"15-19 years"	"15-19"	73184
+	"Division 7: West South Central"	"CENS-D7"	"2003"	"2003"	"20-24 years"	"20-24"	158900
+	"Division 7: West South Central"	"CENS-D7"	"2003"	"2003"	"25-29 years"	"25-29"	140163
+	"Division 7: West South Central"	"CENS-D7"	"2003"	"2003"	"30-34 years"	"30-34"	104673
+	"Division 7: West South Central"	"CENS-D7"	"2003"	"2003"	"35-39 years"	"35-39"	43692
+	"Division 7: West South Central"	"CENS-D7"	"2003"	"2003"	"40-44 years"	"40-44"	8843
+	"Division 7: West South Central"	"CENS-D7"	"2003"	"2003"	"45-49 years"	"45-49"	464
+	"Division 7: West South Central"	"CENS-D7"	"2003"	"2003"	"50 years and over"	"50+"	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"2004"	"2004"	"Under 15 years"	"15"	1373
+	"Division 7: West South Central"	"CENS-D7"	"2004"	"2004"	"15-19 years"	"15-19"	73417
+	"Division 7: West South Central"	"CENS-D7"	"2004"	"2004"	"20-24 years"	"20-24"	160141
+	"Division 7: West South Central"	"CENS-D7"	"2004"	"2004"	"25-29 years"	"25-29"	142547
+	"Division 7: West South Central"	"CENS-D7"	"2004"	"2004"	"30-34 years"	"30-34"	104658
+	"Division 7: West South Central"	"CENS-D7"	"2004"	"2004"	"35-39 years"	"35-39"	44721
+	"Division 7: West South Central"	"CENS-D7"	"2004"	"2004"	"40-44 years"	"40-44"	9217
+	"Division 7: West South Central"	"CENS-D7"	"2004"	"2004"	"45-49 years"	"45-49"	446
+	"Division 7: West South Central"	"CENS-D7"	"2004"	"2004"	"50 years and over"	"50+"	21
+	"Division 7: West South Central"	"CENS-D7"	"2005"	"2005"	"Under 15 years"	"15"	1281
+	"Division 7: West South Central"	"CENS-D7"	"2005"	"2005"	"15-19 years"	"15-19"	71662
+	"Division 7: West South Central"	"CENS-D7"	"2005"	"2005"	"20-24 years"	"20-24"	158680
+	"Division 7: West South Central"	"CENS-D7"	"2005"	"2005"	"25-29 years"	"25-29"	145712
+	"Division 7: West South Central"	"CENS-D7"	"2005"	"2005"	"30-34 years"	"30-34"	104015
+	"Division 7: West South Central"	"CENS-D7"	"2005"	"2005"	"35-39 years"	"35-39"	46611
+	"Division 7: West South Central"	"CENS-D7"	"2005"	"2005"	"40-44 years"	"40-44"	9406
+	"Division 7: West South Central"	"CENS-D7"	"2005"	"2005"	"45-49 years"	"45-49"	466
+	"Division 7: West South Central"	"CENS-D7"	"2005"	"2005"	"50 years and over"	"50+"	28
+	"Division 7: West South Central"	"CENS-D7"	"2006"	"2006"	"Under 15 years"	"15"	1296
+	"Division 7: West South Central"	"CENS-D7"	"2006"	"2006"	"15-19 years"	"15-19"	74894
+	"Division 7: West South Central"	"CENS-D7"	"2006"	"2006"	"20-24 years"	"20-24"	165935
+	"Division 7: West South Central"	"CENS-D7"	"2006"	"2006"	"25-29 years"	"25-29"	152252
+	"Division 7: West South Central"	"CENS-D7"	"2006"	"2006"	"30-34 years"	"30-34"	104871
+	"Division 7: West South Central"	"CENS-D7"	"2006"	"2006"	"35-39 years"	"35-39"	48594
+	"Division 7: West South Central"	"CENS-D7"	"2006"	"2006"	"40-44 years"	"40-44"	9554
+	"Division 7: West South Central"	"CENS-D7"	"2006"	"2006"	"45-49 years"	"45-49"	526
+	"Division 7: West South Central"	"CENS-D7"	"2006"	"2006"	"50 years and over"	"50+"	34
+	"Division 8: Mountain"	"CENS-D8"	"2003"	"2003"	"Under 15 years"	"15"	530
+	"Division 8: Mountain"	"CENS-D8"	"2003"	"2003"	"15-19 years"	"15-19"	33886
+	"Division 8: Mountain"	"CENS-D8"	"2003"	"2003"	"20-24 years"	"20-24"	88406
+	"Division 8: Mountain"	"CENS-D8"	"2003"	"2003"	"25-29 years"	"25-29"	87866
+	"Division 8: Mountain"	"CENS-D8"	"2003"	"2003"	"30-34 years"	"30-34"	65482
+	"Division 8: Mountain"	"CENS-D8"	"2003"	"2003"	"35-39 years"	"35-39"	28717
+	"Division 8: Mountain"	"CENS-D8"	"2003"	"2003"	"40-44 years"	"40-44"	6276
+	"Division 8: Mountain"	"CENS-D8"	"2003"	"2003"	"45-49 years"	"45-49"	368
+	"Division 8: Mountain"	"CENS-D8"	"2003"	"2003"	"50 years and over"	"50+"	25
+	"Division 8: Mountain"	"CENS-D8"	"2004"	"2004"	"Under 15 years"	"15"	473
+	"Division 8: Mountain"	"CENS-D8"	"2004"	"2004"	"15-19 years"	"15-19"	33994
+	"Division 8: Mountain"	"CENS-D8"	"2004"	"2004"	"20-24 years"	"20-24"	88751
+	"Division 8: Mountain"	"CENS-D8"	"2004"	"2004"	"25-29 years"	"25-29"	90332
+	"Division 8: Mountain"	"CENS-D8"	"2004"	"2004"	"30-34 years"	"30-34"	66534
+	"Division 8: Mountain"	"CENS-D8"	"2004"	"2004"	"35-39 years"	"35-39"	30280
+	"Division 8: Mountain"	"CENS-D8"	"2004"	"2004"	"40-44 years"	"40-44"	6532
+	"Division 8: Mountain"	"CENS-D8"	"2004"	"2004"	"45-49 years"	"45-49"	367
+	"Division 8: Mountain"	"CENS-D8"	"2004"	"2004"	"50 years and over"	"50+"	15
+	"Division 8: Mountain"	"CENS-D8"	"2005"	"2005"	"Under 15 years"	"15"	521
+	"Division 8: Mountain"	"CENS-D8"	"2005"	"2005"	"15-19 years"	"15-19"	34042
+	"Division 8: Mountain"	"CENS-D8"	"2005"	"2005"	"20-24 years"	"20-24"	89655
+	"Division 8: Mountain"	"CENS-D8"	"2005"	"2005"	"25-29 years"	"25-29"	94287
+	"Division 8: Mountain"	"CENS-D8"	"2005"	"2005"	"30-34 years"	"30-34"	67722
+	"Division 8: Mountain"	"CENS-D8"	"2005"	"2005"	"35-39 years"	"35-39"	31319
+	"Division 8: Mountain"	"CENS-D8"	"2005"	"2005"	"40-44 years"	"40-44"	6746
+	"Division 8: Mountain"	"CENS-D8"	"2005"	"2005"	"45-49 years"	"45-49"	371
+	"Division 8: Mountain"	"CENS-D8"	"2005"	"2005"	"50 years and over"	"50+"	23
+	"Division 8: Mountain"	"CENS-D8"	"2006"	"2006"	"Under 15 years"	"15"	474
+	"Division 8: Mountain"	"CENS-D8"	"2006"	"2006"	"15-19 years"	"15-19"	36229
+	"Division 8: Mountain"	"CENS-D8"	"2006"	"2006"	"20-24 years"	"20-24"	93526
+	"Division 8: Mountain"	"CENS-D8"	"2006"	"2006"	"25-29 years"	"25-29"	100294
+	"Division 8: Mountain"	"CENS-D8"	"2006"	"2006"	"30-34 years"	"30-34"	69844
+	"Division 8: Mountain"	"CENS-D8"	"2006"	"2006"	"35-39 years"	"35-39"	33471
+	"Division 8: Mountain"	"CENS-D8"	"2006"	"2006"	"40-44 years"	"40-44"	6748
+	"Division 8: Mountain"	"CENS-D8"	"2006"	"2006"	"45-49 years"	"45-49"	397
+	"Division 8: Mountain"	"CENS-D8"	"2006"	"2006"	"50 years and over"	"50+"	28
+	"Division 9: Pacific"	"CENS-D9"	"2003"	"2003"	"Under 15 years"	"15"	882
+	"Division 9: Pacific"	"CENS-D9"	"2003"	"2003"	"15-19 years"	"15-19"	62745
+	"Division 9: Pacific"	"CENS-D9"	"2003"	"2003"	"20-24 years"	"20-24"	162773
+	"Division 9: Pacific"	"CENS-D9"	"2003"	"2003"	"25-29 years"	"25-29"	182724
+	"Division 9: Pacific"	"CENS-D9"	"2003"	"2003"	"30-34 years"	"30-34"	172105
+	"Division 9: Pacific"	"CENS-D9"	"2003"	"2003"	"35-39 years"	"35-39"	91002
+	"Division 9: Pacific"	"CENS-D9"	"2003"	"2003"	"40-44 years"	"40-44"	21893
+	"Division 9: Pacific"	"CENS-D9"	"2003"	"2003"	"45-49 years"	"45-49"	1370
+	"Division 9: Pacific"	"CENS-D9"	"2003"	"2003"	"50 years and over"	"50+"	131
+	"Division 9: Pacific"	"CENS-D9"	"2004"	"2004"	"Under 15 years"	"15"	871
+	"Division 9: Pacific"	"CENS-D9"	"2004"	"2004"	"15-19 years"	"15-19"	63004
+	"Division 9: Pacific"	"CENS-D9"	"2004"	"2004"	"20-24 years"	"20-24"	163746
+	"Division 9: Pacific"	"CENS-D9"	"2004"	"2004"	"25-29 years"	"25-29"	184804
+	"Division 9: Pacific"	"CENS-D9"	"2004"	"2004"	"30-34 years"	"30-34"	171709
+	"Division 9: Pacific"	"CENS-D9"	"2004"	"2004"	"35-39 years"	"35-39"	93114
+	"Division 9: Pacific"	"CENS-D9"	"2004"	"2004"	"40-44 years"	"40-44"	22152
+	"Division 9: Pacific"	"CENS-D9"	"2004"	"2004"	"45-49 years"	"45-49"	1368
+	"Division 9: Pacific"	"CENS-D9"	"2004"	"2004"	"50 years and over"	"50+"	119
+	"Division 9: Pacific"	"CENS-D9"	"2005"	"2005"	"Under 15 years"	"15"	921
+	"Division 9: Pacific"	"CENS-D9"	"2005"	"2005"	"15-19 years"	"15-19"	63299
+	"Division 9: Pacific"	"CENS-D9"	"2005"	"2005"	"20-24 years"	"20-24"	164615
+	"Division 9: Pacific"	"CENS-D9"	"2005"	"2005"	"25-29 years"	"25-29"	187852
+	"Division 9: Pacific"	"CENS-D9"	"2005"	"2005"	"30-34 years"	"30-34"	170226
+	"Division 9: Pacific"	"CENS-D9"	"2005"	"2005"	"35-39 years"	"35-39"	95085
+	"Division 9: Pacific"	"CENS-D9"	"2005"	"2005"	"40-44 years"	"40-44"	22196
+	"Division 9: Pacific"	"CENS-D9"	"2005"	"2005"	"45-49 years"	"45-49"	1558
+	"Division 9: Pacific"	"CENS-D9"	"2005"	"2005"	"50 years and over"	"50+"	138
+	"Division 9: Pacific"	"CENS-D9"	"2006"	"2006"	"Under 15 years"	"15"	832
+	"Division 9: Pacific"	"CENS-D9"	"2006"	"2006"	"15-19 years"	"15-19"	66915
+	"Division 9: Pacific"	"CENS-D9"	"2006"	"2006"	"20-24 years"	"20-24"	170007
+	"Division 9: Pacific"	"CENS-D9"	"2006"	"2006"	"25-29 years"	"25-29"	195808
+	"Division 9: Pacific"	"CENS-D9"	"2006"	"2006"	"30-34 years"	"30-34"	171383
+	"Division 9: Pacific"	"CENS-D9"	"2006"	"2006"	"35-39 years"	"35-39"	98262
+	"Division 9: Pacific"	"CENS-D9"	"2006"	"2006"	"40-44 years"	"40-44"	23034
+	"Division 9: Pacific"	"CENS-D9"	"2006"	"2006"	"45-49 years"	"45-49"	1597
+	"Division 9: Pacific"	"CENS-D9"	"2006"	"2006"	"50 years and over"	"50+"	145
+"---"
+"Dataset: Natality, 2003-2006"
+"Query Parameters:"
+"Title: births_by_div_by_year_by_age_2003_2006"
+"Group By: Census Division; Year; Age of Mother 9"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
+"---"
+"Query Date: Mar 12, 2025 9:16:14 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2003-2006, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-v2006.html on Mar 12, 2025 9:16:14 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/natality.html#Assurance of Confidentiality."
+"2. Each birth record represents one liveborn infant."

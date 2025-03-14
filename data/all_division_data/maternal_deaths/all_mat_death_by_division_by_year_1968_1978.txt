@@ -1,0 +1,138 @@
+"Notes"	"Division"	"Division Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Division 1: New England"	"CENS-D1"	"1968"	"1968"	26	11685721	0.002224938
+	"Division 1: New England"	"CENS-D1"	"1969"	"1969"	19	11762197	0.001615345 (Unreliable)
+	"Division 1: New England"	"CENS-D1"	"1970"	"1970"	15	11849320	0.001265895 (Unreliable)
+	"Division 1: New England"	"CENS-D1"	"1971"	"1971"	24	11987980	0.002002005
+	"Division 1: New England"	"CENS-D1"	"1972"	"1972"	16	12064441	0.001326212 (Unreliable)
+	"Division 1: New England"	"CENS-D1"	"1973"	"1973"	9	12121882	0.000742459 (Unreliable)
+	"Division 1: New England"	"CENS-D1"	"1974"	"1974"	6	12135217	0.000494429 (Unreliable)
+	"Division 1: New England"	"CENS-D1"	"1975"	"1975"	9	12159606	0.000740156 (Unreliable)
+	"Division 1: New England"	"CENS-D1"	"1976"	"1976"	10	12196149	0.000819931 (Unreliable)
+	"Division 1: New England"	"CENS-D1"	"1977"	"1977"	9	12255706	0.000734352 (Unreliable)
+	"Division 1: New England"	"CENS-D1"	"1978"	"1978"	10	12303742	0.000812761 (Unreliable)
+"Total"	"Division 1: New England"	"CENS-D1"			153	132521961	0.001154526
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1968"	"1968"	150	36924715	0.004062320
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1969"	"1969"	153	37056783	0.004128799
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1970"	"1970"	151	37242793	0.004054476
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1971"	"1971"	107	37516660	0.002852066
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1972"	"1972"	94	37533425	0.002504434
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1973"	"1973"	82	37349238	0.002195493
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1974"	"1974"	63	37228741	0.001692241
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1975"	"1975"	64	37242035	0.001718488
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1976"	"1976"	68	37198129	0.001828049
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1977"	"1977"	50	37091062	0.001348034
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1978"	"1978"	50	36953229	0.001353062
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"			1032	409336810	0.002521151
+	"Division 3: East North Central"	"CENS-D3"	"1968"	"1968"	157	39931045	0.003931778
+	"Division 3: East North Central"	"CENS-D3"	"1969"	"1969"	151	40088916	0.003766627
+	"Division 3: East North Central"	"CENS-D3"	"1970"	"1970"	125	40319169	0.003100262
+	"Division 3: East North Central"	"CENS-D3"	"1971"	"1971"	131	40640402	0.003223393
+	"Division 3: East North Central"	"CENS-D3"	"1972"	"1972"	100	40783969	0.002451944
+	"Division 3: East North Central"	"CENS-D3"	"1973"	"1973"	75	40893116	0.001834050
+	"Division 3: East North Central"	"CENS-D3"	"1974"	"1974"	79	40999599	0.001926848
+	"Division 3: East North Central"	"CENS-D3"	"1975"	"1975"	63	41081649	0.001533531
+	"Division 3: East North Central"	"CENS-D3"	"1976"	"1976"	66	41181188	0.001602673
+	"Division 3: East North Central"	"CENS-D3"	"1977"	"1977"	62	41382497	0.001498218
+	"Division 3: East North Central"	"CENS-D3"	"1978"	"1978"	63	41531880	0.001516907
+"Total"	"Division 3: East North Central"	"CENS-D3"			1072	448833430	0.002388414
+	"Division 4: West North Central"	"CENS-D4"	"1968"	"1968"	42	16193955	0.002593560
+	"Division 4: West North Central"	"CENS-D4"	"1969"	"1969"	48	16258305	0.002952337
+	"Division 4: West North Central"	"CENS-D4"	"1970"	"1970"	50	16344201	0.003059189
+	"Division 4: West North Central"	"CENS-D4"	"1971"	"1971"	38	16477306	0.002306202
+	"Division 4: West North Central"	"CENS-D4"	"1972"	"1972"	28	16545526	0.001692300
+	"Division 4: West North Central"	"CENS-D4"	"1973"	"1973"	28	16604386	0.001686301
+	"Division 4: West North Central"	"CENS-D4"	"1974"	"1974"	34	16660386	0.002040769
+	"Division 4: West North Central"	"CENS-D4"	"1975"	"1975"	32	16739907	0.001911600
+	"Division 4: West North Central"	"CENS-D4"	"1976"	"1976"	20	16869627	0.001185563
+	"Division 4: West North Central"	"CENS-D4"	"1977"	"1977"	26	16970577	0.001532063
+	"Division 4: West North Central"	"CENS-D4"	"1978"	"1978"	21	17045881	0.001231969
+"Total"	"Division 4: West North Central"	"CENS-D4"			367	182710057	0.002008647
+	"Division 5: South Atlantic"	"CENS-D5"	"1968"	"1968"	162	29619100	0.005469444
+	"Division 5: South Atlantic"	"CENS-D5"	"1969"	"1969"	133	30211705	0.004402267
+	"Division 5: South Atlantic"	"CENS-D5"	"1970"	"1970"	165	30737306	0.005368070
+	"Division 5: South Atlantic"	"CENS-D5"	"1971"	"1971"	133	31635972	0.004204075
+	"Division 5: South Atlantic"	"CENS-D5"	"1972"	"1972"	98	32360660	0.003028368
+	"Division 5: South Atlantic"	"CENS-D5"	"1973"	"1973"	91	33101814	0.002749094
+	"Division 5: South Atlantic"	"CENS-D5"	"1974"	"1974"	89	33824099	0.002631260
+	"Division 5: South Atlantic"	"CENS-D5"	"1975"	"1975"	80	34360140	0.002328279
+	"Division 5: South Atlantic"	"CENS-D5"	"1976"	"1976"	64	34818439	0.001838106
+	"Division 5: South Atlantic"	"CENS-D5"	"1977"	"1977"	75	35364879	0.002120748
+	"Division 5: South Atlantic"	"CENS-D5"	"1978"	"1978"	56	35903017	0.001559757
+"Total"	"Division 5: South Atlantic"	"CENS-D5"			1146	361937131	0.003166296
+	"Division 6: East South Central"	"CENS-D6"	"1968"	"1968"	90	12516124	0.007190724
+	"Division 6: East South Central"	"CENS-D6"	"1969"	"1969"	76	12682106	0.005992695
+	"Division 6: East South Central"	"CENS-D6"	"1970"	"1970"	77	12834978	0.005999231
+	"Division 6: East South Central"	"CENS-D6"	"1971"	"1971"	71	13093652	0.005422475
+	"Division 6: East South Central"	"CENS-D6"	"1972"	"1972"	82	13274982	0.006177033
+	"Division 6: East South Central"	"CENS-D6"	"1973"	"1973"	50	13437295	0.003720987
+	"Division 6: East South Central"	"CENS-D6"	"1974"	"1974"	61	13622525	0.004477878
+	"Division 6: East South Central"	"CENS-D6"	"1975"	"1975"	40	13806710	0.002897142
+	"Division 6: East South Central"	"CENS-D6"	"1976"	"1976"	33	14029600	0.002352170
+	"Division 6: East South Central"	"CENS-D6"	"1977"	"1977"	41	14236730	0.002879875
+	"Division 6: East South Central"	"CENS-D6"	"1978"	"1978"	26	14406264	0.001804770
+"Total"	"Division 6: East South Central"	"CENS-D6"			647	147940966	0.004373366
+	"Division 7: West South Central"	"CENS-D7"	"1968"	"1968"	113	18785282	0.006015347
+	"Division 7: West South Central"	"CENS-D7"	"1969"	"1969"	106	19099742	0.005549813
+	"Division 7: West South Central"	"CENS-D7"	"1970"	"1970"	105	19371626	0.005420299
+	"Division 7: West South Central"	"CENS-D7"	"1971"	"1971"	89	19845291	0.004484691
+	"Division 7: West South Central"	"CENS-D7"	"1972"	"1972"	98	20204514	0.004850401
+	"Division 7: West South Central"	"CENS-D7"	"1973"	"1973"	78	20559023	0.003793955
+	"Division 7: West South Central"	"CENS-D7"	"1974"	"1974"	62	20923788	0.002963135
+	"Division 7: West South Central"	"CENS-D7"	"1975"	"1975"	48	21393430	0.002243679
+	"Division 7: West South Central"	"CENS-D7"	"1976"	"1976"	65	21865543	0.002972714
+	"Division 7: West South Central"	"CENS-D7"	"1977"	"1977"	40	22314049	0.001792593
+	"Division 7: West South Central"	"CENS-D7"	"1978"	"1978"	44	22756763	0.001933491
+"Total"	"Division 7: West South Central"	"CENS-D7"			848	227119051	0.003733725
+	"Division 8: Mountain"	"CENS-D8"	"1968"	"1968"	46	7858383	0.005853622
+	"Division 8: Mountain"	"CENS-D8"	"1969"	"1969"	28	8099410	0.003457042
+	"Division 8: Mountain"	"CENS-D8"	"1970"	"1970"	32	8311941	0.003849883
+	"Division 8: Mountain"	"CENS-D8"	"1971"	"1971"	19	8677776	0.002189501 (Unreliable)
+	"Division 8: Mountain"	"CENS-D8"	"1972"	"1972"	32	9004107	0.003553934
+	"Division 8: Mountain"	"CENS-D8"	"1973"	"1973"	18	9325139	0.001930266 (Unreliable)
+	"Division 8: Mountain"	"CENS-D8"	"1974"	"1974"	23	9604865	0.002394620
+	"Division 8: Mountain"	"CENS-D8"	"1975"	"1975"	20	9856125	0.002029195
+	"Division 8: Mountain"	"CENS-D8"	"1976"	"1976"	17	10120941	0.001679686 (Unreliable)
+	"Division 8: Mountain"	"CENS-D8"	"1977"	"1977"	25	10431914	0.002396492
+	"Division 8: Mountain"	"CENS-D8"	"1978"	"1978"	13	10767010	0.001207392 (Unreliable)
+"Total"	"Division 8: Mountain"	"CENS-D8"			273	102057611	0.002674960
+	"Division 9: Pacific"	"CENS-D9"	"1968"	"1968"	73	26019264	0.002805614
+	"Division 9: Pacific"	"CENS-D9"	"1969"	"1969"	87	26309018	0.003306851
+	"Division 9: Pacific"	"CENS-D9"	"1970"	"1970"	83	26592460	0.003121186
+	"Division 9: Pacific"	"CENS-D9"	"1971"	"1971"	56	27062710	0.002069268
+	"Division 9: Pacific"	"CENS-D9"	"1972"	"1972"	64	27355913	0.002339531
+	"Division 9: Pacific"	"CENS-D9"	"1973"	"1973"	46	27738931	0.001658319
+	"Division 9: Pacific"	"CENS-D9"	"1974"	"1974"	45	28210654	0.001595142
+	"Division 9: Pacific"	"CENS-D9"	"1975"	"1975"	47	28748282	0.001634880
+	"Division 9: Pacific"	"CENS-D9"	"1976"	"1976"	47	29328522	0.001602536
+	"Division 9: Pacific"	"CENS-D9"	"1977"	"1977"	45	29927012	0.001503658
+	"Division 9: Pacific"	"CENS-D9"	"1978"	"1978"	38	30614297	0.001241250
+"Total"	"Division 9: Pacific"	"CENS-D9"			631	307907063	0.002049320
+"Total"					6169	2320364080	0.002658635
+"---"
+"Dataset: Compressed Mortality, 1968-1978"
+"Query Parameters:"
+"Title: all_death_by_division_by_year_1968_1978"
+"ICD-8 Codes: 630-678 (Complications of pregnancy, childbirth, and the puerperium)"
+"Group By: Division; Year"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Mar 12, 2025 7:08:20 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality: Compressed Mortality File 1968-1978. CDC WONDER Online Database, compiled from Compressed Mortality File CMF"
+"1968-1988, Series 20, No. 2A, 2000. Accessed at http://wonder.cdc.gov/cmf-icd8.html on Mar 12, 2025 7:08:20 PM"
+"---"
+Caveats:
+"1. About sub-national population figures: population figures for 1968-69 are estimates derived by NCHS using linear"
+"extrapolation; population figures for 1970 are April 1 modified census counts; and population figures for 1971-78 are"
+"intercensal estimates of the July 1 resident population. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Population"
+"Information."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Unreliable."
+"3. The population figures used in the calculation of death rates for the age group 'under 1 year' are the number of live births"
+"for the given time period. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."

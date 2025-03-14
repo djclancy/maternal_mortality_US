@@ -1,0 +1,128 @@
+Notes,Census Division,Census Division Code,Year,Year Code,Deaths,Population,Crude Rate
+,Division 1: New England,CENS-D1,2010,2010,16,5854733,Unreliable
+,Division 1: New England,CENS-D1,2011,2011,26,5858652,0.4
+,Division 1: New England,CENS-D1,2012,2012,17,5856104,Unreliable
+,Division 1: New England,CENS-D1,2013,2013,18,5848609,Unreliable
+,Division 1: New England,CENS-D1,2014,2014,21,5851556,0.4
+,Division 1: New England,CENS-D1,2015,2015,20,5843161,0.3
+,Division 1: New England,CENS-D1,2016,2016,39,5814605,0.7
+,Division 1: New England,CENS-D1,2017,2017,31,5808306,0.5
+,Division 1: New England,CENS-D1,2018,2018,24,5795396,0.4
+,Division 1: New England,CENS-D1,2019,2019,22,5757472,0.4
+,Division 1: New England,CENS-D1,2020,2020,38,5725044,0.7
+,Division 1: New England,CENS-D1,2021,2021,35,5803812,0.6
+,Division 1: New England,CENS-D1,2022,2022,45,5755393,0.8
+,Division 1: New England,CENS-D1,2023,2023,25,5742913,0.4
+,Division 2: Middle Atlantic,CENS-D2,2010,2010,130,16475032,0.8
+,Division 2: Middle Atlantic,CENS-D2,2011,2011,135,16493857,0.8
+,Division 2: Middle Atlantic,CENS-D2,2012,2012,124,16474131,0.8
+,Division 2: Middle Atlantic,CENS-D2,2013,2013,155,16443903,0.9
+,Division 2: Middle Atlantic,CENS-D2,2014,2014,151,16443500,0.9
+,Division 2: Middle Atlantic,CENS-D2,2015,2015,135,16411344,0.8
+,Division 2: Middle Atlantic,CENS-D2,2016,2016,149,16307625,0.9
+,Division 2: Middle Atlantic,CENS-D2,2017,2017,129,16283210,0.8
+,Division 2: Middle Atlantic,CENS-D2,2018,2018,130,16025848,0.8
+,Division 2: Middle Atlantic,CENS-D2,2019,2019,151,15880352,1
+,Division 2: Middle Atlantic,CENS-D2,2020,2020,131,15738728,0.8
+,Division 2: Middle Atlantic,CENS-D2,2021,2021,180,16100099,1.1
+,Division 2: Middle Atlantic,CENS-D2,2022,2022,159,15895928,1
+,Division 2: Middle Atlantic,CENS-D2,2023,2023,107,15843162,0.7
+,Division 3: East North Central,CENS-D3,2010,2010,142,18628481,0.8
+,Division 3: East North Central,CENS-D3,2011,2011,171,18635342,0.9
+,Division 3: East North Central,CENS-D3,2012,2012,148,18564969,0.8
+,Division 3: East North Central,CENS-D3,2013,2013,139,18529429,0.8
+,Division 3: East North Central,CENS-D3,2014,2014,137,18483163,0.7
+,Division 3: East North Central,CENS-D3,2015,2015,165,18412412,0.9
+,Division 3: East North Central,CENS-D3,2016,2016,169,18293321,0.9
+,Division 3: East North Central,CENS-D3,2017,2017,157,18229542,0.9
+,Division 3: East North Central,CENS-D3,2018,2018,111,18153425,0.6
+,Division 3: East North Central,CENS-D3,2019,2019,147,18040371,0.8
+,Division 3: East North Central,CENS-D3,2020,2020,167,17918501,0.9
+,Division 3: East North Central,CENS-D3,2021,2021,205,18019814,1.1
+,Division 3: East North Central,CENS-D3,2022,2022,181,17794073,1
+,Division 3: East North Central,CENS-D3,2023,2023,137,17804654,0.8
+,Division 4: West North Central,CENS-D4,2010,2010,41,8085506,0.5
+,Division 4: West North Central,CENS-D4,2011,2011,58,8128869,0.7
+,Division 4: West North Central,CENS-D4,2012,2012,78,8138317,1
+,Division 4: West North Central,CENS-D4,2013,2013,79,8162053,1
+,Division 4: West North Central,CENS-D4,2014,2014,73,8177594,0.9
+,Division 4: West North Central,CENS-D4,2015,2015,66,8184986,0.8
+,Division 4: West North Central,CENS-D4,2016,2016,79,8167600,1
+,Division 4: West North Central,CENS-D4,2017,2017,79,8170513,1
+,Division 4: West North Central,CENS-D4,2018,2018,65,8164375,0.8
+,Division 4: West North Central,CENS-D4,2019,2019,58,8145244,0.7
+,Division 4: West North Central,CENS-D4,2020,2020,89,8133056,1.1
+,Division 4: West North Central,CENS-D4,2021,2021,104,8181336,1.3
+,Division 4: West North Central,CENS-D4,2022,2022,75,8118350,0.9
+,Division 4: West North Central,CENS-D4,2023,2023,67,8145268,0.8
+,Division 5: South Atlantic,CENS-D5,2010,2010,160,24053330,0.7
+,Division 5: South Atlantic,CENS-D5,2011,2011,178,24260966,0.7
+,Division 5: South Atlantic,CENS-D5,2012,2012,170,24399641,0.7
+,Division 5: South Atlantic,CENS-D5,2013,2013,236,24508602,1
+,Division 5: South Atlantic,CENS-D5,2014,2014,273,24700521,1.1
+,Division 5: South Atlantic,CENS-D5,2015,2015,285,24895626,1.1
+,Division 5: South Atlantic,CENS-D5,2016,2016,255,25032595,1
+,Division 5: South Atlantic,CENS-D5,2017,2017,254,25223358,1
+,Division 5: South Atlantic,CENS-D5,2018,2018,213,25345202,0.8
+,Division 5: South Atlantic,CENS-D5,2019,2019,270,25388242,1.1
+,Division 5: South Atlantic,CENS-D5,2020,2020,285,25508068,1.1
+,Division 5: South Atlantic,CENS-D5,2021,2021,429,25553542,1.7
+,Division 5: South Atlantic,CENS-D5,2022,2022,299,25657924,1.2
+,Division 5: South Atlantic,CENS-D5,2023,2023,257,25958634,1
+,Division 6: East South Central,CENS-D6,2010,2010,43,7433758,0.6
+,Division 6: East South Central,CENS-D6,2011,2011,43,7473013,0.6
+,Division 6: East South Central,CENS-D6,2012,2012,69,7467175,0.9
+,Division 6: East South Central,CENS-D6,2013,2013,68,7473006,0.9
+,Division 6: East South Central,CENS-D6,2014,2014,43,7480792,0.6
+,Division 6: East South Central,CENS-D6,2015,2015,64,7477958,0.9
+,Division 6: East South Central,CENS-D6,2016,2016,103,7467102,1.4
+,Division 6: East South Central,CENS-D6,2017,2017,110,7469514,1.5
+,Division 6: East South Central,CENS-D6,2018,2018,102,7467608,1.4
+,Division 6: East South Central,CENS-D6,2019,2019,108,7455835,1.4
+,Division 6: East South Central,CENS-D6,2020,2020,131,7453095,1.8
+,Division 6: East South Central,CENS-D6,2021,2021,172,7531704,2.3
+,Division 6: East South Central,CENS-D6,2022,2022,99,7510121,1.3
+,Division 6: East South Central,CENS-D6,2023,2023,104,7560456,1.4
+,Division 7: West South Central,CENS-D7,2010,2010,140,14731890,1
+,Division 7: West South Central,CENS-D7,2011,2011,168,14958170,1.1
+,Division 7: West South Central,CENS-D7,2012,2012,220,15084891,1.5
+,Division 7: West South Central,CENS-D7,2013,2013,249,15225789,1.6
+,Division 7: West South Central,CENS-D7,2014,2014,223,15430061,1.4
+,Division 7: West South Central,CENS-D7,2015,2015,231,15616398,1.5
+,Division 7: West South Central,CENS-D7,2016,2016,246,15722115,1.6
+,Division 7: West South Central,CENS-D7,2017,2017,224,15854109,1.4
+,Division 7: West South Central,CENS-D7,2018,2018,156,15967257,1
+,Division 7: West South Central,CENS-D7,2019,2019,143,16046026,0.9
+,Division 7: West South Central,CENS-D7,2020,2020,222,16163482,1.4
+,Division 7: West South Central,CENS-D7,2021,2021,299,16219236,1.8
+,Division 7: West South Central,CENS-D7,2022,2022,208,16317800,1.3
+,Division 7: West South Central,CENS-D7,2023,2023,186,16521310,1.1
+,Division 8: Mountain,CENS-D8,2010,2010,48,8774876,0.5
+,Division 8: Mountain,CENS-D8,2011,2011,51,8870471,0.6
+,Division 8: Mountain,CENS-D8,2012,2012,55,8926857,0.6
+,Division 8: Mountain,CENS-D8,2013,2013,79,8995274,0.9
+,Division 8: Mountain,CENS-D8,2014,2014,79,9087230,0.9
+,Division 8: Mountain,CENS-D8,2015,2015,66,9180090,0.7
+,Division 8: Mountain,CENS-D8,2016,2016,72,9253477,0.8
+,Division 8: Mountain,CENS-D8,2017,2017,91,9335487,1
+,Division 8: Mountain,CENS-D8,2018,2018,60,9448219,0.6
+,Division 8: Mountain,CENS-D8,2019,2019,84,9526078,0.9
+,Division 8: Mountain,CENS-D8,2020,2020,100,9624235,1
+,Division 8: Mountain,CENS-D8,2021,2021,117,9637092,1.2
+,Division 8: Mountain,CENS-D8,2022,2022,89,9653890,0.9
+,Division 8: Mountain,CENS-D8,2023,2023,75,9717283,0.8
+,Division 9: Pacific,CENS-D9,2010,2010,104,20139647,0.5
+,Division 9: Pacific,CENS-D9,2011,2011,98,20308430,0.5
+,Division 9: Pacific,CENS-D9,2012,2012,108,20396368,0.5
+,Division 9: Pacific,CENS-D9,2013,2013,113,20470769,0.6
+,Division 9: Pacific,CENS-D9,2014,2014,122,20653078,0.6
+,Division 9: Pacific,CENS-D9,2015,2015,106,20767233,0.5
+,Division 9: Pacific,CENS-D9,2016,2016,119,20798597,0.6
+,Division 9: Pacific,CENS-D9,2017,2017,130,20900133,0.6
+,Division 9: Pacific,CENS-D9,2018,2018,112,20868977,0.5
+,Division 9: Pacific,CENS-D9,2019,2019,118,20791130,0.6
+,Division 9: Pacific,CENS-D9,2020,2020,124,20685720,0.6
+,Division 9: Pacific,CENS-D9,2021,2021,146,20624972,0.7
+,Division 9: Pacific,CENS-D9,2022,2022,107,20371759,0.5
+,Division 9: Pacific,CENS-D9,2023,2023,96,20353233,0.5
+,,,,,,,

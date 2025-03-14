@@ -1,0 +1,609 @@
+"Notes"	"Census Division"	"Census Division Code"	"Year"	"Year Code"	"Mother's Education"	"Mother's Education Code"	Births
+	"Division 1: New England"	"CENS-D1"	"1995"	"1995"	"0 -  8 years"	"19176"	4424
+	"Division 1: New England"	"CENS-D1"	"1995"	"1995"	"9 - 11 years"	"19177"	16978
+	"Division 1: New England"	"CENS-D1"	"1995"	"1995"	"12 years"	"19178"	53019
+	"Division 1: New England"	"CENS-D1"	"1995"	"1995"	"13 - 15 years"	"19179"	40419
+	"Division 1: New England"	"CENS-D1"	"1995"	"1995"	"16 years and over"	"16+"	55558
+	"Division 1: New England"	"CENS-D1"	"1995"	"1995"	"Not stated/Not on certificate"	"NR"	3704
+	"Division 1: New England"	"CENS-D1"	"1995"	"1995"	"Excluded"	"999"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"1995"	"1995"			174102
+	"Division 1: New England"	"CENS-D1"	"1996"	"1996"	"0 -  8 years"	"19176"	4121
+	"Division 1: New England"	"CENS-D1"	"1996"	"1996"	"9 - 11 years"	"19177"	16907
+	"Division 1: New England"	"CENS-D1"	"1996"	"1996"	"12 years"	"19178"	50824
+	"Division 1: New England"	"CENS-D1"	"1996"	"1996"	"13 - 15 years"	"19179"	39899
+	"Division 1: New England"	"CENS-D1"	"1996"	"1996"	"16 years and over"	"16+"	56681
+	"Division 1: New England"	"CENS-D1"	"1996"	"1996"	"Not stated/Not on certificate"	"NR"	4026
+	"Division 1: New England"	"CENS-D1"	"1996"	"1996"	"Excluded"	"999"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"1996"	"1996"			172458
+	"Division 1: New England"	"CENS-D1"	"1997"	"1997"	"0 -  8 years"	"19176"	4178
+	"Division 1: New England"	"CENS-D1"	"1997"	"1997"	"9 - 11 years"	"19177"	17042
+	"Division 1: New England"	"CENS-D1"	"1997"	"1997"	"12 years"	"19178"	48750
+	"Division 1: New England"	"CENS-D1"	"1997"	"1997"	"13 - 15 years"	"19179"	39602
+	"Division 1: New England"	"CENS-D1"	"1997"	"1997"	"16 years and over"	"16+"	57827
+	"Division 1: New England"	"CENS-D1"	"1997"	"1997"	"Not stated/Not on certificate"	"NR"	3118
+	"Division 1: New England"	"CENS-D1"	"1997"	"1997"	"Excluded"	"999"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"1997"	"1997"			170517
+	"Division 1: New England"	"CENS-D1"	"1998"	"1998"	"0 -  8 years"	"19176"	4042
+	"Division 1: New England"	"CENS-D1"	"1998"	"1998"	"9 - 11 years"	"19177"	16970
+	"Division 1: New England"	"CENS-D1"	"1998"	"1998"	"12 years"	"19178"	48722
+	"Division 1: New England"	"CENS-D1"	"1998"	"1998"	"13 - 15 years"	"19179"	39952
+	"Division 1: New England"	"CENS-D1"	"1998"	"1998"	"16 years and over"	"16+"	60190
+	"Division 1: New England"	"CENS-D1"	"1998"	"1998"	"Not stated/Not on certificate"	"NR"	2698
+	"Division 1: New England"	"CENS-D1"	"1998"	"1998"	"Excluded"	"999"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"1998"	"1998"			172574
+	"Division 1: New England"	"CENS-D1"	"1999"	"1999"	"0 -  8 years"	"19176"	3964
+	"Division 1: New England"	"CENS-D1"	"1999"	"1999"	"9 - 11 years"	"19177"	16676
+	"Division 1: New England"	"CENS-D1"	"1999"	"1999"	"12 years"	"19178"	46639
+	"Division 1: New England"	"CENS-D1"	"1999"	"1999"	"13 - 15 years"	"19179"	38900
+	"Division 1: New England"	"CENS-D1"	"1999"	"1999"	"16 years and over"	"16+"	62048
+	"Division 1: New England"	"CENS-D1"	"1999"	"1999"	"Not stated/Not on certificate"	"NR"	2612
+	"Division 1: New England"	"CENS-D1"	"1999"	"1999"	"Excluded"	"999"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"1999"	"1999"			170839
+	"Division 1: New England"	"CENS-D1"	"2000"	"2000"	"0 -  8 years"	"19176"	3944
+	"Division 1: New England"	"CENS-D1"	"2000"	"2000"	"9 - 11 years"	"19177"	16221
+	"Division 1: New England"	"CENS-D1"	"2000"	"2000"	"12 years"	"19178"	47402
+	"Division 1: New England"	"CENS-D1"	"2000"	"2000"	"13 - 15 years"	"19179"	38570
+	"Division 1: New England"	"CENS-D1"	"2000"	"2000"	"16 years and over"	"16+"	63777
+	"Division 1: New England"	"CENS-D1"	"2000"	"2000"	"Not stated/Not on certificate"	"NR"	1943
+	"Division 1: New England"	"CENS-D1"	"2000"	"2000"	"Excluded"	"999"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"2000"	"2000"			171857
+	"Division 1: New England"	"CENS-D1"	"2001"	"2001"	"0 -  8 years"	"19176"	3885
+	"Division 1: New England"	"CENS-D1"	"2001"	"2001"	"9 - 11 years"	"19177"	15897
+	"Division 1: New England"	"CENS-D1"	"2001"	"2001"	"12 years"	"19178"	46595
+	"Division 1: New England"	"CENS-D1"	"2001"	"2001"	"13 - 15 years"	"19179"	37814
+	"Division 1: New England"	"CENS-D1"	"2001"	"2001"	"16 years and over"	"16+"	65466
+	"Division 1: New England"	"CENS-D1"	"2001"	"2001"	"Not stated/Not on certificate"	"NR"	1562
+	"Division 1: New England"	"CENS-D1"	"2001"	"2001"	"Excluded"	"999"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"2001"	"2001"			171219
+	"Division 1: New England"	"CENS-D1"	"2002"	"2002"	"0 -  8 years"	"19176"	3998
+	"Division 1: New England"	"CENS-D1"	"2002"	"2002"	"9 - 11 years"	"19177"	16023
+	"Division 1: New England"	"CENS-D1"	"2002"	"2002"	"12 years"	"19178"	44041
+	"Division 1: New England"	"CENS-D1"	"2002"	"2002"	"13 - 15 years"	"19179"	37396
+	"Division 1: New England"	"CENS-D1"	"2002"	"2002"	"16 years and over"	"16+"	67295
+	"Division 1: New England"	"CENS-D1"	"2002"	"2002"	"Not stated/Not on certificate"	"NR"	1175
+	"Division 1: New England"	"CENS-D1"	"2002"	"2002"	"Excluded"	"999"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"2002"	"2002"			169928
+"Total"	"Division 1: New England"	"CENS-D1"					1373494
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1995"	"1995"	"0 -  8 years"	"19176"	20916
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1995"	"1995"	"9 - 11 years"	"19177"	69854
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1995"	"1995"	"12 years"	"19178"	188348
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1995"	"1995"	"13 - 15 years"	"19179"	110883
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1995"	"1995"	"16 years and over"	"16+"	131925
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1995"	"1995"	"Not stated/Not on certificate"	"NR"	16121
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1995"	"1995"	"Excluded"	"999"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"1995"	"1995"			538047
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1996"	"1996"	"0 -  8 years"	"19176"	21146
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1996"	"1996"	"9 - 11 years"	"19177"	67725
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1996"	"1996"	"12 years"	"19178"	178430
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1996"	"1996"	"13 - 15 years"	"19179"	113622
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1996"	"1996"	"16 years and over"	"16+"	134871
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1996"	"1996"	"Not stated/Not on certificate"	"NR"	10813
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1996"	"1996"	"Excluded"	"999"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"1996"	"1996"			526607
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1997"	"1997"	"0 -  8 years"	"19176"	20267
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1997"	"1997"	"9 - 11 years"	"19177"	65359
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1997"	"1997"	"12 years"	"19178"	169537
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1997"	"1997"	"13 - 15 years"	"19179"	113340
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1997"	"1997"	"16 years and over"	"16+"	137037
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1997"	"1997"	"Not stated/Not on certificate"	"NR"	9201
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1997"	"1997"	"Excluded"	"999"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"1997"	"1997"			514741
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1998"	"1998"	"0 -  8 years"	"19176"	20347
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1998"	"1998"	"9 - 11 years"	"19177"	65378
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1998"	"1998"	"12 years"	"19178"	166625
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1998"	"1998"	"13 - 15 years"	"19179"	113803
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1998"	"1998"	"16 years and over"	"16+"	142108
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1998"	"1998"	"Not stated/Not on certificate"	"NR"	10395
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1998"	"1998"	"Excluded"	"999"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"1998"	"1998"			518656
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1999"	"1999"	"0 -  8 years"	"19176"	20680
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1999"	"1999"	"9 - 11 years"	"19177"	63861
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1999"	"1999"	"12 years"	"19178"	162133
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1999"	"1999"	"13 - 15 years"	"19179"	112552
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1999"	"1999"	"16 years and over"	"16+"	144028
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1999"	"1999"	"Not stated/Not on certificate"	"NR"	11810
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1999"	"1999"	"Excluded"	"999"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"1999"	"1999"			515064
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2000"	"2000"	"0 -  8 years"	"19176"	22081
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2000"	"2000"	"9 - 11 years"	"19177"	63127
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2000"	"2000"	"12 years"	"19178"	159751
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2000"	"2000"	"13 - 15 years"	"19179"	112732
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2000"	"2000"	"16 years and over"	"16+"	150959
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2000"	"2000"	"Not stated/Not on certificate"	"NR"	12000
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2000"	"2000"	"Excluded"	"999"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"2000"	"2000"			520650
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2001"	"2001"	"0 -  8 years"	"19176"	22628
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2001"	"2001"	"9 - 11 years"	"19177"	62037
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2001"	"2001"	"12 years"	"19178"	156581
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2001"	"2001"	"13 - 15 years"	"19179"	109991
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2001"	"2001"	"16 years and over"	"16+"	152249
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2001"	"2001"	"Not stated/Not on certificate"	"NR"	9830
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2001"	"2001"	"Excluded"	"999"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"2001"	"2001"			513316
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2002"	"2002"	"0 -  8 years"	"19176"	23109
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2002"	"2002"	"9 - 11 years"	"19177"	61601
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2002"	"2002"	"12 years"	"19178"	153377
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2002"	"2002"	"13 - 15 years"	"19179"	107483
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2002"	"2002"	"16 years and over"	"16+"	155807
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2002"	"2002"	"Not stated/Not on certificate"	"NR"	7639
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2002"	"2002"	"Excluded"	"999"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"2002"	"2002"			509016
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"					4156097
+	"Division 3: East North Central"	"CENS-D3"	"1995"	"1995"	"0 -  8 years"	"19176"	25174
+	"Division 3: East North Central"	"CENS-D3"	"1995"	"1995"	"9 - 11 years"	"19177"	96134
+	"Division 3: East North Central"	"CENS-D3"	"1995"	"1995"	"12 years"	"19178"	216476
+	"Division 3: East North Central"	"CENS-D3"	"1995"	"1995"	"13 - 15 years"	"19179"	145901
+	"Division 3: East North Central"	"CENS-D3"	"1995"	"1995"	"16 years and over"	"16+"	137004
+	"Division 3: East North Central"	"CENS-D3"	"1995"	"1995"	"Not stated/Not on certificate"	"NR"	4143
+	"Division 3: East North Central"	"CENS-D3"	"1995"	"1995"	"Excluded"	"999"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"1995"	"1995"			624832
+	"Division 3: East North Central"	"CENS-D3"	"1996"	"1996"	"0 -  8 years"	"19176"	24628
+	"Division 3: East North Central"	"CENS-D3"	"1996"	"1996"	"9 - 11 years"	"19177"	93647
+	"Division 3: East North Central"	"CENS-D3"	"1996"	"1996"	"12 years"	"19178"	210782
+	"Division 3: East North Central"	"CENS-D3"	"1996"	"1996"	"13 - 15 years"	"19179"	144210
+	"Division 3: East North Central"	"CENS-D3"	"1996"	"1996"	"16 years and over"	"16+"	141084
+	"Division 3: East North Central"	"CENS-D3"	"1996"	"1996"	"Not stated/Not on certificate"	"NR"	4527
+	"Division 3: East North Central"	"CENS-D3"	"1996"	"1996"	"Excluded"	"999"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"1996"	"1996"			618878
+	"Division 3: East North Central"	"CENS-D3"	"1997"	"1997"	"0 -  8 years"	"19176"	24280
+	"Division 3: East North Central"	"CENS-D3"	"1997"	"1997"	"9 - 11 years"	"19177"	92934
+	"Division 3: East North Central"	"CENS-D3"	"1997"	"1997"	"12 years"	"19178"	205980
+	"Division 3: East North Central"	"CENS-D3"	"1997"	"1997"	"13 - 15 years"	"19179"	143628
+	"Division 3: East North Central"	"CENS-D3"	"1997"	"1997"	"16 years and over"	"16+"	145259
+	"Division 3: East North Central"	"CENS-D3"	"1997"	"1997"	"Not stated/Not on certificate"	"NR"	4462
+	"Division 3: East North Central"	"CENS-D3"	"1997"	"1997"	"Excluded"	"999"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"1997"	"1997"			616543
+	"Division 3: East North Central"	"CENS-D3"	"1998"	"1998"	"0 -  8 years"	"19176"	24733
+	"Division 3: East North Central"	"CENS-D3"	"1998"	"1998"	"9 - 11 years"	"19177"	93301
+	"Division 3: East North Central"	"CENS-D3"	"1998"	"1998"	"12 years"	"19178"	204628
+	"Division 3: East North Central"	"CENS-D3"	"1998"	"1998"	"13 - 15 years"	"19179"	143887
+	"Division 3: East North Central"	"CENS-D3"	"1998"	"1998"	"16 years and over"	"16+"	150061
+	"Division 3: East North Central"	"CENS-D3"	"1998"	"1998"	"Not stated/Not on certificate"	"NR"	5010
+	"Division 3: East North Central"	"CENS-D3"	"1998"	"1998"	"Excluded"	"999"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"1998"	"1998"			621620
+	"Division 3: East North Central"	"CENS-D3"	"1999"	"1999"	"0 -  8 years"	"19176"	25410
+	"Division 3: East North Central"	"CENS-D3"	"1999"	"1999"	"9 - 11 years"	"19177"	91739
+	"Division 3: East North Central"	"CENS-D3"	"1999"	"1999"	"12 years"	"19178"	201432
+	"Division 3: East North Central"	"CENS-D3"	"1999"	"1999"	"13 - 15 years"	"19179"	142601
+	"Division 3: East North Central"	"CENS-D3"	"1999"	"1999"	"16 years and over"	"16+"	155263
+	"Division 3: East North Central"	"CENS-D3"	"1999"	"1999"	"Not stated/Not on certificate"	"NR"	6053
+	"Division 3: East North Central"	"CENS-D3"	"1999"	"1999"	"Excluded"	"999"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"1999"	"1999"			622498
+	"Division 3: East North Central"	"CENS-D3"	"2000"	"2000"	"0 -  8 years"	"19176"	27448
+	"Division 3: East North Central"	"CENS-D3"	"2000"	"2000"	"9 - 11 years"	"19177"	92406
+	"Division 3: East North Central"	"CENS-D3"	"2000"	"2000"	"12 years"	"19178"	202450
+	"Division 3: East North Central"	"CENS-D3"	"2000"	"2000"	"13 - 15 years"	"19179"	142928
+	"Division 3: East North Central"	"CENS-D3"	"2000"	"2000"	"16 years and over"	"16+"	161590
+	"Division 3: East North Central"	"CENS-D3"	"2000"	"2000"	"Not stated/Not on certificate"	"NR"	6882
+	"Division 3: East North Central"	"CENS-D3"	"2000"	"2000"	"Excluded"	"999"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"2000"	"2000"			633704
+	"Division 3: East North Central"	"CENS-D3"	"2001"	"2001"	"0 -  8 years"	"19176"	28206
+	"Division 3: East North Central"	"CENS-D3"	"2001"	"2001"	"9 - 11 years"	"19177"	89260
+	"Division 3: East North Central"	"CENS-D3"	"2001"	"2001"	"12 years"	"19178"	197787
+	"Division 3: East North Central"	"CENS-D3"	"2001"	"2001"	"13 - 15 years"	"19179"	140385
+	"Division 3: East North Central"	"CENS-D3"	"2001"	"2001"	"16 years and over"	"16+"	162015
+	"Division 3: East North Central"	"CENS-D3"	"2001"	"2001"	"Not stated/Not on certificate"	"NR"	6939
+	"Division 3: East North Central"	"CENS-D3"	"2001"	"2001"	"Excluded"	"999"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"2001"	"2001"			624592
+	"Division 3: East North Central"	"CENS-D3"	"2002"	"2002"	"0 -  8 years"	"19176"	27813
+	"Division 3: East North Central"	"CENS-D3"	"2002"	"2002"	"9 - 11 years"	"19177"	86192
+	"Division 3: East North Central"	"CENS-D3"	"2002"	"2002"	"12 years"	"19178"	188989
+	"Division 3: East North Central"	"CENS-D3"	"2002"	"2002"	"13 - 15 years"	"19179"	137749
+	"Division 3: East North Central"	"CENS-D3"	"2002"	"2002"	"16 years and over"	"16+"	165531
+	"Division 3: East North Central"	"CENS-D3"	"2002"	"2002"	"Not stated/Not on certificate"	"NR"	6676
+	"Division 3: East North Central"	"CENS-D3"	"2002"	"2002"	"Excluded"	"999"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"2002"	"2002"			612950
+"Total"	"Division 3: East North Central"	"CENS-D3"					4975617
+	"Division 4: West North Central"	"CENS-D4"	"1995"	"1995"	"0 -  8 years"	"19176"	6495
+	"Division 4: West North Central"	"CENS-D4"	"1995"	"1995"	"9 - 11 years"	"19177"	30038
+	"Division 4: West North Central"	"CENS-D4"	"1995"	"1995"	"12 years"	"19178"	81968
+	"Division 4: West North Central"	"CENS-D4"	"1995"	"1995"	"13 - 15 years"	"19179"	66113
+	"Division 4: West North Central"	"CENS-D4"	"1995"	"1995"	"16 years and over"	"16+"	64682
+	"Division 4: West North Central"	"CENS-D4"	"1995"	"1995"	"Not stated/Not on certificate"	"NR"	3200
+	"Division 4: West North Central"	"CENS-D4"	"1995"	"1995"	"Excluded"	"999"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"1995"	"1995"			252496
+	"Division 4: West North Central"	"CENS-D4"	"1996"	"1996"	"0 -  8 years"	"19176"	6670
+	"Division 4: West North Central"	"CENS-D4"	"1996"	"1996"	"9 - 11 years"	"19177"	30758
+	"Division 4: West North Central"	"CENS-D4"	"1996"	"1996"	"12 years"	"19178"	79971
+	"Division 4: West North Central"	"CENS-D4"	"1996"	"1996"	"13 - 15 years"	"19179"	65385
+	"Division 4: West North Central"	"CENS-D4"	"1996"	"1996"	"16 years and over"	"16+"	67687
+	"Division 4: West North Central"	"CENS-D4"	"1996"	"1996"	"Not stated/Not on certificate"	"NR"	2957
+	"Division 4: West North Central"	"CENS-D4"	"1996"	"1996"	"Excluded"	"999"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"1996"	"1996"			253428
+	"Division 4: West North Central"	"CENS-D4"	"1997"	"1997"	"0 -  8 years"	"19176"	7069
+	"Division 4: West North Central"	"CENS-D4"	"1997"	"1997"	"9 - 11 years"	"19177"	30982
+	"Division 4: West North Central"	"CENS-D4"	"1997"	"1997"	"12 years"	"19178"	79958
+	"Division 4: West North Central"	"CENS-D4"	"1997"	"1997"	"13 - 15 years"	"19179"	64640
+	"Division 4: West North Central"	"CENS-D4"	"1997"	"1997"	"16 years and over"	"16+"	68991
+	"Division 4: West North Central"	"CENS-D4"	"1997"	"1997"	"Not stated/Not on certificate"	"NR"	2689
+	"Division 4: West North Central"	"CENS-D4"	"1997"	"1997"	"Excluded"	"999"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"1997"	"1997"			254329
+	"Division 4: West North Central"	"CENS-D4"	"1998"	"1998"	"0 -  8 years"	"19176"	7135
+	"Division 4: West North Central"	"CENS-D4"	"1998"	"1998"	"9 - 11 years"	"19177"	31948
+	"Division 4: West North Central"	"CENS-D4"	"1998"	"1998"	"12 years"	"19178"	79850
+	"Division 4: West North Central"	"CENS-D4"	"1998"	"1998"	"13 - 15 years"	"19179"	65096
+	"Division 4: West North Central"	"CENS-D4"	"1998"	"1998"	"16 years and over"	"16+"	71132
+	"Division 4: West North Central"	"CENS-D4"	"1998"	"1998"	"Not stated/Not on certificate"	"NR"	2857
+	"Division 4: West North Central"	"CENS-D4"	"1998"	"1998"	"Excluded"	"999"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"1998"	"1998"			258018
+	"Division 4: West North Central"	"CENS-D4"	"1999"	"1999"	"0 -  8 years"	"19176"	7544
+	"Division 4: West North Central"	"CENS-D4"	"1999"	"1999"	"9 - 11 years"	"19177"	32251
+	"Division 4: West North Central"	"CENS-D4"	"1999"	"1999"	"12 years"	"19178"	79078
+	"Division 4: West North Central"	"CENS-D4"	"1999"	"1999"	"13 - 15 years"	"19179"	64547
+	"Division 4: West North Central"	"CENS-D4"	"1999"	"1999"	"16 years and over"	"16+"	73645
+	"Division 4: West North Central"	"CENS-D4"	"1999"	"1999"	"Not stated/Not on certificate"	"NR"	2747
+	"Division 4: West North Central"	"CENS-D4"	"1999"	"1999"	"Excluded"	"999"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"1999"	"1999"			259812
+	"Division 4: West North Central"	"CENS-D4"	"2000"	"2000"	"0 -  8 years"	"19176"	8125
+	"Division 4: West North Central"	"CENS-D4"	"2000"	"2000"	"9 - 11 years"	"19177"	32800
+	"Division 4: West North Central"	"CENS-D4"	"2000"	"2000"	"12 years"	"19178"	79049
+	"Division 4: West North Central"	"CENS-D4"	"2000"	"2000"	"13 - 15 years"	"19179"	66728
+	"Division 4: West North Central"	"CENS-D4"	"2000"	"2000"	"16 years and over"	"16+"	75373
+	"Division 4: West North Central"	"CENS-D4"	"2000"	"2000"	"Not stated/Not on certificate"	"NR"	2591
+	"Division 4: West North Central"	"CENS-D4"	"2000"	"2000"	"Excluded"	"999"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"2000"	"2000"			264666
+	"Division 4: West North Central"	"CENS-D4"	"2001"	"2001"	"0 -  8 years"	"19176"	8414
+	"Division 4: West North Central"	"CENS-D4"	"2001"	"2001"	"9 - 11 years"	"19177"	31963
+	"Division 4: West North Central"	"CENS-D4"	"2001"	"2001"	"12 years"	"19178"	76163
+	"Division 4: West North Central"	"CENS-D4"	"2001"	"2001"	"13 - 15 years"	"19179"	66754
+	"Division 4: West North Central"	"CENS-D4"	"2001"	"2001"	"16 years and over"	"16+"	76744
+	"Division 4: West North Central"	"CENS-D4"	"2001"	"2001"	"Not stated/Not on certificate"	"NR"	2408
+	"Division 4: West North Central"	"CENS-D4"	"2001"	"2001"	"Excluded"	"999"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"2001"	"2001"			262446
+	"Division 4: West North Central"	"CENS-D4"	"2002"	"2002"	"0 -  8 years"	"19176"	8851
+	"Division 4: West North Central"	"CENS-D4"	"2002"	"2002"	"9 - 11 years"	"19177"	32335
+	"Division 4: West North Central"	"CENS-D4"	"2002"	"2002"	"12 years"	"19178"	75589
+	"Division 4: West North Central"	"CENS-D4"	"2002"	"2002"	"13 - 15 years"	"19179"	66646
+	"Division 4: West North Central"	"CENS-D4"	"2002"	"2002"	"16 years and over"	"16+"	78625
+	"Division 4: West North Central"	"CENS-D4"	"2002"	"2002"	"Not stated/Not on certificate"	"NR"	2039
+	"Division 4: West North Central"	"CENS-D4"	"2002"	"2002"	"Excluded"	"999"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"2002"	"2002"			264085
+"Total"	"Division 4: West North Central"	"CENS-D4"					2069280
+	"Division 5: South Atlantic"	"CENS-D5"	"1995"	"1995"	"0 -  8 years"	"19176"	27289
+	"Division 5: South Atlantic"	"CENS-D5"	"1995"	"1995"	"9 - 11 years"	"19177"	106038
+	"Division 5: South Atlantic"	"CENS-D5"	"1995"	"1995"	"12 years"	"19178"	230956
+	"Division 5: South Atlantic"	"CENS-D5"	"1995"	"1995"	"13 - 15 years"	"19179"	143528
+	"Division 5: South Atlantic"	"CENS-D5"	"1995"	"1995"	"16 years and over"	"16+"	143943
+	"Division 5: South Atlantic"	"CENS-D5"	"1995"	"1995"	"Not stated/Not on certificate"	"NR"	7185
+	"Division 5: South Atlantic"	"CENS-D5"	"1995"	"1995"	"Excluded"	"999"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"1995"	"1995"			658939
+	"Division 5: South Atlantic"	"CENS-D5"	"1996"	"1996"	"0 -  8 years"	"19176"	27391
+	"Division 5: South Atlantic"	"CENS-D5"	"1996"	"1996"	"9 - 11 years"	"19177"	105044
+	"Division 5: South Atlantic"	"CENS-D5"	"1996"	"1996"	"12 years"	"19178"	227432
+	"Division 5: South Atlantic"	"CENS-D5"	"1996"	"1996"	"13 - 15 years"	"19179"	143792
+	"Division 5: South Atlantic"	"CENS-D5"	"1996"	"1996"	"16 years and over"	"16+"	150401
+	"Division 5: South Atlantic"	"CENS-D5"	"1996"	"1996"	"Not stated/Not on certificate"	"NR"	8144
+	"Division 5: South Atlantic"	"CENS-D5"	"1996"	"1996"	"Excluded"	"999"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"1996"	"1996"			662204
+	"Division 5: South Atlantic"	"CENS-D5"	"1997"	"1997"	"0 -  8 years"	"19176"	27418
+	"Division 5: South Atlantic"	"CENS-D5"	"1997"	"1997"	"9 - 11 years"	"19177"	105800
+	"Division 5: South Atlantic"	"CENS-D5"	"1997"	"1997"	"12 years"	"19178"	225428
+	"Division 5: South Atlantic"	"CENS-D5"	"1997"	"1997"	"13 - 15 years"	"19179"	145593
+	"Division 5: South Atlantic"	"CENS-D5"	"1997"	"1997"	"16 years and over"	"16+"	157498
+	"Division 5: South Atlantic"	"CENS-D5"	"1997"	"1997"	"Not stated/Not on certificate"	"NR"	9083
+	"Division 5: South Atlantic"	"CENS-D5"	"1997"	"1997"	"Excluded"	"999"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"1997"	"1997"			670820
+	"Division 5: South Atlantic"	"CENS-D5"	"1998"	"1998"	"0 -  8 years"	"19176"	28071
+	"Division 5: South Atlantic"	"CENS-D5"	"1998"	"1998"	"9 - 11 years"	"19177"	107981
+	"Division 5: South Atlantic"	"CENS-D5"	"1998"	"1998"	"12 years"	"19178"	230691
+	"Division 5: South Atlantic"	"CENS-D5"	"1998"	"1998"	"13 - 15 years"	"19179"	148880
+	"Division 5: South Atlantic"	"CENS-D5"	"1998"	"1998"	"16 years and over"	"16+"	164616
+	"Division 5: South Atlantic"	"CENS-D5"	"1998"	"1998"	"Not stated/Not on certificate"	"NR"	8665
+	"Division 5: South Atlantic"	"CENS-D5"	"1998"	"1998"	"Excluded"	"999"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"1998"	"1998"			688904
+	"Division 5: South Atlantic"	"CENS-D5"	"1999"	"1999"	"0 -  8 years"	"19176"	29329
+	"Division 5: South Atlantic"	"CENS-D5"	"1999"	"1999"	"9 - 11 years"	"19177"	107824
+	"Division 5: South Atlantic"	"CENS-D5"	"1999"	"1999"	"12 years"	"19178"	231040
+	"Division 5: South Atlantic"	"CENS-D5"	"1999"	"1999"	"13 - 15 years"	"19179"	150606
+	"Division 5: South Atlantic"	"CENS-D5"	"1999"	"1999"	"16 years and over"	"16+"	170433
+	"Division 5: South Atlantic"	"CENS-D5"	"1999"	"1999"	"Not stated/Not on certificate"	"NR"	9613
+	"Division 5: South Atlantic"	"CENS-D5"	"1999"	"1999"	"Excluded"	"999"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"1999"	"1999"			698845
+	"Division 5: South Atlantic"	"CENS-D5"	"2000"	"2000"	"0 -  8 years"	"19176"	32705
+	"Division 5: South Atlantic"	"CENS-D5"	"2000"	"2000"	"9 - 11 years"	"19177"	110244
+	"Division 5: South Atlantic"	"CENS-D5"	"2000"	"2000"	"12 years"	"19178"	239893
+	"Division 5: South Atlantic"	"CENS-D5"	"2000"	"2000"	"13 - 15 years"	"19179"	153950
+	"Division 5: South Atlantic"	"CENS-D5"	"2000"	"2000"	"16 years and over"	"16+"	182210
+	"Division 5: South Atlantic"	"CENS-D5"	"2000"	"2000"	"Not stated/Not on certificate"	"NR"	7028
+	"Division 5: South Atlantic"	"CENS-D5"	"2000"	"2000"	"Excluded"	"999"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"2000"	"2000"			726030
+	"Division 5: South Atlantic"	"CENS-D5"	"2001"	"2001"	"0 -  8 years"	"19176"	35956
+	"Division 5: South Atlantic"	"CENS-D5"	"2001"	"2001"	"9 - 11 years"	"19177"	109468
+	"Division 5: South Atlantic"	"CENS-D5"	"2001"	"2001"	"12 years"	"19178"	234810
+	"Division 5: South Atlantic"	"CENS-D5"	"2001"	"2001"	"13 - 15 years"	"19179"	153049
+	"Division 5: South Atlantic"	"CENS-D5"	"2001"	"2001"	"16 years and over"	"16+"	184405
+	"Division 5: South Atlantic"	"CENS-D5"	"2001"	"2001"	"Not stated/Not on certificate"	"NR"	6476
+	"Division 5: South Atlantic"	"CENS-D5"	"2001"	"2001"	"Excluded"	"999"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"2001"	"2001"			724164
+	"Division 5: South Atlantic"	"CENS-D5"	"2002"	"2002"	"0 -  8 years"	"19176"	37110
+	"Division 5: South Atlantic"	"CENS-D5"	"2002"	"2002"	"9 - 11 years"	"19177"	106480
+	"Division 5: South Atlantic"	"CENS-D5"	"2002"	"2002"	"12 years"	"19178"	230795
+	"Division 5: South Atlantic"	"CENS-D5"	"2002"	"2002"	"13 - 15 years"	"19179"	152252
+	"Division 5: South Atlantic"	"CENS-D5"	"2002"	"2002"	"16 years and over"	"16+"	189141
+	"Division 5: South Atlantic"	"CENS-D5"	"2002"	"2002"	"Not stated/Not on certificate"	"NR"	7301
+	"Division 5: South Atlantic"	"CENS-D5"	"2002"	"2002"	"Excluded"	"999"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"2002"	"2002"			723079
+"Total"	"Division 5: South Atlantic"	"CENS-D5"					5552985
+	"Division 6: East South Central"	"CENS-D6"	"1995"	"1995"	"0 -  8 years"	"19176"	8741
+	"Division 6: East South Central"	"CENS-D6"	"1995"	"1995"	"9 - 11 years"	"19177"	45336
+	"Division 6: East South Central"	"CENS-D6"	"1995"	"1995"	"12 years"	"19178"	84113
+	"Division 6: East South Central"	"CENS-D6"	"1995"	"1995"	"13 - 15 years"	"19179"	49404
+	"Division 6: East South Central"	"CENS-D6"	"1995"	"1995"	"16 years and over"	"16+"	38990
+	"Division 6: East South Central"	"CENS-D6"	"1995"	"1995"	"Not stated/Not on certificate"	"NR"	639
+	"Division 6: East South Central"	"CENS-D6"	"1995"	"1995"	"Excluded"	"999"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"1995"	"1995"			227223
+	"Division 6: East South Central"	"CENS-D6"	"1996"	"1996"	"0 -  8 years"	"19176"	8688
+	"Division 6: East South Central"	"CENS-D6"	"1996"	"1996"	"9 - 11 years"	"19177"	45076
+	"Division 6: East South Central"	"CENS-D6"	"1996"	"1996"	"12 years"	"19178"	82569
+	"Division 6: East South Central"	"CENS-D6"	"1996"	"1996"	"13 - 15 years"	"19179"	50262
+	"Division 6: East South Central"	"CENS-D6"	"1996"	"1996"	"16 years and over"	"16+"	40720
+	"Division 6: East South Central"	"CENS-D6"	"1996"	"1996"	"Not stated/Not on certificate"	"NR"	620
+	"Division 6: East South Central"	"CENS-D6"	"1996"	"1996"	"Excluded"	"999"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"1996"	"1996"			227935
+	"Division 6: East South Central"	"CENS-D6"	"1997"	"1997"	"0 -  8 years"	"19176"	8462
+	"Division 6: East South Central"	"CENS-D6"	"1997"	"1997"	"9 - 11 years"	"19177"	45113
+	"Division 6: East South Central"	"CENS-D6"	"1997"	"1997"	"12 years"	"19178"	82400
+	"Division 6: East South Central"	"CENS-D6"	"1997"	"1997"	"13 - 15 years"	"19179"	51129
+	"Division 6: East South Central"	"CENS-D6"	"1997"	"1997"	"16 years and over"	"16+"	42487
+	"Division 6: East South Central"	"CENS-D6"	"1997"	"1997"	"Not stated/Not on certificate"	"NR"	537
+	"Division 6: East South Central"	"CENS-D6"	"1997"	"1997"	"Excluded"	"999"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"1997"	"1997"			230128
+	"Division 6: East South Central"	"CENS-D6"	"1998"	"1998"	"0 -  8 years"	"19176"	8625
+	"Division 6: East South Central"	"CENS-D6"	"1998"	"1998"	"9 - 11 years"	"19177"	46042
+	"Division 6: East South Central"	"CENS-D6"	"1998"	"1998"	"12 years"	"19178"	84113
+	"Division 6: East South Central"	"CENS-D6"	"1998"	"1998"	"13 - 15 years"	"19179"	53319
+	"Division 6: East South Central"	"CENS-D6"	"1998"	"1998"	"16 years and over"	"16+"	44100
+	"Division 6: East South Central"	"CENS-D6"	"1998"	"1998"	"Not stated/Not on certificate"	"NR"	539
+	"Division 6: East South Central"	"CENS-D6"	"1998"	"1998"	"Excluded"	"999"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"1998"	"1998"			236738
+	"Division 6: East South Central"	"CENS-D6"	"1999"	"1999"	"0 -  8 years"	"19176"	8396
+	"Division 6: East South Central"	"CENS-D6"	"1999"	"1999"	"9 - 11 years"	"19177"	45164
+	"Division 6: East South Central"	"CENS-D6"	"1999"	"1999"	"12 years"	"19178"	83693
+	"Division 6: East South Central"	"CENS-D6"	"1999"	"1999"	"13 - 15 years"	"19179"	53544
+	"Division 6: East South Central"	"CENS-D6"	"1999"	"1999"	"16 years and over"	"16+"	45599
+	"Division 6: East South Central"	"CENS-D6"	"1999"	"1999"	"Not stated/Not on certificate"	"NR"	616
+	"Division 6: East South Central"	"CENS-D6"	"1999"	"1999"	"Excluded"	"999"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"1999"	"1999"			237012
+	"Division 6: East South Central"	"CENS-D6"	"2000"	"2000"	"0 -  8 years"	"19176"	8754
+	"Division 6: East South Central"	"CENS-D6"	"2000"	"2000"	"9 - 11 years"	"19177"	46082
+	"Division 6: East South Central"	"CENS-D6"	"2000"	"2000"	"12 years"	"19178"	84701
+	"Division 6: East South Central"	"CENS-D6"	"2000"	"2000"	"13 - 15 years"	"19179"	54992
+	"Division 6: East South Central"	"CENS-D6"	"2000"	"2000"	"16 years and over"	"16+"	47831
+	"Division 6: East South Central"	"CENS-D6"	"2000"	"2000"	"Not stated/Not on certificate"	"NR"	654
+	"Division 6: East South Central"	"CENS-D6"	"2000"	"2000"	"Excluded"	"999"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"2000"	"2000"			243014
+	"Division 6: East South Central"	"CENS-D6"	"2001"	"2001"	"0 -  8 years"	"19176"	8907
+	"Division 6: East South Central"	"CENS-D6"	"2001"	"2001"	"9 - 11 years"	"19177"	43534
+	"Division 6: East South Central"	"CENS-D6"	"2001"	"2001"	"12 years"	"19178"	82544
+	"Division 6: East South Central"	"CENS-D6"	"2001"	"2001"	"13 - 15 years"	"19179"	52793
+	"Division 6: East South Central"	"CENS-D6"	"2001"	"2001"	"16 years and over"	"16+"	47305
+	"Division 6: East South Central"	"CENS-D6"	"2001"	"2001"	"Not stated/Not on certificate"	"NR"	651
+	"Division 6: East South Central"	"CENS-D6"	"2001"	"2001"	"Excluded"	"999"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"2001"	"2001"			235734
+	"Division 6: East South Central"	"CENS-D6"	"2002"	"2002"	"0 -  8 years"	"19176"	8908
+	"Division 6: East South Central"	"CENS-D6"	"2002"	"2002"	"9 - 11 years"	"19177"	42495
+	"Division 6: East South Central"	"CENS-D6"	"2002"	"2002"	"12 years"	"19178"	79739
+	"Division 6: East South Central"	"CENS-D6"	"2002"	"2002"	"13 - 15 years"	"19179"	52062
+	"Division 6: East South Central"	"CENS-D6"	"2002"	"2002"	"16 years and over"	"16+"	48371
+	"Division 6: East South Central"	"CENS-D6"	"2002"	"2002"	"Not stated/Not on certificate"	"NR"	625
+	"Division 6: East South Central"	"CENS-D6"	"2002"	"2002"	"Excluded"	"999"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"2002"	"2002"			232200
+"Total"	"Division 6: East South Central"	"CENS-D6"					1869984
+	"Division 7: West South Central"	"CENS-D7"	"1995"	"1995"	"0 -  8 years"	"19176"	42475
+	"Division 7: West South Central"	"CENS-D7"	"1995"	"1995"	"9 - 11 years"	"19177"	101296
+	"Division 7: West South Central"	"CENS-D7"	"1995"	"1995"	"12 years"	"19178"	157341
+	"Division 7: West South Central"	"CENS-D7"	"1995"	"1995"	"13 - 15 years"	"19179"	85424
+	"Division 7: West South Central"	"CENS-D7"	"1995"	"1995"	"16 years and over"	"16+"	77215
+	"Division 7: West South Central"	"CENS-D7"	"1995"	"1995"	"Not stated/Not on certificate"	"NR"	5490
+	"Division 7: West South Central"	"CENS-D7"	"1995"	"1995"	"Excluded"	"999"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"1995"	"1995"			469241
+	"Division 7: West South Central"	"CENS-D7"	"1996"	"1996"	"0 -  8 years"	"19176"	42025
+	"Division 7: West South Central"	"CENS-D7"	"1996"	"1996"	"9 - 11 years"	"19177"	103610
+	"Division 7: West South Central"	"CENS-D7"	"1996"	"1996"	"12 years"	"19178"	158802
+	"Division 7: West South Central"	"CENS-D7"	"1996"	"1996"	"13 - 15 years"	"19179"	87061
+	"Division 7: West South Central"	"CENS-D7"	"1996"	"1996"	"16 years and over"	"16+"	80809
+	"Division 7: West South Central"	"CENS-D7"	"1996"	"1996"	"Not stated/Not on certificate"	"NR"	5867
+	"Division 7: West South Central"	"CENS-D7"	"1996"	"1996"	"Excluded"	"999"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"1996"	"1996"			478174
+	"Division 7: West South Central"	"CENS-D7"	"1997"	"1997"	"0 -  8 years"	"19176"	41455
+	"Division 7: West South Central"	"CENS-D7"	"1997"	"1997"	"9 - 11 years"	"19177"	105023
+	"Division 7: West South Central"	"CENS-D7"	"1997"	"1997"	"12 years"	"19178"	160292
+	"Division 7: West South Central"	"CENS-D7"	"1997"	"1997"	"13 - 15 years"	"19179"	89117
+	"Division 7: West South Central"	"CENS-D7"	"1997"	"1997"	"16 years and over"	"16+"	83345
+	"Division 7: West South Central"	"CENS-D7"	"1997"	"1997"	"Not stated/Not on certificate"	"NR"	5514
+	"Division 7: West South Central"	"CENS-D7"	"1997"	"1997"	"Excluded"	"999"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"1997"	"1997"			484746
+	"Division 7: West South Central"	"CENS-D7"	"1998"	"1998"	"0 -  8 years"	"19176"	40344
+	"Division 7: West South Central"	"CENS-D7"	"1998"	"1998"	"9 - 11 years"	"19177"	107191
+	"Division 7: West South Central"	"CENS-D7"	"1998"	"1998"	"12 years"	"19178"	163557
+	"Division 7: West South Central"	"CENS-D7"	"1998"	"1998"	"13 - 15 years"	"19179"	91304
+	"Division 7: West South Central"	"CENS-D7"	"1998"	"1998"	"16 years and over"	"16+"	87189
+	"Division 7: West South Central"	"CENS-D7"	"1998"	"1998"	"Not stated/Not on certificate"	"NR"	5912
+	"Division 7: West South Central"	"CENS-D7"	"1998"	"1998"	"Excluded"	"999"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"1998"	"1998"			495497
+	"Division 7: West South Central"	"CENS-D7"	"1999"	"1999"	"0 -  8 years"	"19176"	41070
+	"Division 7: West South Central"	"CENS-D7"	"1999"	"1999"	"9 - 11 years"	"19177"	108002
+	"Division 7: West South Central"	"CENS-D7"	"1999"	"1999"	"12 years"	"19178"	164264
+	"Division 7: West South Central"	"CENS-D7"	"1999"	"1999"	"13 - 15 years"	"19179"	91138
+	"Division 7: West South Central"	"CENS-D7"	"1999"	"1999"	"16 years and over"	"16+"	90250
+	"Division 7: West South Central"	"CENS-D7"	"1999"	"1999"	"Not stated/Not on certificate"	"NR"	7396
+	"Division 7: West South Central"	"CENS-D7"	"1999"	"1999"	"Excluded"	"999"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"1999"	"1999"			502120
+	"Division 7: West South Central"	"CENS-D7"	"2000"	"2000"	"0 -  8 years"	"19176"	42874
+	"Division 7: West South Central"	"CENS-D7"	"2000"	"2000"	"9 - 11 years"	"19177"	109888
+	"Division 7: West South Central"	"CENS-D7"	"2000"	"2000"	"12 years"	"19178"	169973
+	"Division 7: West South Central"	"CENS-D7"	"2000"	"2000"	"13 - 15 years"	"19179"	92723
+	"Division 7: West South Central"	"CENS-D7"	"2000"	"2000"	"16 years and over"	"16+"	94935
+	"Division 7: West South Central"	"CENS-D7"	"2000"	"2000"	"Not stated/Not on certificate"	"NR"	8484
+	"Division 7: West South Central"	"CENS-D7"	"2000"	"2000"	"Excluded"	"999"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"2000"	"2000"			518877
+	"Division 7: West South Central"	"CENS-D7"	"2001"	"2001"	"0 -  8 years"	"19176"	42986
+	"Division 7: West South Central"	"CENS-D7"	"2001"	"2001"	"9 - 11 years"	"19177"	109456
+	"Division 7: West South Central"	"CENS-D7"	"2001"	"2001"	"12 years"	"19178"	170520
+	"Division 7: West South Central"	"CENS-D7"	"2001"	"2001"	"13 - 15 years"	"19179"	91061
+	"Division 7: West South Central"	"CENS-D7"	"2001"	"2001"	"16 years and over"	"16+"	96083
+	"Division 7: West South Central"	"CENS-D7"	"2001"	"2001"	"Not stated/Not on certificate"	"NR"	7784
+	"Division 7: West South Central"	"CENS-D7"	"2001"	"2001"	"Excluded"	"999"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"2001"	"2001"			517890
+	"Division 7: West South Central"	"CENS-D7"	"2002"	"2002"	"0 -  8 years"	"19176"	44028
+	"Division 7: West South Central"	"CENS-D7"	"2002"	"2002"	"9 - 11 years"	"19177"	110681
+	"Division 7: West South Central"	"CENS-D7"	"2002"	"2002"	"12 years"	"19178"	172902
+	"Division 7: West South Central"	"CENS-D7"	"2002"	"2002"	"13 - 15 years"	"19179"	92528
+	"Division 7: West South Central"	"CENS-D7"	"2002"	"2002"	"16 years and over"	"16+"	98990
+	"Division 7: West South Central"	"CENS-D7"	"2002"	"2002"	"Not stated/Not on certificate"	"NR"	6017
+	"Division 7: West South Central"	"CENS-D7"	"2002"	"2002"	"Excluded"	"999"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"2002"	"2002"			525146
+"Total"	"Division 7: West South Central"	"CENS-D7"					3991691
+	"Division 8: Mountain"	"CENS-D8"	"1995"	"1995"	"0 -  8 years"	"19176"	14451
+	"Division 8: Mountain"	"CENS-D8"	"1995"	"1995"	"9 - 11 years"	"19177"	40895
+	"Division 8: Mountain"	"CENS-D8"	"1995"	"1995"	"12 years"	"19178"	83618
+	"Division 8: Mountain"	"CENS-D8"	"1995"	"1995"	"13 - 15 years"	"19179"	61833
+	"Division 8: Mountain"	"CENS-D8"	"1995"	"1995"	"16 years and over"	"16+"	47736
+	"Division 8: Mountain"	"CENS-D8"	"1995"	"1995"	"Not stated/Not on certificate"	"NR"	5253
+	"Division 8: Mountain"	"CENS-D8"	"1995"	"1995"	"Excluded"	"999"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"1995"	"1995"			253786
+	"Division 8: Mountain"	"CENS-D8"	"1996"	"1996"	"0 -  8 years"	"19176"	15743
+	"Division 8: Mountain"	"CENS-D8"	"1996"	"1996"	"9 - 11 years"	"19177"	42401
+	"Division 8: Mountain"	"CENS-D8"	"1996"	"1996"	"12 years"	"19178"	86140
+	"Division 8: Mountain"	"CENS-D8"	"1996"	"1996"	"13 - 15 years"	"19179"	63083
+	"Division 8: Mountain"	"CENS-D8"	"1996"	"1996"	"16 years and over"	"16+"	50387
+	"Division 8: Mountain"	"CENS-D8"	"1996"	"1996"	"Not stated/Not on certificate"	"NR"	4582
+	"Division 8: Mountain"	"CENS-D8"	"1996"	"1996"	"Excluded"	"999"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"1996"	"1996"			262336
+	"Division 8: Mountain"	"CENS-D8"	"1997"	"1997"	"0 -  8 years"	"19176"	15368
+	"Division 8: Mountain"	"CENS-D8"	"1997"	"1997"	"9 - 11 years"	"19177"	43264
+	"Division 8: Mountain"	"CENS-D8"	"1997"	"1997"	"12 years"	"19178"	84758
+	"Division 8: Mountain"	"CENS-D8"	"1997"	"1997"	"13 - 15 years"	"19179"	63364
+	"Division 8: Mountain"	"CENS-D8"	"1997"	"1997"	"16 years and over"	"16+"	52203
+	"Division 8: Mountain"	"CENS-D8"	"1997"	"1997"	"Not stated/Not on certificate"	"NR"	5934
+	"Division 8: Mountain"	"CENS-D8"	"1997"	"1997"	"Excluded"	"999"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"1997"	"1997"			264891
+	"Division 8: Mountain"	"CENS-D8"	"1998"	"1998"	"0 -  8 years"	"19176"	15977
+	"Division 8: Mountain"	"CENS-D8"	"1998"	"1998"	"9 - 11 years"	"19177"	45805
+	"Division 8: Mountain"	"CENS-D8"	"1998"	"1998"	"12 years"	"19178"	87445
+	"Division 8: Mountain"	"CENS-D8"	"1998"	"1998"	"13 - 15 years"	"19179"	65139
+	"Division 8: Mountain"	"CENS-D8"	"1998"	"1998"	"16 years and over"	"16+"	55077
+	"Division 8: Mountain"	"CENS-D8"	"1998"	"1998"	"Not stated/Not on certificate"	"NR"	5997
+	"Division 8: Mountain"	"CENS-D8"	"1998"	"1998"	"Excluded"	"999"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"1998"	"1998"			275440
+	"Division 8: Mountain"	"CENS-D8"	"1999"	"1999"	"0 -  8 years"	"19176"	17151
+	"Division 8: Mountain"	"CENS-D8"	"1999"	"1999"	"9 - 11 years"	"19177"	47192
+	"Division 8: Mountain"	"CENS-D8"	"1999"	"1999"	"12 years"	"19178"	87959
+	"Division 8: Mountain"	"CENS-D8"	"1999"	"1999"	"13 - 15 years"	"19179"	66677
+	"Division 8: Mountain"	"CENS-D8"	"1999"	"1999"	"16 years and over"	"16+"	58199
+	"Division 8: Mountain"	"CENS-D8"	"1999"	"1999"	"Not stated/Not on certificate"	"NR"	5763
+	"Division 8: Mountain"	"CENS-D8"	"1999"	"1999"	"Excluded"	"999"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"1999"	"1999"			282941
+	"Division 8: Mountain"	"CENS-D8"	"2000"	"2000"	"0 -  8 years"	"19176"	18384
+	"Division 8: Mountain"	"CENS-D8"	"2000"	"2000"	"9 - 11 years"	"19177"	49698
+	"Division 8: Mountain"	"CENS-D8"	"2000"	"2000"	"12 years"	"19178"	89789
+	"Division 8: Mountain"	"CENS-D8"	"2000"	"2000"	"13 - 15 years"	"19179"	68122
+	"Division 8: Mountain"	"CENS-D8"	"2000"	"2000"	"16 years and over"	"16+"	61749
+	"Division 8: Mountain"	"CENS-D8"	"2000"	"2000"	"Not stated/Not on certificate"	"NR"	5950
+	"Division 8: Mountain"	"CENS-D8"	"2000"	"2000"	"Excluded"	"999"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"2000"	"2000"			293692
+	"Division 8: Mountain"	"CENS-D8"	"2001"	"2001"	"0 -  8 years"	"19176"	19481
+	"Division 8: Mountain"	"CENS-D8"	"2001"	"2001"	"9 - 11 years"	"19177"	50059
+	"Division 8: Mountain"	"CENS-D8"	"2001"	"2001"	"12 years"	"19178"	90794
+	"Division 8: Mountain"	"CENS-D8"	"2001"	"2001"	"13 - 15 years"	"19179"	67647
+	"Division 8: Mountain"	"CENS-D8"	"2001"	"2001"	"16 years and over"	"16+"	63043
+	"Division 8: Mountain"	"CENS-D8"	"2001"	"2001"	"Not stated/Not on certificate"	"NR"	5822
+	"Division 8: Mountain"	"CENS-D8"	"2001"	"2001"	"Excluded"	"999"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"2001"	"2001"			296846
+	"Division 8: Mountain"	"CENS-D8"	"2002"	"2002"	"0 -  8 years"	"19176"	19437
+	"Division 8: Mountain"	"CENS-D8"	"2002"	"2002"	"9 - 11 years"	"19177"	51521
+	"Division 8: Mountain"	"CENS-D8"	"2002"	"2002"	"12 years"	"19178"	93459
+	"Division 8: Mountain"	"CENS-D8"	"2002"	"2002"	"13 - 15 years"	"19179"	68573
+	"Division 8: Mountain"	"CENS-D8"	"2002"	"2002"	"16 years and over"	"16+"	66011
+	"Division 8: Mountain"	"CENS-D8"	"2002"	"2002"	"Not stated/Not on certificate"	"NR"	5329
+	"Division 8: Mountain"	"CENS-D8"	"2002"	"2002"	"Excluded"	"999"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"2002"	"2002"			304330
+"Total"	"Division 8: Mountain"	"CENS-D8"					2234262
+	"Division 9: Pacific"	"CENS-D9"	"1995"	"1995"	"0 -  8 years"	"19176"	88015
+	"Division 9: Pacific"	"CENS-D9"	"1995"	"1995"	"9 - 11 years"	"19177"	123003
+	"Division 9: Pacific"	"CENS-D9"	"1995"	"1995"	"12 years"	"19178"	211389
+	"Division 9: Pacific"	"CENS-D9"	"1995"	"1995"	"13 - 15 years"	"19179"	141605
+	"Division 9: Pacific"	"CENS-D9"	"1995"	"1995"	"16 years and over"	"16+"	123272
+	"Division 9: Pacific"	"CENS-D9"	"1995"	"1995"	"Not stated/Not on certificate"	"NR"	13639
+	"Division 9: Pacific"	"CENS-D9"	"1995"	"1995"	"Excluded"	"999"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"1995"	"1995"			700923
+	"Division 9: Pacific"	"CENS-D9"	"1996"	"1996"	"0 -  8 years"	"19176"	83184
+	"Division 9: Pacific"	"CENS-D9"	"1996"	"1996"	"9 - 11 years"	"19177"	121007
+	"Division 9: Pacific"	"CENS-D9"	"1996"	"1996"	"12 years"	"19178"	206248
+	"Division 9: Pacific"	"CENS-D9"	"1996"	"1996"	"13 - 15 years"	"19179"	139825
+	"Division 9: Pacific"	"CENS-D9"	"1996"	"1996"	"16 years and over"	"16+"	125184
+	"Division 9: Pacific"	"CENS-D9"	"1996"	"1996"	"Not stated/Not on certificate"	"NR"	14026
+	"Division 9: Pacific"	"CENS-D9"	"1996"	"1996"	"Excluded"	"999"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"1996"	"1996"			689474
+	"Division 9: Pacific"	"CENS-D9"	"1997"	"1997"	"0 -  8 years"	"19176"	76414
+	"Division 9: Pacific"	"CENS-D9"	"1997"	"1997"	"9 - 11 years"	"19177"	115069
+	"Division 9: Pacific"	"CENS-D9"	"1997"	"1997"	"12 years"	"19178"	200843
+	"Division 9: Pacific"	"CENS-D9"	"1997"	"1997"	"13 - 15 years"	"19179"	137966
+	"Division 9: Pacific"	"CENS-D9"	"1997"	"1997"	"16 years and over"	"16+"	128086
+	"Division 9: Pacific"	"CENS-D9"	"1997"	"1997"	"Not stated/Not on certificate"	"NR"	15801
+	"Division 9: Pacific"	"CENS-D9"	"1997"	"1997"	"Excluded"	"999"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"1997"	"1997"			674179
+	"Division 9: Pacific"	"CENS-D9"	"1998"	"1998"	"0 -  8 years"	"19176"	70901
+	"Division 9: Pacific"	"CENS-D9"	"1998"	"1998"	"9 - 11 years"	"19177"	113365
+	"Division 9: Pacific"	"CENS-D9"	"1998"	"1998"	"12 years"	"19178"	200471
+	"Division 9: Pacific"	"CENS-D9"	"1998"	"1998"	"13 - 15 years"	"19179"	138308
+	"Division 9: Pacific"	"CENS-D9"	"1998"	"1998"	"16 years and over"	"16+"	132747
+	"Division 9: Pacific"	"CENS-D9"	"1998"	"1998"	"Not stated/Not on certificate"	"NR"	18314
+	"Division 9: Pacific"	"CENS-D9"	"1998"	"1998"	"Excluded"	"999"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"1998"	"1998"			674106
+	"Division 9: Pacific"	"CENS-D9"	"1999"	"1999"	"0 -  8 years"	"19176"	69117
+	"Division 9: Pacific"	"CENS-D9"	"1999"	"1999"	"9 - 11 years"	"19177"	111225
+	"Division 9: Pacific"	"CENS-D9"	"1999"	"1999"	"12 years"	"19178"	198045
+	"Division 9: Pacific"	"CENS-D9"	"1999"	"1999"	"13 - 15 years"	"19179"	137503
+	"Division 9: Pacific"	"CENS-D9"	"1999"	"1999"	"16 years and over"	"16+"	137606
+	"Division 9: Pacific"	"CENS-D9"	"1999"	"1999"	"Not stated/Not on certificate"	"NR"	16790
+	"Division 9: Pacific"	"CENS-D9"	"1999"	"1999"	"Excluded"	"999"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"1999"	"1999"			670286
+	"Division 9: Pacific"	"CENS-D9"	"2000"	"2000"	"0 -  8 years"	"19176"	69782
+	"Division 9: Pacific"	"CENS-D9"	"2000"	"2000"	"9 - 11 years"	"19177"	111515
+	"Division 9: Pacific"	"CENS-D9"	"2000"	"2000"	"12 years"	"19178"	200048
+	"Division 9: Pacific"	"CENS-D9"	"2000"	"2000"	"13 - 15 years"	"19179"	141540
+	"Division 9: Pacific"	"CENS-D9"	"2000"	"2000"	"16 years and over"	"16+"	148097
+	"Division 9: Pacific"	"CENS-D9"	"2000"	"2000"	"Not stated/Not on certificate"	"NR"	15342
+	"Division 9: Pacific"	"CENS-D9"	"2000"	"2000"	"Excluded"	"999"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"2000"	"2000"			686324
+	"Division 9: Pacific"	"CENS-D9"	"2001"	"2001"	"0 -  8 years"	"19176"	69174
+	"Division 9: Pacific"	"CENS-D9"	"2001"	"2001"	"9 - 11 years"	"19177"	110243
+	"Division 9: Pacific"	"CENS-D9"	"2001"	"2001"	"12 years"	"19178"	197239
+	"Division 9: Pacific"	"CENS-D9"	"2001"	"2001"	"13 - 15 years"	"19179"	137276
+	"Division 9: Pacific"	"CENS-D9"	"2001"	"2001"	"16 years and over"	"16+"	151185
+	"Division 9: Pacific"	"CENS-D9"	"2001"	"2001"	"Not stated/Not on certificate"	"NR"	14609
+	"Division 9: Pacific"	"CENS-D9"	"2001"	"2001"	"Excluded"	"999"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"2001"	"2001"			679726
+	"Division 9: Pacific"	"CENS-D9"	"2002"	"2002"	"0 -  8 years"	"19176"	66362
+	"Division 9: Pacific"	"CENS-D9"	"2002"	"2002"	"9 - 11 years"	"19177"	107638
+	"Division 9: Pacific"	"CENS-D9"	"2002"	"2002"	"12 years"	"19178"	195835
+	"Division 9: Pacific"	"CENS-D9"	"2002"	"2002"	"13 - 15 years"	"19179"	137043
+	"Division 9: Pacific"	"CENS-D9"	"2002"	"2002"	"16 years and over"	"16+"	157048
+	"Division 9: Pacific"	"CENS-D9"	"2002"	"2002"	"Not stated/Not on certificate"	"NR"	17066
+	"Division 9: Pacific"	"CENS-D9"	"2002"	"2002"	"Excluded"	"999"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"2002"	"2002"			680992
+"Total"	"Division 9: Pacific"	"CENS-D9"					5456010
+"Total"							31679420
+"---"
+"Dataset: Natality, 1995-2002"
+"Query Parameters:"
+"Title: births_by_div_by_year_by_education_1995_2002"
+"Group By: Census Division; Year; Mother's Education"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
+"---"
+"Query Date: Mar 12, 2025 7:53:52 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 1995-2002, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-v2002.html on Mar 12, 2025 7:53:52 PM"
+"---"
+Caveats:
+"1. Each birth record represents one liveborn infant."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/natality.html#Assurance of Confidentiality."
