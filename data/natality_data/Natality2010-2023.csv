@@ -1,0 +1,127 @@
+"Notes","Census Division","Census Division Code","Year","Year Code",Births
+,"Division 1: New England","CENS-D1","2010","2010",153817
+,"Division 1: New England","CENS-D1","2011","2011",153040
+,"Division 1: New England","CENS-D1","2012","2012",151063
+,"Division 1: New England","CENS-D1","2013","2013",149829
+,"Division 1: New England","CENS-D1","2014","2014",150146
+,"Division 1: New England","CENS-D1","2015","2015",149174
+,"Division 1: New England","CENS-D1","2016","2016",148858
+,"Division 1: New England","CENS-D1","2017","2017",146630
+,"Division 1: New England","CENS-D1","2018","2018",144078
+,"Division 1: New England","CENS-D1","2019","2019",142529
+,"Division 1: New England","CENS-D1","2020","2020",138452
+,"Division 1: New England","CENS-D1","2021","2021",145286
+,"Division 1: New England","CENS-D1","2022","2022",143671
+,"Division 1: New England","CENS-D1","2023","2023",140085
+,"Division 2: Middle Atlantic","CENS-D2","2010","2010",494618
+,"Division 2: Middle Atlantic","CENS-D2","2011","2011",490373
+,"Division 2: Middle Atlantic","CENS-D2","2012","2012",487660
+,"Division 2: Middle Atlantic","CENS-D2","2013","2013",480476
+,"Division 2: Middle Atlantic","CENS-D2","2014","2014",484346
+,"Division 2: Middle Atlantic","CENS-D2","2015","2015",481448
+,"Division 2: Middle Atlantic","CENS-D2","2016","2016",476339
+,"Division 2: Middle Atlantic","CENS-D2","2017","2017",468732
+,"Division 2: Middle Atlantic","CENS-D2","2018","2018",463134
+,"Division 2: Middle Atlantic","CENS-D2","2019","2019",455354
+,"Division 2: Middle Atlantic","CENS-D2","2020","2020",437985
+,"Division 2: Middle Atlantic","CENS-D2","2021","2021",444861
+,"Division 2: Middle Atlantic","CENS-D2","2022","2022",440919
+,"Division 2: Middle Atlantic","CENS-D2","2023","2023",431564
+,"Division 3: East North Central","CENS-D3","2010","2010",571286
+,"Division 3: East North Central","CENS-D3","2011","2011",564749
+,"Division 3: East North Central","CENS-D3","2012","2012",561256
+,"Division 3: East North Central","CENS-D3","2013","2013",559107
+,"Division 3: East North Central","CENS-D3","2014","2014",563639
+,"Division 3: East North Central","CENS-D3","2015","2015",561773
+,"Division 3: East North Central","CENS-D3","2016","2016",555551
+,"Division 3: East North Central","CENS-D3","2017","2017",544793
+,"Division 3: East North Central","CENS-D3","2018","2018",535725
+,"Division 3: East North Central","CENS-D3","2019","2019",526604
+,"Division 3: East North Central","CENS-D3","2020","2020",505773
+,"Division 3: East North Central","CENS-D3","2021","2021",508687
+,"Division 3: East North Central","CENS-D3","2022","2022",498600
+,"Division 3: East North Central","CENS-D3","2023","2023",489594
+,"Division 4: West North Central","CENS-D4","2010","2010",271570
+,"Division 4: West North Central","CENS-D4","2011","2011",269475
+,"Division 4: West North Central","CENS-D4","2012","2012",271413
+,"Division 4: West North Central","CENS-D4","2013","2013",271330
+,"Division 4: West North Central","CENS-D4","2014","2014",274610
+,"Division 4: West North Central","CENS-D4","2015","2015",273860
+,"Division 4: West North Central","CENS-D4","2016","2016",272157
+,"Division 4: West North Central","CENS-D4","2017","2017",265270
+,"Division 4: West North Central","CENS-D4","2018","2018",262676
+,"Division 4: West North Central","CENS-D4","2019","2019",257856
+,"Division 4: West North Central","CENS-D4","2020","2020",248528
+,"Division 4: West North Central","CENS-D4","2021","2021",251508
+,"Division 4: West North Central","CENS-D4","2022","2022",249020
+,"Division 4: West North Central","CENS-D4","2023","2023",243914
+,"Division 5: South Atlantic","CENS-D5","2010","2010",747031
+,"Division 5: South Atlantic","CENS-D5","2011","2011",740619
+,"Division 5: South Atlantic","CENS-D5","2012","2012",737559
+,"Division 5: South Atlantic","CENS-D5","2013","2013",734996
+,"Division 5: South Atlantic","CENS-D5","2014","2014",747542
+,"Division 5: South Atlantic","CENS-D5","2015","2015",752123
+,"Division 5: South Atlantic","CENS-D5","2016","2016",748710
+,"Division 5: South Atlantic","CENS-D5","2017","2017",741149
+,"Division 5: South Atlantic","CENS-D5","2018","2018",732341
+,"Division 5: South Atlantic","CENS-D5","2019","2019",727520
+,"Division 5: South Atlantic","CENS-D5","2020","2020",704470
+,"Division 5: South Atlantic","CENS-D5","2021","2021",718434
+,"Division 5: South Atlantic","CENS-D5","2022","2022",730177
+,"Division 5: South Atlantic","CENS-D5","2023","2023",717513
+,"Division 6: East South Central","CENS-D6","2010","2010",235365
+,"Division 6: East South Central","CENS-D6","2011","2011",234172
+,"Division 6: East South Central","CENS-D6","2012","2012",233246
+,"Division 6: East South Central","CENS-D6","2013","2013",232479
+,"Division 6: East South Central","CENS-D6","2014","2014",235930
+,"Division 6: East South Central","CENS-D6","2015","2015",235707
+,"Division 6: East South Central","CENS-D6","2016","2016",233335
+,"Division 6: East South Central","CENS-D6","2017","2017",232066
+,"Division 6: East South Central","CENS-D6","2018","2018",229434
+,"Division 6: East South Central","CENS-D6","2019","2019",228770
+,"Division 6: East South Central","CENS-D6","2020","2020",223477
+,"Division 6: East South Central","CENS-D6","2021","2021",227141
+,"Division 6: East South Central","CENS-D6","2022","2022",227404
+,"Division 6: East South Central","CENS-D6","2023","2023",227322
+,"Division 7: West South Central","CENS-D7","2010","2010",540275
+,"Division 7: West South Central","CENS-D7","2011","2011",530320
+,"Division 7: West South Central","CENS-D7","2012","2012",536467
+,"Division 7: West South Central","CENS-D7","2013","2013",541742
+,"Division 7: West South Central","CENS-D7","2014","2014",556113
+,"Division 7: West South Central","CENS-D7","2015","2015",560318
+,"Division 7: West South Central","CENS-D7","2016","2016",552091
+,"Division 7: West South Central","CENS-D7","2017","2017",530802
+,"Division 7: West South Central","CENS-D7","2018","2018",525057
+,"Division 7: West South Central","CENS-D7","2019","2019",522247
+,"Division 7: West South Central","CENS-D7","2020","2020",508392
+,"Division 7: West South Central","CENS-D7","2021","2021",515406
+,"Division 7: West South Central","CENS-D7","2022","2022",530023
+,"Division 7: West South Central","CENS-D7","2023","2023",526045
+,"Division 8: Mountain","CENS-D8","2010","2010",312688
+,"Division 8: Mountain","CENS-D8","2011","2011",306179
+,"Division 8: Mountain","CENS-D8","2012","2012",307725
+,"Division 8: Mountain","CENS-D8","2013","2013",305352
+,"Division 8: Mountain","CENS-D8","2014","2014",308788
+,"Division 8: Mountain","CENS-D8","2015","2015",307999
+,"Division 8: Mountain","CENS-D8","2016","2016",304699
+,"Division 8: Mountain","CENS-D8","2017","2017",295245
+,"Division 8: Mountain","CENS-D8","2018","2018",289016
+,"Division 8: Mountain","CENS-D8","2019","2019",286809
+,"Division 8: Mountain","CENS-D8","2020","2020",278151
+,"Division 8: Mountain","CENS-D8","2021","2021",282549
+,"Division 8: Mountain","CENS-D8","2022","2022",281120
+,"Division 8: Mountain","CENS-D8","2023","2023",276819
+,"Division 9: Pacific","CENS-D9","2010","2010",672736
+,"Division 9: Pacific","CENS-D9","2011","2011",664663
+,"Division 9: Pacific","CENS-D9","2012","2012",666452
+,"Division 9: Pacific","CENS-D9","2013","2013",656870
+,"Division 9: Pacific","CENS-D9","2014","2014",666962
+,"Division 9: Pacific","CENS-D9","2015","2015",656095
+,"Division 9: Pacific","CENS-D9","2016","2016",654135
+,"Division 9: Pacific","CENS-D9","2017","2017",630813
+,"Division 9: Pacific","CENS-D9","2018","2018",610251
+,"Division 9: Pacific","CENS-D9","2019","2019",599851
+,"Division 9: Pacific","CENS-D9","2020","2020",568419
+,"Division 9: Pacific","CENS-D9","2021","2021",570420
+,"Division 9: Pacific","CENS-D9","2022","2022",566824
+,"Division 9: Pacific","CENS-D9","2023","2023",543161

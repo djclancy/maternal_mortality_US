@@ -1,0 +1,127 @@
+"Notes","Census Division","Census Division Code","Year","Year Code","Medical Attendant","Medical Attendant Code",Births
+,"Division 1: New England","CENS-D1","2010","2010","Doctor of Medicine(MD)","1",123729
+,"Division 1: New England","CENS-D1","2011","2011","Doctor of Medicine(MD)","1",122514
+,"Division 1: New England","CENS-D1","2012","2012","Doctor of Medicine(MD)","1",120550
+,"Division 1: New England","CENS-D1","2013","2013","Doctor of Medicine(MD)","1",117931
+,"Division 1: New England","CENS-D1","2014","2014","Doctor of Medicine(MD)","1",117427
+,"Division 1: New England","CENS-D1","2015","2015","Doctor of Medicine(MD)","1",115973
+,"Division 1: New England","CENS-D1","2016","2016","Doctor of Medicine(MD)","1",114654
+,"Division 1: New England","CENS-D1","2017","2017","Doctor of Medicine(MD)","1",112494
+,"Division 1: New England","CENS-D1","2018","2018","Doctor of Medicine(MD)","1",109753
+,"Division 1: New England","CENS-D1","2019","2019","Doctor of Medicine(MD)","1",107459
+,"Division 1: New England","CENS-D1","2020","2020","Doctor of Medicine(MD)","1",103146
+,"Division 1: New England","CENS-D1","2021","2021","Doctor of Medicine(MD)","1",107440
+,"Division 1: New England","CENS-D1","2022","2022","Doctor of Medicine(MD)","1",105870
+,"Division 1: New England","CENS-D1","2023","2023","Doctor of Medicine(MD)","1",101714
+,"Division 2: Middle Atlantic","CENS-D2","2010","2010","Doctor of Medicine(MD)","1",409107
+,"Division 2: Middle Atlantic","CENS-D2","2011","2011","Doctor of Medicine(MD)","1",404170
+,"Division 2: Middle Atlantic","CENS-D2","2012","2012","Doctor of Medicine(MD)","1",400477
+,"Division 2: Middle Atlantic","CENS-D2","2013","2013","Doctor of Medicine(MD)","1",391985
+,"Division 2: Middle Atlantic","CENS-D2","2014","2014","Doctor of Medicine(MD)","1",388623
+,"Division 2: Middle Atlantic","CENS-D2","2015","2015","Doctor of Medicine(MD)","1",380760
+,"Division 2: Middle Atlantic","CENS-D2","2016","2016","Doctor of Medicine(MD)","1",374947
+,"Division 2: Middle Atlantic","CENS-D2","2017","2017","Doctor of Medicine(MD)","1",368727
+,"Division 2: Middle Atlantic","CENS-D2","2018","2018","Doctor of Medicine(MD)","1",363279
+,"Division 2: Middle Atlantic","CENS-D2","2019","2019","Doctor of Medicine(MD)","1",354559
+,"Division 2: Middle Atlantic","CENS-D2","2020","2020","Doctor of Medicine(MD)","1",337170
+,"Division 2: Middle Atlantic","CENS-D2","2021","2021","Doctor of Medicine(MD)","1",335706
+,"Division 2: Middle Atlantic","CENS-D2","2022","2022","Doctor of Medicine(MD)","1",327598
+,"Division 2: Middle Atlantic","CENS-D2","2023","2023","Doctor of Medicine(MD)","1",316091
+,"Division 3: East North Central","CENS-D3","2010","2010","Doctor of Medicine(MD)","1",471319
+,"Division 3: East North Central","CENS-D3","2011","2011","Doctor of Medicine(MD)","1",463873
+,"Division 3: East North Central","CENS-D3","2012","2012","Doctor of Medicine(MD)","1",459336
+,"Division 3: East North Central","CENS-D3","2013","2013","Doctor of Medicine(MD)","1",455884
+,"Division 3: East North Central","CENS-D3","2014","2014","Doctor of Medicine(MD)","1",455877
+,"Division 3: East North Central","CENS-D3","2015","2015","Doctor of Medicine(MD)","1",451354
+,"Division 3: East North Central","CENS-D3","2016","2016","Doctor of Medicine(MD)","1",441547
+,"Division 3: East North Central","CENS-D3","2017","2017","Doctor of Medicine(MD)","1",427622
+,"Division 3: East North Central","CENS-D3","2018","2018","Doctor of Medicine(MD)","1",416610
+,"Division 3: East North Central","CENS-D3","2019","2019","Doctor of Medicine(MD)","1",404781
+,"Division 3: East North Central","CENS-D3","2020","2020","Doctor of Medicine(MD)","1",383400
+,"Division 3: East North Central","CENS-D3","2021","2021","Doctor of Medicine(MD)","1",372554
+,"Division 3: East North Central","CENS-D3","2022","2022","Doctor of Medicine(MD)","1",359752
+,"Division 3: East North Central","CENS-D3","2023","2023","Doctor of Medicine(MD)","1",350233
+,"Division 4: West North Central","CENS-D4","2010","2010","Doctor of Medicine(MD)","1",226509
+,"Division 4: West North Central","CENS-D4","2011","2011","Doctor of Medicine(MD)","1",223038
+,"Division 4: West North Central","CENS-D4","2012","2012","Doctor of Medicine(MD)","1",223466
+,"Division 4: West North Central","CENS-D4","2013","2013","Doctor of Medicine(MD)","1",221871
+,"Division 4: West North Central","CENS-D4","2014","2014","Doctor of Medicine(MD)","1",221765
+,"Division 4: West North Central","CENS-D4","2015","2015","Doctor of Medicine(MD)","1",219329
+,"Division 4: West North Central","CENS-D4","2016","2016","Doctor of Medicine(MD)","1",215765
+,"Division 4: West North Central","CENS-D4","2017","2017","Doctor of Medicine(MD)","1",207734
+,"Division 4: West North Central","CENS-D4","2018","2018","Doctor of Medicine(MD)","1",203922
+,"Division 4: West North Central","CENS-D4","2019","2019","Doctor of Medicine(MD)","1",199134
+,"Division 4: West North Central","CENS-D4","2020","2020","Doctor of Medicine(MD)","1",190185
+,"Division 4: West North Central","CENS-D4","2021","2021","Doctor of Medicine(MD)","1",189125
+,"Division 4: West North Central","CENS-D4","2022","2022","Doctor of Medicine(MD)","1",184398
+,"Division 4: West North Central","CENS-D4","2023","2023","Doctor of Medicine(MD)","1",178265
+,"Division 5: South Atlantic","CENS-D5","2010","2010","Doctor of Medicine(MD)","1",640245
+,"Division 5: South Atlantic","CENS-D5","2011","2011","Doctor of Medicine(MD)","1",631626
+,"Division 5: South Atlantic","CENS-D5","2012","2012","Doctor of Medicine(MD)","1",625801
+,"Division 5: South Atlantic","CENS-D5","2013","2013","Doctor of Medicine(MD)","1",621011
+,"Division 5: South Atlantic","CENS-D5","2014","2014","Doctor of Medicine(MD)","1",630827
+,"Division 5: South Atlantic","CENS-D5","2015","2015","Doctor of Medicine(MD)","1",629952
+,"Division 5: South Atlantic","CENS-D5","2016","2016","Doctor of Medicine(MD)","1",625811
+,"Division 5: South Atlantic","CENS-D5","2017","2017","Doctor of Medicine(MD)","1",614767
+,"Division 5: South Atlantic","CENS-D5","2018","2018","Doctor of Medicine(MD)","1",602057
+,"Division 5: South Atlantic","CENS-D5","2019","2019","Doctor of Medicine(MD)","1",590015
+,"Division 5: South Atlantic","CENS-D5","2020","2020","Doctor of Medicine(MD)","1",564177
+,"Division 5: South Atlantic","CENS-D5","2021","2021","Doctor of Medicine(MD)","1",567913
+,"Division 5: South Atlantic","CENS-D5","2022","2022","Doctor of Medicine(MD)","1",572448
+,"Division 5: South Atlantic","CENS-D5","2023","2023","Doctor of Medicine(MD)","1",553974
+,"Division 6: East South Central","CENS-D6","2010","2010","Doctor of Medicine(MD)","1",218720
+,"Division 6: East South Central","CENS-D6","2011","2011","Doctor of Medicine(MD)","1",217233
+,"Division 6: East South Central","CENS-D6","2012","2012","Doctor of Medicine(MD)","1",216075
+,"Division 6: East South Central","CENS-D6","2013","2013","Doctor of Medicine(MD)","1",214226
+,"Division 6: East South Central","CENS-D6","2014","2014","Doctor of Medicine(MD)","1",215366
+,"Division 6: East South Central","CENS-D6","2015","2015","Doctor of Medicine(MD)","1",213384
+,"Division 6: East South Central","CENS-D6","2016","2016","Doctor of Medicine(MD)","1",210198
+,"Division 6: East South Central","CENS-D6","2017","2017","Doctor of Medicine(MD)","1",208271
+,"Division 6: East South Central","CENS-D6","2018","2018","Doctor of Medicine(MD)","1",204053
+,"Division 6: East South Central","CENS-D6","2019","2019","Doctor of Medicine(MD)","1",201082
+,"Division 6: East South Central","CENS-D6","2020","2020","Doctor of Medicine(MD)","1",193240
+,"Division 6: East South Central","CENS-D6","2021","2021","Doctor of Medicine(MD)","1",193113
+,"Division 6: East South Central","CENS-D6","2022","2022","Doctor of Medicine(MD)","1",191134
+,"Division 6: East South Central","CENS-D6","2023","2023","Doctor of Medicine(MD)","1",188803
+,"Division 7: West South Central","CENS-D7","2010","2010","Doctor of Medicine(MD)","1",487671
+,"Division 7: West South Central","CENS-D7","2011","2011","Doctor of Medicine(MD)","1",477645
+,"Division 7: West South Central","CENS-D7","2012","2012","Doctor of Medicine(MD)","1",482768
+,"Division 7: West South Central","CENS-D7","2013","2013","Doctor of Medicine(MD)","1",485454
+,"Division 7: West South Central","CENS-D7","2014","2014","Doctor of Medicine(MD)","1",494372
+,"Division 7: West South Central","CENS-D7","2015","2015","Doctor of Medicine(MD)","1",497043
+,"Division 7: West South Central","CENS-D7","2016","2016","Doctor of Medicine(MD)","1",488621
+,"Division 7: West South Central","CENS-D7","2017","2017","Doctor of Medicine(MD)","1",468755
+,"Division 7: West South Central","CENS-D7","2018","2018","Doctor of Medicine(MD)","1",461661
+,"Division 7: West South Central","CENS-D7","2019","2019","Doctor of Medicine(MD)","1",455811
+,"Division 7: West South Central","CENS-D7","2020","2020","Doctor of Medicine(MD)","1",440392
+,"Division 7: West South Central","CENS-D7","2021","2021","Doctor of Medicine(MD)","1",442348
+,"Division 7: West South Central","CENS-D7","2022","2022","Doctor of Medicine(MD)","1",455351
+,"Division 7: West South Central","CENS-D7","2023","2023","Doctor of Medicine(MD)","1",447509
+,"Division 8: Mountain","CENS-D8","2010","2010","Doctor of Medicine(MD)","1",259386
+,"Division 8: Mountain","CENS-D8","2011","2011","Doctor of Medicine(MD)","1",253312
+,"Division 8: Mountain","CENS-D8","2012","2012","Doctor of Medicine(MD)","1",253511
+,"Division 8: Mountain","CENS-D8","2013","2013","Doctor of Medicine(MD)","1",251466
+,"Division 8: Mountain","CENS-D8","2014","2014","Doctor of Medicine(MD)","1",253474
+,"Division 8: Mountain","CENS-D8","2015","2015","Doctor of Medicine(MD)","1",249111
+,"Division 8: Mountain","CENS-D8","2016","2016","Doctor of Medicine(MD)","1",240850
+,"Division 8: Mountain","CENS-D8","2017","2017","Doctor of Medicine(MD)","1",229708
+,"Division 8: Mountain","CENS-D8","2018","2018","Doctor of Medicine(MD)","1",223174
+,"Division 8: Mountain","CENS-D8","2019","2019","Doctor of Medicine(MD)","1",218525
+,"Division 8: Mountain","CENS-D8","2020","2020","Doctor of Medicine(MD)","1",208475
+,"Division 8: Mountain","CENS-D8","2021","2021","Doctor of Medicine(MD)","1",209308
+,"Division 8: Mountain","CENS-D8","2022","2022","Doctor of Medicine(MD)","1",206814
+,"Division 8: Mountain","CENS-D8","2023","2023","Doctor of Medicine(MD)","1",199567
+,"Division 9: Pacific","CENS-D9","2010","2010","Doctor of Medicine(MD)","1",575111
+,"Division 9: Pacific","CENS-D9","2011","2011","Doctor of Medicine(MD)","1",566498
+,"Division 9: Pacific","CENS-D9","2012","2012","Doctor of Medicine(MD)","1",565350
+,"Division 9: Pacific","CENS-D9","2013","2013","Doctor of Medicine(MD)","1",550266
+,"Division 9: Pacific","CENS-D9","2014","2014","Doctor of Medicine(MD)","1",553899
+,"Division 9: Pacific","CENS-D9","2015","2015","Doctor of Medicine(MD)","1",537045
+,"Division 9: Pacific","CENS-D9","2016","2016","Doctor of Medicine(MD)","1",528846
+,"Division 9: Pacific","CENS-D9","2017","2017","Doctor of Medicine(MD)","1",504401
+,"Division 9: Pacific","CENS-D9","2018","2018","Doctor of Medicine(MD)","1",481968
+,"Division 9: Pacific","CENS-D9","2019","2019","Doctor of Medicine(MD)","1",466038
+,"Division 9: Pacific","CENS-D9","2020","2020","Doctor of Medicine(MD)","1",433474
+,"Division 9: Pacific","CENS-D9","2021","2021","Doctor of Medicine(MD)","1",431194
+,"Division 9: Pacific","CENS-D9","2022","2022","Doctor of Medicine(MD)","1",427186
+,"Division 9: Pacific","CENS-D9","2023","2023","Doctor of Medicine(MD)","1",403534

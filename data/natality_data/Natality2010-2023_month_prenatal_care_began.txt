@@ -1,0 +1,1678 @@
+"Notes"	"Census Division"	"Census Division Code"	"Year"	"Year Code"	"Month Prenatal Care Began"	"Month Prenatal Care Began Code"	Births
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"No prenatal care"	"00"	64
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"1st month"	"01"	364
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"2nd month"	"02"	7388
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"3rd month"	"03"	6917
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"4th month"	"04"	1467
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"5th month"	"05"	600
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"6th month"	"06"	355
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"7th month"	"07"	254
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"8th month"	"08"	155
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"9th month"	"09"	53
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Unknown or Not Stated"	"99"	1474
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Not Reported"	"98"	134720
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"No prenatal care"	"00"	101
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"1st month"	"01"	393
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"2nd month"	"02"	7688
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"3rd month"	"03"	7111
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"4th month"	"04"	1574
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"5th month"	"05"	656
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"6th month"	"06"	402
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"7th month"	"07"	244
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"8th month"	"08"	192
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"9th month"	"09"	72
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Unknown or Not Stated"	"99"	487
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Not Reported"	"98"	134111
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"No prenatal care"	"00"	327
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"1st month"	"01"	2473
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"2nd month"	"02"	31004
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"3rd month"	"03"	38796
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"4th month"	"04"	8120
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"5th month"	"05"	2886
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"6th month"	"06"	1646
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"7th month"	"07"	1116
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"8th month"	"08"	955
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"9th month"	"09"	441
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"10th month"	"10"	50
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Unknown or Not Stated"	"99"	2986
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Not Reported"	"98"	60263
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"No prenatal care"	"00"	289
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"1st month"	"01"	2503
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"2nd month"	"02"	29304
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"3rd month"	"03"	38616
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"4th month"	"04"	7165
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"5th month"	"05"	2833
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"6th month"	"06"	1697
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"7th month"	"07"	1202
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"8th month"	"08"	1002
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"9th month"	"09"	483
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"10th month"	"10"	43
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Unknown or Not Stated"	"99"	5022
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Not Reported"	"98"	59670
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"No prenatal care"	"00"	467
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"1st month"	"01"	3653
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"2nd month"	"02"	45002
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"3rd month"	"03"	35994
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"4th month"	"04"	6497
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"5th month"	"05"	2902
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"6th month"	"06"	1879
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"7th month"	"07"	1566
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"8th month"	"08"	1150
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"9th month"	"09"	487
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"10th month"	"10"	10
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Unknown or Not Stated"	"99"	3431
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Not Reported"	"98"	47108
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"No prenatal care"	"00"	608
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"1st month"	"01"	5012
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"2nd month"	"02"	48483
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"3rd month"	"03"	40560
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"4th month"	"04"	7149
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"5th month"	"05"	3107
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"6th month"	"06"	2043
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"7th month"	"07"	1682
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"8th month"	"08"	1273
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"9th month"	"09"	494
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Unknown or Not Stated"	"99"	3008
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Not Reported"	"98"	35746
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"No prenatal care"	"00"	744
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"1st month"	"01"	4525
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"2nd month"	"02"	64498
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"3rd month"	"03"	54446
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"4th month"	"04"	9640
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"5th month"	"05"	4334
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"6th month"	"06"	2691
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"7th month"	"07"	2227
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"8th month"	"08"	1898
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"9th month"	"09"	647
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Unknown or Not Stated"	"99"	3199
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"No prenatal care"	"00"	724
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"1st month"	"01"	3812
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"2nd month"	"02"	63613
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"3rd month"	"03"	53464
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"4th month"	"04"	10053
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"5th month"	"05"	4593
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"6th month"	"06"	2865
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"7th month"	"07"	2619
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"8th month"	"08"	1773
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"9th month"	"09"	670
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"10th month"	"10"	16
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Unknown or Not Stated"	"99"	2428
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"No prenatal care"	"00"	648
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"1st month"	"01"	3514
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"2nd month"	"02"	61577
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"3rd month"	"03"	54643
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"4th month"	"04"	9707
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"5th month"	"05"	4463
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"6th month"	"06"	2844
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"7th month"	"07"	2449
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"8th month"	"08"	1874
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"9th month"	"09"	653
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"10th month"	"10"	13
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Unknown or Not Stated"	"99"	1693
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"No prenatal care"	"00"	663
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"1st month"	"01"	3503
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"2nd month"	"02"	62296
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"3rd month"	"03"	53477
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"4th month"	"04"	9514
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"5th month"	"05"	4024
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"6th month"	"06"	2661
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"7th month"	"07"	2197
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"8th month"	"08"	1793
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"9th month"	"09"	637
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"10th month"	"10"	14
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Unknown or Not Stated"	"99"	1750
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"No prenatal care"	"00"	546
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"1st month"	"01"	3421
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"2nd month"	"02"	59623
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"3rd month"	"03"	53357
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"4th month"	"04"	9422
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"5th month"	"05"	4047
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"6th month"	"06"	2445
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"7th month"	"07"	2018
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"8th month"	"08"	1555
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"9th month"	"09"	525
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"10th month"	"10"	10
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Unknown or Not Stated"	"99"	1483
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"No prenatal care"	"00"	690
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"1st month"	"01"	3859
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"2nd month"	"02"	58543
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"3rd month"	"03"	59902
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"4th month"	"04"	9934
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"5th month"	"05"	3993
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"6th month"	"06"	2436
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"7th month"	"07"	2092
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"8th month"	"08"	1524
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"9th month"	"09"	574
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Unknown or Not Stated"	"99"	1730
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"No prenatal care"	"00"	894
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"1st month"	"01"	4170
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"2nd month"	"02"	55097
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"3rd month"	"03"	59215
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"4th month"	"04"	10181
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"5th month"	"05"	4627
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"6th month"	"06"	2924
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"7th month"	"07"	2453
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"8th month"	"08"	1815
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"9th month"	"09"	756
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"10th month"	"10"	17
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Unknown or Not Stated"	"99"	1522
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"No prenatal care"	"00"	1138
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"1st month"	"01"	3342
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"2nd month"	"02"	53921
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"3rd month"	"03"	57853
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"4th month"	"04"	10561
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"5th month"	"05"	4231
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"6th month"	"06"	2810
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"7th month"	"07"	2369
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"8th month"	"08"	1879
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"9th month"	"09"	746
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"10th month"	"10"	16
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Unknown or Not Stated"	"99"	1219
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"No prenatal care"	"00"	3946
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"1st month"	"01"	11240
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"2nd month"	"02"	118473
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"3rd month"	"03"	142892
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"4th month"	"04"	44622
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"5th month"	"05"	20486
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"6th month"	"06"	12385
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"7th month"	"07"	8949
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"8th month"	"08"	6441
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"9th month"	"09"	3026
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"10th month"	"10"	339
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Unknown or Not Stated"	"99"	14897
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Not Reported"	"98"	106922
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"No prenatal care"	"00"	3614
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"1st month"	"01"	10192
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"2nd month"	"02"	119073
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"3rd month"	"03"	141984
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"4th month"	"04"	45291
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"5th month"	"05"	20530
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"6th month"	"06"	12202
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"7th month"	"07"	8287
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"8th month"	"08"	6389
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"9th month"	"09"	3120
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"10th month"	"10"	348
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Unknown or Not Stated"	"99"	13460
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Not Reported"	"98"	105883
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"No prenatal care"	"00"	3350
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"1st month"	"01"	11474
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"2nd month"	"02"	119732
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"3rd month"	"03"	141496
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"4th month"	"04"	43404
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"5th month"	"05"	20037
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"6th month"	"06"	11778
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"7th month"	"07"	8169
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"8th month"	"08"	6296
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"9th month"	"09"	3125
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"10th month"	"10"	344
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Unknown or Not Stated"	"99"	14225
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Not Reported"	"98"	104230
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"No prenatal care"	"00"	3493
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"1st month"	"01"	12440
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"2nd month"	"02"	121549
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"3rd month"	"03"	136634
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"4th month"	"04"	40811
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"5th month"	"05"	18617
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"6th month"	"06"	11086
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"7th month"	"07"	8346
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"8th month"	"08"	6815
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"9th month"	"09"	3309
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"10th month"	"10"	378
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Unknown or Not Stated"	"99"	14423
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Not Reported"	"98"	102575
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"No prenatal care"	"00"	3827
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"1st month"	"01"	19010
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"2nd month"	"02"	150576
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"3rd month"	"03"	116173
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"4th month"	"04"	33895
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"5th month"	"05"	16534
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"6th month"	"06"	10509
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"7th month"	"07"	8226
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"8th month"	"08"	6245
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"9th month"	"09"	2361
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"10th month"	"10"	33
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Unknown or Not Stated"	"99"	13652
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Not Reported"	"98"	103305
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"No prenatal care"	"00"	3386
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"1st month"	"01"	18105
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"2nd month"	"02"	150802
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"3rd month"	"03"	117425
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"4th month"	"04"	32527
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"5th month"	"05"	15919
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"6th month"	"06"	9913
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"7th month"	"07"	8101
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"8th month"	"08"	6312
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"9th month"	"09"	2364
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"10th month"	"10"	31
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Unknown or Not Stated"	"99"	13436
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Not Reported"	"98"	103127
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"No prenatal care"	"00"	4953
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"1st month"	"01"	24030
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"2nd month"	"02"	191846
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"3rd month"	"03"	150956
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"4th month"	"04"	41046
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"5th month"	"05"	19551
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"6th month"	"06"	12068
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"7th month"	"07"	10161
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"8th month"	"08"	7716
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"9th month"	"09"	3019
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"10th month"	"10"	50
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Unknown or Not Stated"	"99"	10943
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"No prenatal care"	"00"	5195
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"1st month"	"01"	21885
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"2nd month"	"02"	185983
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"3rd month"	"03"	152339
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"4th month"	"04"	40638
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"5th month"	"05"	19440
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"6th month"	"06"	12023
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"7th month"	"07"	9759
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"8th month"	"08"	7660
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"9th month"	"09"	3240
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"10th month"	"10"	61
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Unknown or Not Stated"	"99"	10509
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"No prenatal care"	"00"	5331
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"1st month"	"01"	20206
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"2nd month"	"02"	183492
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"3rd month"	"03"	152161
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"4th month"	"04"	39213
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"5th month"	"05"	18858
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"6th month"	"06"	11829
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"7th month"	"07"	9517
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"8th month"	"08"	7308
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"9th month"	"09"	2936
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"10th month"	"10"	60
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Unknown or Not Stated"	"99"	12223
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"No prenatal care"	"00"	6382
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"1st month"	"01"	20946
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"2nd month"	"02"	182970
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"3rd month"	"03"	147936
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"4th month"	"04"	37402
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"5th month"	"05"	18003
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"6th month"	"06"	11293
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"7th month"	"07"	9187
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"8th month"	"08"	7481
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"9th month"	"09"	2999
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"10th month"	"10"	48
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Unknown or Not Stated"	"99"	10707
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"No prenatal care"	"00"	5646
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"1st month"	"01"	16596
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"2nd month"	"02"	171733
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"3rd month"	"03"	147953
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"4th month"	"04"	37358
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"5th month"	"05"	18304
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"6th month"	"06"	11018
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"7th month"	"07"	8572
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"8th month"	"08"	6586
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"9th month"	"09"	2625
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"10th month"	"10"	31
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Unknown or Not Stated"	"99"	11563
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"No prenatal care"	"00"	6528
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"1st month"	"01"	13125
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"2nd month"	"02"	170207
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"3rd month"	"03"	158559
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"4th month"	"04"	37761
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"5th month"	"05"	17446
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"6th month"	"06"	10665
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"7th month"	"07"	8495
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"8th month"	"08"	6673
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"9th month"	"09"	2615
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"10th month"	"10"	43
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Unknown or Not Stated"	"99"	12744
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"No prenatal care"	"00"	6740
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"1st month"	"01"	12642
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"2nd month"	"02"	162873
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"3rd month"	"03"	160836
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"4th month"	"04"	38953
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"5th month"	"05"	18095
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"6th month"	"06"	11192
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"7th month"	"07"	9291
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"8th month"	"08"	7342
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"9th month"	"09"	3266
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"10th month"	"10"	33
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Unknown or Not Stated"	"99"	9656
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"No prenatal care"	"00"	6494
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"1st month"	"01"	11726
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"2nd month"	"02"	157670
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"3rd month"	"03"	158480
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"4th month"	"04"	38632
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"5th month"	"05"	17849
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"6th month"	"06"	11256
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"7th month"	"07"	9520
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"8th month"	"08"	7792
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"9th month"	"09"	3526
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"10th month"	"10"	63
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Unknown or Not Stated"	"99"	8556
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"No prenatal care"	"00"	6636
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"1st month"	"01"	26422
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"2nd month"	"02"	158692
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"3rd month"	"03"	172327
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"4th month"	"04"	55764
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"5th month"	"05"	25740
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"6th month"	"06"	15243
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"7th month"	"07"	9526
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"8th month"	"08"	6129
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"9th month"	"09"	2668
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"10th month"	"10"	342
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Unknown or Not Stated"	"99"	23310
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Not Reported"	"98"	68487
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"No prenatal care"	"00"	6058
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"1st month"	"01"	26165
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"2nd month"	"02"	182902
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"3rd month"	"03"	202092
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"4th month"	"04"	62844
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"5th month"	"05"	28311
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"6th month"	"06"	16633
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"7th month"	"07"	10853
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"8th month"	"08"	7125
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"9th month"	"09"	3139
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"10th month"	"10"	410
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Unknown or Not Stated"	"99"	18217
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Not Reported"	"98"	0
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"No prenatal care"	"00"	5946
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"1st month"	"01"	26157
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"2nd month"	"02"	179536
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"3rd month"	"03"	201870
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"4th month"	"04"	61385
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"5th month"	"05"	28294
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"6th month"	"06"	16942
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"7th month"	"07"	11182
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"8th month"	"08"	7573
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"9th month"	"09"	3409
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"10th month"	"10"	459
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Unknown or Not Stated"	"99"	18503
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Not Reported"	"98"	0
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"No prenatal care"	"00"	6221
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"1st month"	"01"	24843
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"2nd month"	"02"	177331
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"3rd month"	"03"	201389
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"4th month"	"04"	61999
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"5th month"	"05"	28850
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"6th month"	"06"	17419
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"7th month"	"07"	11564
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"8th month"	"08"	7794
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"9th month"	"09"	3634
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"10th month"	"10"	553
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Unknown or Not Stated"	"99"	17510
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Not Reported"	"98"	0
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"No prenatal care"	"00"	7361
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"1st month"	"01"	30508
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"2nd month"	"02"	222114
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"3rd month"	"03"	174249
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"4th month"	"04"	52578
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"5th month"	"05"	26431
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"6th month"	"06"	15934
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"7th month"	"07"	11889
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"8th month"	"08"	7727
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"9th month"	"09"	2873
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"10th month"	"10"	55
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Unknown or Not Stated"	"99"	11920
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"No prenatal care"	"00"	7141
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"1st month"	"01"	26833
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"2nd month"	"02"	220960
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"3rd month"	"03"	176760
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"4th month"	"04"	51832
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"5th month"	"05"	26024
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"6th month"	"06"	15736
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"7th month"	"07"	11629
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"8th month"	"08"	8017
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"9th month"	"09"	2916
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"10th month"	"10"	52
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Unknown or Not Stated"	"99"	13873
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"No prenatal care"	"00"	7248
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"1st month"	"01"	23431
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"2nd month"	"02"	216069
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"3rd month"	"03"	180869
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"4th month"	"04"	50786
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"5th month"	"05"	25656
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"6th month"	"06"	15500
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"7th month"	"07"	11993
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"8th month"	"08"	8048
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"9th month"	"09"	2841
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"10th month"	"10"	47
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Unknown or Not Stated"	"99"	13063
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"No prenatal care"	"00"	7521
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"1st month"	"01"	20628
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"2nd month"	"02"	210721
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"3rd month"	"03"	179699
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"4th month"	"04"	49448
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"5th month"	"05"	25036
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"6th month"	"06"	15290
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"7th month"	"07"	11583
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"8th month"	"08"	8035
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"9th month"	"09"	3003
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"10th month"	"10"	48
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Unknown or Not Stated"	"99"	13781
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"No prenatal care"	"00"	7181
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"1st month"	"01"	19595
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"2nd month"	"02"	207081
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"3rd month"	"03"	179497
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"4th month"	"04"	48314
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"5th month"	"05"	24138
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"6th month"	"06"	14915
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"7th month"	"07"	11628
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"8th month"	"08"	7722
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"9th month"	"09"	2852
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"10th month"	"10"	46
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Unknown or Not Stated"	"99"	12756
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"No prenatal care"	"00"	7074
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"1st month"	"01"	18786
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"2nd month"	"02"	204389
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"3rd month"	"03"	179554
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"4th month"	"04"	47326
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"5th month"	"05"	23422
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"6th month"	"06"	14632
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"7th month"	"07"	10980
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"8th month"	"08"	7814
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"9th month"	"09"	2834
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"10th month"	"10"	38
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Unknown or Not Stated"	"99"	9755
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"No prenatal care"	"00"	6969
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"1st month"	"01"	15837
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"2nd month"	"02"	196811
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"3rd month"	"03"	177587
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"4th month"	"04"	45448
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"5th month"	"05"	22620
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"6th month"	"06"	13383
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"7th month"	"07"	10036
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"8th month"	"08"	6942
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"9th month"	"09"	2428
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"10th month"	"10"	34
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Unknown or Not Stated"	"99"	7678
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"No prenatal care"	"00"	7816
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"1st month"	"01"	13868
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"2nd month"	"02"	196724
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"3rd month"	"03"	186997
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"4th month"	"04"	44400
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"5th month"	"05"	20967
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"6th month"	"06"	12338
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"7th month"	"07"	9673
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"8th month"	"08"	6835
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"9th month"	"09"	2513
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"10th month"	"10"	32
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Unknown or Not Stated"	"99"	6524
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"No prenatal care"	"00"	8240
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"1st month"	"01"	14697
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"2nd month"	"02"	187538
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"3rd month"	"03"	184275
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"4th month"	"04"	44394
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"5th month"	"05"	21223
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"6th month"	"06"	12872
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"7th month"	"07"	10113
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"8th month"	"08"	7183
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"9th month"	"09"	2645
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"10th month"	"10"	30
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Unknown or Not Stated"	"99"	5390
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"No prenatal care"	"00"	9069
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"1st month"	"01"	13794
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"2nd month"	"02"	178998
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"3rd month"	"03"	182995
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"4th month"	"04"	44643
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"5th month"	"05"	21119
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"6th month"	"06"	12843
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"7th month"	"07"	10149
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"8th month"	"08"	7202
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"9th month"	"09"	2624
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"10th month"	"10"	35
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Unknown or Not Stated"	"99"	6123
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"No prenatal care"	"00"	1729
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"1st month"	"01"	5737
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"2nd month"	"02"	64881
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"3rd month"	"03"	78513
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"4th month"	"04"	22463
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"5th month"	"05"	10250
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"6th month"	"06"	5724
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"7th month"	"07"	3586
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"8th month"	"08"	2383
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"9th month"	"09"	1093
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"10th month"	"10"	148
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Unknown or Not Stated"	"99"	6453
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Not Reported"	"98"	68610
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"No prenatal care"	"00"	1699
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"1st month"	"01"	5611
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"2nd month"	"02"	64799
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"3rd month"	"03"	77670
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"4th month"	"04"	22133
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"5th month"	"05"	9792
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"6th month"	"06"	5728
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"7th month"	"07"	3576
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"8th month"	"08"	2442
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"9th month"	"09"	1128
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"10th month"	"10"	156
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Unknown or Not Stated"	"99"	6332
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Not Reported"	"98"	68409
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"No prenatal care"	"00"	1960
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"1st month"	"01"	6943
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"2nd month"	"02"	84708
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"3rd month"	"03"	111213
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"4th month"	"04"	29689
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"5th month"	"05"	13136
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"6th month"	"06"	7467
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"7th month"	"07"	4657
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"8th month"	"08"	3295
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"9th month"	"09"	1526
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"10th month"	"10"	176
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Unknown or Not Stated"	"99"	6643
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Not Reported"	"98"	0
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"No prenatal care"	"00"	1994
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"1st month"	"01"	6926
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"2nd month"	"02"	86035
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"3rd month"	"03"	110677
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"4th month"	"04"	29530
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"5th month"	"05"	12918
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"6th month"	"06"	7521
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"7th month"	"07"	4902
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"8th month"	"08"	3413
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"9th month"	"09"	1690
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"10th month"	"10"	259
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Unknown or Not Stated"	"99"	5465
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Not Reported"	"98"	0
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"No prenatal care"	"00"	2238
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"1st month"	"01"	9907
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"2nd month"	"02"	110104
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"3rd month"	"03"	93778
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"4th month"	"04"	24231
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"5th month"	"05"	12079
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"6th month"	"06"	7176
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"7th month"	"07"	5260
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"8th month"	"08"	3395
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"9th month"	"09"	1338
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"10th month"	"10"	33
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Unknown or Not Stated"	"99"	5071
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"No prenatal care"	"00"	2147
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"1st month"	"01"	8884
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"2nd month"	"02"	109135
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"3rd month"	"03"	96356
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"4th month"	"04"	23597
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"5th month"	"05"	11797
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"6th month"	"06"	6880
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"7th month"	"07"	4937
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"8th month"	"08"	3383
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"9th month"	"09"	1379
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"10th month"	"10"	30
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Unknown or Not Stated"	"99"	5335
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"No prenatal care"	"00"	2510
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"1st month"	"01"	7235
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"2nd month"	"02"	107426
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"3rd month"	"03"	97815
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"4th month"	"04"	22851
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"5th month"	"05"	11317
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"6th month"	"06"	6623
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"7th month"	"07"	5007
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"8th month"	"08"	3488
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"9th month"	"09"	1334
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"10th month"	"10"	29
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Unknown or Not Stated"	"99"	6522
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"No prenatal care"	"00"	2526
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"1st month"	"01"	6498
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"2nd month"	"02"	102952
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"3rd month"	"03"	96783
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"4th month"	"04"	22605
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"5th month"	"05"	11225
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"6th month"	"06"	6392
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"7th month"	"07"	4842
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"8th month"	"08"	3395
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"9th month"	"09"	1388
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"10th month"	"10"	20
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Unknown or Not Stated"	"99"	6644
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"No prenatal care"	"00"	2695
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"1st month"	"01"	6605
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"2nd month"	"02"	102563
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"3rd month"	"03"	95777
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"4th month"	"04"	22007
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"5th month"	"05"	10902
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"6th month"	"06"	6371
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"7th month"	"07"	4835
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"8th month"	"08"	3362
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"9th month"	"09"	1341
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"10th month"	"10"	24
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Unknown or Not Stated"	"99"	6194
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"No prenatal care"	"00"	3203
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"1st month"	"01"	5900
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"2nd month"	"02"	101709
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"3rd month"	"03"	95633
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"4th month"	"04"	20981
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"5th month"	"05"	10311
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"6th month"	"06"	6177
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"7th month"	"07"	4724
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"8th month"	"08"	3379
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"9th month"	"09"	1438
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"10th month"	"10"	32
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Unknown or Not Stated"	"99"	4369
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"No prenatal care"	"00"	3016
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"1st month"	"01"	5500
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"2nd month"	"02"	98220
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"3rd month"	"03"	93011
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"4th month"	"04"	20599
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"5th month"	"05"	10011
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"6th month"	"06"	5743
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"7th month"	"07"	4288
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"8th month"	"08"	2968
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"9th month"	"09"	1285
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"10th month"	"10"	24
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Unknown or Not Stated"	"99"	3863
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"No prenatal care"	"00"	3078
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"1st month"	"01"	5314
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"2nd month"	"02"	97524
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"3rd month"	"03"	99006
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"4th month"	"04"	19954
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"5th month"	"05"	9348
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"6th month"	"06"	5385
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"7th month"	"07"	4097
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"8th month"	"08"	2921
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"9th month"	"09"	1227
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"10th month"	"10"	20
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Unknown or Not Stated"	"99"	3634
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"No prenatal care"	"00"	3388
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"1st month"	"01"	5100
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"2nd month"	"02"	93051
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"3rd month"	"03"	99653
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"4th month"	"04"	20596
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"5th month"	"05"	9637
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"6th month"	"06"	5700
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"7th month"	"07"	4364
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"8th month"	"08"	3138
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"9th month"	"09"	1334
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"10th month"	"10"	19
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Unknown or Not Stated"	"99"	3040
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"No prenatal care"	"00"	3517
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"1st month"	"01"	4686
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"2nd month"	"02"	89188
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"3rd month"	"03"	99772
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"4th month"	"04"	20510
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"5th month"	"05"	9658
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"6th month"	"06"	5604
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"7th month"	"07"	4380
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"8th month"	"08"	3129
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"9th month"	"09"	1320
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"10th month"	"10"	22
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Unknown or Not Stated"	"99"	2128
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"No prenatal care"	"00"	7658
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"1st month"	"01"	36418
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"2nd month"	"02"	145116
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"3rd month"	"03"	131193
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"4th month"	"04"	50793
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"5th month"	"05"	26434
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"6th month"	"06"	16386
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"7th month"	"07"	10481
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"8th month"	"08"	7212
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"9th month"	"09"	3171
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"10th month"	"10"	414
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Unknown or Not Stated"	"99"	65933
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Not Reported"	"98"	245822
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"No prenatal care"	"00"	9327
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"1st month"	"01"	45308
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"2nd month"	"02"	188699
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"3rd month"	"03"	178706
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"4th month"	"04"	68203
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"5th month"	"05"	34706
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"6th month"	"06"	20997
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"7th month"	"07"	13653
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"8th month"	"08"	9212
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"9th month"	"09"	4097
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"10th month"	"10"	491
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Unknown or Not Stated"	"99"	43851
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Not Reported"	"98"	123369
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"No prenatal care"	"00"	9610
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"1st month"	"01"	44265
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"2nd month"	"02"	191686
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"3rd month"	"03"	183534
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"4th month"	"04"	68979
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"5th month"	"05"	34857
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"6th month"	"06"	20964
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"7th month"	"07"	14000
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"8th month"	"08"	9904
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"9th month"	"09"	4498
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"10th month"	"10"	615
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Unknown or Not Stated"	"99"	30807
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Not Reported"	"98"	123840
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"No prenatal care"	"00"	11355
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"1st month"	"01"	52260
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"2nd month"	"02"	214561
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"3rd month"	"03"	203966
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"4th month"	"04"	75015
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"5th month"	"05"	37419
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"6th month"	"06"	22661
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"7th month"	"07"	15357
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"8th month"	"08"	11037
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"9th month"	"09"	5186
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"10th month"	"10"	612
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Unknown or Not Stated"	"99"	64742
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Not Reported"	"98"	20825
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"No prenatal care"	"00"	11712
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"1st month"	"01"	65989
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"2nd month"	"02"	254596
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"3rd month"	"03"	187532
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"4th month"	"04"	67407
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"5th month"	"05"	36158
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"6th month"	"06"	21945
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"7th month"	"07"	16462
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"8th month"	"08"	11531
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"9th month"	"09"	4312
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"10th month"	"10"	70
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Unknown or Not Stated"	"99"	69828
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"No prenatal care"	"00"	13003
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"1st month"	"01"	61924
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"2nd month"	"02"	263865
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"3rd month"	"03"	200572
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"4th month"	"04"	69526
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"5th month"	"05"	36641
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"6th month"	"06"	22790
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"7th month"	"07"	17198
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"8th month"	"08"	12156
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"9th month"	"09"	4345
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"10th month"	"10"	75
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Unknown or Not Stated"	"99"	50028
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"No prenatal care"	"00"	13745
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"1st month"	"01"	59536
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"2nd month"	"02"	271048
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"3rd month"	"03"	209038
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"4th month"	"04"	70157
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"5th month"	"05"	37368
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"6th month"	"06"	22590
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"7th month"	"07"	17443
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"8th month"	"08"	12355
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"9th month"	"09"	4577
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"10th month"	"10"	48
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Unknown or Not Stated"	"99"	30805
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"No prenatal care"	"00"	15697
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"1st month"	"01"	54839
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"2nd month"	"02"	267640
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"3rd month"	"03"	211985
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"4th month"	"04"	70123
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"5th month"	"05"	37068
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"6th month"	"06"	22101
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"7th month"	"07"	17197
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"8th month"	"08"	12603
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"9th month"	"09"	4567
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"10th month"	"10"	76
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Unknown or Not Stated"	"99"	27253
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"No prenatal care"	"00"	16215
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"1st month"	"01"	49496
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"2nd month"	"02"	262409
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"3rd month"	"03"	215476
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"4th month"	"04"	69429
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"5th month"	"05"	36403
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"6th month"	"06"	22207
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"7th month"	"07"	16976
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"8th month"	"08"	12882
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"9th month"	"09"	4847
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"10th month"	"10"	75
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Unknown or Not Stated"	"99"	25926
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"No prenatal care"	"00"	17246
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"1st month"	"01"	49214
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"2nd month"	"02"	260610
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"3rd month"	"03"	217462
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"4th month"	"04"	67370
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"5th month"	"05"	35432
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"6th month"	"06"	21778
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"7th month"	"07"	17244
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"8th month"	"08"	13138
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"9th month"	"09"	4959
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"10th month"	"10"	68
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Unknown or Not Stated"	"99"	22999
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"No prenatal care"	"00"	17854
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"1st month"	"01"	41130
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"2nd month"	"02"	254975
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"3rd month"	"03"	222447
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"4th month"	"04"	66464
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"5th month"	"05"	34539
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"6th month"	"06"	20618
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"7th month"	"07"	16104
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"8th month"	"08"	11734
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"9th month"	"09"	4384
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"10th month"	"10"	63
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Unknown or Not Stated"	"99"	14158
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"No prenatal care"	"00"	20725
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"1st month"	"01"	38023
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"2nd month"	"02"	257771
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"3rd month"	"03"	232599
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"4th month"	"04"	66109
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"5th month"	"05"	33549
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"6th month"	"06"	20839
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"7th month"	"07"	16750
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"8th month"	"08"	12610
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"9th month"	"09"	5004
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"10th month"	"10"	60
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Unknown or Not Stated"	"99"	14395
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"No prenatal care"	"00"	21933
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"1st month"	"01"	37900
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"2nd month"	"02"	248333
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"3rd month"	"03"	240061
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"4th month"	"04"	70818
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"5th month"	"05"	36372
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"6th month"	"06"	22443
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"7th month"	"07"	17895
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"8th month"	"08"	13897
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"9th month"	"09"	5747
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"10th month"	"10"	78
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Unknown or Not Stated"	"99"	14700
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"No prenatal care"	"00"	23870
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"1st month"	"01"	35343
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"2nd month"	"02"	235134
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"3rd month"	"03"	240760
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"4th month"	"04"	73551
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"5th month"	"05"	36897
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"6th month"	"06"	22558
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"7th month"	"07"	17772
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"8th month"	"08"	13560
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"9th month"	"09"	5357
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"10th month"	"10"	75
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Unknown or Not Stated"	"99"	12636
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"No prenatal care"	"00"	2435
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"1st month"	"01"	6683
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"2nd month"	"02"	42423
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"3rd month"	"03"	42881
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"4th month"	"04"	15555
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"5th month"	"05"	7714
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"6th month"	"06"	4444
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"7th month"	"07"	2858
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"8th month"	"08"	1900
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"9th month"	"09"	925
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"10th month"	"10"	131
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Unknown or Not Stated"	"99"	7330
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Not Reported"	"98"	100086
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"No prenatal care"	"00"	2132
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"1st month"	"01"	6381
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"2nd month"	"02"	42888
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"3rd month"	"03"	42309
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"4th month"	"04"	15312
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"5th month"	"05"	7705
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"6th month"	"06"	4343
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"7th month"	"07"	2879
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"8th month"	"08"	1951
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"9th month"	"09"	879
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"10th month"	"10"	122
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Unknown or Not Stated"	"99"	8057
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Not Reported"	"98"	99214
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"No prenatal care"	"00"	2184
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"1st month"	"01"	6583
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"2nd month"	"02"	43908
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"3rd month"	"03"	43437
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"4th month"	"04"	15661
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"5th month"	"05"	7494
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"6th month"	"06"	4532
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"7th month"	"07"	2866
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"8th month"	"08"	1858
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"9th month"	"09"	817
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"10th month"	"10"	140
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Unknown or Not Stated"	"99"	6649
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Not Reported"	"98"	97117
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"No prenatal care"	"00"	2435
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"1st month"	"01"	10680
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"2nd month"	"02"	58789
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"3rd month"	"03"	53945
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"4th month"	"04"	19356
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"5th month"	"05"	9429
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"6th month"	"06"	5549
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"7th month"	"07"	3445
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"8th month"	"08"	2312
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"9th month"	"09"	1091
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"10th month"	"10"	165
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Unknown or Not Stated"	"99"	7116
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Not Reported"	"98"	58167
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"No prenatal care"	"00"	4031
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"1st month"	"01"	18121
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"2nd month"	"02"	90016
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"3rd month"	"03"	63921
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"4th month"	"04"	23518
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"5th month"	"05"	12366
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"6th month"	"06"	7001
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"7th month"	"07"	4900
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"8th month"	"08"	3112
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"9th month"	"09"	1110
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"10th month"	"10"	21
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Unknown or Not Stated"	"99"	7813
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"No prenatal care"	"00"	3476
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"1st month"	"01"	16107
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"2nd month"	"02"	89195
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"3rd month"	"03"	65958
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"4th month"	"04"	23276
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"5th month"	"05"	11988
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"6th month"	"06"	6851
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"7th month"	"07"	4983
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"8th month"	"08"	3218
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"9th month"	"09"	1247
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"10th month"	"10"	12
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Unknown or Not Stated"	"99"	9396
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"No prenatal care"	"00"	3624
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"1st month"	"01"	13167
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"2nd month"	"02"	85203
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"3rd month"	"03"	66729
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"4th month"	"04"	22353
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"5th month"	"05"	11436
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"6th month"	"06"	6794
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"7th month"	"07"	5059
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"8th month"	"08"	3326
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"9th month"	"09"	1221
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"10th month"	"10"	16
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Unknown or Not Stated"	"99"	14407
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"No prenatal care"	"00"	5233
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"1st month"	"01"	14705
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"2nd month"	"02"	87244
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"3rd month"	"03"	67016
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"4th month"	"04"	21799
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"5th month"	"05"	11307
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"6th month"	"06"	6771
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"7th month"	"07"	5132
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"8th month"	"08"	3311
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"9th month"	"09"	1225
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"10th month"	"10"	24
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Unknown or Not Stated"	"99"	8299
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"No prenatal care"	"00"	3931
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"1st month"	"01"	13587
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"2nd month"	"02"	85781
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"3rd month"	"03"	66675
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"4th month"	"04"	21817
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"5th month"	"05"	11231
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"6th month"	"06"	6786
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"7th month"	"07"	5173
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"8th month"	"08"	3459
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"9th month"	"09"	1269
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"10th month"	"10"	23
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Unknown or Not Stated"	"99"	9702
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"No prenatal care"	"00"	4408
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"1st month"	"01"	11223
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"2nd month"	"02"	87263
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"3rd month"	"03"	69360
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"4th month"	"04"	22271
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"5th month"	"05"	11659
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"6th month"	"06"	7006
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"7th month"	"07"	5318
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"8th month"	"08"	3675
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"9th month"	"09"	1349
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"10th month"	"10"	19
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Unknown or Not Stated"	"99"	5219
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"No prenatal care"	"00"	4739
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"1st month"	"01"	9465
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"2nd month"	"02"	84828
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"3rd month"	"03"	70472
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"4th month"	"04"	22230
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"5th month"	"05"	11374
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"6th month"	"06"	7122
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"7th month"	"07"	5252
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"8th month"	"08"	3558
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"9th month"	"09"	1272
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"10th month"	"10"	11
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Unknown or Not Stated"	"99"	3154
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"No prenatal care"	"00"	5295
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"1st month"	"01"	8848
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"2nd month"	"02"	86669
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"3rd month"	"03"	73365
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"4th month"	"04"	22231
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"5th month"	"05"	10894
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"6th month"	"06"	6452
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"7th month"	"07"	5120
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"8th month"	"08"	3577
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"9th month"	"09"	1331
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"10th month"	"10"	25
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Unknown or Not Stated"	"99"	3334
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"No prenatal care"	"00"	4377
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"1st month"	"01"	8523
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"2nd month"	"02"	85630
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"3rd month"	"03"	72992
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"4th month"	"04"	22263
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"5th month"	"05"	11241
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"6th month"	"06"	6794
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"7th month"	"07"	5514
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"8th month"	"08"	3872
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"9th month"	"09"	1424
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"10th month"	"10"	22
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Unknown or Not Stated"	"99"	4752
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"No prenatal care"	"00"	5724
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"1st month"	"01"	7451
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"2nd month"	"02"	83534
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"3rd month"	"03"	75407
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"4th month"	"04"	23369
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"5th month"	"05"	11326
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"6th month"	"06"	6998
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"7th month"	"07"	5699
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"8th month"	"08"	3874
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"9th month"	"09"	1428
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"10th month"	"10"	19
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Unknown or Not Stated"	"99"	2493
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"No prenatal care"	"00"	16625
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"1st month"	"01"	25352
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"2nd month"	"02"	114384
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"3rd month"	"03"	128466
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"4th month"	"04"	61721
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"5th month"	"05"	33967
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"6th month"	"06"	21843
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"7th month"	"07"	14346
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"8th month"	"08"	10247
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"9th month"	"09"	4990
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"10th month"	"10"	702
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Unknown or Not Stated"	"99"	6713
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Not Reported"	"98"	100919
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"No prenatal care"	"00"	16738
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"1st month"	"01"	31067
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"2nd month"	"02"	139776
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"3rd month"	"03"	145217
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"4th month"	"04"	65663
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"5th month"	"05"	34123
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"6th month"	"06"	20911
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"7th month"	"07"	13991
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"8th month"	"08"	10013
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"9th month"	"09"	4989
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"10th month"	"10"	691
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Unknown or Not Stated"	"99"	8426
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Not Reported"	"98"	38715
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"No prenatal care"	"00"	16654
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"1st month"	"01"	30812
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"2nd month"	"02"	139049
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"3rd month"	"03"	148951
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"4th month"	"04"	65769
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"5th month"	"05"	34241
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"6th month"	"06"	21134
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"7th month"	"07"	14262
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"8th month"	"08"	10400
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"9th month"	"09"	5362
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"10th month"	"10"	721
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Unknown or Not Stated"	"99"	10765
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Not Reported"	"98"	38347
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"No prenatal care"	"00"	16636
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"1st month"	"01"	28721
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"2nd month"	"02"	138011
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"3rd month"	"03"	151536
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"4th month"	"04"	66322
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"5th month"	"05"	34628
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"6th month"	"06"	21064
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"7th month"	"07"	14170
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"8th month"	"08"	10581
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"9th month"	"09"	5499
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"10th month"	"10"	762
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Unknown or Not Stated"	"99"	15980
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Not Reported"	"98"	37832
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"No prenatal care"	"00"	17284
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"1st month"	"01"	39974
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"2nd month"	"02"	175014
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"3rd month"	"03"	150187
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"4th month"	"04"	64583
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"5th month"	"05"	35091
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"6th month"	"06"	21554
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"7th month"	"07"	16265
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"8th month"	"08"	11493
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"9th month"	"09"	4648
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"10th month"	"10"	64
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Unknown or Not Stated"	"99"	19956
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"No prenatal care"	"00"	16166
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"1st month"	"01"	39003
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"2nd month"	"02"	178551
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"3rd month"	"03"	156290
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"4th month"	"04"	64677
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"5th month"	"05"	34279
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"6th month"	"06"	20670
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"7th month"	"07"	15854
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"8th month"	"08"	12165
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"9th month"	"09"	4841
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"10th month"	"10"	60
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Unknown or Not Stated"	"99"	17762
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"No prenatal care"	"00"	17126
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"1st month"	"01"	36318
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"2nd month"	"02"	176794
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"3rd month"	"03"	155423
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"4th month"	"04"	62235
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"5th month"	"05"	33477
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"6th month"	"06"	21225
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"7th month"	"07"	17675
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"8th month"	"08"	12613
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"9th month"	"09"	5014
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"10th month"	"10"	58
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Unknown or Not Stated"	"99"	14133
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"No prenatal care"	"00"	16836
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"1st month"	"01"	36020
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"2nd month"	"02"	176370
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"3rd month"	"03"	151381
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"4th month"	"04"	57980
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"5th month"	"05"	30780
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"6th month"	"06"	18640
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"7th month"	"07"	16048
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"8th month"	"08"	11339
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"9th month"	"09"	4859
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"10th month"	"10"	55
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Unknown or Not Stated"	"99"	10494
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"No prenatal care"	"00"	14983
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"1st month"	"01"	34446
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"2nd month"	"02"	179191
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"3rd month"	"03"	151356
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"4th month"	"04"	56975
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"5th month"	"05"	29387
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"6th month"	"06"	18250
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"7th month"	"07"	14639
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"8th month"	"08"	11382
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"9th month"	"09"	4979
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"10th month"	"10"	87
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Unknown or Not Stated"	"99"	9382
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"No prenatal care"	"00"	16117
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"1st month"	"01"	35252
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"2nd month"	"02"	179075
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"3rd month"	"03"	148757
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"4th month"	"04"	55498
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"5th month"	"05"	29575
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"6th month"	"06"	18290
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"7th month"	"07"	14226
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"8th month"	"08"	10703
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"9th month"	"09"	5334
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"10th month"	"10"	89
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Unknown or Not Stated"	"99"	9331
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"No prenatal care"	"00"	17433
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"1st month"	"01"	32197
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"2nd month"	"02"	173324
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"3rd month"	"03"	147377
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"4th month"	"04"	53724
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"5th month"	"05"	28004
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"6th month"	"06"	16855
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"7th month"	"07"	13372
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"8th month"	"08"	9670
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"9th month"	"09"	5525
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"10th month"	"10"	95
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Unknown or Not Stated"	"99"	10816
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"No prenatal care"	"00"	18309
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"1st month"	"01"	33457
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"2nd month"	"02"	177989
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"3rd month"	"03"	150716
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"4th month"	"04"	51620
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"5th month"	"05"	25649
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"6th month"	"06"	15890
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"7th month"	"07"	13189
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"8th month"	"08"	9917
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"9th month"	"09"	5169
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"10th month"	"10"	88
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Unknown or Not Stated"	"99"	13413
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"No prenatal care"	"00"	19136
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"1st month"	"01"	31462
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"2nd month"	"02"	174094
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"3rd month"	"03"	153753
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"4th month"	"04"	55848
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"5th month"	"05"	28396
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"6th month"	"06"	17568
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"7th month"	"07"	15320
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"8th month"	"08"	11067
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"9th month"	"09"	5333
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"10th month"	"10"	82
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Unknown or Not Stated"	"99"	17964
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"No prenatal care"	"00"	18422
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"1st month"	"01"	28798
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"2nd month"	"02"	168528
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"3rd month"	"03"	157609
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"4th month"	"04"	59069
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"5th month"	"05"	29423
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"6th month"	"06"	18047
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"7th month"	"07"	15363
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"8th month"	"08"	11872
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"9th month"	"09"	5166
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"10th month"	"10"	125
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Unknown or Not Stated"	"99"	13623
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"No prenatal care"	"00"	4650
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"1st month"	"01"	8863
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"2nd month"	"02"	66362
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"3rd month"	"03"	81524
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"4th month"	"04"	26107
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"5th month"	"05"	12113
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"6th month"	"06"	7214
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"7th month"	"07"	4839
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"8th month"	"08"	3498
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"9th month"	"09"	1762
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"10th month"	"10"	225
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Unknown or Not Stated"	"99"	8054
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Not Reported"	"98"	87477
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"No prenatal care"	"00"	4249
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"1st month"	"01"	8082
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"2nd month"	"02"	66945
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"3rd month"	"03"	80701
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"4th month"	"04"	25339
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"5th month"	"05"	11637
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"6th month"	"06"	7007
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"7th month"	"07"	4583
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"8th month"	"08"	3472
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"9th month"	"09"	1766
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"10th month"	"10"	223
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Unknown or Not Stated"	"99"	6632
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Not Reported"	"98"	85543
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"No prenatal care"	"00"	4151
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"1st month"	"01"	7713
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"2nd month"	"02"	65573
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"3rd month"	"03"	83397
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"4th month"	"04"	25021
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"5th month"	"05"	11238
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"6th month"	"06"	6789
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"7th month"	"07"	4715
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"8th month"	"08"	3482
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"9th month"	"09"	1796
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"10th month"	"10"	233
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Unknown or Not Stated"	"99"	7176
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Not Reported"	"98"	86441
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"No prenatal care"	"00"	4247
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"1st month"	"01"	7363
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"2nd month"	"02"	64545
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"3rd month"	"03"	84308
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"4th month"	"04"	25550
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"5th month"	"05"	11092
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"6th month"	"06"	6511
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"7th month"	"07"	4637
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"8th month"	"08"	3578
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"9th month"	"09"	1791
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"10th month"	"10"	194
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Unknown or Not Stated"	"99"	5936
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Not Reported"	"98"	85600
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"No prenatal care"	"00"	6193
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"1st month"	"01"	18519
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"2nd month"	"02"	117028
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"3rd month"	"03"	92885
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"4th month"	"04"	30220
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"5th month"	"05"	14719
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"6th month"	"06"	8820
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"7th month"	"07"	6742
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"8th month"	"08"	5055
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"9th month"	"09"	2151
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"10th month"	"10"	41
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Unknown or Not Stated"	"99"	6415
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"No prenatal care"	"00"	7131
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"1st month"	"01"	16759
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"2nd month"	"02"	119313
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"3rd month"	"03"	93722
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"4th month"	"04"	29042
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"5th month"	"05"	13804
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"6th month"	"06"	8359
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"7th month"	"07"	6628
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"8th month"	"08"	4978
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"9th month"	"09"	1955
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"10th month"	"10"	31
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Unknown or Not Stated"	"99"	6277
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"No prenatal care"	"00"	6053
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"1st month"	"01"	14430
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"2nd month"	"02"	118288
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"3rd month"	"03"	93749
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"4th month"	"04"	28633
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"5th month"	"05"	13800
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"6th month"	"06"	8655
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"7th month"	"07"	6914
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"8th month"	"08"	5354
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"9th month"	"09"	2286
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"10th month"	"10"	31
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Unknown or Not Stated"	"99"	6506
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"No prenatal care"	"00"	6827
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"1st month"	"01"	13989
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"2nd month"	"02"	116262
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"3rd month"	"03"	90628
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"4th month"	"04"	26427
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"5th month"	"05"	12876
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"6th month"	"06"	8098
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"7th month"	"07"	6419
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"8th month"	"08"	5038
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"9th month"	"09"	2102
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"10th month"	"10"	39
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Unknown or Not Stated"	"99"	6540
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"No prenatal care"	"00"	6934
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"1st month"	"01"	13459
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"2nd month"	"02"	115160
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"3rd month"	"03"	88598
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"4th month"	"04"	25486
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"5th month"	"05"	12545
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"6th month"	"06"	7764
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"7th month"	"07"	6619
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"8th month"	"08"	5042
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"9th month"	"09"	2189
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"10th month"	"10"	45
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Unknown or Not Stated"	"99"	5175
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"No prenatal care"	"00"	7110
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"1st month"	"01"	13185
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"2nd month"	"02"	115047
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"3rd month"	"03"	86674
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"4th month"	"04"	24297
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"5th month"	"05"	12102
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"6th month"	"06"	7722
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"7th month"	"07"	6461
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"8th month"	"08"	5200
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"9th month"	"09"	2377
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"10th month"	"10"	34
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Unknown or Not Stated"	"99"	6600
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"No prenatal care"	"00"	6023
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"1st month"	"01"	12078
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"2nd month"	"02"	110609
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"3rd month"	"03"	87541
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"4th month"	"04"	23906
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"5th month"	"05"	11685
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"6th month"	"06"	7242
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"7th month"	"07"	6041
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"8th month"	"08"	4822
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"9th month"	"09"	2400
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"10th month"	"10"	41
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Unknown or Not Stated"	"99"	5763
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"No prenatal care"	"00"	5944
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"1st month"	"01"	13660
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"2nd month"	"02"	115806
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"3rd month"	"03"	89971
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"4th month"	"04"	22869
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"5th month"	"05"	10652
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"6th month"	"06"	6805
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"7th month"	"07"	5971
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"8th month"	"08"	4409
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"9th month"	"09"	2041
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"10th month"	"10"	26
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Unknown or Not Stated"	"99"	4395
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"No prenatal care"	"00"	6193
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"1st month"	"01"	12888
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"2nd month"	"02"	109388
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"3rd month"	"03"	91195
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"4th month"	"04"	24183
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"5th month"	"05"	11428
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"6th month"	"06"	7161
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"7th month"	"07"	6189
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"8th month"	"08"	4845
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"9th month"	"09"	2066
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"10th month"	"10"	20
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Unknown or Not Stated"	"99"	5564
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"No prenatal care"	"00"	6172
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"1st month"	"01"	11613
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"2nd month"	"02"	102751
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"3rd month"	"03"	94129
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"4th month"	"04"	25004
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"5th month"	"05"	11521
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"6th month"	"06"	7539
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"7th month"	"07"	6349
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"8th month"	"08"	4904
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"9th month"	"09"	2247
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"10th month"	"10"	31
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Unknown or Not Stated"	"99"	4559
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"No prenatal care"	"00"	3768
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"1st month"	"01"	56412
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"2nd month"	"02"	247393
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"3rd month"	"03"	195830
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"4th month"	"04"	57596
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"5th month"	"05"	26673
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"6th month"	"06"	15495
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"7th month"	"07"	9700
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"8th month"	"08"	6796
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"9th month"	"09"	3188
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"10th month"	"10"	393
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Unknown or Not Stated"	"99"	19033
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Not Reported"	"98"	30459
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"No prenatal care"	"00"	3819
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"1st month"	"01"	53008
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"2nd month"	"02"	247625
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"3rd month"	"03"	195261
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"4th month"	"04"	55956
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"5th month"	"05"	25850
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"6th month"	"06"	15003
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"7th month"	"07"	9658
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"8th month"	"08"	6766
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"9th month"	"09"	3313
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"10th month"	"10"	401
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Unknown or Not Stated"	"99"	17591
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Not Reported"	"98"	30412
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"No prenatal care"	"00"	3639
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"1st month"	"01"	50927
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"2nd month"	"02"	253018
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"3rd month"	"03"	195766
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"4th month"	"04"	54367
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"5th month"	"05"	25410
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"6th month"	"06"	14893
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"7th month"	"07"	9528
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"8th month"	"08"	6898
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"9th month"	"09"	3433
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"10th month"	"10"	393
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Unknown or Not Stated"	"99"	18013
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Not Reported"	"98"	30167
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"No prenatal care"	"00"	4064
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"1st month"	"01"	50346
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"2nd month"	"02"	259861
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"3rd month"	"03"	193640
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"4th month"	"04"	52715
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"5th month"	"05"	25224
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"6th month"	"06"	14798
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"7th month"	"07"	10048
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"8th month"	"08"	7285
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"9th month"	"09"	3514
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"10th month"	"10"	329
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Unknown or Not Stated"	"99"	16059
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Not Reported"	"98"	18987
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"No prenatal care"	"00"	4493
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"1st month"	"01"	75684
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"2nd month"	"02"	306093
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"3rd month"	"03"	157980
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"4th month"	"04"	46734
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"5th month"	"05"	24181
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"6th month"	"06"	14779
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"7th month"	"07"	11276
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"8th month"	"08"	8052
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"9th month"	"09"	2716
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"10th month"	"10"	44
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Unknown or Not Stated"	"99"	14930
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"No prenatal care"	"00"	4572
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"1st month"	"01"	69919
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"2nd month"	"02"	303696
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"3rd month"	"03"	159876
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"4th month"	"04"	45700
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"5th month"	"05"	22848
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"6th month"	"06"	14037
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"7th month"	"07"	10920
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"8th month"	"08"	8238
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"9th month"	"09"	2931
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"10th month"	"10"	45
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Unknown or Not Stated"	"99"	13313
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"No prenatal care"	"00"	5223
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"1st month"	"01"	67332
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"2nd month"	"02"	305499
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"3rd month"	"03"	161075
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"4th month"	"04"	44179
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"5th month"	"05"	21721
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"6th month"	"06"	13258
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"7th month"	"07"	10763
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"8th month"	"08"	8728
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"9th month"	"09"	2811
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"10th month"	"10"	33
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Unknown or Not Stated"	"99"	13513
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"No prenatal care"	"00"	5428
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"1st month"	"01"	63278
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"2nd month"	"02"	299275
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"3rd month"	"03"	154750
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"4th month"	"04"	41714
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"5th month"	"05"	20434
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"6th month"	"06"	12616
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"7th month"	"07"	10010
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"8th month"	"08"	8038
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"9th month"	"09"	2755
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"10th month"	"10"	46
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Unknown or Not Stated"	"99"	12469
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"No prenatal care"	"00"	5669
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"1st month"	"01"	58507
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"2nd month"	"02"	291358
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"3rd month"	"03"	152134
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"4th month"	"04"	39532
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"5th month"	"05"	19229
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"6th month"	"06"	11782
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"7th month"	"07"	9611
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"8th month"	"08"	7508
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"9th month"	"09"	2557
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"10th month"	"10"	53
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Unknown or Not Stated"	"99"	12311
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"No prenatal care"	"00"	5550
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"1st month"	"01"	53867
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"2nd month"	"02"	283462
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"3rd month"	"03"	154745
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"4th month"	"04"	38941
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"5th month"	"05"	18572
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"6th month"	"06"	11221
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"7th month"	"07"	9277
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"8th month"	"08"	7548
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"9th month"	"09"	2563
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"10th month"	"10"	47
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Unknown or Not Stated"	"99"	14058
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"No prenatal care"	"00"	5525
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"1st month"	"01"	47411
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"2nd month"	"02"	270586
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"3rd month"	"03"	147144
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"4th month"	"04"	36948
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"5th month"	"05"	18025
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"6th month"	"06"	10863
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"7th month"	"07"	8178
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"8th month"	"08"	6002
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"9th month"	"09"	2211
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"10th month"	"10"	36
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Unknown or Not Stated"	"99"	15490
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"No prenatal care"	"00"	5975
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"1st month"	"01"	43005
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"2nd month"	"02"	271269
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"3rd month"	"03"	153457
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"4th month"	"04"	36607
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"5th month"	"05"	16580
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"6th month"	"06"	10164
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"7th month"	"07"	8060
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"8th month"	"08"	5819
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"9th month"	"09"	2193
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"10th month"	"10"	44
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Unknown or Not Stated"	"99"	17247
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"No prenatal care"	"00"	6327
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"1st month"	"01"	38453
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"2nd month"	"02"	254645
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"3rd month"	"03"	163347
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"4th month"	"04"	40093
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"5th month"	"05"	18481
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"6th month"	"06"	10865
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"7th month"	"07"	8695
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"8th month"	"08"	6603
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"9th month"	"09"	2638
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"10th month"	"10"	53
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Unknown or Not Stated"	"99"	16624
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"No prenatal care"	"00"	5650
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"1st month"	"01"	35080
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"2nd month"	"02"	235373
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"3rd month"	"03"	162553
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"4th month"	"04"	41137
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"5th month"	"05"	18541
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"6th month"	"06"	10849
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"7th month"	"07"	8578
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"8th month"	"08"	6721
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"9th month"	"09"	2523
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"10th month"	"10"	60
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Unknown or Not Stated"	"99"	16096
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Not Reported"	"98"	0
+"---"
+"Dataset: Natality, 2007-2023"
+"Query Parameters:"
+"Year: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020; 2021; 2022; 2023"
+"Group By: Census Division; Year; Month Prenatal Care Began"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
+"---"
+"Query Date: Mar 20, 2025 4:51:14 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-current.html on Mar 20, 2025 4:51:14 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/natality.html#Assurance of Confidentiality."
+"2. Each birth record represents one liveborn infant."
+"3. <p> About Education and Prenatal Care data: Education and Prenatal Care data have been recoded to ""Excluded"" for births to"
+"mothers residing in a reporting area that used the 1989 U.S. Standard Certificate of Live Birth in the specified data year. All"
+"reporting areas collect information on Education and Prenatal care, but information from the 2003 revision of the birth"
+"certificate is not comparable to the information based on the earlier certificate. The following reporting areas have Education"
+"and Prenatal Care data coded to ""Excluded"": Alabama, 2007-2013; Alaska 2007-2012; Arizona 2007-2013; Arkansas 2007-2013;"
+"Connecticut 2007-2015; District of Columbia 2007-2009; Georgia 2007; Hawaii 2007-2013; Illinois 2007-2009; Louisiana 2007-2010;"
+"Maine 2007-2013; Maryland 2007-2009; Massachusetts 2007-2011; Michigan 2007; Minnesota 2007-2011; Mississippi 2007-2012;"
+"Missouri 2007-2009; Montana 2007; Nevada 2007-2009; New Jersey 2007-2015; New Mexico 2007; New York (only counties comprising"
+"New York City) 2007; North Carolina 2007-2010; Oklahoma 2007-2009; Oregon 2007; Rhode Island 2007-2014; Utah 2007-2008; Virginia"
+"2007-2012; West Virginia 2007-2013; Wisconsin 2007-2010. </p> <p> Note the change from preceding years: Natality data for years"
+"2003-2006 in CDC WONDER excluded Education and Prenatal Care data for the reporting areas that had adopted the 2003 U.S."
+"Standard Certificate of Live Birth. </p>"
+"4. Beginning in 2014, month prenatal care began is calculated using gestational age based on the obstetric estimate. For years"
+"2013 and earlier, month prenatal care began was based on gestational age calculated using the date of the last normal menses."
+"This change may lead to a slight discontinuity in prenatal care results between years 2013 and 2014."

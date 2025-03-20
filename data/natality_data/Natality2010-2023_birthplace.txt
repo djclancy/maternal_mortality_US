@@ -1,0 +1,692 @@
+"Notes"	"Census Division"	"Census Division Code"	"Year"	"Year Code"	"Birthplace"	"Birthplace Code"	Births
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"In Hospital"	"1"	152447
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Freestanding Birth Center"	"2"	397
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Residence"	"4"	947
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Other"	"5"	12
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"In Hospital"	"1"	151536
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Freestanding Birth Center"	"2"	422
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	11
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Residence"	"4"	1010
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Other"	"5"	48
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Unknown or Not Stated"	"9"	13
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"In Hospital"	"1"	149491
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Freestanding Birth Center"	"2"	447
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	12
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Residence"	"4"	1048
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Other"	"5"	63
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"In Hospital"	"1"	148103
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Freestanding Birth Center"	"2"	509
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Residence"	"4"	1148
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Other"	"5"	57
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"In Hospital"	"1"	148433
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Freestanding Birth Center"	"2"	520
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Residence"	"4"	1116
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Other"	"5"	65
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"In Hospital"	"1"	147385
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Freestanding Birth Center"	"2"	467
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	10
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Residence"	"4"	1247
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Other"	"5"	59
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"In Hospital"	"1"	147027
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Freestanding Birth Center"	"2"	467
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	19
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Residence"	"4"	1279
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Other"	"5"	63
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"In Hospital"	"1"	144901
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Freestanding Birth Center"	"2"	437
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	19
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Residence"	"4"	1196
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Other"	"5"	69
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"In Hospital"	"1"	142425
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Freestanding Birth Center"	"2"	364
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Residence"	"4"	1163
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Other"	"5"	112
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"In Hospital"	"1"	140891
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Freestanding Birth Center"	"2"	372
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Residence"	"4"	1170
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Other"	"5"	83
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"In Hospital"	"1"	136485
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Freestanding Birth Center"	"2"	401
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Residence"	"4"	1487
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Other"	"5"	66
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Unknown or Not Stated"	"9"	12
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"In Hospital"	"1"	143059
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Freestanding Birth Center"	"2"	548
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Residence"	"4"	1586
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Other"	"5"	82
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"In Hospital"	"1"	141425
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Freestanding Birth Center"	"2"	492
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Residence"	"4"	1659
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Other"	"5"	84
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"In Hospital"	"1"	137978
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Freestanding Birth Center"	"2"	418
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Residence"	"4"	1593
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Other"	"5"	90
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"In Hospital"	"1"	487464
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Freestanding Birth Center"	"2"	1902
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	70
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Residence"	"4"	4822
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Other"	"5"	355
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"In Hospital"	"1"	482924
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Freestanding Birth Center"	"2"	1670
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	94
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Residence"	"4"	5174
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Other"	"5"	495
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Unknown or Not Stated"	"9"	16
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"In Hospital"	"1"	479988
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Freestanding Birth Center"	"2"	1836
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	80
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Residence"	"4"	5082
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Other"	"5"	668
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"In Hospital"	"1"	472586
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Freestanding Birth Center"	"2"	1858
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	69
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Residence"	"4"	5098
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Other"	"5"	853
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Unknown or Not Stated"	"9"	12
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"In Hospital"	"1"	476165
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Freestanding Birth Center"	"2"	1979
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	55
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Residence"	"4"	5178
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Other"	"5"	962
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"In Hospital"	"1"	473070
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Freestanding Birth Center"	"2"	1855
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	76
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Residence"	"4"	5267
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Other"	"5"	1174
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"In Hospital"	"1"	467930
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Freestanding Birth Center"	"2"	1853
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	44
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Residence"	"4"	5375
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Other"	"5"	1137
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"In Hospital"	"1"	460150
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Freestanding Birth Center"	"2"	1902
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	61
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Residence"	"4"	5347
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Other"	"5"	1269
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"In Hospital"	"1"	454263
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Freestanding Birth Center"	"2"	2000
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	68
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Residence"	"4"	5558
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Other"	"5"	1236
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"In Hospital"	"1"	446537
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Freestanding Birth Center"	"2"	2107
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	44
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Residence"	"4"	5479
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Other"	"5"	1182
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"In Hospital"	"1"	427763
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Freestanding Birth Center"	"2"	2310
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	51
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Residence"	"4"	6465
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Other"	"5"	1393
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"In Hospital"	"1"	434036
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Freestanding Birth Center"	"2"	2265
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	46
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Residence"	"4"	6754
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Other"	"5"	1760
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"In Hospital"	"1"	429785
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Freestanding Birth Center"	"2"	1967
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	57
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Residence"	"4"	7464
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Other"	"5"	1640
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"In Hospital"	"1"	420266
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Freestanding Birth Center"	"2"	2021
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	34
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Residence"	"4"	7771
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Other"	"5"	1468
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"In Hospital"	"1"	564288
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Freestanding Birth Center"	"2"	1293
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	148
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Residence"	"4"	5300
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Other"	"5"	218
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Unknown or Not Stated"	"9"	39
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"In Hospital"	"1"	557459
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Freestanding Birth Center"	"2"	1369
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	153
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Residence"	"4"	5442
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Other"	"5"	294
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Unknown or Not Stated"	"9"	32
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"In Hospital"	"1"	553717
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Freestanding Birth Center"	"2"	1360
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	177
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Residence"	"4"	5780
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Other"	"5"	187
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Unknown or Not Stated"	"9"	35
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"In Hospital"	"1"	551267
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Freestanding Birth Center"	"2"	1391
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	151
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Residence"	"4"	6051
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Other"	"5"	208
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Unknown or Not Stated"	"9"	39
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"In Hospital"	"1"	555287
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Freestanding Birth Center"	"2"	1515
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	180
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Residence"	"4"	6393
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Other"	"5"	227
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Unknown or Not Stated"	"9"	37
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"In Hospital"	"1"	553254
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Freestanding Birth Center"	"2"	1636
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	145
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Residence"	"4"	6507
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Other"	"5"	225
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"In Hospital"	"1"	546917
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Freestanding Birth Center"	"2"	1785
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	136
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Residence"	"4"	6491
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Other"	"5"	201
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Unknown or Not Stated"	"9"	21
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"In Hospital"	"1"	536181
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Freestanding Birth Center"	"2"	1856
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	146
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Residence"	"4"	6361
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Other"	"5"	228
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Unknown or Not Stated"	"9"	21
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"In Hospital"	"1"	526732
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Freestanding Birth Center"	"2"	1991
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	150
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Residence"	"4"	6584
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Other"	"5"	258
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Unknown or Not Stated"	"9"	10
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"In Hospital"	"1"	517492
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Freestanding Birth Center"	"2"	1955
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	147
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Residence"	"4"	6716
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Other"	"5"	286
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"In Hospital"	"1"	495165
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Freestanding Birth Center"	"2"	2203
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	136
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Residence"	"4"	7852
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Other"	"5"	405
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Unknown or Not Stated"	"9"	12
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"In Hospital"	"1"	496520
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Freestanding Birth Center"	"2"	2667
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	69
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Residence"	"4"	8981
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Other"	"5"	447
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"In Hospital"	"1"	486201
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Freestanding Birth Center"	"2"	3229
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	34
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Residence"	"4"	8788
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Other"	"5"	346
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"In Hospital"	"1"	476753
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Freestanding Birth Center"	"2"	3300
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	13
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Residence"	"4"	9126
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Other"	"5"	387
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Unknown or Not Stated"	"9"	15
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"In Hospital"	"1"	268491
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Freestanding Birth Center"	"2"	302
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	89
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Residence"	"4"	2463
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Other"	"5"	222
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"In Hospital"	"1"	266237
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Freestanding Birth Center"	"2"	280
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	83
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Residence"	"4"	2647
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Other"	"5"	226
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"In Hospital"	"1"	267488
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Freestanding Birth Center"	"2"	571
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	81
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Residence"	"4"	3025
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Other"	"5"	246
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"In Hospital"	"1"	266909
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Freestanding Birth Center"	"2"	1130
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	52
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Residence"	"4"	3011
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Other"	"5"	222
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"In Hospital"	"1"	269948
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Freestanding Birth Center"	"2"	1239
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	53
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Residence"	"4"	3145
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Other"	"5"	218
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"In Hospital"	"1"	269082
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Freestanding Birth Center"	"2"	1240
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	62
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Residence"	"4"	3209
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Other"	"5"	257
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Unknown or Not Stated"	"9"	10
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"In Hospital"	"1"	267087
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Freestanding Birth Center"	"2"	1213
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	151
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Residence"	"4"	3423
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Other"	"5"	277
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"In Hospital"	"1"	260363
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Freestanding Birth Center"	"2"	1096
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	219
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Residence"	"4"	3386
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Other"	"5"	202
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"In Hospital"	"1"	257551
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Freestanding Birth Center"	"2"	1273
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	240
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Residence"	"4"	3382
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Other"	"5"	223
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"In Hospital"	"1"	252897
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Freestanding Birth Center"	"2"	1268
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	246
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Residence"	"4"	3174
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Other"	"5"	263
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"In Hospital"	"1"	242742
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Freestanding Birth Center"	"2"	1475
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	269
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Residence"	"4"	3743
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Other"	"5"	287
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Unknown or Not Stated"	"9"	12
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"In Hospital"	"1"	245330
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Freestanding Birth Center"	"2"	1368
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	314
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Residence"	"4"	4152
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Other"	"5"	338
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"In Hospital"	"1"	242561
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Freestanding Birth Center"	"2"	1352
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	335
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Residence"	"4"	4407
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Other"	"5"	355
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Unknown or Not Stated"	"9"	10
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"In Hospital"	"1"	237122
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Freestanding Birth Center"	"2"	1263
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	246
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Residence"	"4"	4931
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Other"	"5"	340
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Unknown or Not Stated"	"9"	12
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"In Hospital"	"1"	739558
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Freestanding Birth Center"	"2"	2827
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	15
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Residence"	"4"	4132
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Other"	"5"	481
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Unknown or Not Stated"	"9"	18
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"In Hospital"	"1"	732533
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Freestanding Birth Center"	"2"	3221
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	17
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Residence"	"4"	4452
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Other"	"5"	371
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Unknown or Not Stated"	"9"	25
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"In Hospital"	"1"	728872
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Freestanding Birth Center"	"2"	3712
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	16
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Residence"	"4"	4551
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Other"	"5"	384
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Unknown or Not Stated"	"9"	24
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"In Hospital"	"1"	726087
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Freestanding Birth Center"	"2"	3808
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	14
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Residence"	"4"	4710
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Other"	"5"	349
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Unknown or Not Stated"	"9"	28
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"In Hospital"	"1"	738251
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Freestanding Birth Center"	"2"	3843
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	20
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Residence"	"4"	5001
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Other"	"5"	383
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Unknown or Not Stated"	"9"	44
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"In Hospital"	"1"	742427
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Freestanding Birth Center"	"2"	3991
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	18
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Residence"	"4"	5241
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Other"	"5"	381
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Unknown or Not Stated"	"9"	65
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"In Hospital"	"1"	738612
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Freestanding Birth Center"	"2"	4151
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	19
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Residence"	"4"	5457
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Other"	"5"	409
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Unknown or Not Stated"	"9"	62
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"In Hospital"	"1"	730440
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Freestanding Birth Center"	"2"	4712
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	14
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Residence"	"4"	5547
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Other"	"5"	364
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Unknown or Not Stated"	"9"	72
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"In Hospital"	"1"	721746
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Freestanding Birth Center"	"2"	4494
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	21
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Residence"	"4"	5628
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Other"	"5"	391
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Unknown or Not Stated"	"9"	61
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"In Hospital"	"1"	717101
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Freestanding Birth Center"	"2"	4356
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	20
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Residence"	"4"	5621
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Other"	"5"	367
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Unknown or Not Stated"	"9"	55
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"In Hospital"	"1"	693070
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Freestanding Birth Center"	"2"	3903
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	35
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Residence"	"4"	6968
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Other"	"5"	440
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Unknown or Not Stated"	"9"	54
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"In Hospital"	"1"	705461
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Freestanding Birth Center"	"2"	4027
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	93
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Residence"	"4"	8223
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Other"	"5"	570
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Unknown or Not Stated"	"9"	60
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"In Hospital"	"1"	716562
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Freestanding Birth Center"	"2"	3905
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	23
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Residence"	"4"	8988
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Other"	"5"	641
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Unknown or Not Stated"	"9"	58
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"In Hospital"	"1"	704205
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Freestanding Birth Center"	"2"	3667
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	43
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Residence"	"4"	8894
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Other"	"5"	626
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Unknown or Not Stated"	"9"	78
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"In Hospital"	"1"	233562
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Freestanding Birth Center"	"2"	319
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	28
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Residence"	"4"	1361
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Other"	"5"	91
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"In Hospital"	"1"	232223
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Freestanding Birth Center"	"2"	387
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	17
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Residence"	"4"	1444
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Other"	"5"	99
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"In Hospital"	"1"	231140
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Freestanding Birth Center"	"2"	348
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	25
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Residence"	"4"	1607
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Other"	"5"	125
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"In Hospital"	"1"	230369
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Freestanding Birth Center"	"2"	298
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	37
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Residence"	"4"	1652
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Other"	"5"	121
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"In Hospital"	"1"	233609
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Freestanding Birth Center"	"2"	304
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	39
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Residence"	"4"	1822
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Other"	"5"	151
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"In Hospital"	"1"	233287
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Freestanding Birth Center"	"2"	344
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	34
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Residence"	"4"	1858
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Other"	"5"	173
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Unknown or Not Stated"	"9"	11
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"In Hospital"	"1"	230741
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Freestanding Birth Center"	"2"	457
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	19
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Residence"	"4"	1867
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Other"	"5"	213
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Unknown or Not Stated"	"9"	38
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"In Hospital"	"1"	229795
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Freestanding Birth Center"	"2"	254
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	21
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Residence"	"4"	1787
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Other"	"5"	180
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Unknown or Not Stated"	"9"	29
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"In Hospital"	"1"	226804
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Freestanding Birth Center"	"2"	339
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	21
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Residence"	"4"	2019
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Other"	"5"	215
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Unknown or Not Stated"	"9"	36
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"In Hospital"	"1"	226096
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Freestanding Birth Center"	"2"	413
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Residence"	"4"	2048
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Other"	"5"	201
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"In Hospital"	"1"	220289
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Freestanding Birth Center"	"2"	441
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	28
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Residence"	"4"	2453
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Other"	"5"	265
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"In Hospital"	"1"	223354
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Freestanding Birth Center"	"2"	455
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	31
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Residence"	"4"	2965
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Other"	"5"	333
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"In Hospital"	"1"	223310
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Freestanding Birth Center"	"2"	537
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	33
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Residence"	"4"	3202
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Other"	"5"	313
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"In Hospital"	"1"	222843
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Freestanding Birth Center"	"2"	510
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	12
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Residence"	"4"	3653
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Other"	"5"	300
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"In Hospital"	"1"	535680
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Freestanding Birth Center"	"2"	1878
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Residence"	"4"	2571
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Other"	"5"	133
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"In Hospital"	"1"	525428
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Freestanding Birth Center"	"2"	2084
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Residence"	"4"	2688
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Other"	"5"	117
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"In Hospital"	"1"	530936
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Freestanding Birth Center"	"2"	2418
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Residence"	"4"	2957
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Other"	"5"	150
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"In Hospital"	"1"	535896
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Freestanding Birth Center"	"2"	2735
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Residence"	"4"	2967
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Other"	"5"	138
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"In Hospital"	"1"	549161
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Freestanding Birth Center"	"2"	3276
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Residence"	"4"	3499
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Other"	"5"	167
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"In Hospital"	"1"	553339
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Freestanding Birth Center"	"2"	3388
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Residence"	"4"	3414
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Other"	"5"	174
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"In Hospital"	"1"	544979
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Freestanding Birth Center"	"2"	3454
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Residence"	"4"	3424
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Other"	"5"	225
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"In Hospital"	"1"	523828
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Freestanding Birth Center"	"2"	3367
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Residence"	"4"	3386
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Other"	"5"	214
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"In Hospital"	"1"	518159
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Freestanding Birth Center"	"2"	3283
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Residence"	"4"	3434
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Other"	"5"	152
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Unknown or Not Stated"	"9"	22
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"In Hospital"	"1"	515416
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Freestanding Birth Center"	"2"	3044
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Residence"	"4"	3602
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Other"	"5"	171
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"In Hospital"	"1"	500336
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Freestanding Birth Center"	"2"	3704
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Residence"	"4"	4148
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Other"	"5"	186
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"In Hospital"	"1"	506058
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Freestanding Birth Center"	"2"	4132
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Residence"	"4"	4995
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Other"	"5"	213
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"In Hospital"	"1"	519992
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Freestanding Birth Center"	"2"	4456
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Residence"	"4"	5329
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Other"	"5"	234
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"In Hospital"	"1"	515795
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Freestanding Birth Center"	"2"	4439
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Residence"	"4"	5506
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Other"	"5"	298
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"In Hospital"	"1"	306877
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Freestanding Birth Center"	"2"	1684
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	19
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Residence"	"4"	3972
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Other"	"5"	129
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"In Hospital"	"1"	300185
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Freestanding Birth Center"	"2"	1899
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	15
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Residence"	"4"	3957
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Other"	"5"	112
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Unknown or Not Stated"	"9"	11
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"In Hospital"	"1"	301232
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Freestanding Birth Center"	"2"	1897
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	32
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Residence"	"4"	4428
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Other"	"5"	129
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"In Hospital"	"1"	298776
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Freestanding Birth Center"	"2"	1892
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	18
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Residence"	"4"	4519
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Other"	"5"	141
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"In Hospital"	"1"	301969
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Freestanding Birth Center"	"2"	1999
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Residence"	"4"	4627
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Other"	"5"	181
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"In Hospital"	"1"	301165
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Freestanding Birth Center"	"2"	2056
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	20
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Residence"	"4"	4559
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Other"	"5"	194
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"In Hospital"	"1"	297621
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Freestanding Birth Center"	"2"	2297
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	44
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Residence"	"4"	4528
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Other"	"5"	195
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Unknown or Not Stated"	"9"	14
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"In Hospital"	"1"	288251
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Freestanding Birth Center"	"2"	2282
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	32
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Residence"	"4"	4496
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Other"	"5"	179
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"In Hospital"	"1"	282055
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Freestanding Birth Center"	"2"	2390
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	42
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Residence"	"4"	4358
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Other"	"5"	164
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"In Hospital"	"1"	279320
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Freestanding Birth Center"	"2"	2818
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	21
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Residence"	"4"	4491
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Other"	"5"	144
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Unknown or Not Stated"	"9"	15
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"In Hospital"	"1"	269644
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Freestanding Birth Center"	"2"	3046
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	30
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Residence"	"4"	5246
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Other"	"5"	132
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Unknown or Not Stated"	"9"	53
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"In Hospital"	"1"	272938
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Freestanding Birth Center"	"2"	3378
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	30
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Residence"	"4"	5983
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Other"	"5"	172
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Unknown or Not Stated"	"9"	48
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"In Hospital"	"1"	271391
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Freestanding Birth Center"	"2"	3177
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	29
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Residence"	"4"	6340
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Other"	"5"	165
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Unknown or Not Stated"	"9"	18
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"In Hospital"	"1"	267111
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Freestanding Birth Center"	"2"	3129
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	31
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Residence"	"4"	6331
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Other"	"5"	193
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Unknown or Not Stated"	"9"	24
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"In Hospital"	"1"	663709
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Freestanding Birth Center"	"2"	2564
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	12
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Residence"	"4"	5932
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Other"	"5"	323
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Unknown or Not Stated"	"9"	196
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"In Hospital"	"1"	655044
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Freestanding Birth Center"	"2"	2874
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	15
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Residence"	"4"	6229
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Other"	"5"	474
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Unknown or Not Stated"	"9"	27
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"In Hospital"	"1"	656225
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Freestanding Birth Center"	"2"	2988
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	22
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Residence"	"4"	6706
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Other"	"5"	472
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Unknown or Not Stated"	"9"	39
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"In Hospital"	"1"	646049
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Freestanding Birth Center"	"2"	3292
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	28
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Residence"	"4"	6924
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Other"	"5"	557
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Unknown or Not Stated"	"9"	20
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"In Hospital"	"1"	655449
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Freestanding Birth Center"	"2"	3544
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	36
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Residence"	"4"	7313
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Other"	"5"	603
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Unknown or Not Stated"	"9"	17
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"In Hospital"	"1"	644289
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Freestanding Birth Center"	"2"	3915
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	27
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Residence"	"4"	7240
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Other"	"5"	575
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Unknown or Not Stated"	"9"	49
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"In Hospital"	"1"	642341
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Freestanding Birth Center"	"2"	4090
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	23
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Residence"	"4"	6986
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Other"	"5"	612
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Unknown or Not Stated"	"9"	83
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"In Hospital"	"1"	619363
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Freestanding Birth Center"	"2"	3972
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	37
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Residence"	"4"	6837
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Other"	"5"	568
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Unknown or Not Stated"	"9"	36
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"In Hospital"	"1"	599464
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Freestanding Birth Center"	"2"	3737
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	39
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Residence"	"4"	6386
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Other"	"5"	536
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Unknown or Not Stated"	"9"	89
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"In Hospital"	"1"	589278
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Freestanding Birth Center"	"2"	3710
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	56
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Residence"	"4"	6205
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Other"	"5"	598
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"In Hospital"	"1"	556118
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Freestanding Birth Center"	"2"	4401
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	36
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Residence"	"4"	7284
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Other"	"5"	571
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"In Hospital"	"1"	557040
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Freestanding Birth Center"	"2"	4706
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	25
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Residence"	"4"	8003
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Other"	"5"	641
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"In Hospital"	"1"	553406
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Freestanding Birth Center"	"2"	4830
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	38
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Residence"	"4"	7894
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Other"	"5"	651
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"In Hospital"	"1"	530624
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Freestanding Birth Center"	"2"	4384
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	34
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Residence"	"4"	7461
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Other"	"5"	652
+"---"
+"Dataset: Natality, 2007-2023"
+"Query Parameters:"
+"Year: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020; 2021; 2022; 2023"
+"Group By: Census Division; Year; Birthplace"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
+"---"
+"Query Date: Mar 20, 2025 4:55:08 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-current.html on Mar 20, 2025 4:55:08 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/natality.html#Assurance of Confidentiality."
+"2. Each birth record represents one liveborn infant."

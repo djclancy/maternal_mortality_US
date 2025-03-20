@@ -1,0 +1,1299 @@
+"Notes"	"Census Division"	"Census Division Code"	"Year"	"Year Code"	"Mother's Single Race"	"Mother's Single Race Code"	Births
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Asian"	"A"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Black or African American"	"2054-5"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"White"	"2106-3"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"More than one race"	"M"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Unknown or Not Stated"	"UNK"	0
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Not Available"	"NA"	153817
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Not Reported"	"NR"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"2010"	"2010"			153817
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Asian"	"A"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Black or African American"	"2054-5"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"White"	"2106-3"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"More than one race"	"M"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Unknown or Not Stated"	"UNK"	0
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Not Available"	"NA"	153040
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Not Reported"	"NR"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"2011"	"2011"			153040
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Asian"	"A"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Black or African American"	"2054-5"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"White"	"2106-3"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"More than one race"	"M"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Unknown or Not Stated"	"UNK"	0
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Not Available"	"NA"	151063
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Not Reported"	"NR"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"2012"	"2012"			151063
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Asian"	"A"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Black or African American"	"2054-5"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"White"	"2106-3"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"More than one race"	"M"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Unknown or Not Stated"	"UNK"	0
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Not Available"	"NA"	149829
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Not Reported"	"NR"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"2013"	"2013"			149829
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Asian"	"A"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Black or African American"	"2054-5"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"White"	"2106-3"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"More than one race"	"M"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Unknown or Not Stated"	"UNK"	0
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Not Available"	"NA"	150146
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Not Reported"	"NR"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"2014"	"2014"			150146
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Asian"	"A"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Black or African American"	"2054-5"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"White"	"2106-3"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"More than one race"	"M"	Missing Race
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Unknown or Not Stated"	"UNK"	0
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Not Available"	"NA"	149174
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Not Reported"	"NR"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"2015"	"2015"			149174
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	452
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Asian"	"A"	11010
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Black or African American"	"2054-5"	16447
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	85
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"White"	"2106-3"	117522
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"More than one race"	"M"	3342
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Unknown or Not Stated"	"UNK"	0
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Not Available"	"NA"	0
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Not Reported"	"NR"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"2016"	"2016"			148858
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	462
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Asian"	"A"	10592
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Black or African American"	"2054-5"	16850
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	87
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"White"	"2106-3"	115202
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"More than one race"	"M"	3437
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Unknown or Not Stated"	"UNK"	0
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Not Available"	"NA"	0
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Not Reported"	"NR"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"2017"	"2017"			146630
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	496
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Asian"	"A"	10016
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Black or African American"	"2054-5"	17111
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	100
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"White"	"2106-3"	112779
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"More than one race"	"M"	3576
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Unknown or Not Stated"	"UNK"	0
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Not Available"	"NA"	0
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Not Reported"	"NR"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"2018"	"2018"			144078
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	605
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Asian"	"A"	10081
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Black or African American"	"2054-5"	17089
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	113
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"White"	"2106-3"	111035
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"More than one race"	"M"	3606
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Unknown or Not Stated"	"UNK"	0
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Not Available"	"NA"	0
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Not Reported"	"NR"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"2019"	"2019"			142529
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	580
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Asian"	"A"	9295
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Black or African American"	"2054-5"	17034
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	87
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"White"	"2106-3"	107965
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"More than one race"	"M"	3491
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Unknown or Not Stated"	"UNK"	0
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Not Available"	"NA"	0
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Not Reported"	"NR"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"2020"	"2020"			138452
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	573
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Asian"	"A"	8850
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Black or African American"	"2054-5"	17971
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	89
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"White"	"2106-3"	114139
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"More than one race"	"M"	3664
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Unknown or Not Stated"	"UNK"	0
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Not Available"	"NA"	0
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Not Reported"	"NR"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"2021"	"2021"			145286
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	604
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Asian"	"A"	8975
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Black or African American"	"2054-5"	18575
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	130
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"White"	"2106-3"	111545
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"More than one race"	"M"	3842
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Unknown or Not Stated"	"UNK"	0
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Not Available"	"NA"	0
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Not Reported"	"NR"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"2022"	"2022"			143671
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	634
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Asian"	"A"	8563
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Black or African American"	"2054-5"	18660
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	159
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"White"	"2106-3"	108303
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"More than one race"	"M"	3766
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Unknown or Not Stated"	"UNK"	0
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Not Available"	"NA"	0
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Not Reported"	"NR"	0
+"Total"	"Division 1: New England"	"CENS-D1"	"2023"	"2023"			140085
+"Total"	"Division 1: New England"	"CENS-D1"					2056658
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Asian"	"A"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Black or African American"	"2054-5"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"White"	"2106-3"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"More than one race"	"M"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Unknown or Not Stated"	"UNK"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Not Available"	"NA"	494618
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Not Reported"	"NR"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"			494618
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Asian"	"A"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Black or African American"	"2054-5"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"White"	"2106-3"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"More than one race"	"M"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Unknown or Not Stated"	"UNK"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Not Available"	"NA"	490373
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Not Reported"	"NR"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"			490373
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Asian"	"A"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Black or African American"	"2054-5"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"White"	"2106-3"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"More than one race"	"M"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Unknown or Not Stated"	"UNK"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Not Available"	"NA"	487660
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Not Reported"	"NR"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"			487660
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Asian"	"A"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Black or African American"	"2054-5"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"White"	"2106-3"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"More than one race"	"M"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Unknown or Not Stated"	"UNK"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Not Available"	"NA"	480476
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Not Reported"	"NR"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"			480476
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Asian"	"A"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Black or African American"	"2054-5"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"White"	"2106-3"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"More than one race"	"M"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Unknown or Not Stated"	"UNK"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Not Available"	"NA"	484346
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Not Reported"	"NR"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"			484346
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Asian"	"A"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Black or African American"	"2054-5"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"White"	"2106-3"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"More than one race"	"M"	Missing Race
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Unknown or Not Stated"	"UNK"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Not Available"	"NA"	481448
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Not Reported"	"NR"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"			481448
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	951
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Asian"	"A"	50144
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Black or African American"	"2054-5"	82583
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	426
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"White"	"2106-3"	332640
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"More than one race"	"M"	9595
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Unknown or Not Stated"	"UNK"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Not Available"	"NA"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Not Reported"	"NR"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"			476339
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	914
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Asian"	"A"	48520
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Black or African American"	"2054-5"	81770
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	393
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"White"	"2106-3"	327284
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"More than one race"	"M"	9851
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Unknown or Not Stated"	"UNK"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Not Available"	"NA"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Not Reported"	"NR"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"			468732
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	1240
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Asian"	"A"	43524
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Black or African American"	"2054-5"	80311
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	617
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"White"	"2106-3"	327723
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"More than one race"	"M"	9719
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Unknown or Not Stated"	"UNK"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Not Available"	"NA"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Not Reported"	"NR"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"			463134
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	1323
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Asian"	"A"	43009
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Black or African American"	"2054-5"	79871
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	596
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"White"	"2106-3"	320289
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"More than one race"	"M"	10266
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Unknown or Not Stated"	"UNK"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Not Available"	"NA"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Not Reported"	"NR"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"			455354
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	1389
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Asian"	"A"	39155
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Black or African American"	"2054-5"	78234
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	559
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"White"	"2106-3"	308307
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"More than one race"	"M"	10341
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Unknown or Not Stated"	"UNK"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Not Available"	"NA"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Not Reported"	"NR"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"			437985
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	1443
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Asian"	"A"	38417
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Black or African American"	"2054-5"	78947
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	836
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"White"	"2106-3"	315746
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"More than one race"	"M"	9472
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Unknown or Not Stated"	"UNK"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Not Available"	"NA"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Not Reported"	"NR"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"			444861
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	1510
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Asian"	"A"	39065
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Black or African American"	"2054-5"	79415
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	816
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"White"	"2106-3"	311377
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"More than one race"	"M"	8736
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Unknown or Not Stated"	"UNK"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Not Available"	"NA"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Not Reported"	"NR"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"			440919
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	1552
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Asian"	"A"	37690
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Black or African American"	"2054-5"	75463
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	726
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"White"	"2106-3"	307220
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"More than one race"	"M"	8913
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Unknown or Not Stated"	"UNK"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Not Available"	"NA"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Not Reported"	"NR"	0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"			431564
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"					6537809
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Asian"	"A"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Black or African American"	"2054-5"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"White"	"2106-3"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"More than one race"	"M"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Unknown or Not Stated"	"UNK"	0
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Not Available"	"NA"	571286
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Not Reported"	"NR"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"			571286
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Asian"	"A"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Black or African American"	"2054-5"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"White"	"2106-3"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"More than one race"	"M"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Unknown or Not Stated"	"UNK"	0
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Not Available"	"NA"	564749
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Not Reported"	"NR"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"			564749
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Asian"	"A"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Black or African American"	"2054-5"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"White"	"2106-3"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"More than one race"	"M"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Unknown or Not Stated"	"UNK"	0
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Not Available"	"NA"	561256
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Not Reported"	"NR"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"			561256
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Asian"	"A"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Black or African American"	"2054-5"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"White"	"2106-3"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"More than one race"	"M"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Unknown or Not Stated"	"UNK"	0
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Not Available"	"NA"	559107
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Not Reported"	"NR"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"			559107
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Asian"	"A"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Black or African American"	"2054-5"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"White"	"2106-3"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"More than one race"	"M"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Unknown or Not Stated"	"UNK"	0
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Not Available"	"NA"	563639
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Not Reported"	"NR"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"			563639
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Asian"	"A"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Black or African American"	"2054-5"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"White"	"2106-3"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"More than one race"	"M"	Missing Race
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Unknown or Not Stated"	"UNK"	0
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Not Available"	"NA"	561773
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Not Reported"	"NR"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"			561773
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	1707
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Asian"	"A"	25172
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Black or African American"	"2054-5"	88905
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	276
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"White"	"2106-3"	428292
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"More than one race"	"M"	11199
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Unknown or Not Stated"	"UNK"	0
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Not Available"	"NA"	0
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Not Reported"	"NR"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"			555551
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	1674
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Asian"	"A"	24839
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Black or African American"	"2054-5"	89541
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	297
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"White"	"2106-3"	416851
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"More than one race"	"M"	11591
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Unknown or Not Stated"	"UNK"	0
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Not Available"	"NA"	0
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Not Reported"	"NR"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"			544793
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	1691
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Asian"	"A"	24135
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Black or African American"	"2054-5"	86857
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	324
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"White"	"2106-3"	411071
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"More than one race"	"M"	11647
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Unknown or Not Stated"	"UNK"	0
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Not Available"	"NA"	0
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Not Reported"	"NR"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"			535725
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	1605
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Asian"	"A"	23492
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Black or African American"	"2054-5"	86132
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	364
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"White"	"2106-3"	402872
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"More than one race"	"M"	12139
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Unknown or Not Stated"	"UNK"	0
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Not Available"	"NA"	0
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Not Reported"	"NR"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"			526604
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	1571
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Asian"	"A"	22405
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Black or African American"	"2054-5"	82310
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	390
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"White"	"2106-3"	387087
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"More than one race"	"M"	12010
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Unknown or Not Stated"	"UNK"	0
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Not Available"	"NA"	0
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Not Reported"	"NR"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"			505773
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	1664
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Asian"	"A"	21693
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Black or African American"	"2054-5"	79034
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	483
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"White"	"2106-3"	393279
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"More than one race"	"M"	12534
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Unknown or Not Stated"	"UNK"	0
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Not Available"	"NA"	0
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Not Reported"	"NR"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"			508687
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	1524
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Asian"	"A"	21813
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Black or African American"	"2054-5"	75911
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	503
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"White"	"2106-3"	386262
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"More than one race"	"M"	12587
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Unknown or Not Stated"	"UNK"	0
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Not Available"	"NA"	0
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Not Reported"	"NR"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"			498600
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	1466
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Asian"	"A"	22010
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Black or African American"	"2054-5"	73602
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	507
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"White"	"2106-3"	378874
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"More than one race"	"M"	13135
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Unknown or Not Stated"	"UNK"	0
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Not Available"	"NA"	0
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Not Reported"	"NR"	0
+"Total"	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"			489594
+"Total"	"Division 3: East North Central"	"CENS-D3"					7547137
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Asian"	"A"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Black or African American"	"2054-5"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"White"	"2106-3"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"More than one race"	"M"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Unknown or Not Stated"	"UNK"	0
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Not Available"	"NA"	271570
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Not Reported"	"NR"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"			271570
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Asian"	"A"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Black or African American"	"2054-5"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"White"	"2106-3"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"More than one race"	"M"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Unknown or Not Stated"	"UNK"	0
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Not Available"	"NA"	269475
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Not Reported"	"NR"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"			269475
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Asian"	"A"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Black or African American"	"2054-5"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"White"	"2106-3"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"More than one race"	"M"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Unknown or Not Stated"	"UNK"	0
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Not Available"	"NA"	271413
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Not Reported"	"NR"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"			271413
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Asian"	"A"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Black or African American"	"2054-5"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"White"	"2106-3"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"More than one race"	"M"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Unknown or Not Stated"	"UNK"	0
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Not Available"	"NA"	271330
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Not Reported"	"NR"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"			271330
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Asian"	"A"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Black or African American"	"2054-5"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"White"	"2106-3"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"More than one race"	"M"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Unknown or Not Stated"	"UNK"	0
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Not Available"	"NA"	274610
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Not Reported"	"NR"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"			274610
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Asian"	"A"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Black or African American"	"2054-5"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"White"	"2106-3"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"More than one race"	"M"	Missing Race
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Unknown or Not Stated"	"UNK"	0
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Not Available"	"NA"	273860
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Not Reported"	"NR"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"			273860
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	5092
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Asian"	"A"	11854
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Black or African American"	"2054-5"	27598
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	583
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"White"	"2106-3"	220135
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"More than one race"	"M"	6895
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Unknown or Not Stated"	"UNK"	0
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Not Available"	"NA"	0
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Not Reported"	"NR"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"			272157
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	5116
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Asian"	"A"	11649
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Black or African American"	"2054-5"	28383
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	625
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"White"	"2106-3"	212406
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"More than one race"	"M"	7091
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Unknown or Not Stated"	"UNK"	0
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Not Available"	"NA"	0
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Not Reported"	"NR"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"			265270
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	4956
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Asian"	"A"	11060
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Black or African American"	"2054-5"	28038
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	712
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"White"	"2106-3"	210525
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"More than one race"	"M"	7385
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Unknown or Not Stated"	"UNK"	0
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Not Available"	"NA"	0
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Not Reported"	"NR"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"			262676
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	4825
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Asian"	"A"	10968
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Black or African American"	"2054-5"	28027
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	744
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"White"	"2106-3"	205924
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"More than one race"	"M"	7368
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Unknown or Not Stated"	"UNK"	0
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Not Available"	"NA"	0
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Not Reported"	"NR"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"			257856
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	4609
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Asian"	"A"	10474
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Black or African American"	"2054-5"	27269
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	897
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"White"	"2106-3"	197691
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"More than one race"	"M"	7588
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Unknown or Not Stated"	"UNK"	0
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Not Available"	"NA"	0
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Not Reported"	"NR"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"			248528
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	4393
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Asian"	"A"	10126
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Black or African American"	"2054-5"	25873
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	936
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"White"	"2106-3"	202528
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"More than one race"	"M"	7652
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Unknown or Not Stated"	"UNK"	0
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Not Available"	"NA"	0
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Not Reported"	"NR"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"			251508
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	4346
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Asian"	"A"	10219
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Black or African American"	"2054-5"	25735
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1043
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"White"	"2106-3"	200037
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"More than one race"	"M"	7640
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Unknown or Not Stated"	"UNK"	0
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Not Available"	"NA"	0
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Not Reported"	"NR"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"			249020
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	4278
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Asian"	"A"	9765
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Black or African American"	"2054-5"	24532
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1143
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"White"	"2106-3"	196517
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"More than one race"	"M"	7679
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Unknown or Not Stated"	"UNK"	0
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Not Available"	"NA"	0
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Not Reported"	"NR"	0
+"Total"	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"			243914
+"Total"	"Division 4: West North Central"	"CENS-D4"					3683187
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Asian"	"A"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Black or African American"	"2054-5"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"White"	"2106-3"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"More than one race"	"M"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Unknown or Not Stated"	"UNK"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Not Available"	"NA"	747031
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Not Reported"	"NR"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"			747031
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Asian"	"A"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Black or African American"	"2054-5"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"White"	"2106-3"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"More than one race"	"M"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Unknown or Not Stated"	"UNK"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Not Available"	"NA"	740619
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Not Reported"	"NR"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"			740619
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Asian"	"A"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Black or African American"	"2054-5"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"White"	"2106-3"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"More than one race"	"M"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Unknown or Not Stated"	"UNK"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Not Available"	"NA"	737559
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Not Reported"	"NR"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"			737559
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Asian"	"A"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Black or African American"	"2054-5"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"White"	"2106-3"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"More than one race"	"M"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Unknown or Not Stated"	"UNK"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Not Available"	"NA"	734996
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Not Reported"	"NR"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"			734996
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Asian"	"A"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Black or African American"	"2054-5"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"White"	"2106-3"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"More than one race"	"M"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Unknown or Not Stated"	"UNK"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Not Available"	"NA"	747542
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Not Reported"	"NR"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"			747542
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Asian"	"A"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Black or African American"	"2054-5"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"White"	"2106-3"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"More than one race"	"M"	Missing Race
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Unknown or Not Stated"	"UNK"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Not Available"	"NA"	752123
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Not Reported"	"NR"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"			752123
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	2930
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Asian"	"A"	37638
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Black or African American"	"2054-5"	211505
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1044
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"White"	"2106-3"	482092
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"More than one race"	"M"	13501
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Unknown or Not Stated"	"UNK"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Not Available"	"NA"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Not Reported"	"NR"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"			748710
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	2966
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Asian"	"A"	37390
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Black or African American"	"2054-5"	212421
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1156
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"White"	"2106-3"	472381
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"More than one race"	"M"	14835
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Unknown or Not Stated"	"UNK"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Not Available"	"NA"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Not Reported"	"NR"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"			741149
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	3172
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Asian"	"A"	34451
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Black or African American"	"2054-5"	199788
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1470
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"White"	"2106-3"	478279
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"More than one race"	"M"	15181
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Unknown or Not Stated"	"UNK"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Not Available"	"NA"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Not Reported"	"NR"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"			732341
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	3160
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Asian"	"A"	34282
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Black or African American"	"2054-5"	199194
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1582
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"White"	"2106-3"	473596
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"More than one race"	"M"	15706
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Unknown or Not Stated"	"UNK"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Not Available"	"NA"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Not Reported"	"NR"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"			727520
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	3451
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Asian"	"A"	32457
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Black or African American"	"2054-5"	193358
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1524
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"White"	"2106-3"	457611
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"More than one race"	"M"	16069
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Unknown or Not Stated"	"UNK"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Not Available"	"NA"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Not Reported"	"NR"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"			704470
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	3405
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Asian"	"A"	32113
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Black or African American"	"2054-5"	192123
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1639
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"White"	"2106-3"	472172
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"More than one race"	"M"	16982
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Unknown or Not Stated"	"UNK"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Not Available"	"NA"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Not Reported"	"NR"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"			718434
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	3602
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Asian"	"A"	33111
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Black or African American"	"2054-5"	192926
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1967
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"White"	"2106-3"	480953
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"More than one race"	"M"	17618
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Unknown or Not Stated"	"UNK"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Not Available"	"NA"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Not Reported"	"NR"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"			730177
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	3696
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Asian"	"A"	32863
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Black or African American"	"2054-5"	185428
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1793
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"White"	"2106-3"	475781
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"More than one race"	"M"	17952
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Unknown or Not Stated"	"UNK"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Not Available"	"NA"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Not Reported"	"NR"	0
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"			717513
+"Total"	"Division 5: South Atlantic"	"CENS-D5"					10280184
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Asian"	"A"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Black or African American"	"2054-5"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"White"	"2106-3"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"More than one race"	"M"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Unknown or Not Stated"	"UNK"	0
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Not Available"	"NA"	235365
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Not Reported"	"NR"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"			235365
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Asian"	"A"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Black or African American"	"2054-5"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"White"	"2106-3"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"More than one race"	"M"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Unknown or Not Stated"	"UNK"	0
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Not Available"	"NA"	234172
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Not Reported"	"NR"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"			234172
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Asian"	"A"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Black or African American"	"2054-5"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"White"	"2106-3"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"More than one race"	"M"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Unknown or Not Stated"	"UNK"	0
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Not Available"	"NA"	233246
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Not Reported"	"NR"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"			233246
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Asian"	"A"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Black or African American"	"2054-5"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"White"	"2106-3"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"More than one race"	"M"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Unknown or Not Stated"	"UNK"	0
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Not Available"	"NA"	232479
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Not Reported"	"NR"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"			232479
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Asian"	"A"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Black or African American"	"2054-5"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"White"	"2106-3"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"More than one race"	"M"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Unknown or Not Stated"	"UNK"	0
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Not Available"	"NA"	235930
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Not Reported"	"NR"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"			235930
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Asian"	"A"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Black or African American"	"2054-5"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"White"	"2106-3"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"More than one race"	"M"	Missing Race
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Unknown or Not Stated"	"UNK"	0
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Not Available"	"NA"	235707
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Not Reported"	"NR"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"			235707
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	562
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Asian"	"A"	4881
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Black or African American"	"2054-5"	57376
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	379
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"White"	"2106-3"	166727
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"More than one race"	"M"	3410
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Unknown or Not Stated"	"UNK"	0
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Not Available"	"NA"	0
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Not Reported"	"NR"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"			233335
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	577
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Asian"	"A"	4862
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Black or African American"	"2054-5"	58064
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	302
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"White"	"2106-3"	164615
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"More than one race"	"M"	3646
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Unknown or Not Stated"	"UNK"	0
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Not Available"	"NA"	0
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Not Reported"	"NR"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"			232066
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	733
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Asian"	"A"	4558
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Black or African American"	"2054-5"	55933
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	394
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"White"	"2106-3"	163987
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"More than one race"	"M"	3829
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Unknown or Not Stated"	"UNK"	0
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Not Available"	"NA"	0
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Not Reported"	"NR"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"			229434
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	767
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Asian"	"A"	4604
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Black or African American"	"2054-5"	56684
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	339
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"White"	"2106-3"	162315
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"More than one race"	"M"	4061
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Unknown or Not Stated"	"UNK"	0
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Not Available"	"NA"	0
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Not Reported"	"NR"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"			228770
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	800
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Asian"	"A"	4397
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Black or African American"	"2054-5"	55399
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	431
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"White"	"2106-3"	158419
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"More than one race"	"M"	4031
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Unknown or Not Stated"	"UNK"	0
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Not Available"	"NA"	0
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Not Reported"	"NR"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"			223477
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	854
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Asian"	"A"	4292
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Black or African American"	"2054-5"	53381
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	456
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"White"	"2106-3"	163915
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"More than one race"	"M"	4243
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Unknown or Not Stated"	"UNK"	0
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Not Available"	"NA"	0
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Not Reported"	"NR"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"			227141
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	894
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Asian"	"A"	4503
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Black or African American"	"2054-5"	51675
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	765
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"White"	"2106-3"	165051
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"More than one race"	"M"	4516
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Unknown or Not Stated"	"UNK"	0
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Not Available"	"NA"	0
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Not Reported"	"NR"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"			227404
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	1072
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Asian"	"A"	4538
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Black or African American"	"2054-5"	50730
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	698
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"White"	"2106-3"	165745
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"More than one race"	"M"	4539
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Unknown or Not Stated"	"UNK"	0
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Not Available"	"NA"	0
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Not Reported"	"NR"	0
+"Total"	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"			227322
+"Total"	"Division 6: East South Central"	"CENS-D6"					3235848
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Asian"	"A"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Black or African American"	"2054-5"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"White"	"2106-3"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"More than one race"	"M"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Unknown or Not Stated"	"UNK"	0
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Not Available"	"NA"	540275
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Not Reported"	"NR"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"			540275
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Asian"	"A"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Black or African American"	"2054-5"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"White"	"2106-3"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"More than one race"	"M"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Unknown or Not Stated"	"UNK"	0
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Not Available"	"NA"	530320
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Not Reported"	"NR"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"			530320
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Asian"	"A"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Black or African American"	"2054-5"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"White"	"2106-3"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"More than one race"	"M"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Unknown or Not Stated"	"UNK"	0
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Not Available"	"NA"	536467
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Not Reported"	"NR"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"			536467
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Asian"	"A"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Black or African American"	"2054-5"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"White"	"2106-3"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"More than one race"	"M"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Unknown or Not Stated"	"UNK"	0
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Not Available"	"NA"	541742
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Not Reported"	"NR"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"			541742
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Asian"	"A"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Black or African American"	"2054-5"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"White"	"2106-3"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"More than one race"	"M"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Unknown or Not Stated"	"UNK"	0
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Not Available"	"NA"	556113
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Not Reported"	"NR"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"			556113
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Asian"	"A"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Black or African American"	"2054-5"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"White"	"2106-3"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"More than one race"	"M"	Missing Race
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Unknown or Not Stated"	"UNK"	0
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Not Available"	"NA"	560318
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Not Reported"	"NR"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"			560318
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	7163
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Asian"	"A"	26472
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Black or African American"	"2054-5"	91969
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1369
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"White"	"2106-3"	415177
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"More than one race"	"M"	9941
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Unknown or Not Stated"	"UNK"	0
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Not Available"	"NA"	0
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Not Reported"	"NR"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"			552091
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	6718
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Asian"	"A"	25964
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Black or African American"	"2054-5"	91042
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1499
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"White"	"2106-3"	395743
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"More than one race"	"M"	9836
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Unknown or Not Stated"	"UNK"	0
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Not Available"	"NA"	0
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Not Reported"	"NR"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"			530802
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	6655
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Asian"	"A"	23902
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Black or African American"	"2054-5"	86406
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1560
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"White"	"2106-3"	396400
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"More than one race"	"M"	10134
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Unknown or Not Stated"	"UNK"	0
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Not Available"	"NA"	0
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Not Reported"	"NR"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"			525057
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	6747
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Asian"	"A"	23782
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Black or African American"	"2054-5"	85622
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1760
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"White"	"2106-3"	393990
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"More than one race"	"M"	10346
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Unknown or Not Stated"	"UNK"	0
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Not Available"	"NA"	0
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Not Reported"	"NR"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"			522247
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	6417
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Asian"	"A"	22878
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Black or African American"	"2054-5"	84139
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1729
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"White"	"2106-3"	382376
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"More than one race"	"M"	10853
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Unknown or Not Stated"	"UNK"	0
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Not Available"	"NA"	0
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Not Reported"	"NR"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"			508392
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	6791
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Asian"	"A"	23243
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Black or African American"	"2054-5"	82915
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1732
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"White"	"2106-3"	389382
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"More than one race"	"M"	11343
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Unknown or Not Stated"	"UNK"	0
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Not Available"	"NA"	0
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Not Reported"	"NR"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"			515406
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	6742
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Asian"	"A"	24938
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Black or African American"	"2054-5"	83782
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1899
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"White"	"2106-3"	400392
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"More than one race"	"M"	12270
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Unknown or Not Stated"	"UNK"	0
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Not Available"	"NA"	0
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Not Reported"	"NR"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"			530023
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	6423
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Asian"	"A"	25815
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Black or African American"	"2054-5"	82853
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1843
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"White"	"2106-3"	396430
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"More than one race"	"M"	12681
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Unknown or Not Stated"	"UNK"	0
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Not Available"	"NA"	0
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Not Reported"	"NR"	0
+"Total"	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"			526045
+"Total"	"Division 7: West South Central"	"CENS-D7"					7475298
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Asian"	"A"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Black or African American"	"2054-5"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"White"	"2106-3"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"More than one race"	"M"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Unknown or Not Stated"	"UNK"	0
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Not Available"	"NA"	312688
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Not Reported"	"NR"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"			312688
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Asian"	"A"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Black or African American"	"2054-5"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"White"	"2106-3"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"More than one race"	"M"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Unknown or Not Stated"	"UNK"	0
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Not Available"	"NA"	306179
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Not Reported"	"NR"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"			306179
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Asian"	"A"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Black or African American"	"2054-5"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"White"	"2106-3"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"More than one race"	"M"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Unknown or Not Stated"	"UNK"	0
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Not Available"	"NA"	307725
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Not Reported"	"NR"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"			307725
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Asian"	"A"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Black or African American"	"2054-5"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"White"	"2106-3"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"More than one race"	"M"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Unknown or Not Stated"	"UNK"	0
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Not Available"	"NA"	305352
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Not Reported"	"NR"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"			305352
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Asian"	"A"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Black or African American"	"2054-5"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"White"	"2106-3"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"More than one race"	"M"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Unknown or Not Stated"	"UNK"	0
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Not Available"	"NA"	308788
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Not Reported"	"NR"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"			308788
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Asian"	"A"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Black or African American"	"2054-5"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"White"	"2106-3"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"More than one race"	"M"	Missing Race
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Unknown or Not Stated"	"UNK"	0
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Not Available"	"NA"	307999
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Not Reported"	"NR"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"			307999
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	11869
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Asian"	"A"	11331
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Black or African American"	"2054-5"	14362
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1371
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"White"	"2106-3"	257501
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"More than one race"	"M"	8265
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Unknown or Not Stated"	"UNK"	0
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Not Available"	"NA"	0
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Not Reported"	"NR"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"			304699
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	11408
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Asian"	"A"	11321
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Black or African American"	"2054-5"	15034
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1440
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"White"	"2106-3"	247629
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"More than one race"	"M"	8413
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Unknown or Not Stated"	"UNK"	0
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Not Available"	"NA"	0
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Not Reported"	"NR"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"			295245
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	10930
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Asian"	"A"	10718
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Black or African American"	"2054-5"	15081
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1534
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"White"	"2106-3"	242004
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"More than one race"	"M"	8749
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Unknown or Not Stated"	"UNK"	0
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Not Available"	"NA"	0
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Not Reported"	"NR"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"			289016
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	10685
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Asian"	"A"	10662
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Black or African American"	"2054-5"	15222
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1582
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"White"	"2106-3"	239748
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"More than one race"	"M"	8910
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Unknown or Not Stated"	"UNK"	0
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Not Available"	"NA"	0
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Not Reported"	"NR"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"			286809
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	9922
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Asian"	"A"	10303
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Black or African American"	"2054-5"	15346
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1566
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"White"	"2106-3"	231804
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"More than one race"	"M"	9210
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Unknown or Not Stated"	"UNK"	0
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Not Available"	"NA"	0
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Not Reported"	"NR"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"			278151
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	9369
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Asian"	"A"	10208
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Black or African American"	"2054-5"	15067
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1536
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"White"	"2106-3"	236749
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"More than one race"	"M"	9620
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Unknown or Not Stated"	"UNK"	0
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Not Available"	"NA"	0
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Not Reported"	"NR"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"			282549
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	9491
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Asian"	"A"	10595
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Black or African American"	"2054-5"	15089
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1682
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"White"	"2106-3"	234744
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"More than one race"	"M"	9519
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Unknown or Not Stated"	"UNK"	0
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Not Available"	"NA"	0
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Not Reported"	"NR"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"			281120
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	9249
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Asian"	"A"	10587
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Black or African American"	"2054-5"	14875
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	1690
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"White"	"2106-3"	231068
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"More than one race"	"M"	9350
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Unknown or Not Stated"	"UNK"	0
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Not Available"	"NA"	0
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Not Reported"	"NR"	0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"			276819
+"Total"	"Division 8: Mountain"	"CENS-D8"					4143139
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Asian"	"A"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Black or African American"	"2054-5"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"White"	"2106-3"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"More than one race"	"M"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Unknown or Not Stated"	"UNK"	0
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Not Available"	"NA"	672736
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Not Reported"	"NR"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"			672736
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Asian"	"A"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Black or African American"	"2054-5"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"White"	"2106-3"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"More than one race"	"M"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Unknown or Not Stated"	"UNK"	0
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Not Available"	"NA"	664663
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Not Reported"	"NR"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"			664663
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Asian"	"A"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Black or African American"	"2054-5"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"White"	"2106-3"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"More than one race"	"M"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Unknown or Not Stated"	"UNK"	0
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Not Available"	"NA"	666452
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Not Reported"	"NR"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"			666452
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Asian"	"A"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Black or African American"	"2054-5"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"White"	"2106-3"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"More than one race"	"M"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Unknown or Not Stated"	"UNK"	0
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Not Available"	"NA"	656870
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Not Reported"	"NR"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"			656870
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Asian"	"A"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Black or African American"	"2054-5"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"White"	"2106-3"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"More than one race"	"M"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Unknown or Not Stated"	"UNK"	0
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Not Available"	"NA"	666962
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Not Reported"	"NR"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"			666962
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Asian"	"A"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Black or African American"	"2054-5"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"White"	"2106-3"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"More than one race"	"M"	Missing Race
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Unknown or Not Stated"	"UNK"	0
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Not Available"	"NA"	656095
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Not Reported"	"NR"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"			656095
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	7016
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Asian"	"A"	96447
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Black or African American"	"2054-5"	33141
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	5900
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"White"	"2106-3"	480847
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"More than one race"	"M"	30784
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Unknown or Not Stated"	"UNK"	0
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Not Available"	"NA"	0
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Not Reported"	"NR"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"			654135
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	6547
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Asian"	"A"	95071
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Black or African American"	"2054-5"	32922
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	5781
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"White"	"2106-3"	460156
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"More than one race"	"M"	30336
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Unknown or Not Stated"	"UNK"	0
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Not Available"	"NA"	0
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Not Reported"	"NR"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"			630813
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	6611
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Asian"	"A"	90521
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Black or African American"	"2054-5"	31408
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	5690
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"White"	"2106-3"	445671
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"More than one race"	"M"	30350
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Unknown or Not Stated"	"UNK"	0
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Not Available"	"NA"	0
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Not Reported"	"NR"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"			610251
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	6664
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Asian"	"A"	91219
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Black or African American"	"2054-5"	32440
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	5856
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"White"	"2106-3"	434801
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"More than one race"	"M"	28871
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Unknown or Not Stated"	"UNK"	0
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Not Available"	"NA"	0
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Not Reported"	"NR"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"			599851
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	6434
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Asian"	"A"	80425
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Black or African American"	"2054-5"	31890
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	5599
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"White"	"2106-3"	416170
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"More than one race"	"M"	27901
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Unknown or Not Stated"	"UNK"	0
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Not Available"	"NA"	0
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Not Reported"	"NR"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"			568419
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	6364
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Asian"	"A"	78144
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Black or African American"	"2054-5"	31730
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	5493
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"White"	"2106-3"	420068
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"More than one race"	"M"	28621
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Unknown or Not Stated"	"UNK"	0
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Not Available"	"NA"	0
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Not Reported"	"NR"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"			570420
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	7088
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Asian"	"A"	79517
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Black or African American"	"2054-5"	30814
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	5778
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"White"	"2106-3"	414796
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"More than one race"	"M"	28831
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Unknown or Not Stated"	"UNK"	0
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Not Available"	"NA"	0
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Not Reported"	"NR"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"			566824
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	6744
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Asian"	"A"	77384
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Black or African American"	"2054-5"	28590
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	5575
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"White"	"2106-3"	396707
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"More than one race"	"M"	28161
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Unknown or Not Stated"	"UNK"	0
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Not Available"	"NA"	0
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Not Reported"	"NR"	0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"			543161
+"Total"	"Division 9: Pacific"	"CENS-D9"					8727652
+"Total"							53686912
+"---"
+"Dataset: Natality, 2007-2023"
+"Query Parameters:"
+"Year: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020; 2021; 2022; 2023"
+"Group By: Census Division; Year; Mother's Single Race"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
+"---"
+"Query Date: Mar 20, 2025 5:11:37 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-current.html on Mar 20, 2025 5:11:37 PM"
+"---"
+Caveats:
+"1. 'Missing Race' appears when Single Race categories are not available for births before year 2016. Maternal race data for"
+"years before 2016 are recoded to the Single Race category ""Not Available"". More information:"
+"http://wonder.cdc.gov/wonder/help/natality.html#About-Single-Race."
+"2. Each birth record represents one liveborn infant."
+"3. Single Race categories are not available for births before year 2016. Maternal single race data for years before 2016 are"
+"recoded to the Single Race category ""Not Available"". More information:"
+"http://wonder.cdc.gov/wonder/help/natality.html#About-Single-Race."

@@ -1,0 +1,401 @@
+"Notes"	"Census Division"	"Census Division Code"	"Year"	"Year Code"	"Chronic Hypertension"	"Chronic Hypertension Code"	Births
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Yes"	"1"	2484
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"No"	"2"	150565
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Unknown or Not Stated"	"9"	768
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Yes"	"1"	2522
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"No"	"2"	149191
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Unknown or Not Stated"	"9"	1327
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Yes"	"1"	2474
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"No"	"2"	148157
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Unknown or Not Stated"	"9"	432
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Yes"	"1"	2407
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"No"	"2"	147053
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Unknown or Not Stated"	"9"	369
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Yes"	"1"	2604
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"No"	"2"	147053
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Unknown or Not Stated"	"9"	489
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Yes"	"1"	2613
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"No"	"2"	146234
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Unknown or Not Stated"	"9"	327
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Yes"	"1"	2757
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"No"	"2"	145182
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Unknown or Not Stated"	"9"	919
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Yes"	"1"	2935
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"No"	"2"	143299
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Unknown or Not Stated"	"9"	396
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Yes"	"1"	3180
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"No"	"2"	140656
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Unknown or Not Stated"	"9"	242
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Yes"	"1"	3120
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"No"	"2"	139090
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Unknown or Not Stated"	"9"	319
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Yes"	"1"	3865
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"No"	"2"	134162
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Unknown or Not Stated"	"9"	425
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Yes"	"1"	4658
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"No"	"2"	140340
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Unknown or Not Stated"	"9"	288
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Yes"	"1"	5054
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"No"	"2"	138355
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Unknown or Not Stated"	"9"	262
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Yes"	"1"	5451
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"No"	"2"	134357
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Unknown or Not Stated"	"9"	277
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Yes"	"1"	7050
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"No"	"2"	485943
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Unknown or Not Stated"	"9"	1625
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Yes"	"1"	7404
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"No"	"2"	482192
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Unknown or Not Stated"	"9"	777
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Yes"	"1"	7383
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"No"	"2"	479489
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Unknown or Not Stated"	"9"	788
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Yes"	"1"	7423
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"No"	"2"	472368
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Unknown or Not Stated"	"9"	685
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Yes"	"1"	7978
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"No"	"2"	475325
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Unknown or Not Stated"	"9"	1043
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Yes"	"1"	8261
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"No"	"2"	472646
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Unknown or Not Stated"	"9"	541
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Yes"	"1"	8770
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"No"	"2"	467323
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Unknown or Not Stated"	"9"	246
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Yes"	"1"	9034
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"No"	"2"	459257
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Unknown or Not Stated"	"9"	441
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Yes"	"1"	9676
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"No"	"2"	452919
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Unknown or Not Stated"	"9"	539
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Yes"	"1"	10064
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"No"	"2"	444768
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Unknown or Not Stated"	"9"	522
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Yes"	"1"	11352
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"No"	"2"	426182
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Unknown or Not Stated"	"9"	451
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Yes"	"1"	12348
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"No"	"2"	431780
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Unknown or Not Stated"	"9"	733
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Yes"	"1"	13010
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"No"	"2"	425904
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Unknown or Not Stated"	"9"	2005
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Yes"	"1"	13426
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"No"	"2"	417201
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Unknown or Not Stated"	"9"	937
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Yes"	"1"	8655
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"No"	"2"	557335
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Unknown or Not Stated"	"9"	5296
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Yes"	"1"	9202
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"No"	"2"	550527
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Unknown or Not Stated"	"9"	5020
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Yes"	"1"	9336
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"No"	"2"	548063
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Unknown or Not Stated"	"9"	3857
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Yes"	"1"	9815
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"No"	"2"	546829
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Unknown or Not Stated"	"9"	2463
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Yes"	"1"	10277
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"No"	"2"	551896
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Unknown or Not Stated"	"9"	1466
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Yes"	"1"	10752
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"No"	"2"	550357
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Unknown or Not Stated"	"9"	664
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Yes"	"1"	11633
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"No"	"2"	543180
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Unknown or Not Stated"	"9"	738
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Yes"	"1"	12382
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"No"	"2"	531536
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Unknown or Not Stated"	"9"	875
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Yes"	"1"	13158
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"No"	"2"	521836
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Unknown or Not Stated"	"9"	731
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Yes"	"1"	14262
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"No"	"2"	511758
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Unknown or Not Stated"	"9"	584
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Yes"	"1"	15030
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"No"	"2"	490264
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Unknown or Not Stated"	"9"	479
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Yes"	"1"	16720
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"No"	"2"	491124
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Unknown or Not Stated"	"9"	843
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Yes"	"1"	17258
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"No"	"2"	480403
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Unknown or Not Stated"	"9"	939
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Yes"	"1"	18132
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"No"	"2"	470361
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Unknown or Not Stated"	"9"	1101
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Yes"	"1"	3316
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"No"	"2"	267625
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Unknown or Not Stated"	"9"	629
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Yes"	"1"	3368
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"No"	"2"	264852
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Unknown or Not Stated"	"9"	1255
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Yes"	"1"	3864
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"No"	"2"	267333
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Unknown or Not Stated"	"9"	216
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Yes"	"1"	4028
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"No"	"2"	267091
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Unknown or Not Stated"	"9"	211
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Yes"	"1"	4082
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"No"	"2"	270327
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Unknown or Not Stated"	"9"	201
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Yes"	"1"	4273
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"No"	"2"	269398
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Unknown or Not Stated"	"9"	189
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Yes"	"1"	4494
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"No"	"2"	267559
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Unknown or Not Stated"	"9"	104
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Yes"	"1"	4909
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"No"	"2"	260225
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Unknown or Not Stated"	"9"	136
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Yes"	"1"	5353
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"No"	"2"	257239
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Unknown or Not Stated"	"9"	84
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Yes"	"1"	6008
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"No"	"2"	251731
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Unknown or Not Stated"	"9"	117
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Yes"	"1"	6602
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"No"	"2"	241807
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Unknown or Not Stated"	"9"	119
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Yes"	"1"	7266
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"No"	"2"	244143
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Unknown or Not Stated"	"9"	99
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Yes"	"1"	7739
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"No"	"2"	241155
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Unknown or Not Stated"	"9"	126
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Yes"	"1"	8363
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"No"	"2"	235433
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Unknown or Not Stated"	"9"	118
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Yes"	"1"	13003
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"No"	"2"	727741
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Unknown or Not Stated"	"9"	6287
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Yes"	"1"	12858
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"No"	"2"	720655
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Unknown or Not Stated"	"9"	7106
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Yes"	"1"	13131
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"No"	"2"	719618
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Unknown or Not Stated"	"9"	4810
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Yes"	"1"	13381
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"No"	"2"	717220
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Unknown or Not Stated"	"9"	4395
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Yes"	"1"	13674
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"No"	"2"	730082
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Unknown or Not Stated"	"9"	3786
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Yes"	"1"	14482
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"No"	"2"	736384
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Unknown or Not Stated"	"9"	1257
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Yes"	"1"	15355
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"No"	"2"	732444
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Unknown or Not Stated"	"9"	911
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Yes"	"1"	15926
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"No"	"2"	724156
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Unknown or Not Stated"	"9"	1067
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Yes"	"1"	17181
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"No"	"2"	714278
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Unknown or Not Stated"	"9"	882
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Yes"	"1"	18399
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"No"	"2"	708437
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Unknown or Not Stated"	"9"	684
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Yes"	"1"	20726
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"No"	"2"	683122
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Unknown or Not Stated"	"9"	622
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Yes"	"1"	21327
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"No"	"2"	695996
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Unknown or Not Stated"	"9"	1111
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Yes"	"1"	23464
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"No"	"2"	705837
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Unknown or Not Stated"	"9"	876
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Yes"	"1"	24867
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"No"	"2"	691359
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Unknown or Not Stated"	"9"	1287
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Yes"	"1"	5047
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"No"	"2"	230088
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Unknown or Not Stated"	"9"	230
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Yes"	"1"	5442
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"No"	"2"	228568
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Unknown or Not Stated"	"9"	162
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Yes"	"1"	5585
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"No"	"2"	227491
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Unknown or Not Stated"	"9"	170
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Yes"	"1"	5703
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"No"	"2"	226594
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Unknown or Not Stated"	"9"	182
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Yes"	"1"	5976
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"No"	"2"	229819
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Unknown or Not Stated"	"9"	135
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Yes"	"1"	5763
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"No"	"2"	229753
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Unknown or Not Stated"	"9"	191
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Yes"	"1"	5989
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"No"	"2"	227047
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Unknown or Not Stated"	"9"	299
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Yes"	"1"	6814
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"No"	"2"	224979
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Unknown or Not Stated"	"9"	273
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Yes"	"1"	7141
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"No"	"2"	222091
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Unknown or Not Stated"	"9"	202
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Yes"	"1"	7757
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"No"	"2"	220848
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Unknown or Not Stated"	"9"	165
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Yes"	"1"	8030
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"No"	"2"	214895
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Unknown or Not Stated"	"9"	552
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Yes"	"1"	9066
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"No"	"2"	217822
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Unknown or Not Stated"	"9"	253
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Yes"	"1"	9732
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"No"	"2"	217517
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Unknown or Not Stated"	"9"	155
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Yes"	"1"	10067
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"No"	"2"	217148
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Unknown or Not Stated"	"9"	107
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Yes"	"1"	6526
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"No"	"2"	533720
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Unknown or Not Stated"	"9"	29
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Yes"	"1"	7382
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"No"	"2"	522930
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Yes"	"1"	7242
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"No"	"2"	529217
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Yes"	"1"	7855
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"No"	"2"	533878
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Yes"	"1"	8429
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"No"	"2"	547680
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Yes"	"1"	8971
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"No"	"2"	551342
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Yes"	"1"	8895
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"No"	"2"	543193
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Yes"	"1"	9631
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"No"	"2"	521166
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Yes"	"1"	10274
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"No"	"2"	514747
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Unknown or Not Stated"	"9"	36
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Yes"	"1"	10194
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"No"	"2"	511649
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Unknown or Not Stated"	"9"	404
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Yes"	"1"	11473
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"No"	"2"	496421
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Unknown or Not Stated"	"9"	498
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Yes"	"1"	12188
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"No"	"2"	502651
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Unknown or Not Stated"	"9"	567
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Yes"	"1"	13324
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"No"	"2"	515308
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Unknown or Not Stated"	"9"	1391
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Yes"	"1"	14326
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"No"	"2"	511104
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Unknown or Not Stated"	"9"	615
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Yes"	"1"	2859
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"No"	"2"	309797
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Unknown or Not Stated"	"9"	32
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Yes"	"1"	2878
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"No"	"2"	303268
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Unknown or Not Stated"	"9"	33
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Yes"	"1"	3096
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"No"	"2"	304591
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Unknown or Not Stated"	"9"	38
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Yes"	"1"	3410
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"No"	"2"	301889
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Unknown or Not Stated"	"9"	53
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Yes"	"1"	3716
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"No"	"2"	305055
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Unknown or Not Stated"	"9"	17
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Yes"	"1"	3519
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"No"	"2"	304448
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Unknown or Not Stated"	"9"	32
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Yes"	"1"	3528
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"No"	"2"	301123
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Unknown or Not Stated"	"9"	48
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Yes"	"1"	3751
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"No"	"2"	291459
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Unknown or Not Stated"	"9"	35
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Yes"	"1"	4204
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"No"	"2"	284774
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Unknown or Not Stated"	"9"	38
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Yes"	"1"	4490
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"No"	"2"	282286
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Unknown or Not Stated"	"9"	33
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Yes"	"1"	4718
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"No"	"2"	273395
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Unknown or Not Stated"	"9"	38
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Yes"	"1"	5368
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"No"	"2"	277149
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Unknown or Not Stated"	"9"	32
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Yes"	"1"	5580
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"No"	"2"	275493
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Unknown or Not Stated"	"9"	47
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Yes"	"1"	6067
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"No"	"2"	270087
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Unknown or Not Stated"	"9"	665
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Yes"	"1"	5066
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"No"	"2"	665779
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Unknown or Not Stated"	"9"	1891
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Yes"	"1"	5506
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"No"	"2"	656676
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Unknown or Not Stated"	"9"	2481
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Yes"	"1"	5918
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"No"	"2"	657672
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Unknown or Not Stated"	"9"	2862
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Yes"	"1"	6369
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"No"	"2"	650070
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Unknown or Not Stated"	"9"	431
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Yes"	"1"	6308
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"No"	"2"	660410
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Unknown or Not Stated"	"9"	244
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Yes"	"1"	6589
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"No"	"2"	649287
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Unknown or Not Stated"	"9"	219
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Yes"	"1"	6957
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"No"	"2"	646665
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Unknown or Not Stated"	"9"	513
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Yes"	"1"	7650
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"No"	"2"	622680
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Unknown or Not Stated"	"9"	483
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Yes"	"1"	8143
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"No"	"2"	601980
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Unknown or Not Stated"	"9"	128
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Yes"	"1"	8838
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"No"	"2"	590557
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Unknown or Not Stated"	"9"	456
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Yes"	"1"	9732
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"No"	"2"	557808
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Unknown or Not Stated"	"9"	879
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Yes"	"1"	10632
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"No"	"2"	558509
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Unknown or Not Stated"	"9"	1279
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Yes"	"1"	11611
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"No"	"2"	554409
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Unknown or Not Stated"	"9"	804
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Yes"	"1"	12573
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"No"	"2"	529943
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Unknown or Not Stated"	"9"	645
+"---"
+"Dataset: Natality, 2007-2023"
+"Query Parameters:"
+"Year: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020; 2021; 2022; 2023"
+"Group By: Census Division; Year; Chronic Hypertension"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
+"---"
+"Query Date: Mar 20, 2025 4:58:11 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-current.html on Mar 20, 2025 4:58:11 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/natality.html#Assurance of Confidentiality."
+"2. Each birth record represents one liveborn infant."

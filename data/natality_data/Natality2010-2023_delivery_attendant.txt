@@ -1,0 +1,907 @@
+"Notes"	"Census Division"	"Census Division Code"	"Year"	"Year Code"	"Medical Attendant"	"Medical Attendant Code"	Births
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Doctor of Medicine(MD)"	"1"	123729
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Doctor of Osteopathy(DO)"	"2"	7475
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Certified Nurse Midwife(CNM/CM)"	"3"	21551
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Other Midwife"	"4"	683
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Other"	"5"	325
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Unknown or not stated"	"9"	54
+	"Division 1: New England"	"CENS-D1"	"2010"	"2010"	"Not Reported"	"100"	0
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Doctor of Medicine(MD)"	"1"	122514
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Doctor of Osteopathy(DO)"	"2"	7500
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Certified Nurse Midwife(CNM/CM)"	"3"	20825
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Other Midwife"	"4"	1239
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Other"	"5"	295
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Unknown or not stated"	"9"	667
+	"Division 1: New England"	"CENS-D1"	"2011"	"2011"	"Not Reported"	"100"	0
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Doctor of Medicine(MD)"	"1"	120550
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Doctor of Osteopathy(DO)"	"2"	7630
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Certified Nurse Midwife(CNM/CM)"	"3"	20826
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Other Midwife"	"4"	1643
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Other"	"5"	355
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Unknown or not stated"	"9"	59
+	"Division 1: New England"	"CENS-D1"	"2012"	"2012"	"Not Reported"	"100"	0
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Doctor of Medicine(MD)"	"1"	117931
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Doctor of Osteopathy(DO)"	"2"	8115
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Certified Nurse Midwife(CNM/CM)"	"3"	21947
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Other Midwife"	"4"	1376
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Other"	"5"	336
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Unknown or not stated"	"9"	124
+	"Division 1: New England"	"CENS-D1"	"2013"	"2013"	"Not Reported"	"100"	0
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Doctor of Medicine(MD)"	"1"	117427
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Doctor of Osteopathy(DO)"	"2"	8572
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Certified Nurse Midwife(CNM/CM)"	"3"	22452
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Other Midwife"	"4"	1181
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Other"	"5"	427
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Unknown or not stated"	"9"	87
+	"Division 1: New England"	"CENS-D1"	"2014"	"2014"	"Not Reported"	"100"	0
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Doctor of Medicine(MD)"	"1"	115973
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Doctor of Osteopathy(DO)"	"2"	8916
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Certified Nurse Midwife(CNM/CM)"	"3"	22781
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Other Midwife"	"4"	1094
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Other"	"5"	347
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Unknown or not stated"	"9"	63
+	"Division 1: New England"	"CENS-D1"	"2015"	"2015"	"Not Reported"	"100"	0
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Doctor of Medicine(MD)"	"1"	114654
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Doctor of Osteopathy(DO)"	"2"	9400
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Certified Nurse Midwife(CNM/CM)"	"3"	23347
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Other Midwife"	"4"	992
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Other"	"5"	439
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Unknown or not stated"	"9"	26
+	"Division 1: New England"	"CENS-D1"	"2016"	"2016"	"Not Reported"	"100"	0
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Doctor of Medicine(MD)"	"1"	112494
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Doctor of Osteopathy(DO)"	"2"	9988
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Certified Nurse Midwife(CNM/CM)"	"3"	22772
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Other Midwife"	"4"	934
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Other"	"5"	406
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Unknown or not stated"	"9"	36
+	"Division 1: New England"	"CENS-D1"	"2017"	"2017"	"Not Reported"	"100"	0
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Doctor of Medicine(MD)"	"1"	109753
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Doctor of Osteopathy(DO)"	"2"	10386
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Certified Nurse Midwife(CNM/CM)"	"3"	22581
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Other Midwife"	"4"	889
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Other"	"5"	437
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Unknown or not stated"	"9"	32
+	"Division 1: New England"	"CENS-D1"	"2018"	"2018"	"Not Reported"	"100"	0
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Doctor of Medicine(MD)"	"1"	107459
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Doctor of Osteopathy(DO)"	"2"	10616
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Certified Nurse Midwife(CNM/CM)"	"3"	23259
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Other Midwife"	"4"	750
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Other"	"5"	411
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Unknown or not stated"	"9"	34
+	"Division 1: New England"	"CENS-D1"	"2019"	"2019"	"Not Reported"	"100"	0
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Doctor of Medicine(MD)"	"1"	103146
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Doctor of Osteopathy(DO)"	"2"	10563
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Certified Nurse Midwife(CNM/CM)"	"3"	23334
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Other Midwife"	"4"	896
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Other"	"5"	489
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Unknown or not stated"	"9"	24
+	"Division 1: New England"	"CENS-D1"	"2020"	"2020"	"Not Reported"	"100"	0
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Doctor of Medicine(MD)"	"1"	107440
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Doctor of Osteopathy(DO)"	"2"	11203
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Certified Nurse Midwife(CNM/CM)"	"3"	25147
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Other Midwife"	"4"	942
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Other"	"5"	522
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Unknown or not stated"	"9"	32
+	"Division 1: New England"	"CENS-D1"	"2021"	"2021"	"Not Reported"	"100"	0
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Doctor of Medicine(MD)"	"1"	105870
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Doctor of Osteopathy(DO)"	"2"	11291
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Certified Nurse Midwife(CNM/CM)"	"3"	24863
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Other Midwife"	"4"	996
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Other"	"5"	616
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Unknown or not stated"	"9"	35
+	"Division 1: New England"	"CENS-D1"	"2022"	"2022"	"Not Reported"	"100"	0
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Doctor of Medicine(MD)"	"1"	101714
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Doctor of Osteopathy(DO)"	"2"	11720
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Certified Nurse Midwife(CNM/CM)"	"3"	25075
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Other Midwife"	"4"	819
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Other"	"5"	742
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Unknown or not stated"	"9"	15
+	"Division 1: New England"	"CENS-D1"	"2023"	"2023"	"Not Reported"	"100"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Doctor of Medicine(MD)"	"1"	409107
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Doctor of Osteopathy(DO)"	"2"	34151
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Certified Nurse Midwife(CNM/CM)"	"3"	46732
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Other Midwife"	"4"	1946
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Other"	"5"	2516
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Unknown or not stated"	"9"	166
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2010"	"2010"	"Not Reported"	"100"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Doctor of Medicine(MD)"	"1"	404170
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Doctor of Osteopathy(DO)"	"2"	35202
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Certified Nurse Midwife(CNM/CM)"	"3"	46154
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Other Midwife"	"4"	2021
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Other"	"5"	2543
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Unknown or not stated"	"9"	283
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2011"	"2011"	"Not Reported"	"100"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Doctor of Medicine(MD)"	"1"	400477
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Doctor of Osteopathy(DO)"	"2"	35634
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Certified Nurse Midwife(CNM/CM)"	"3"	46346
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Other Midwife"	"4"	2333
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Other"	"5"	2675
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Unknown or not stated"	"9"	195
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2012"	"2012"	"Not Reported"	"100"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Doctor of Medicine(MD)"	"1"	391985
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Doctor of Osteopathy(DO)"	"2"	35703
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Certified Nurse Midwife(CNM/CM)"	"3"	47490
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Other Midwife"	"4"	2276
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Other"	"5"	2878
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Unknown or not stated"	"9"	144
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2013"	"2013"	"Not Reported"	"100"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Doctor of Medicine(MD)"	"1"	388623
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Doctor of Osteopathy(DO)"	"2"	40786
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Certified Nurse Midwife(CNM/CM)"	"3"	47270
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Other Midwife"	"4"	4167
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Other"	"5"	3332
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Unknown or not stated"	"9"	168
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2014"	"2014"	"Not Reported"	"100"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Doctor of Medicine(MD)"	"1"	380760
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Doctor of Osteopathy(DO)"	"2"	44238
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Certified Nurse Midwife(CNM/CM)"	"3"	47844
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Other Midwife"	"4"	4408
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Other"	"5"	4017
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Unknown or not stated"	"9"	181
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2015"	"2015"	"Not Reported"	"100"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Doctor of Medicine(MD)"	"1"	374947
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Doctor of Osteopathy(DO)"	"2"	44286
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Certified Nurse Midwife(CNM/CM)"	"3"	50972
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Other Midwife"	"4"	2065
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Other"	"5"	3826
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Unknown or not stated"	"9"	243
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2016"	"2016"	"Not Reported"	"100"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Doctor of Medicine(MD)"	"1"	368727
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Doctor of Osteopathy(DO)"	"2"	44803
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Certified Nurse Midwife(CNM/CM)"	"3"	49101
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Other Midwife"	"4"	2068
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Other"	"5"	3860
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Unknown or not stated"	"9"	173
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2017"	"2017"	"Not Reported"	"100"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Doctor of Medicine(MD)"	"1"	363279
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Doctor of Osteopathy(DO)"	"2"	44949
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Certified Nurse Midwife(CNM/CM)"	"3"	48892
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Other Midwife"	"4"	2191
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Other"	"5"	3646
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Unknown or not stated"	"9"	177
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2018"	"2018"	"Not Reported"	"100"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Doctor of Medicine(MD)"	"1"	354559
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Doctor of Osteopathy(DO)"	"2"	43587
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Certified Nurse Midwife(CNM/CM)"	"3"	51308
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Other Midwife"	"4"	2282
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Other"	"5"	3422
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Unknown or not stated"	"9"	196
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2019"	"2019"	"Not Reported"	"100"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Doctor of Medicine(MD)"	"1"	337170
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Doctor of Osteopathy(DO)"	"2"	42013
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Certified Nurse Midwife(CNM/CM)"	"3"	52134
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Other Midwife"	"4"	2927
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Other"	"5"	3529
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Unknown or not stated"	"9"	212
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2020"	"2020"	"Not Reported"	"100"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Doctor of Medicine(MD)"	"1"	335706
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Doctor of Osteopathy(DO)"	"2"	44849
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Certified Nurse Midwife(CNM/CM)"	"3"	53142
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Other Midwife"	"4"	3907
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Other"	"5"	7041
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Unknown or not stated"	"9"	216
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2021"	"2021"	"Not Reported"	"100"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Doctor of Medicine(MD)"	"1"	327598
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Doctor of Osteopathy(DO)"	"2"	50299
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Certified Nurse Midwife(CNM/CM)"	"3"	54994
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Other Midwife"	"4"	2760
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Other"	"5"	5070
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Unknown or not stated"	"9"	198
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2022"	"2022"	"Not Reported"	"100"	0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Doctor of Medicine(MD)"	"1"	316091
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Doctor of Osteopathy(DO)"	"2"	51677
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Certified Nurse Midwife(CNM/CM)"	"3"	55187
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Other Midwife"	"4"	3478
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Other"	"5"	4934
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Unknown or not stated"	"9"	197
+	"Division 2: Middle Atlantic"	"CENS-D2"	"2023"	"2023"	"Not Reported"	"100"	0
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Doctor of Medicine(MD)"	"1"	471319
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Doctor of Osteopathy(DO)"	"2"	56706
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Certified Nurse Midwife(CNM/CM)"	"3"	37266
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Other Midwife"	"4"	2129
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Other"	"5"	3775
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Unknown or not stated"	"9"	91
+	"Division 3: East North Central"	"CENS-D3"	"2010"	"2010"	"Not Reported"	"100"	0
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Doctor of Medicine(MD)"	"1"	463873
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Doctor of Osteopathy(DO)"	"2"	57415
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Certified Nurse Midwife(CNM/CM)"	"3"	37061
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Other Midwife"	"4"	1770
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Other"	"5"	3709
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Unknown or not stated"	"9"	921
+	"Division 3: East North Central"	"CENS-D3"	"2011"	"2011"	"Not Reported"	"100"	0
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Doctor of Medicine(MD)"	"1"	459336
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Doctor of Osteopathy(DO)"	"2"	58262
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Certified Nurse Midwife(CNM/CM)"	"3"	37801
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Other Midwife"	"4"	2147
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Other"	"5"	3450
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Unknown or not stated"	"9"	260
+	"Division 3: East North Central"	"CENS-D3"	"2012"	"2012"	"Not Reported"	"100"	0
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Doctor of Medicine(MD)"	"1"	455884
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Doctor of Osteopathy(DO)"	"2"	58992
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Certified Nurse Midwife(CNM/CM)"	"3"	38020
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Other Midwife"	"4"	2761
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Other"	"5"	3310
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Unknown or not stated"	"9"	140
+	"Division 3: East North Central"	"CENS-D3"	"2013"	"2013"	"Not Reported"	"100"	0
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Doctor of Medicine(MD)"	"1"	455877
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Doctor of Osteopathy(DO)"	"2"	61482
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Certified Nurse Midwife(CNM/CM)"	"3"	39621
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Other Midwife"	"4"	3084
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Other"	"5"	3459
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Unknown or not stated"	"9"	116
+	"Division 3: East North Central"	"CENS-D3"	"2014"	"2014"	"Not Reported"	"100"	0
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Doctor of Medicine(MD)"	"1"	451354
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Doctor of Osteopathy(DO)"	"2"	63357
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Certified Nurse Midwife(CNM/CM)"	"3"	40179
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Other Midwife"	"4"	3153
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Other"	"5"	3606
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Unknown or not stated"	"9"	124
+	"Division 3: East North Central"	"CENS-D3"	"2015"	"2015"	"Not Reported"	"100"	0
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Doctor of Medicine(MD)"	"1"	441547
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Doctor of Osteopathy(DO)"	"2"	65632
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Certified Nurse Midwife(CNM/CM)"	"3"	41376
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Other Midwife"	"4"	3329
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Other"	"5"	3520
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Unknown or not stated"	"9"	147
+	"Division 3: East North Central"	"CENS-D3"	"2016"	"2016"	"Not Reported"	"100"	0
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Doctor of Medicine(MD)"	"1"	427622
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Doctor of Osteopathy(DO)"	"2"	66634
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Certified Nurse Midwife(CNM/CM)"	"3"	43244
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Other Midwife"	"4"	3711
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Other"	"5"	3414
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Unknown or not stated"	"9"	168
+	"Division 3: East North Central"	"CENS-D3"	"2017"	"2017"	"Not Reported"	"100"	0
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Doctor of Medicine(MD)"	"1"	416610
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Doctor of Osteopathy(DO)"	"2"	67428
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Certified Nurse Midwife(CNM/CM)"	"3"	44441
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Other Midwife"	"4"	3940
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Other"	"5"	3207
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Unknown or not stated"	"9"	99
+	"Division 3: East North Central"	"CENS-D3"	"2018"	"2018"	"Not Reported"	"100"	0
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Doctor of Medicine(MD)"	"1"	404781
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Doctor of Osteopathy(DO)"	"2"	68763
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Certified Nurse Midwife(CNM/CM)"	"3"	45917
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Other Midwife"	"4"	3709
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Other"	"5"	3310
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Unknown or not stated"	"9"	124
+	"Division 3: East North Central"	"CENS-D3"	"2019"	"2019"	"Not Reported"	"100"	0
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Doctor of Medicine(MD)"	"1"	383400
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Doctor of Osteopathy(DO)"	"2"	69377
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Certified Nurse Midwife(CNM/CM)"	"3"	45908
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Other Midwife"	"4"	3458
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Other"	"5"	3489
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Unknown or not stated"	"9"	141
+	"Division 3: East North Central"	"CENS-D3"	"2020"	"2020"	"Not Reported"	"100"	0
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Doctor of Medicine(MD)"	"1"	372554
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Doctor of Osteopathy(DO)"	"2"	69223
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Certified Nurse Midwife(CNM/CM)"	"3"	48124
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Other Midwife"	"4"	4904
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Other"	"5"	13669
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Unknown or not stated"	"9"	213
+	"Division 3: East North Central"	"CENS-D3"	"2021"	"2021"	"Not Reported"	"100"	0
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Doctor of Medicine(MD)"	"1"	359752
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Doctor of Osteopathy(DO)"	"2"	69863
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Certified Nurse Midwife(CNM/CM)"	"3"	50333
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Other Midwife"	"4"	5206
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Other"	"5"	13358
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Unknown or not stated"	"9"	88
+	"Division 3: East North Central"	"CENS-D3"	"2022"	"2022"	"Not Reported"	"100"	0
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Doctor of Medicine(MD)"	"1"	350233
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Doctor of Osteopathy(DO)"	"2"	71597
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Certified Nurse Midwife(CNM/CM)"	"3"	53069
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Other Midwife"	"4"	5542
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Other"	"5"	9058
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Unknown or not stated"	"9"	95
+	"Division 3: East North Central"	"CENS-D3"	"2023"	"2023"	"Not Reported"	"100"	0
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Doctor of Medicine(MD)"	"1"	226509
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Doctor of Osteopathy(DO)"	"2"	26324
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Certified Nurse Midwife(CNM/CM)"	"3"	16156
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Other Midwife"	"4"	1102
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Other"	"5"	1387
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Unknown or not stated"	"9"	92
+	"Division 4: West North Central"	"CENS-D4"	"2010"	"2010"	"Not Reported"	"100"	0
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Doctor of Medicine(MD)"	"1"	223038
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Doctor of Osteopathy(DO)"	"2"	26707
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Certified Nurse Midwife(CNM/CM)"	"3"	16560
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Other Midwife"	"4"	1338
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Other"	"5"	1489
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Unknown or not stated"	"9"	343
+	"Division 4: West North Central"	"CENS-D4"	"2011"	"2011"	"Not Reported"	"100"	0
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Doctor of Medicine(MD)"	"1"	223466
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Doctor of Osteopathy(DO)"	"2"	27601
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Certified Nurse Midwife(CNM/CM)"	"3"	16860
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Other Midwife"	"4"	1652
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Other"	"5"	1662
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Unknown or not stated"	"9"	172
+	"Division 4: West North Central"	"CENS-D4"	"2012"	"2012"	"Not Reported"	"100"	0
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Doctor of Medicine(MD)"	"1"	221871
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Doctor of Osteopathy(DO)"	"2"	28067
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Certified Nurse Midwife(CNM/CM)"	"3"	17863
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Other Midwife"	"4"	1557
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Other"	"5"	1742
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Unknown or not stated"	"9"	230
+	"Division 4: West North Central"	"CENS-D4"	"2013"	"2013"	"Not Reported"	"100"	0
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Doctor of Medicine(MD)"	"1"	221765
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Doctor of Osteopathy(DO)"	"2"	29819
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Certified Nurse Midwife(CNM/CM)"	"3"	19174
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Other Midwife"	"4"	1617
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Other"	"5"	1878
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Unknown or not stated"	"9"	357
+	"Division 4: West North Central"	"CENS-D4"	"2014"	"2014"	"Not Reported"	"100"	0
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Doctor of Medicine(MD)"	"1"	219329
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Doctor of Osteopathy(DO)"	"2"	31253
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Certified Nurse Midwife(CNM/CM)"	"3"	19359
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Other Midwife"	"4"	1842
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Other"	"5"	1891
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Unknown or not stated"	"9"	186
+	"Division 4: West North Central"	"CENS-D4"	"2015"	"2015"	"Not Reported"	"100"	0
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Doctor of Medicine(MD)"	"1"	215765
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Doctor of Osteopathy(DO)"	"2"	31836
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Certified Nurse Midwife(CNM/CM)"	"3"	20491
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Other Midwife"	"4"	1974
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Other"	"5"	1729
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Unknown or not stated"	"9"	362
+	"Division 4: West North Central"	"CENS-D4"	"2016"	"2016"	"Not Reported"	"100"	0
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Doctor of Medicine(MD)"	"1"	207734
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Doctor of Osteopathy(DO)"	"2"	32900
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Certified Nurse Midwife(CNM/CM)"	"3"	20641
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Other Midwife"	"4"	1980
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Other"	"5"	1660
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Unknown or not stated"	"9"	355
+	"Division 4: West North Central"	"CENS-D4"	"2017"	"2017"	"Not Reported"	"100"	0
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Doctor of Medicine(MD)"	"1"	203922
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Doctor of Osteopathy(DO)"	"2"	33303
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Certified Nurse Midwife(CNM/CM)"	"3"	21339
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Other Midwife"	"4"	2079
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Other"	"5"	1721
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Unknown or not stated"	"9"	312
+	"Division 4: West North Central"	"CENS-D4"	"2018"	"2018"	"Not Reported"	"100"	0
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Doctor of Medicine(MD)"	"1"	199134
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Doctor of Osteopathy(DO)"	"2"	33449
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Certified Nurse Midwife(CNM/CM)"	"3"	21393
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Other Midwife"	"4"	2022
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Other"	"5"	1680
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Unknown or not stated"	"9"	178
+	"Division 4: West North Central"	"CENS-D4"	"2019"	"2019"	"Not Reported"	"100"	0
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Doctor of Medicine(MD)"	"1"	190185
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Doctor of Osteopathy(DO)"	"2"	32443
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Certified Nurse Midwife(CNM/CM)"	"3"	21251
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Other Midwife"	"4"	2468
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Other"	"5"	1983
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Unknown or not stated"	"9"	198
+	"Division 4: West North Central"	"CENS-D4"	"2020"	"2020"	"Not Reported"	"100"	0
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Doctor of Medicine(MD)"	"1"	189125
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Doctor of Osteopathy(DO)"	"2"	34435
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Certified Nurse Midwife(CNM/CM)"	"3"	22892
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Other Midwife"	"4"	2777
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Other"	"5"	2153
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Unknown or not stated"	"9"	126
+	"Division 4: West North Central"	"CENS-D4"	"2021"	"2021"	"Not Reported"	"100"	0
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Doctor of Medicine(MD)"	"1"	184398
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Doctor of Osteopathy(DO)"	"2"	35281
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Certified Nurse Midwife(CNM/CM)"	"3"	24096
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Other Midwife"	"4"	3017
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Other"	"5"	2062
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Unknown or not stated"	"9"	166
+	"Division 4: West North Central"	"CENS-D4"	"2022"	"2022"	"Not Reported"	"100"	0
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Doctor of Medicine(MD)"	"1"	178265
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Doctor of Osteopathy(DO)"	"2"	35296
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Certified Nurse Midwife(CNM/CM)"	"3"	24939
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Other Midwife"	"4"	3249
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Other"	"5"	2039
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Unknown or not stated"	"9"	126
+	"Division 4: West North Central"	"CENS-D4"	"2023"	"2023"	"Not Reported"	"100"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Doctor of Medicine(MD)"	"1"	640245
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Doctor of Osteopathy(DO)"	"2"	22848
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Certified Nurse Midwife(CNM/CM)"	"3"	75161
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Other Midwife"	"4"	3601
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Other"	"5"	4221
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Unknown or not stated"	"9"	955
+	"Division 5: South Atlantic"	"CENS-D5"	"2010"	"2010"	"Not Reported"	"100"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Doctor of Medicine(MD)"	"1"	631626
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Doctor of Osteopathy(DO)"	"2"	23308
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Certified Nurse Midwife(CNM/CM)"	"3"	76053
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Other Midwife"	"4"	4104
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Other"	"5"	4884
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Unknown or not stated"	"9"	644
+	"Division 5: South Atlantic"	"CENS-D5"	"2011"	"2011"	"Not Reported"	"100"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Doctor of Medicine(MD)"	"1"	625801
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Doctor of Osteopathy(DO)"	"2"	24738
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Certified Nurse Midwife(CNM/CM)"	"3"	76541
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Other Midwife"	"4"	4447
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Other"	"5"	5422
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Unknown or not stated"	"9"	610
+	"Division 5: South Atlantic"	"CENS-D5"	"2012"	"2012"	"Not Reported"	"100"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Doctor of Medicine(MD)"	"1"	621011
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Doctor of Osteopathy(DO)"	"2"	24672
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Certified Nurse Midwife(CNM/CM)"	"3"	76675
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Other Midwife"	"4"	4704
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Other"	"5"	6872
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Unknown or not stated"	"9"	1062
+	"Division 5: South Atlantic"	"CENS-D5"	"2013"	"2013"	"Not Reported"	"100"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Doctor of Medicine(MD)"	"1"	630827
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Doctor of Osteopathy(DO)"	"2"	26847
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Certified Nurse Midwife(CNM/CM)"	"3"	78590
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Other Midwife"	"4"	5488
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Other"	"5"	5356
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Unknown or not stated"	"9"	434
+	"Division 5: South Atlantic"	"CENS-D5"	"2014"	"2014"	"Not Reported"	"100"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Doctor of Medicine(MD)"	"1"	629952
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Doctor of Osteopathy(DO)"	"2"	28805
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Certified Nurse Midwife(CNM/CM)"	"3"	79300
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Other Midwife"	"4"	5765
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Other"	"5"	7810
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Unknown or not stated"	"9"	491
+	"Division 5: South Atlantic"	"CENS-D5"	"2015"	"2015"	"Not Reported"	"100"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Doctor of Medicine(MD)"	"1"	625811
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Doctor of Osteopathy(DO)"	"2"	30846
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Certified Nurse Midwife(CNM/CM)"	"3"	80470
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Other Midwife"	"4"	5360
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Other"	"5"	5757
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Unknown or not stated"	"9"	466
+	"Division 5: South Atlantic"	"CENS-D5"	"2016"	"2016"	"Not Reported"	"100"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Doctor of Medicine(MD)"	"1"	614767
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Doctor of Osteopathy(DO)"	"2"	30996
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Certified Nurse Midwife(CNM/CM)"	"3"	83727
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Other Midwife"	"4"	5340
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Other"	"5"	5673
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Unknown or not stated"	"9"	646
+	"Division 5: South Atlantic"	"CENS-D5"	"2017"	"2017"	"Not Reported"	"100"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Doctor of Medicine(MD)"	"1"	602057
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Doctor of Osteopathy(DO)"	"2"	32608
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Certified Nurse Midwife(CNM/CM)"	"3"	84799
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Other Midwife"	"4"	5659
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Other"	"5"	6547
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Unknown or not stated"	"9"	671
+	"Division 5: South Atlantic"	"CENS-D5"	"2018"	"2018"	"Not Reported"	"100"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Doctor of Medicine(MD)"	"1"	590015
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Doctor of Osteopathy(DO)"	"2"	34065
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Certified Nurse Midwife(CNM/CM)"	"3"	89821
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Other Midwife"	"4"	5683
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Other"	"5"	7096
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Unknown or not stated"	"9"	840
+	"Division 5: South Atlantic"	"CENS-D5"	"2019"	"2019"	"Not Reported"	"100"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Doctor of Medicine(MD)"	"1"	564177
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Doctor of Osteopathy(DO)"	"2"	35726
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Certified Nurse Midwife(CNM/CM)"	"3"	90746
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Other Midwife"	"4"	6439
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Other"	"5"	7024
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Unknown or not stated"	"9"	358
+	"Division 5: South Atlantic"	"CENS-D5"	"2020"	"2020"	"Not Reported"	"100"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Doctor of Medicine(MD)"	"1"	567913
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Doctor of Osteopathy(DO)"	"2"	37226
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Certified Nurse Midwife(CNM/CM)"	"3"	97685
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Other Midwife"	"4"	7335
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Other"	"5"	7675
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Unknown or not stated"	"9"	600
+	"Division 5: South Atlantic"	"CENS-D5"	"2021"	"2021"	"Not Reported"	"100"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Doctor of Medicine(MD)"	"1"	572448
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Doctor of Osteopathy(DO)"	"2"	41244
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Certified Nurse Midwife(CNM/CM)"	"3"	100139
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Other Midwife"	"4"	7540
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Other"	"5"	7837
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Unknown or not stated"	"9"	969
+	"Division 5: South Atlantic"	"CENS-D5"	"2022"	"2022"	"Not Reported"	"100"	0
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Doctor of Medicine(MD)"	"1"	553974
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Doctor of Osteopathy(DO)"	"2"	44223
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Certified Nurse Midwife(CNM/CM)"	"3"	103500
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Other Midwife"	"4"	7483
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Other"	"5"	7785
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Unknown or not stated"	"9"	548
+	"Division 5: South Atlantic"	"CENS-D5"	"2023"	"2023"	"Not Reported"	"100"	0
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Doctor of Medicine(MD)"	"1"	218720
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Doctor of Osteopathy(DO)"	"2"	6083
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Certified Nurse Midwife(CNM/CM)"	"3"	8973
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Other Midwife"	"4"	697
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Other"	"5"	876
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Unknown or not stated"	"9"	16
+	"Division 6: East South Central"	"CENS-D6"	"2010"	"2010"	"Not Reported"	"100"	0
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Doctor of Medicine(MD)"	"1"	217233
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Doctor of Osteopathy(DO)"	"2"	6112
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Certified Nurse Midwife(CNM/CM)"	"3"	9165
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Other Midwife"	"4"	701
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Other"	"5"	942
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Unknown or not stated"	"9"	19
+	"Division 6: East South Central"	"CENS-D6"	"2011"	"2011"	"Not Reported"	"100"	0
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Doctor of Medicine(MD)"	"1"	216075
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Doctor of Osteopathy(DO)"	"2"	6394
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Certified Nurse Midwife(CNM/CM)"	"3"	9043
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Other Midwife"	"4"	716
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Other"	"5"	1006
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Unknown or not stated"	"9"	12
+	"Division 6: East South Central"	"CENS-D6"	"2012"	"2012"	"Not Reported"	"100"	0
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Doctor of Medicine(MD)"	"1"	214226
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Doctor of Osteopathy(DO)"	"2"	6597
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Certified Nurse Midwife(CNM/CM)"	"3"	9738
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Other Midwife"	"4"	800
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Other"	"5"	1100
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Unknown or not stated"	"9"	18
+	"Division 6: East South Central"	"CENS-D6"	"2013"	"2013"	"Not Reported"	"100"	0
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Doctor of Medicine(MD)"	"1"	215366
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Doctor of Osteopathy(DO)"	"2"	7561
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Certified Nurse Midwife(CNM/CM)"	"3"	10684
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Other Midwife"	"4"	1101
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Other"	"5"	1204
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Unknown or not stated"	"9"	14
+	"Division 6: East South Central"	"CENS-D6"	"2014"	"2014"	"Not Reported"	"100"	0
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Doctor of Medicine(MD)"	"1"	213384
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Doctor of Osteopathy(DO)"	"2"	8967
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Certified Nurse Midwife(CNM/CM)"	"3"	10882
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Other Midwife"	"4"	1182
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Other"	"5"	1291
+	"Division 6: East South Central"	"CENS-D6"	"2015"	"2015"	"Not Reported"	"100"	0
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Doctor of Medicine(MD)"	"1"	210198
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Doctor of Osteopathy(DO)"	"2"	9251
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Certified Nurse Midwife(CNM/CM)"	"3"	11117
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Other Midwife"	"4"	1271
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Other"	"5"	1381
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Unknown or not stated"	"9"	117
+	"Division 6: East South Central"	"CENS-D6"	"2016"	"2016"	"Not Reported"	"100"	0
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Doctor of Medicine(MD)"	"1"	208271
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Doctor of Osteopathy(DO)"	"2"	9474
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Certified Nurse Midwife(CNM/CM)"	"3"	11155
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Other Midwife"	"4"	1302
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Other"	"5"	1551
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Unknown or not stated"	"9"	313
+	"Division 6: East South Central"	"CENS-D6"	"2017"	"2017"	"Not Reported"	"100"	0
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Doctor of Medicine(MD)"	"1"	204053
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Doctor of Osteopathy(DO)"	"2"	10359
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Certified Nurse Midwife(CNM/CM)"	"3"	11739
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Other Midwife"	"4"	1345
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Other"	"5"	1650
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Unknown or not stated"	"9"	288
+	"Division 6: East South Central"	"CENS-D6"	"2018"	"2018"	"Not Reported"	"100"	0
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Doctor of Medicine(MD)"	"1"	201082
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Doctor of Osteopathy(DO)"	"2"	12298
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Certified Nurse Midwife(CNM/CM)"	"3"	12850
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Other Midwife"	"4"	1095
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Other"	"5"	1322
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Unknown or not stated"	"9"	123
+	"Division 6: East South Central"	"CENS-D6"	"2019"	"2019"	"Not Reported"	"100"	0
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Doctor of Medicine(MD)"	"1"	193240
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Doctor of Osteopathy(DO)"	"2"	14075
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Certified Nurse Midwife(CNM/CM)"	"3"	14202
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Other Midwife"	"4"	985
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Other"	"5"	974
+	"Division 6: East South Central"	"CENS-D6"	"2020"	"2020"	"Not Reported"	"100"	0
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Doctor of Medicine(MD)"	"1"	193113
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Doctor of Osteopathy(DO)"	"2"	15753
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Certified Nurse Midwife(CNM/CM)"	"3"	15651
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Other Midwife"	"4"	1245
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Other"	"5"	1376
+	"Division 6: East South Central"	"CENS-D6"	"2021"	"2021"	"Not Reported"	"100"	0
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Doctor of Medicine(MD)"	"1"	191134
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Doctor of Osteopathy(DO)"	"2"	16502
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Certified Nurse Midwife(CNM/CM)"	"3"	17053
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Other Midwife"	"4"	1338
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Other"	"5"	1373
+	"Division 6: East South Central"	"CENS-D6"	"2022"	"2022"	"Not Reported"	"100"	0
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Doctor of Medicine(MD)"	"1"	188803
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Doctor of Osteopathy(DO)"	"2"	17220
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Certified Nurse Midwife(CNM/CM)"	"3"	18542
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Other Midwife"	"4"	1487
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Other"	"5"	1262
+	"Division 6: East South Central"	"CENS-D6"	"2023"	"2023"	"Not Reported"	"100"	0
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Doctor of Medicine(MD)"	"1"	487671
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Doctor of Osteopathy(DO)"	"2"	29620
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Certified Nurse Midwife(CNM/CM)"	"3"	16159
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Other Midwife"	"4"	2471
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Other"	"5"	3584
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Unknown or not stated"	"9"	770
+	"Division 7: West South Central"	"CENS-D7"	"2010"	"2010"	"Not Reported"	"100"	0
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Doctor of Medicine(MD)"	"1"	477645
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Doctor of Osteopathy(DO)"	"2"	29333
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Certified Nurse Midwife(CNM/CM)"	"3"	15713
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Other Midwife"	"4"	2717
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Other"	"5"	4127
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Unknown or not stated"	"9"	785
+	"Division 7: West South Central"	"CENS-D7"	"2011"	"2011"	"Not Reported"	"100"	0
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Doctor of Medicine(MD)"	"1"	482768
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Doctor of Osteopathy(DO)"	"2"	31067
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Certified Nurse Midwife(CNM/CM)"	"3"	15958
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Other Midwife"	"4"	3110
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Other"	"5"	3319
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Unknown or not stated"	"9"	245
+	"Division 7: West South Central"	"CENS-D7"	"2012"	"2012"	"Not Reported"	"100"	0
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Doctor of Medicine(MD)"	"1"	485454
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Doctor of Osteopathy(DO)"	"2"	33328
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Certified Nurse Midwife(CNM/CM)"	"3"	16257
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Other Midwife"	"4"	3237
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Other"	"5"	3202
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Unknown or not stated"	"9"	264
+	"Division 7: West South Central"	"CENS-D7"	"2013"	"2013"	"Not Reported"	"100"	0
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Doctor of Medicine(MD)"	"1"	494372
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Doctor of Osteopathy(DO)"	"2"	36578
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Certified Nurse Midwife(CNM/CM)"	"3"	17030
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Other Midwife"	"4"	3871
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Other"	"5"	3932
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Unknown or not stated"	"9"	330
+	"Division 7: West South Central"	"CENS-D7"	"2014"	"2014"	"Not Reported"	"100"	0
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Doctor of Medicine(MD)"	"1"	497043
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Doctor of Osteopathy(DO)"	"2"	38359
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Certified Nurse Midwife(CNM/CM)"	"3"	17080
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Other Midwife"	"4"	3959
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Other"	"5"	3474
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Unknown or not stated"	"9"	403
+	"Division 7: West South Central"	"CENS-D7"	"2015"	"2015"	"Not Reported"	"100"	0
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Doctor of Medicine(MD)"	"1"	488621
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Doctor of Osteopathy(DO)"	"2"	38318
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Certified Nurse Midwife(CNM/CM)"	"3"	17469
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Other Midwife"	"4"	4274
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Other"	"5"	2940
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Unknown or not stated"	"9"	469
+	"Division 7: West South Central"	"CENS-D7"	"2016"	"2016"	"Not Reported"	"100"	0
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Doctor of Medicine(MD)"	"1"	468755
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Doctor of Osteopathy(DO)"	"2"	37181
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Certified Nurse Midwife(CNM/CM)"	"3"	16884
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Other Midwife"	"4"	4461
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Other"	"5"	2925
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Unknown or not stated"	"9"	596
+	"Division 7: West South Central"	"CENS-D7"	"2017"	"2017"	"Not Reported"	"100"	0
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Doctor of Medicine(MD)"	"1"	461661
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Doctor of Osteopathy(DO)"	"2"	38207
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Certified Nurse Midwife(CNM/CM)"	"3"	17403
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Other Midwife"	"4"	4363
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Other"	"5"	3128
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Unknown or not stated"	"9"	295
+	"Division 7: West South Central"	"CENS-D7"	"2018"	"2018"	"Not Reported"	"100"	0
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Doctor of Medicine(MD)"	"1"	455811
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Doctor of Osteopathy(DO)"	"2"	38512
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Certified Nurse Midwife(CNM/CM)"	"3"	15267
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Other Midwife"	"4"	6859
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Other"	"5"	5705
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Unknown or not stated"	"9"	93
+	"Division 7: West South Central"	"CENS-D7"	"2019"	"2019"	"Not Reported"	"100"	0
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Doctor of Medicine(MD)"	"1"	440392
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Doctor of Osteopathy(DO)"	"2"	38360
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Certified Nurse Midwife(CNM/CM)"	"3"	15245
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Other Midwife"	"4"	7910
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Other"	"5"	6307
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Unknown or not stated"	"9"	178
+	"Division 7: West South Central"	"CENS-D7"	"2020"	"2020"	"Not Reported"	"100"	0
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Doctor of Medicine(MD)"	"1"	442348
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Doctor of Osteopathy(DO)"	"2"	39808
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Certified Nurse Midwife(CNM/CM)"	"3"	16351
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Other Midwife"	"4"	8216
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Other"	"5"	8509
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Unknown or not stated"	"9"	174
+	"Division 7: West South Central"	"CENS-D7"	"2021"	"2021"	"Not Reported"	"100"	0
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Doctor of Medicine(MD)"	"1"	455351
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Doctor of Osteopathy(DO)"	"2"	40896
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Certified Nurse Midwife(CNM/CM)"	"3"	16850
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Other Midwife"	"4"	8456
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Other"	"5"	8117
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Unknown or not stated"	"9"	353
+	"Division 7: West South Central"	"CENS-D7"	"2022"	"2022"	"Not Reported"	"100"	0
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Doctor of Medicine(MD)"	"1"	447509
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Doctor of Osteopathy(DO)"	"2"	43135
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Certified Nurse Midwife(CNM/CM)"	"3"	16980
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Other Midwife"	"4"	8855
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Other"	"5"	9097
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Unknown or not stated"	"9"	469
+	"Division 7: West South Central"	"CENS-D7"	"2023"	"2023"	"Not Reported"	"100"	0
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Doctor of Medicine(MD)"	"1"	259386
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Doctor of Osteopathy(DO)"	"2"	18311
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Certified Nurse Midwife(CNM/CM)"	"3"	28635
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Other Midwife"	"4"	4525
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Other"	"5"	1813
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Unknown or not stated"	"9"	18
+	"Division 8: Mountain"	"CENS-D8"	"2010"	"2010"	"Not Reported"	"100"	0
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Doctor of Medicine(MD)"	"1"	253312
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Doctor of Osteopathy(DO)"	"2"	18208
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Certified Nurse Midwife(CNM/CM)"	"3"	27825
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Other Midwife"	"4"	5050
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Other"	"5"	1759
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Unknown or not stated"	"9"	25
+	"Division 8: Mountain"	"CENS-D8"	"2011"	"2011"	"Not Reported"	"100"	0
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Doctor of Medicine(MD)"	"1"	253511
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Doctor of Osteopathy(DO)"	"2"	18656
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Certified Nurse Midwife(CNM/CM)"	"3"	29085
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Other Midwife"	"4"	4661
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Other"	"5"	1751
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Unknown or not stated"	"9"	61
+	"Division 8: Mountain"	"CENS-D8"	"2012"	"2012"	"Not Reported"	"100"	0
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Doctor of Medicine(MD)"	"1"	251466
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Doctor of Osteopathy(DO)"	"2"	18839
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Certified Nurse Midwife(CNM/CM)"	"3"	29027
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Other Midwife"	"4"	4310
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Other"	"5"	1663
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Unknown or not stated"	"9"	47
+	"Division 8: Mountain"	"CENS-D8"	"2013"	"2013"	"Not Reported"	"100"	0
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Doctor of Medicine(MD)"	"1"	253474
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Doctor of Osteopathy(DO)"	"2"	19239
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Certified Nurse Midwife(CNM/CM)"	"3"	30422
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Other Midwife"	"4"	3807
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Other"	"5"	1816
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Unknown or not stated"	"9"	30
+	"Division 8: Mountain"	"CENS-D8"	"2014"	"2014"	"Not Reported"	"100"	0
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Doctor of Medicine(MD)"	"1"	249111
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Doctor of Osteopathy(DO)"	"2"	20917
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Certified Nurse Midwife(CNM/CM)"	"3"	32113
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Other Midwife"	"4"	3789
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Other"	"5"	1989
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Unknown or not stated"	"9"	80
+	"Division 8: Mountain"	"CENS-D8"	"2015"	"2015"	"Not Reported"	"100"	0
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Doctor of Medicine(MD)"	"1"	240850
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Doctor of Osteopathy(DO)"	"2"	23924
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Certified Nurse Midwife(CNM/CM)"	"3"	33776
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Other Midwife"	"4"	3722
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Other"	"5"	2350
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Unknown or not stated"	"9"	77
+	"Division 8: Mountain"	"CENS-D8"	"2016"	"2016"	"Not Reported"	"100"	0
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Doctor of Medicine(MD)"	"1"	229708
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Doctor of Osteopathy(DO)"	"2"	25924
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Certified Nurse Midwife(CNM/CM)"	"3"	34311
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Other Midwife"	"4"	3272
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Other"	"5"	2001
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Unknown or not stated"	"9"	29
+	"Division 8: Mountain"	"CENS-D8"	"2017"	"2017"	"Not Reported"	"100"	0
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Doctor of Medicine(MD)"	"1"	223174
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Doctor of Osteopathy(DO)"	"2"	26680
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Certified Nurse Midwife(CNM/CM)"	"3"	34424
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Other Midwife"	"4"	2655
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Other"	"5"	1955
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Unknown or not stated"	"9"	128
+	"Division 8: Mountain"	"CENS-D8"	"2018"	"2018"	"Not Reported"	"100"	0
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Doctor of Medicine(MD)"	"1"	218525
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Doctor of Osteopathy(DO)"	"2"	28211
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Certified Nurse Midwife(CNM/CM)"	"3"	35049
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Other Midwife"	"4"	2869
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Other"	"5"	2044
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Unknown or not stated"	"9"	111
+	"Division 8: Mountain"	"CENS-D8"	"2019"	"2019"	"Not Reported"	"100"	0
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Doctor of Medicine(MD)"	"1"	208475
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Doctor of Osteopathy(DO)"	"2"	28141
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Certified Nurse Midwife(CNM/CM)"	"3"	35585
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Other Midwife"	"4"	3939
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Other"	"5"	1890
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Unknown or not stated"	"9"	121
+	"Division 8: Mountain"	"CENS-D8"	"2020"	"2020"	"Not Reported"	"100"	0
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Doctor of Medicine(MD)"	"1"	209308
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Doctor of Osteopathy(DO)"	"2"	30775
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Certified Nurse Midwife(CNM/CM)"	"3"	35195
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Other Midwife"	"4"	5169
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Other"	"5"	1992
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Unknown or not stated"	"9"	110
+	"Division 8: Mountain"	"CENS-D8"	"2021"	"2021"	"Not Reported"	"100"	0
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Doctor of Medicine(MD)"	"1"	206814
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Doctor of Osteopathy(DO)"	"2"	30788
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Certified Nurse Midwife(CNM/CM)"	"3"	34681
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Other Midwife"	"4"	5621
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Other"	"5"	3109
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Unknown or not stated"	"9"	107
+	"Division 8: Mountain"	"CENS-D8"	"2022"	"2022"	"Not Reported"	"100"	0
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Doctor of Medicine(MD)"	"1"	199567
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Doctor of Osteopathy(DO)"	"2"	33000
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Certified Nurse Midwife(CNM/CM)"	"3"	35291
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Other Midwife"	"4"	5769
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Other"	"5"	3113
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Unknown or not stated"	"9"	79
+	"Division 8: Mountain"	"CENS-D8"	"2023"	"2023"	"Not Reported"	"100"	0
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Doctor of Medicine(MD)"	"1"	575111
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Doctor of Osteopathy(DO)"	"2"	22889
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Certified Nurse Midwife(CNM/CM)"	"3"	61496
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Other Midwife"	"4"	6346
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Other"	"5"	6523
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Unknown or not stated"	"9"	371
+	"Division 9: Pacific"	"CENS-D9"	"2010"	"2010"	"Not Reported"	"100"	0
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Doctor of Medicine(MD)"	"1"	566498
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Doctor of Osteopathy(DO)"	"2"	24509
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Certified Nurse Midwife(CNM/CM)"	"3"	60158
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Other Midwife"	"4"	7071
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Other"	"5"	6034
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Unknown or not stated"	"9"	393
+	"Division 9: Pacific"	"CENS-D9"	"2011"	"2011"	"Not Reported"	"100"	0
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Doctor of Medicine(MD)"	"1"	565350
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Doctor of Osteopathy(DO)"	"2"	25452
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Certified Nurse Midwife(CNM/CM)"	"3"	61386
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Other Midwife"	"4"	7634
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Other"	"5"	6137
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Unknown or not stated"	"9"	493
+	"Division 9: Pacific"	"CENS-D9"	"2012"	"2012"	"Not Reported"	"100"	0
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Doctor of Medicine(MD)"	"1"	550266
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Doctor of Osteopathy(DO)"	"2"	29174
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Certified Nurse Midwife(CNM/CM)"	"3"	63966
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Other Midwife"	"4"	6844
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Other"	"5"	6251
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Unknown or not stated"	"9"	369
+	"Division 9: Pacific"	"CENS-D9"	"2013"	"2013"	"Not Reported"	"100"	0
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Doctor of Medicine(MD)"	"1"	553899
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Doctor of Osteopathy(DO)"	"2"	32245
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Certified Nurse Midwife(CNM/CM)"	"3"	66864
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Other Midwife"	"4"	7385
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Other"	"5"	6138
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Unknown or not stated"	"9"	431
+	"Division 9: Pacific"	"CENS-D9"	"2014"	"2014"	"Not Reported"	"100"	0
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Doctor of Medicine(MD)"	"1"	537045
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Doctor of Osteopathy(DO)"	"2"	33764
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Certified Nurse Midwife(CNM/CM)"	"3"	69125
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Other Midwife"	"4"	7649
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Other"	"5"	7993
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Unknown or not stated"	"9"	519
+	"Division 9: Pacific"	"CENS-D9"	"2015"	"2015"	"Not Reported"	"100"	0
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Doctor of Medicine(MD)"	"1"	528846
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Doctor of Osteopathy(DO)"	"2"	36938
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Certified Nurse Midwife(CNM/CM)"	"3"	69188
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Other Midwife"	"4"	7401
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Other"	"5"	11314
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Unknown or not stated"	"9"	448
+	"Division 9: Pacific"	"CENS-D9"	"2016"	"2016"	"Not Reported"	"100"	0
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Doctor of Medicine(MD)"	"1"	504401
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Doctor of Osteopathy(DO)"	"2"	38037
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Certified Nurse Midwife(CNM/CM)"	"3"	70133
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Other Midwife"	"4"	6858
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Other"	"5"	10911
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Unknown or not stated"	"9"	473
+	"Division 9: Pacific"	"CENS-D9"	"2017"	"2017"	"Not Reported"	"100"	0
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Doctor of Medicine(MD)"	"1"	481968
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Doctor of Osteopathy(DO)"	"2"	39170
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Certified Nurse Midwife(CNM/CM)"	"3"	71679
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Other Midwife"	"4"	7101
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Other"	"5"	9894
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Unknown or not stated"	"9"	439
+	"Division 9: Pacific"	"CENS-D9"	"2018"	"2018"	"Not Reported"	"100"	0
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Doctor of Medicine(MD)"	"1"	466038
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Doctor of Osteopathy(DO)"	"2"	45499
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Certified Nurse Midwife(CNM/CM)"	"3"	73498
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Other Midwife"	"4"	7141
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Other"	"5"	7133
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Unknown or not stated"	"9"	542
+	"Division 9: Pacific"	"CENS-D9"	"2019"	"2019"	"Not Reported"	"100"	0
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Doctor of Medicine(MD)"	"1"	433474
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Doctor of Osteopathy(DO)"	"2"	47396
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Certified Nurse Midwife(CNM/CM)"	"3"	74586
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Other Midwife"	"4"	8375
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Other"	"5"	4047
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Unknown or not stated"	"9"	541
+	"Division 9: Pacific"	"CENS-D9"	"2020"	"2020"	"Not Reported"	"100"	0
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Doctor of Medicine(MD)"	"1"	431194
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Doctor of Osteopathy(DO)"	"2"	48750
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Certified Nurse Midwife(CNM/CM)"	"3"	76025
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Other Midwife"	"4"	9277
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Other"	"5"	4404
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Unknown or not stated"	"9"	770
+	"Division 9: Pacific"	"CENS-D9"	"2021"	"2021"	"Not Reported"	"100"	0
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Doctor of Medicine(MD)"	"1"	427186
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Doctor of Osteopathy(DO)"	"2"	48935
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Certified Nurse Midwife(CNM/CM)"	"3"	75967
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Other Midwife"	"4"	9594
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Other"	"5"	4374
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Unknown or not stated"	"9"	768
+	"Division 9: Pacific"	"CENS-D9"	"2022"	"2022"	"Not Reported"	"100"	0
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Doctor of Medicine(MD)"	"1"	403534
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Doctor of Osteopathy(DO)"	"2"	49284
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Certified Nurse Midwife(CNM/CM)"	"3"	75631
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Other Midwife"	"4"	9538
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Other"	"5"	4460
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Unknown or not stated"	"9"	714
+	"Division 9: Pacific"	"CENS-D9"	"2023"	"2023"	"Not Reported"	"100"	0
+"---"
+"Dataset: Natality, 2007-2023"
+"Query Parameters:"
+"Year: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020; 2021; 2022; 2023"
+"Group By: Census Division; Year; Medical Attendant"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
+"---"
+"Query Date: Mar 20, 2025 4:55:49 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-current.html on Mar 20, 2025 4:55:49 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/natality.html#Assurance of Confidentiality."
+"2. Each birth record represents one liveborn infant."

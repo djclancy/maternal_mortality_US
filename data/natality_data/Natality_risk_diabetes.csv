@@ -1,0 +1,127 @@
+"Notes","Census Division","Census Division Code","Year","Year Code","Diabetes","Diabetes Code",Births
+,"Division 1: New England","CENS-D1","2010","2010","Yes","1",8737
+,"Division 1: New England","CENS-D1","2011","2011","Yes","1",9307
+,"Division 1: New England","CENS-D1","2012","2012","Yes","1",9794
+,"Division 1: New England","CENS-D1","2013","2013","Yes","1",9549
+,"Division 1: New England","CENS-D1","2014","2014","Yes","1",9587
+,"Division 1: New England","CENS-D1","2015","2015","Yes","1",10228
+,"Division 1: New England","CENS-D1","2016","2016","Yes","1",10015
+,"Division 1: New England","CENS-D1","2017","2017","Yes","1",11005
+,"Division 1: New England","CENS-D1","2018","2018","Yes","1",11466
+,"Division 1: New England","CENS-D1","2019","2019","Yes","1",11706
+,"Division 1: New England","CENS-D1","2020","2020","Yes","1",12316
+,"Division 1: New England","CENS-D1","2021","2021","Yes","1",13980
+,"Division 1: New England","CENS-D1","2022","2022","Yes","1",13587
+,"Division 1: New England","CENS-D1","2023","2023","Yes","1",13618
+,"Division 2: Middle Atlantic","CENS-D2","2010","2010","Yes","1",27573
+,"Division 2: Middle Atlantic","CENS-D2","2011","2011","Yes","1",27872
+,"Division 2: Middle Atlantic","CENS-D2","2012","2012","Yes","1",29911
+,"Division 2: Middle Atlantic","CENS-D2","2013","2013","Yes","1",29401
+,"Division 2: Middle Atlantic","CENS-D2","2014","2014","Yes","1",32293
+,"Division 2: Middle Atlantic","CENS-D2","2015","2015","Yes","1",34482
+,"Division 2: Middle Atlantic","CENS-D2","2016","2016","Yes","1",36694
+,"Division 2: Middle Atlantic","CENS-D2","2017","2017","Yes","1",37893
+,"Division 2: Middle Atlantic","CENS-D2","2018","2018","Yes","1",39699
+,"Division 2: Middle Atlantic","CENS-D2","2019","2019","Yes","1",39503
+,"Division 2: Middle Atlantic","CENS-D2","2020","2020","Yes","1",42509
+,"Division 2: Middle Atlantic","CENS-D2","2021","2021","Yes","1",45808
+,"Division 2: Middle Atlantic","CENS-D2","2022","2022","Yes","1",43844
+,"Division 2: Middle Atlantic","CENS-D2","2023","2023","Yes","1",43693
+,"Division 3: East North Central","CENS-D3","2010","2010","Yes","1",34301
+,"Division 3: East North Central","CENS-D3","2011","2011","Yes","1",37092
+,"Division 3: East North Central","CENS-D3","2012","2012","Yes","1",38483
+,"Division 3: East North Central","CENS-D3","2013","2013","Yes","1",38522
+,"Division 3: East North Central","CENS-D3","2014","2014","Yes","1",38393
+,"Division 3: East North Central","CENS-D3","2015","2015","Yes","1",40042
+,"Division 3: East North Central","CENS-D3","2016","2016","Yes","1",40885
+,"Division 3: East North Central","CENS-D3","2017","2017","Yes","1",42368
+,"Division 3: East North Central","CENS-D3","2018","2018","Yes","1",43494
+,"Division 3: East North Central","CENS-D3","2019","2019","Yes","1",44955
+,"Division 3: East North Central","CENS-D3","2020","2020","Yes","1",47760
+,"Division 3: East North Central","CENS-D3","2021","2021","Yes","1",50649
+,"Division 3: East North Central","CENS-D3","2022","2022","Yes","1",48869
+,"Division 3: East North Central","CENS-D3","2023","2023","Yes","1",48905
+,"Division 4: West North Central","CENS-D4","2010","2010","Yes","1",15694
+,"Division 4: West North Central","CENS-D4","2011","2011","Yes","1",16649
+,"Division 4: West North Central","CENS-D4","2012","2012","Yes","1",17538
+,"Division 4: West North Central","CENS-D4","2013","2013","Yes","1",18039
+,"Division 4: West North Central","CENS-D4","2014","2014","Yes","1",18460
+,"Division 4: West North Central","CENS-D4","2015","2015","Yes","1",19027
+,"Division 4: West North Central","CENS-D4","2016","2016","Yes","1",20231
+,"Division 4: West North Central","CENS-D4","2017","2017","Yes","1",21332
+,"Division 4: West North Central","CENS-D4","2018","2018","Yes","1",21493
+,"Division 4: West North Central","CENS-D4","2019","2019","Yes","1",22150
+,"Division 4: West North Central","CENS-D4","2020","2020","Yes","1",24015
+,"Division 4: West North Central","CENS-D4","2021","2021","Yes","1",26274
+,"Division 4: West North Central","CENS-D4","2022","2022","Yes","1",25483
+,"Division 4: West North Central","CENS-D4","2023","2023","Yes","1",25789
+,"Division 5: South Atlantic","CENS-D5","2010","2010","Yes","1",34604
+,"Division 5: South Atlantic","CENS-D5","2011","2011","Yes","1",38935
+,"Division 5: South Atlantic","CENS-D5","2012","2012","Yes","1",40395
+,"Division 5: South Atlantic","CENS-D5","2013","2013","Yes","1",40601
+,"Division 5: South Atlantic","CENS-D5","2014","2014","Yes","1",42864
+,"Division 5: South Atlantic","CENS-D5","2015","2015","Yes","1",44169
+,"Division 5: South Atlantic","CENS-D5","2016","2016","Yes","1",46989
+,"Division 5: South Atlantic","CENS-D5","2017","2017","Yes","1",49503
+,"Division 5: South Atlantic","CENS-D5","2018","2018","Yes","1",51459
+,"Division 5: South Atlantic","CENS-D5","2019","2019","Yes","1",52440
+,"Division 5: South Atlantic","CENS-D5","2020","2020","Yes","1",58308
+,"Division 5: South Atlantic","CENS-D5","2021","2021","Yes","1",62846
+,"Division 5: South Atlantic","CENS-D5","2022","2022","Yes","1",62787
+,"Division 5: South Atlantic","CENS-D5","2023","2023","Yes","1",63476
+,"Division 6: East South Central","CENS-D6","2010","2010","Yes","1",11883
+,"Division 6: East South Central","CENS-D6","2011","2011","Yes","1",12543
+,"Division 6: East South Central","CENS-D6","2012","2012","Yes","1",13107
+,"Division 6: East South Central","CENS-D6","2013","2013","Yes","1",13482
+,"Division 6: East South Central","CENS-D6","2014","2014","Yes","1",13629
+,"Division 6: East South Central","CENS-D6","2015","2015","Yes","1",13978
+,"Division 6: East South Central","CENS-D6","2016","2016","Yes","1",14296
+,"Division 6: East South Central","CENS-D6","2017","2017","Yes","1",15360
+,"Division 6: East South Central","CENS-D6","2018","2018","Yes","1",15195
+,"Division 6: East South Central","CENS-D6","2019","2019","Yes","1",16775
+,"Division 6: East South Central","CENS-D6","2020","2020","Yes","1",18185
+,"Division 6: East South Central","CENS-D6","2021","2021","Yes","1",19815
+,"Division 6: East South Central","CENS-D6","2022","2022","Yes","1",19424
+,"Division 6: East South Central","CENS-D6","2023","2023","Yes","1",19993
+,"Division 7: West South Central","CENS-D7","2010","2010","Yes","1",22546
+,"Division 7: West South Central","CENS-D7","2011","2011","Yes","1",25203
+,"Division 7: West South Central","CENS-D7","2012","2012","Yes","1",26561
+,"Division 7: West South Central","CENS-D7","2013","2013","Yes","1",26931
+,"Division 7: West South Central","CENS-D7","2014","2014","Yes","1",30966
+,"Division 7: West South Central","CENS-D7","2015","2015","Yes","1",31037
+,"Division 7: West South Central","CENS-D7","2016","2016","Yes","1",31745
+,"Division 7: West South Central","CENS-D7","2017","2017","Yes","1",32552
+,"Division 7: West South Central","CENS-D7","2018","2018","Yes","1",33125
+,"Division 7: West South Central","CENS-D7","2019","2019","Yes","1",34000
+,"Division 7: West South Central","CENS-D7","2020","2020","Yes","1",38353
+,"Division 7: West South Central","CENS-D7","2021","2021","Yes","1",40111
+,"Division 7: West South Central","CENS-D7","2022","2022","Yes","1",41036
+,"Division 7: West South Central","CENS-D7","2023","2023","Yes","1",41916
+,"Division 8: Mountain","CENS-D8","2010","2010","Yes","1",13834
+,"Division 8: Mountain","CENS-D8","2011","2011","Yes","1",14045
+,"Division 8: Mountain","CENS-D8","2012","2012","Yes","1",15317
+,"Division 8: Mountain","CENS-D8","2013","2013","Yes","1",16564
+,"Division 8: Mountain","CENS-D8","2014","2014","Yes","1",18328
+,"Division 8: Mountain","CENS-D8","2015","2015","Yes","1",20372
+,"Division 8: Mountain","CENS-D8","2016","2016","Yes","1",20618
+,"Division 8: Mountain","CENS-D8","2017","2017","Yes","1",20921
+,"Division 8: Mountain","CENS-D8","2018","2018","Yes","1",22119
+,"Division 8: Mountain","CENS-D8","2019","2019","Yes","1",21649
+,"Division 8: Mountain","CENS-D8","2020","2020","Yes","1",23554
+,"Division 8: Mountain","CENS-D8","2021","2021","Yes","1",25436
+,"Division 8: Mountain","CENS-D8","2022","2022","Yes","1",25729
+,"Division 8: Mountain","CENS-D8","2023","2023","Yes","1",26017
+,"Division 9: Pacific","CENS-D9","2010","2010","Yes","1",32046
+,"Division 9: Pacific","CENS-D9","2011","2011","Yes","1",35721
+,"Division 9: Pacific","CENS-D9","2012","2012","Yes","1",40674
+,"Division 9: Pacific","CENS-D9","2013","2013","Yes","1",42395
+,"Division 9: Pacific","CENS-D9","2014","2014","Yes","1",44986
+,"Division 9: Pacific","CENS-D9","2015","2015","Yes","1",45947
+,"Division 9: Pacific","CENS-D9","2016","2016","Yes","1",47203
+,"Division 9: Pacific","CENS-D9","2017","2017","Yes","1",49118
+,"Division 9: Pacific","CENS-D9","2018","2018","Yes","1",50207
+,"Division 9: Pacific","CENS-D9","2019","2019","Yes","1",52064
+,"Division 9: Pacific","CENS-D9","2020","2020","Yes","1",54882
+,"Division 9: Pacific","CENS-D9","2021","2021","Yes","1",58426
+,"Division 9: Pacific","CENS-D9","2022","2022","Yes","1",58495
+,"Division 9: Pacific","CENS-D9","2023","2023","Yes","1",57855
