@@ -21,14 +21,25 @@ The United States has a high maternal mortality rate compared to other peer nati
 * Public health officials.
 
 
+## Week 4 Tasks
+* BIG GOAL: FINALIZE BIG DATA SET
+* Confirm what years we should analyze (with justification): 2010 - 2019, 2010 - 2023, pre-2010
+* Identify states that have enough maternal death data to justify a state-level model analysis (DONE)
+* Create big dataset that includes all the data that has been gathered
+* * Separate by state
+  * Separate by region
+* Find number of counties per state that are considered "maternity care deserts"
+* Investigate risk categories so that categorical modeling can be performed
+* Start modeling!
+
 ## Week 2 Tasks
-* Gather and clean regional data from the CDC (by year).
-* Add the data from the CDC on obesity rates, nutrition, and other healthy lifestyle datasets.
-* State-by-state data for states with a lot of data.
-* Search for data on access on maternal care/hospital access (possibly looking through news articles for their data).
-* Try to find risk categories for the data.
-* Try to incorporate race data for regional data.
-* Looking at age-ranges for regional data.
+* Gather and clean regional data from the CDC (by year). (NOT DONE YET)
+* Add the data from the CDC on obesity rates, nutrition, and other healthy lifestyle datasets. (DONE)
+* State-by-state data for states with a lot of data. (NOT DONE YET)
+* Search for data on access on maternal care/hospital access (possibly looking through news articles for their data). (NOT DONE YET)
+* Try to find risk categories for the data. (SORTA DONE)
+* Try to incorporate race data for regional data. (DONE)
+* Looking at age-ranges for regional data. (DONE)
 
 
 
