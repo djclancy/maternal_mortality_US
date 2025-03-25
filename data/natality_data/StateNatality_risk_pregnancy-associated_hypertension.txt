@@ -1,0 +1,594 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Pregnancy-associated Hypertension"	"Pregnancy-associated Hypertension Code"	Births
+	"Arizona"	"04"	"2010"	"2010"	"Yes"	"1"	3441
+	"Arizona"	"04"	"2010"	"2010"	"No"	"2"	84036
+	"Arizona"	"04"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2011"	"2011"	"Yes"	"1"	3599
+	"Arizona"	"04"	"2011"	"2011"	"No"	"2"	81943
+	"Arizona"	"04"	"2012"	"2012"	"Yes"	"1"	3903
+	"Arizona"	"04"	"2012"	"2012"	"No"	"2"	82537
+	"Arizona"	"04"	"2013"	"2013"	"Yes"	"1"	4791
+	"Arizona"	"04"	"2013"	"2013"	"No"	"2"	80807
+	"Arizona"	"04"	"2014"	"2014"	"Yes"	"1"	4567
+	"Arizona"	"04"	"2014"	"2014"	"No"	"2"	82319
+	"Arizona"	"04"	"2015"	"2015"	"Yes"	"1"	5118
+	"Arizona"	"04"	"2015"	"2015"	"No"	"2"	80233
+	"Arizona"	"04"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2016"	"2016"	"Yes"	"1"	5275
+	"Arizona"	"04"	"2016"	"2016"	"No"	"2"	79245
+	"Arizona"	"04"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2017"	"2017"	"Yes"	"1"	5523
+	"Arizona"	"04"	"2017"	"2017"	"No"	"2"	76349
+	"Arizona"	"04"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2018"	"2018"	"Yes"	"1"	6224
+	"Arizona"	"04"	"2018"	"2018"	"No"	"2"	74499
+	"Arizona"	"04"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2019"	"2019"	"Yes"	"1"	6357
+	"Arizona"	"04"	"2019"	"2019"	"No"	"2"	73016
+	"Arizona"	"04"	"2020"	"2020"	"Yes"	"1"	6841
+	"Arizona"	"04"	"2020"	"2020"	"No"	"2"	70105
+	"Arizona"	"04"	"2021"	"2021"	"Yes"	"1"	7066
+	"Arizona"	"04"	"2021"	"2021"	"No"	"2"	70850
+	"Arizona"	"04"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2022"	"2022"	"Yes"	"1"	7786
+	"Arizona"	"04"	"2022"	"2022"	"No"	"2"	70761
+	"Arizona"	"04"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2023"	"2023"	"Yes"	"1"	8090
+	"Arizona"	"04"	"2023"	"2023"	"No"	"2"	70005
+	"Arkansas"	"05"	"2010"	"2010"	"Yes"	"1"	1692
+	"Arkansas"	"05"	"2010"	"2010"	"No"	"2"	36840
+	"Arkansas"	"05"	"2011"	"2011"	"Yes"	"1"	1757
+	"Arkansas"	"05"	"2011"	"2011"	"No"	"2"	36954
+	"Arkansas"	"05"	"2012"	"2012"	"Yes"	"1"	1783
+	"Arkansas"	"05"	"2012"	"2012"	"No"	"2"	36560
+	"Arkansas"	"05"	"2013"	"2013"	"Yes"	"1"	1943
+	"Arkansas"	"05"	"2013"	"2013"	"No"	"2"	35887
+	"Arkansas"	"05"	"2014"	"2014"	"Yes"	"1"	1846
+	"Arkansas"	"05"	"2014"	"2014"	"No"	"2"	36664
+	"Arkansas"	"05"	"2015"	"2015"	"Yes"	"1"	2068
+	"Arkansas"	"05"	"2015"	"2015"	"No"	"2"	36817
+	"Arkansas"	"05"	"2016"	"2016"	"Yes"	"1"	2007
+	"Arkansas"	"05"	"2016"	"2016"	"No"	"2"	36267
+	"Arkansas"	"05"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2017"	"2017"	"Yes"	"1"	2106
+	"Arkansas"	"05"	"2017"	"2017"	"No"	"2"	35411
+	"Arkansas"	"05"	"2018"	"2018"	"Yes"	"1"	2494
+	"Arkansas"	"05"	"2018"	"2018"	"No"	"2"	34521
+	"Arkansas"	"05"	"2019"	"2019"	"Yes"	"1"	2838
+	"Arkansas"	"05"	"2019"	"2019"	"No"	"2"	33725
+	"Arkansas"	"05"	"2020"	"2020"	"Yes"	"1"	2819
+	"Arkansas"	"05"	"2020"	"2020"	"No"	"2"	32432
+	"Arkansas"	"05"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2021"	"2021"	"Yes"	"1"	3260
+	"Arkansas"	"05"	"2021"	"2021"	"No"	"2"	32704
+	"Arkansas"	"05"	"2022"	"2022"	"Yes"	"1"	3431
+	"Arkansas"	"05"	"2022"	"2022"	"No"	"2"	32039
+	"Arkansas"	"05"	"2023"	"2023"	"Yes"	"1"	3752
+	"Arkansas"	"05"	"2023"	"2023"	"No"	"2"	31511
+	"California"	"06"	"2010"	"2010"	"Yes"	"1"	12061
+	"California"	"06"	"2010"	"2010"	"No"	"2"	498134
+	"California"	"06"	"2011"	"2011"	"Yes"	"1"	13255
+	"California"	"06"	"2011"	"2011"	"No"	"2"	488863
+	"California"	"06"	"2012"	"2012"	"Yes"	"1"	14672
+	"California"	"06"	"2012"	"2012"	"No"	"2"	489079
+	"California"	"06"	"2013"	"2013"	"Yes"	"1"	16319
+	"California"	"06"	"2013"	"2013"	"No"	"2"	478383
+	"California"	"06"	"2014"	"2014"	"Yes"	"1"	18375
+	"California"	"06"	"2014"	"2014"	"No"	"2"	484502
+	"California"	"06"	"2015"	"2015"	"Yes"	"1"	18586
+	"California"	"06"	"2015"	"2015"	"No"	"2"	473161
+	"California"	"06"	"2016"	"2016"	"Yes"	"1"	19219
+	"California"	"06"	"2016"	"2016"	"No"	"2"	469605
+	"California"	"06"	"2017"	"2017"	"Yes"	"1"	21058
+	"California"	"06"	"2017"	"2017"	"No"	"2"	450597
+	"California"	"06"	"2018"	"2018"	"Yes"	"1"	22716
+	"California"	"06"	"2018"	"2018"	"No"	"2"	432195
+	"California"	"06"	"2019"	"2019"	"Yes"	"1"	25353
+	"California"	"06"	"2019"	"2019"	"No"	"2"	420781
+	"California"	"06"	"2019"	"2019"	"Unknown or Not Stated"	"9"	345
+	"California"	"06"	"2020"	"2020"	"Yes"	"1"	27900
+	"California"	"06"	"2020"	"2020"	"No"	"2"	392140
+	"California"	"06"	"2020"	"2020"	"Unknown or Not Stated"	"9"	219
+	"California"	"06"	"2021"	"2021"	"Yes"	"1"	30630
+	"California"	"06"	"2021"	"2021"	"No"	"2"	389737
+	"California"	"06"	"2021"	"2021"	"Unknown or Not Stated"	"9"	241
+	"California"	"06"	"2022"	"2022"	"Yes"	"1"	32715
+	"California"	"06"	"2022"	"2022"	"No"	"2"	386269
+	"California"	"06"	"2022"	"2022"	"Unknown or Not Stated"	"9"	120
+	"California"	"06"	"2023"	"2023"	"Yes"	"1"	33441
+	"California"	"06"	"2023"	"2023"	"No"	"2"	366485
+	"California"	"06"	"2023"	"2023"	"Unknown or Not Stated"	"9"	182
+	"Florida"	"12"	"2010"	"2010"	"Yes"	"1"	11321
+	"Florida"	"12"	"2010"	"2010"	"No"	"2"	202717
+	"Florida"	"12"	"2010"	"2010"	"Unknown or Not Stated"	"9"	552
+	"Florida"	"12"	"2011"	"2011"	"Yes"	"1"	10604
+	"Florida"	"12"	"2011"	"2011"	"No"	"2"	201939
+	"Florida"	"12"	"2011"	"2011"	"Unknown or Not Stated"	"9"	871
+	"Florida"	"12"	"2012"	"2012"	"Yes"	"1"	11231
+	"Florida"	"12"	"2012"	"2012"	"No"	"2"	201519
+	"Florida"	"12"	"2012"	"2012"	"Unknown or Not Stated"	"9"	398
+	"Florida"	"12"	"2013"	"2013"	"Yes"	"1"	11246
+	"Florida"	"12"	"2013"	"2013"	"No"	"2"	203789
+	"Florida"	"12"	"2013"	"2013"	"Unknown or Not Stated"	"9"	372
+	"Florida"	"12"	"2014"	"2014"	"Yes"	"1"	11064
+	"Florida"	"12"	"2014"	"2014"	"No"	"2"	208592
+	"Florida"	"12"	"2014"	"2014"	"Unknown or Not Stated"	"9"	335
+	"Florida"	"12"	"2015"	"2015"	"Yes"	"1"	11488
+	"Florida"	"12"	"2015"	"2015"	"No"	"2"	212437
+	"Florida"	"12"	"2015"	"2015"	"Unknown or Not Stated"	"9"	344
+	"Florida"	"12"	"2016"	"2016"	"Yes"	"1"	12336
+	"Florida"	"12"	"2016"	"2016"	"No"	"2"	212270
+	"Florida"	"12"	"2016"	"2016"	"Unknown or Not Stated"	"9"	416
+	"Florida"	"12"	"2017"	"2017"	"Yes"	"1"	13321
+	"Florida"	"12"	"2017"	"2017"	"No"	"2"	209805
+	"Florida"	"12"	"2017"	"2017"	"Unknown or Not Stated"	"9"	504
+	"Florida"	"12"	"2018"	"2018"	"Yes"	"1"	16033
+	"Florida"	"12"	"2018"	"2018"	"No"	"2"	205037
+	"Florida"	"12"	"2018"	"2018"	"Unknown or Not Stated"	"9"	472
+	"Florida"	"12"	"2019"	"2019"	"Yes"	"1"	16935
+	"Florida"	"12"	"2019"	"2019"	"No"	"2"	202750
+	"Florida"	"12"	"2019"	"2019"	"Unknown or Not Stated"	"9"	317
+	"Florida"	"12"	"2020"	"2020"	"Yes"	"1"	17714
+	"Florida"	"12"	"2020"	"2020"	"No"	"2"	191663
+	"Florida"	"12"	"2020"	"2020"	"Unknown or Not Stated"	"9"	294
+	"Florida"	"12"	"2021"	"2021"	"Yes"	"1"	18555
+	"Florida"	"12"	"2021"	"2021"	"No"	"2"	197026
+	"Florida"	"12"	"2021"	"2021"	"Unknown or Not Stated"	"9"	679
+	"Florida"	"12"	"2022"	"2022"	"Yes"	"1"	19584
+	"Florida"	"12"	"2022"	"2022"	"No"	"2"	204467
+	"Florida"	"12"	"2022"	"2022"	"Unknown or Not Stated"	"9"	382
+	"Florida"	"12"	"2023"	"2023"	"Yes"	"1"	20766
+	"Florida"	"12"	"2023"	"2023"	"No"	"2"	199859
+	"Florida"	"12"	"2023"	"2023"	"Unknown or Not Stated"	"9"	785
+	"Georgia"	"13"	"2010"	"2010"	"Yes"	"1"	5738
+	"Georgia"	"13"	"2010"	"2010"	"No"	"2"	122788
+	"Georgia"	"13"	"2010"	"2010"	"Unknown or Not Stated"	"9"	5421
+	"Georgia"	"13"	"2011"	"2011"	"Yes"	"1"	5414
+	"Georgia"	"13"	"2011"	"2011"	"No"	"2"	121167
+	"Georgia"	"13"	"2011"	"2011"	"Unknown or Not Stated"	"9"	5828
+	"Georgia"	"13"	"2012"	"2012"	"Yes"	"1"	5726
+	"Georgia"	"13"	"2012"	"2012"	"No"	"2"	120396
+	"Georgia"	"13"	"2012"	"2012"	"Unknown or Not Stated"	"9"	4158
+	"Georgia"	"13"	"2013"	"2013"	"Yes"	"1"	6159
+	"Georgia"	"13"	"2013"	"2013"	"No"	"2"	118978
+	"Georgia"	"13"	"2013"	"2013"	"Unknown or Not Stated"	"9"	3611
+	"Georgia"	"13"	"2014"	"2014"	"Yes"	"1"	6305
+	"Georgia"	"13"	"2014"	"2014"	"No"	"2"	121532
+	"Georgia"	"13"	"2014"	"2014"	"Unknown or Not Stated"	"9"	3109
+	"Georgia"	"13"	"2015"	"2015"	"Yes"	"1"	6956
+	"Georgia"	"13"	"2015"	"2015"	"No"	"2"	123635
+	"Georgia"	"13"	"2015"	"2015"	"Unknown or Not Stated"	"9"	813
+	"Georgia"	"13"	"2016"	"2016"	"Yes"	"1"	7810
+	"Georgia"	"13"	"2016"	"2016"	"No"	"2"	121884
+	"Georgia"	"13"	"2016"	"2016"	"Unknown or Not Stated"	"9"	348
+	"Georgia"	"13"	"2017"	"2017"	"Yes"	"1"	8192
+	"Georgia"	"13"	"2017"	"2017"	"No"	"2"	120669
+	"Georgia"	"13"	"2017"	"2017"	"Unknown or Not Stated"	"9"	382
+	"Georgia"	"13"	"2018"	"2018"	"Yes"	"1"	8533
+	"Georgia"	"13"	"2018"	"2018"	"No"	"2"	117378
+	"Georgia"	"13"	"2018"	"2018"	"Unknown or Not Stated"	"9"	261
+	"Georgia"	"13"	"2019"	"2019"	"Yes"	"1"	9052
+	"Georgia"	"13"	"2019"	"2019"	"No"	"2"	117118
+	"Georgia"	"13"	"2019"	"2019"	"Unknown or Not Stated"	"9"	201
+	"Georgia"	"13"	"2020"	"2020"	"Yes"	"1"	9724
+	"Georgia"	"13"	"2020"	"2020"	"No"	"2"	112606
+	"Georgia"	"13"	"2020"	"2020"	"Unknown or Not Stated"	"9"	143
+	"Georgia"	"13"	"2021"	"2021"	"Yes"	"1"	11416
+	"Georgia"	"13"	"2021"	"2021"	"No"	"2"	112488
+	"Georgia"	"13"	"2021"	"2021"	"Unknown or Not Stated"	"9"	169
+	"Georgia"	"13"	"2022"	"2022"	"Yes"	"1"	11657
+	"Georgia"	"13"	"2022"	"2022"	"No"	"2"	114266
+	"Georgia"	"13"	"2022"	"2022"	"Unknown or Not Stated"	"9"	207
+	"Georgia"	"13"	"2023"	"2023"	"Yes"	"1"	12043
+	"Georgia"	"13"	"2023"	"2023"	"No"	"2"	112892
+	"Georgia"	"13"	"2023"	"2023"	"Unknown or Not Stated"	"9"	185
+	"Illinois"	"17"	"2010"	"2010"	"Yes"	"1"	7568
+	"Illinois"	"17"	"2010"	"2010"	"No"	"2"	155888
+	"Illinois"	"17"	"2010"	"2010"	"Unknown or Not Stated"	"9"	1744
+	"Illinois"	"17"	"2011"	"2011"	"Yes"	"1"	7802
+	"Illinois"	"17"	"2011"	"2011"	"No"	"2"	152833
+	"Illinois"	"17"	"2011"	"2011"	"Unknown or Not Stated"	"9"	677
+	"Illinois"	"17"	"2012"	"2012"	"Yes"	"1"	7602
+	"Illinois"	"17"	"2012"	"2012"	"No"	"2"	150558
+	"Illinois"	"17"	"2012"	"2012"	"Unknown or Not Stated"	"9"	1000
+	"Illinois"	"17"	"2013"	"2013"	"Yes"	"1"	8061
+	"Illinois"	"17"	"2013"	"2013"	"No"	"2"	148104
+	"Illinois"	"17"	"2013"	"2013"	"Unknown or Not Stated"	"9"	766
+	"Illinois"	"17"	"2014"	"2014"	"Yes"	"1"	8675
+	"Illinois"	"17"	"2014"	"2014"	"No"	"2"	149044
+	"Illinois"	"17"	"2014"	"2014"	"Unknown or Not Stated"	"9"	837
+	"Illinois"	"17"	"2015"	"2015"	"Yes"	"1"	9844
+	"Illinois"	"17"	"2015"	"2015"	"No"	"2"	148094
+	"Illinois"	"17"	"2015"	"2015"	"Unknown or Not Stated"	"9"	178
+	"Illinois"	"17"	"2016"	"2016"	"Yes"	"1"	10543
+	"Illinois"	"17"	"2016"	"2016"	"No"	"2"	143676
+	"Illinois"	"17"	"2016"	"2016"	"Unknown or Not Stated"	"9"	226
+	"Illinois"	"17"	"2017"	"2017"	"Yes"	"1"	10914
+	"Illinois"	"17"	"2017"	"2017"	"No"	"2"	138111
+	"Illinois"	"17"	"2017"	"2017"	"Unknown or Not Stated"	"9"	365
+	"Illinois"	"17"	"2018"	"2018"	"Yes"	"1"	12046
+	"Illinois"	"17"	"2018"	"2018"	"No"	"2"	132516
+	"Illinois"	"17"	"2018"	"2018"	"Unknown or Not Stated"	"9"	253
+	"Illinois"	"17"	"2019"	"2019"	"Yes"	"1"	12942
+	"Illinois"	"17"	"2019"	"2019"	"No"	"2"	127064
+	"Illinois"	"17"	"2019"	"2019"	"Unknown or Not Stated"	"9"	122
+	"Illinois"	"17"	"2020"	"2020"	"Yes"	"1"	12702
+	"Illinois"	"17"	"2020"	"2020"	"No"	"2"	120428
+	"Illinois"	"17"	"2020"	"2020"	"Unknown or Not Stated"	"9"	168
+	"Illinois"	"17"	"2021"	"2021"	"Yes"	"1"	13735
+	"Illinois"	"17"	"2021"	"2021"	"No"	"2"	118331
+	"Illinois"	"17"	"2021"	"2021"	"Unknown or Not Stated"	"9"	123
+	"Illinois"	"17"	"2022"	"2022"	"Yes"	"1"	14038
+	"Illinois"	"17"	"2022"	"2022"	"No"	"2"	114170
+	"Illinois"	"17"	"2022"	"2022"	"Unknown or Not Stated"	"9"	142
+	"Illinois"	"17"	"2023"	"2023"	"Yes"	"1"	14445
+	"Illinois"	"17"	"2023"	"2023"	"No"	"2"	110253
+	"Illinois"	"17"	"2023"	"2023"	"Unknown or Not Stated"	"9"	122
+	"Indiana"	"18"	"2010"	"2010"	"Yes"	"1"	4657
+	"Indiana"	"18"	"2010"	"2010"	"No"	"2"	79273
+	"Indiana"	"18"	"2010"	"2010"	"Unknown or Not Stated"	"9"	10
+	"Indiana"	"18"	"2011"	"2011"	"Yes"	"1"	4628
+	"Indiana"	"18"	"2011"	"2011"	"No"	"2"	79061
+	"Indiana"	"18"	"2011"	"2011"	"Unknown or Not Stated"	"9"	12
+	"Indiana"	"18"	"2012"	"2012"	"Yes"	"1"	4775
+	"Indiana"	"18"	"2012"	"2012"	"No"	"2"	78447
+	"Indiana"	"18"	"2013"	"2013"	"Yes"	"1"	4411
+	"Indiana"	"18"	"2013"	"2013"	"No"	"2"	78686
+	"Indiana"	"18"	"2014"	"2014"	"Yes"	"1"	4897
+	"Indiana"	"18"	"2014"	"2014"	"No"	"2"	79181
+	"Indiana"	"18"	"2015"	"2015"	"Yes"	"1"	5242
+	"Indiana"	"18"	"2015"	"2015"	"No"	"2"	78796
+	"Indiana"	"18"	"2016"	"2016"	"Yes"	"1"	5650
+	"Indiana"	"18"	"2016"	"2016"	"No"	"2"	77437
+	"Indiana"	"18"	"2017"	"2017"	"Yes"	"1"	6161
+	"Indiana"	"18"	"2017"	"2017"	"No"	"2"	75999
+	"Indiana"	"18"	"2017"	"2017"	"Unknown or Not Stated"	"9"	10
+	"Indiana"	"18"	"2018"	"2018"	"Yes"	"1"	6812
+	"Indiana"	"18"	"2018"	"2018"	"No"	"2"	74825
+	"Indiana"	"18"	"2019"	"2019"	"Yes"	"1"	7368
+	"Indiana"	"18"	"2019"	"2019"	"No"	"2"	73487
+	"Indiana"	"18"	"2020"	"2020"	"Yes"	"1"	7735
+	"Indiana"	"18"	"2020"	"2020"	"No"	"2"	70834
+	"Indiana"	"18"	"2020"	"2020"	"Unknown or Not Stated"	"9"	47
+	"Indiana"	"18"	"2021"	"2021"	"Yes"	"1"	8229
+	"Indiana"	"18"	"2021"	"2021"	"No"	"2"	71256
+	"Indiana"	"18"	"2021"	"2021"	"Unknown or Not Stated"	"9"	461
+	"Indiana"	"18"	"2022"	"2022"	"Yes"	"1"	8392
+	"Indiana"	"18"	"2022"	"2022"	"No"	"2"	70862
+	"Indiana"	"18"	"2022"	"2022"	"Unknown or Not Stated"	"9"	395
+	"Indiana"	"18"	"2023"	"2023"	"Yes"	"1"	8640
+	"Indiana"	"18"	"2023"	"2023"	"No"	"2"	69856
+	"Indiana"	"18"	"2023"	"2023"	"Unknown or Not Stated"	"9"	504
+	"Maryland"	"24"	"2010"	"2010"	"Yes"	"1"	3023
+	"Maryland"	"24"	"2010"	"2010"	"No"	"2"	70671
+	"Maryland"	"24"	"2010"	"2010"	"Unknown or Not Stated"	"9"	107
+	"Maryland"	"24"	"2011"	"2011"	"Yes"	"1"	3188
+	"Maryland"	"24"	"2011"	"2011"	"No"	"2"	69776
+	"Maryland"	"24"	"2011"	"2011"	"Unknown or Not Stated"	"9"	129
+	"Maryland"	"24"	"2012"	"2012"	"Yes"	"1"	3230
+	"Maryland"	"24"	"2012"	"2012"	"No"	"2"	69573
+	"Maryland"	"24"	"2012"	"2012"	"Unknown or Not Stated"	"9"	80
+	"Maryland"	"24"	"2013"	"2013"	"Yes"	"1"	3325
+	"Maryland"	"24"	"2013"	"2013"	"No"	"2"	68506
+	"Maryland"	"24"	"2013"	"2013"	"Unknown or Not Stated"	"9"	122
+	"Maryland"	"24"	"2014"	"2014"	"Yes"	"1"	3911
+	"Maryland"	"24"	"2014"	"2014"	"No"	"2"	69931
+	"Maryland"	"24"	"2014"	"2014"	"Unknown or Not Stated"	"9"	79
+	"Maryland"	"24"	"2015"	"2015"	"Yes"	"1"	4491
+	"Maryland"	"24"	"2015"	"2015"	"No"	"2"	69122
+	"Maryland"	"24"	"2016"	"2016"	"Yes"	"1"	4548
+	"Maryland"	"24"	"2016"	"2016"	"No"	"2"	68577
+	"Maryland"	"24"	"2016"	"2016"	"Unknown or Not Stated"	"9"	11
+	"Maryland"	"24"	"2017"	"2017"	"Yes"	"1"	5112
+	"Maryland"	"24"	"2017"	"2017"	"No"	"2"	66460
+	"Maryland"	"24"	"2017"	"2017"	"Unknown or Not Stated"	"9"	69
+	"Maryland"	"24"	"2018"	"2018"	"Yes"	"1"	5198
+	"Maryland"	"24"	"2018"	"2018"	"No"	"2"	65840
+	"Maryland"	"24"	"2018"	"2018"	"Unknown or Not Stated"	"9"	42
+	"Maryland"	"24"	"2019"	"2019"	"Yes"	"1"	5392
+	"Maryland"	"24"	"2019"	"2019"	"No"	"2"	64746
+	"Maryland"	"24"	"2019"	"2019"	"Unknown or Not Stated"	"9"	40
+	"Maryland"	"24"	"2020"	"2020"	"Yes"	"1"	5907
+	"Maryland"	"24"	"2020"	"2020"	"No"	"2"	62608
+	"Maryland"	"24"	"2020"	"2020"	"Unknown or Not Stated"	"9"	39
+	"Maryland"	"24"	"2021"	"2021"	"Yes"	"1"	6801
+	"Maryland"	"24"	"2021"	"2021"	"No"	"2"	61442
+	"Maryland"	"24"	"2021"	"2021"	"Unknown or Not Stated"	"9"	42
+	"Maryland"	"24"	"2022"	"2022"	"Yes"	"1"	6810
+	"Maryland"	"24"	"2022"	"2022"	"No"	"2"	61936
+	"Maryland"	"24"	"2022"	"2022"	"Unknown or Not Stated"	"9"	36
+	"Maryland"	"24"	"2023"	"2023"	"Yes"	"1"	7295
+	"Maryland"	"24"	"2023"	"2023"	"No"	"2"	58283
+	"Maryland"	"24"	"2023"	"2023"	"Unknown or Not Stated"	"9"	16
+	"Michigan"	"26"	"2010"	"2010"	"Yes"	"1"	5435
+	"Michigan"	"26"	"2010"	"2010"	"No"	"2"	107878
+	"Michigan"	"26"	"2010"	"2010"	"Unknown or Not Stated"	"9"	1218
+	"Michigan"	"26"	"2011"	"2011"	"Yes"	"1"	5544
+	"Michigan"	"26"	"2011"	"2011"	"No"	"2"	106974
+	"Michigan"	"26"	"2011"	"2011"	"Unknown or Not Stated"	"9"	1490
+	"Michigan"	"26"	"2012"	"2012"	"Yes"	"1"	5589
+	"Michigan"	"26"	"2012"	"2012"	"No"	"2"	106799
+	"Michigan"	"26"	"2012"	"2012"	"Unknown or Not Stated"	"9"	703
+	"Michigan"	"26"	"2013"	"2013"	"Yes"	"1"	5743
+	"Michigan"	"26"	"2013"	"2013"	"No"	"2"	107506
+	"Michigan"	"26"	"2013"	"2013"	"Unknown or Not Stated"	"9"	240
+	"Michigan"	"26"	"2014"	"2014"	"Yes"	"1"	5882
+	"Michigan"	"26"	"2014"	"2014"	"No"	"2"	108135
+	"Michigan"	"26"	"2014"	"2014"	"Unknown or Not Stated"	"9"	358
+	"Michigan"	"26"	"2015"	"2015"	"Yes"	"1"	6750
+	"Michigan"	"26"	"2015"	"2015"	"No"	"2"	106229
+	"Michigan"	"26"	"2015"	"2015"	"Unknown or Not Stated"	"9"	333
+	"Michigan"	"26"	"2016"	"2016"	"Yes"	"1"	7370
+	"Michigan"	"26"	"2016"	"2016"	"No"	"2"	105677
+	"Michigan"	"26"	"2016"	"2016"	"Unknown or Not Stated"	"9"	268
+	"Michigan"	"26"	"2017"	"2017"	"Yes"	"1"	7876
+	"Michigan"	"26"	"2017"	"2017"	"No"	"2"	103238
+	"Michigan"	"26"	"2017"	"2017"	"Unknown or Not Stated"	"9"	312
+	"Michigan"	"26"	"2018"	"2018"	"Yes"	"1"	8616
+	"Michigan"	"26"	"2018"	"2018"	"No"	"2"	101147
+	"Michigan"	"26"	"2018"	"2018"	"Unknown or Not Stated"	"9"	269
+	"Michigan"	"26"	"2019"	"2019"	"Yes"	"1"	9541
+	"Michigan"	"26"	"2019"	"2019"	"No"	"2"	98106
+	"Michigan"	"26"	"2019"	"2019"	"Unknown or Not Stated"	"9"	239
+	"Michigan"	"26"	"2020"	"2020"	"Yes"	"1"	8644
+	"Michigan"	"26"	"2020"	"2020"	"No"	"2"	95248
+	"Michigan"	"26"	"2020"	"2020"	"Unknown or Not Stated"	"9"	182
+	"Michigan"	"26"	"2021"	"2021"	"Yes"	"1"	9184
+	"Michigan"	"26"	"2021"	"2021"	"No"	"2"	95651
+	"Michigan"	"26"	"2021"	"2021"	"Unknown or Not Stated"	"9"	145
+	"Michigan"	"26"	"2022"	"2022"	"Yes"	"1"	9754
+	"Michigan"	"26"	"2022"	"2022"	"No"	"2"	92308
+	"Michigan"	"26"	"2022"	"2022"	"Unknown or Not Stated"	"9"	259
+	"Michigan"	"26"	"2023"	"2023"	"Yes"	"1"	10029
+	"Michigan"	"26"	"2023"	"2023"	"No"	"2"	88760
+	"Michigan"	"26"	"2023"	"2023"	"Unknown or Not Stated"	"9"	335
+	"Missouri"	"29"	"2010"	"2010"	"Yes"	"1"	3366
+	"Missouri"	"29"	"2010"	"2010"	"No"	"2"	73393
+	"Missouri"	"29"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2011"	"2011"	"Yes"	"1"	3831
+	"Missouri"	"29"	"2011"	"2011"	"No"	"2"	72286
+	"Missouri"	"29"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2012"	"2012"	"Yes"	"1"	4166
+	"Missouri"	"29"	"2012"	"2012"	"No"	"2"	71279
+	"Missouri"	"29"	"2013"	"2013"	"Yes"	"1"	4325
+	"Missouri"	"29"	"2013"	"2013"	"No"	"2"	70970
+	"Missouri"	"29"	"2014"	"2014"	"Yes"	"1"	4608
+	"Missouri"	"29"	"2014"	"2014"	"No"	"2"	70751
+	"Missouri"	"29"	"2015"	"2015"	"Yes"	"1"	5264
+	"Missouri"	"29"	"2015"	"2015"	"No"	"2"	69796
+	"Missouri"	"29"	"2016"	"2016"	"Yes"	"1"	5502
+	"Missouri"	"29"	"2016"	"2016"	"No"	"2"	69202
+	"Missouri"	"29"	"2017"	"2017"	"Yes"	"1"	5815
+	"Missouri"	"29"	"2017"	"2017"	"No"	"2"	67219
+	"Missouri"	"29"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2018"	"2018"	"Yes"	"1"	5993
+	"Missouri"	"29"	"2018"	"2018"	"No"	"2"	67276
+	"Missouri"	"29"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2019"	"2019"	"Yes"	"1"	6256
+	"Missouri"	"29"	"2019"	"2019"	"No"	"2"	65868
+	"Missouri"	"29"	"2020"	"2020"	"Yes"	"1"	6363
+	"Missouri"	"29"	"2020"	"2020"	"No"	"2"	62920
+	"Missouri"	"29"	"2021"	"2021"	"Yes"	"1"	6965
+	"Missouri"	"29"	"2021"	"2021"	"No"	"2"	62486
+	"Missouri"	"29"	"2022"	"2022"	"Yes"	"1"	7746
+	"Missouri"	"29"	"2022"	"2022"	"No"	"2"	61238
+	"Missouri"	"29"	"2023"	"2023"	"Yes"	"1"	7752
+	"Missouri"	"29"	"2023"	"2023"	"No"	"2"	59367
+	"New Jersey"	"34"	"2010"	"2010"	"Yes"	"1"	3537
+	"New Jersey"	"34"	"2010"	"2010"	"No"	"2"	103043
+	"New Jersey"	"34"	"2010"	"2010"	"Unknown or Not Stated"	"9"	342
+	"New Jersey"	"34"	"2011"	"2011"	"Yes"	"1"	2836
+	"New Jersey"	"34"	"2011"	"2011"	"No"	"2"	102733
+	"New Jersey"	"34"	"2011"	"2011"	"Unknown or Not Stated"	"9"	314
+	"New Jersey"	"34"	"2012"	"2012"	"Yes"	"1"	2590
+	"New Jersey"	"34"	"2012"	"2012"	"No"	"2"	101379
+	"New Jersey"	"34"	"2012"	"2012"	"Unknown or Not Stated"	"9"	261
+	"New Jersey"	"34"	"2013"	"2013"	"Yes"	"1"	2720
+	"New Jersey"	"34"	"2013"	"2013"	"No"	"2"	99681
+	"New Jersey"	"34"	"2013"	"2013"	"Unknown or Not Stated"	"9"	174
+	"New Jersey"	"34"	"2014"	"2014"	"Yes"	"1"	2853
+	"New Jersey"	"34"	"2014"	"2014"	"No"	"2"	100261
+	"New Jersey"	"34"	"2014"	"2014"	"Unknown or Not Stated"	"9"	191
+	"New Jersey"	"34"	"2015"	"2015"	"Yes"	"1"	4007
+	"New Jersey"	"34"	"2015"	"2015"	"No"	"2"	99058
+	"New Jersey"	"34"	"2015"	"2015"	"Unknown or Not Stated"	"9"	62
+	"New Jersey"	"34"	"2016"	"2016"	"Yes"	"1"	4807
+	"New Jersey"	"34"	"2016"	"2016"	"No"	"2"	97833
+	"New Jersey"	"34"	"2017"	"2017"	"Yes"	"1"	4828
+	"New Jersey"	"34"	"2017"	"2017"	"No"	"2"	96415
+	"New Jersey"	"34"	"2018"	"2018"	"Yes"	"1"	5532
+	"New Jersey"	"34"	"2018"	"2018"	"No"	"2"	95684
+	"New Jersey"	"34"	"2019"	"2019"	"Yes"	"1"	6006
+	"New Jersey"	"34"	"2019"	"2019"	"No"	"2"	93573
+	"New Jersey"	"34"	"2020"	"2020"	"Yes"	"1"	6576
+	"New Jersey"	"34"	"2020"	"2020"	"No"	"2"	91370
+	"New Jersey"	"34"	"2021"	"2021"	"Yes"	"1"	6902
+	"New Jersey"	"34"	"2021"	"2021"	"No"	"2"	94586
+	"New Jersey"	"34"	"2022"	"2022"	"Yes"	"1"	6983
+	"New Jersey"	"34"	"2022"	"2022"	"No"	"2"	95900
+	"New Jersey"	"34"	"2022"	"2022"	"Unknown or Not Stated"	"9"	10
+	"New Jersey"	"34"	"2023"	"2023"	"Yes"	"1"	7077
+	"New Jersey"	"34"	"2023"	"2023"	"No"	"2"	93914
+	"New Jersey"	"34"	"2023"	"2023"	"Unknown or Not Stated"	"9"	10
+	"New York"	"36"	"2010"	"2010"	"Yes"	"1"	7081
+	"New York"	"36"	"2010"	"2010"	"No"	"2"	236025
+	"New York"	"36"	"2010"	"2010"	"Unknown or Not Stated"	"9"	1269
+	"New York"	"36"	"2011"	"2011"	"Yes"	"1"	7264
+	"New York"	"36"	"2011"	"2011"	"No"	"2"	233610
+	"New York"	"36"	"2011"	"2011"	"Unknown or Not Stated"	"9"	438
+	"New York"	"36"	"2012"	"2012"	"Yes"	"1"	7069
+	"New York"	"36"	"2012"	"2012"	"No"	"2"	233345
+	"New York"	"36"	"2012"	"2012"	"Unknown or Not Stated"	"9"	502
+	"New York"	"36"	"2013"	"2013"	"Yes"	"1"	7493
+	"New York"	"36"	"2013"	"2013"	"No"	"2"	228994
+	"New York"	"36"	"2013"	"2013"	"Unknown or Not Stated"	"9"	493
+	"New York"	"36"	"2014"	"2014"	"Yes"	"1"	8764
+	"New York"	"36"	"2014"	"2014"	"No"	"2"	229183
+	"New York"	"36"	"2014"	"2014"	"Unknown or Not Stated"	"9"	826
+	"New York"	"36"	"2015"	"2015"	"Yes"	"1"	14317
+	"New York"	"36"	"2015"	"2015"	"No"	"2"	222488
+	"New York"	"36"	"2015"	"2015"	"Unknown or Not Stated"	"9"	469
+	"New York"	"36"	"2016"	"2016"	"Yes"	"1"	14897
+	"New York"	"36"	"2016"	"2016"	"No"	"2"	219168
+	"New York"	"36"	"2016"	"2016"	"Unknown or Not Stated"	"9"	218
+	"New York"	"36"	"2017"	"2017"	"Yes"	"1"	13188
+	"New York"	"36"	"2017"	"2017"	"No"	"2"	216143
+	"New York"	"36"	"2017"	"2017"	"Unknown or Not Stated"	"9"	406
+	"New York"	"36"	"2018"	"2018"	"Yes"	"1"	14218
+	"New York"	"36"	"2018"	"2018"	"No"	"2"	211526
+	"New York"	"36"	"2018"	"2018"	"Unknown or Not Stated"	"9"	494
+	"New York"	"36"	"2019"	"2019"	"Yes"	"1"	15221
+	"New York"	"36"	"2019"	"2019"	"No"	"2"	205834
+	"New York"	"36"	"2019"	"2019"	"Unknown or Not Stated"	"9"	484
+	"New York"	"36"	"2020"	"2020"	"Yes"	"1"	16141
+	"New York"	"36"	"2020"	"2020"	"No"	"2"	192799
+	"New York"	"36"	"2020"	"2020"	"Unknown or Not Stated"	"9"	398
+	"New York"	"36"	"2021"	"2021"	"Yes"	"1"	16865
+	"New York"	"36"	"2021"	"2021"	"No"	"2"	193426
+	"New York"	"36"	"2021"	"2021"	"Unknown or Not Stated"	"9"	451
+	"New York"	"36"	"2022"	"2022"	"Yes"	"1"	16638
+	"New York"	"36"	"2022"	"2022"	"No"	"2"	190580
+	"New York"	"36"	"2022"	"2022"	"Unknown or Not Stated"	"9"	556
+	"New York"	"36"	"2023"	"2023"	"Yes"	"1"	16307
+	"New York"	"36"	"2023"	"2023"	"No"	"2"	186876
+	"New York"	"36"	"2023"	"2023"	"Unknown or Not Stated"	"9"	429
+	"South Carolina"	"45"	"2010"	"2010"	"Yes"	"1"	3164
+	"South Carolina"	"45"	"2010"	"2010"	"No"	"2"	55153
+	"South Carolina"	"45"	"2010"	"2010"	"Unknown or Not Stated"	"9"	25
+	"South Carolina"	"45"	"2011"	"2011"	"Yes"	"1"	3036
+	"South Carolina"	"45"	"2011"	"2011"	"No"	"2"	54336
+	"South Carolina"	"45"	"2011"	"2011"	"Unknown or Not Stated"	"9"	21
+	"South Carolina"	"45"	"2012"	"2012"	"Yes"	"1"	3297
+	"South Carolina"	"45"	"2012"	"2012"	"No"	"2"	53854
+	"South Carolina"	"45"	"2013"	"2013"	"Yes"	"1"	3822
+	"South Carolina"	"45"	"2013"	"2013"	"No"	"2"	52954
+	"South Carolina"	"45"	"2013"	"2013"	"Unknown or Not Stated"	"9"	19
+	"South Carolina"	"45"	"2014"	"2014"	"Yes"	"1"	4079
+	"South Carolina"	"45"	"2014"	"2014"	"No"	"2"	53542
+	"South Carolina"	"45"	"2015"	"2015"	"Yes"	"1"	4024
+	"South Carolina"	"45"	"2015"	"2015"	"No"	"2"	54109
+	"South Carolina"	"45"	"2016"	"2016"	"Yes"	"1"	4248
+	"South Carolina"	"45"	"2016"	"2016"	"No"	"2"	53092
+	"South Carolina"	"45"	"2017"	"2017"	"Yes"	"1"	4737
+	"South Carolina"	"45"	"2017"	"2017"	"No"	"2"	52289
+	"South Carolina"	"45"	"2018"	"2018"	"Yes"	"1"	4945
+	"South Carolina"	"45"	"2018"	"2018"	"No"	"2"	51720
+	"South Carolina"	"45"	"2019"	"2019"	"Yes"	"1"	4935
+	"South Carolina"	"45"	"2019"	"2019"	"No"	"2"	52099
+	"South Carolina"	"45"	"2020"	"2020"	"Yes"	"1"	5098
+	"South Carolina"	"45"	"2020"	"2020"	"No"	"2"	50601
+	"South Carolina"	"45"	"2021"	"2021"	"Yes"	"1"	5345
+	"South Carolina"	"45"	"2021"	"2021"	"No"	"2"	51773
+	"South Carolina"	"45"	"2021"	"2021"	"Unknown or Not Stated"	"9"	67
+	"South Carolina"	"45"	"2022"	"2022"	"Yes"	"1"	5822
+	"South Carolina"	"45"	"2022"	"2022"	"No"	"2"	51936
+	"South Carolina"	"45"	"2022"	"2022"	"Unknown or Not Stated"	"9"	62
+	"South Carolina"	"45"	"2023"	"2023"	"Yes"	"1"	6863
+	"South Carolina"	"45"	"2023"	"2023"	"No"	"2"	50821
+	"South Carolina"	"45"	"2023"	"2023"	"Unknown or Not Stated"	"9"	45
+	"Texas"	"48"	"2010"	"2010"	"Yes"	"1"	19781
+	"Texas"	"48"	"2010"	"2010"	"No"	"2"	366335
+	"Texas"	"48"	"2011"	"2011"	"Yes"	"1"	19122
+	"Texas"	"48"	"2011"	"2011"	"No"	"2"	358321
+	"Texas"	"48"	"2012"	"2012"	"Yes"	"1"	19850
+	"Texas"	"48"	"2012"	"2012"	"No"	"2"	362874
+	"Texas"	"48"	"2013"	"2013"	"Yes"	"1"	19874
+	"Texas"	"48"	"2013"	"2013"	"No"	"2"	367462
+	"Texas"	"48"	"2014"	"2014"	"Yes"	"1"	22292
+	"Texas"	"48"	"2014"	"2014"	"No"	"2"	377472
+	"Texas"	"48"	"2015"	"2015"	"Yes"	"1"	23924
+	"Texas"	"48"	"2015"	"2015"	"No"	"2"	379692
+	"Texas"	"48"	"2016"	"2016"	"Yes"	"1"	24273
+	"Texas"	"48"	"2016"	"2016"	"No"	"2"	373772
+	"Texas"	"48"	"2017"	"2017"	"Yes"	"1"	25241
+	"Texas"	"48"	"2017"	"2017"	"No"	"2"	356808
+	"Texas"	"48"	"2018"	"2018"	"Yes"	"1"	26995
+	"Texas"	"48"	"2018"	"2018"	"No"	"2"	351596
+	"Texas"	"48"	"2018"	"2018"	"Unknown or Not Stated"	"9"	33
+	"Texas"	"48"	"2019"	"2019"	"Yes"	"1"	27834
+	"Texas"	"48"	"2019"	"2019"	"No"	"2"	349365
+	"Texas"	"48"	"2019"	"2019"	"Unknown or Not Stated"	"9"	400
+	"Texas"	"48"	"2020"	"2020"	"Yes"	"1"	28114
+	"Texas"	"48"	"2020"	"2020"	"No"	"2"	339579
+	"Texas"	"48"	"2020"	"2020"	"Unknown or Not Stated"	"9"	497
+	"Texas"	"48"	"2021"	"2021"	"Yes"	"1"	30191
+	"Texas"	"48"	"2021"	"2021"	"No"	"2"	342845
+	"Texas"	"48"	"2021"	"2021"	"Unknown or Not Stated"	"9"	558
+	"Texas"	"48"	"2022"	"2022"	"Yes"	"1"	32373
+	"Texas"	"48"	"2022"	"2022"	"No"	"2"	355981
+	"Texas"	"48"	"2022"	"2022"	"Unknown or Not Stated"	"9"	1387
+	"Texas"	"48"	"2023"	"2023"	"Yes"	"1"	33958
+	"Texas"	"48"	"2023"	"2023"	"No"	"2"	353381
+	"Texas"	"48"	"2023"	"2023"	"Unknown or Not Stated"	"9"	606
+	"Washington"	"53"	"2010"	"2010"	"Yes"	"1"	4606
+	"Washington"	"53"	"2010"	"2010"	"No"	"2"	81462
+	"Washington"	"53"	"2010"	"2010"	"Unknown or Not Stated"	"9"	471
+	"Washington"	"53"	"2011"	"2011"	"Yes"	"1"	4743
+	"Washington"	"53"	"2011"	"2011"	"No"	"2"	81750
+	"Washington"	"53"	"2011"	"2011"	"Unknown or Not Stated"	"9"	483
+	"Washington"	"53"	"2012"	"2012"	"Yes"	"1"	4925
+	"Washington"	"53"	"2012"	"2012"	"No"	"2"	82194
+	"Washington"	"53"	"2012"	"2012"	"Unknown or Not Stated"	"9"	344
+	"Washington"	"53"	"2013"	"2013"	"Yes"	"1"	4775
+	"Washington"	"53"	"2013"	"2013"	"No"	"2"	81596
+	"Washington"	"53"	"2013"	"2013"	"Unknown or Not Stated"	"9"	206
+	"Washington"	"53"	"2014"	"2014"	"Yes"	"1"	5272
+	"Washington"	"53"	"2014"	"2014"	"No"	"2"	83230
+	"Washington"	"53"	"2014"	"2014"	"Unknown or Not Stated"	"9"	83
+	"Washington"	"53"	"2015"	"2015"	"Yes"	"1"	5570
+	"Washington"	"53"	"2015"	"2015"	"No"	"2"	83319
+	"Washington"	"53"	"2015"	"2015"	"Unknown or Not Stated"	"9"	101
+	"Washington"	"53"	"2016"	"2016"	"Yes"	"1"	5702
+	"Washington"	"53"	"2016"	"2016"	"No"	"2"	84370
+	"Washington"	"53"	"2016"	"2016"	"Unknown or Not Stated"	"9"	433
+	"Washington"	"53"	"2017"	"2017"	"Yes"	"1"	6211
+	"Washington"	"53"	"2017"	"2017"	"No"	"2"	80974
+	"Washington"	"53"	"2017"	"2017"	"Unknown or Not Stated"	"9"	377
+	"Washington"	"53"	"2018"	"2018"	"Yes"	"1"	6676
+	"Washington"	"53"	"2018"	"2018"	"No"	"2"	79409
+	"Washington"	"53"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2019"	"2019"	"Yes"	"1"	7350
+	"Washington"	"53"	"2019"	"2019"	"No"	"2"	77518
+	"Washington"	"53"	"2019"	"2019"	"Unknown or Not Stated"	"9"	27
+	"Washington"	"53"	"2020"	"2020"	"Yes"	"1"	7834
+	"Washington"	"53"	"2020"	"2020"	"No"	"2"	74674
+	"Washington"	"53"	"2020"	"2020"	"Unknown or Not Stated"	"9"	578
+	"Washington"	"53"	"2021"	"2021"	"Yes"	"1"	8460
+	"Washington"	"53"	"2021"	"2021"	"No"	"2"	74470
+	"Washington"	"53"	"2021"	"2021"	"Unknown or Not Stated"	"9"	981
+	"Washington"	"53"	"2022"	"2022"	"Yes"	"1"	8616
+	"Washington"	"53"	"2022"	"2022"	"No"	"2"	74084
+	"Washington"	"53"	"2022"	"2022"	"Unknown or Not Stated"	"9"	633
+	"Washington"	"53"	"2023"	"2023"	"Yes"	"1"	9076
+	"Washington"	"53"	"2023"	"2023"	"No"	"2"	71471
+	"Washington"	"53"	"2023"	"2023"	"Unknown or Not Stated"	"9"	385
+"---"
+"Dataset: Natality, 2007-2023"
+"Query Parameters:"
+"States: Arizona (04); Arkansas (05); California (06); Florida (12); Georgia (13); Illinois (17); Indiana (18); Maryland (24);"
+"Michigan (26); Missouri (29); New Jersey (34); New York (36); South Carolina (45); Texas (48); Washington (53)"
+"Year: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020; 2021; 2022; 2023"
+"Group By: State; Year; Pregnancy-associated Hypertension"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
+"---"
+"Query Date: Mar 25, 2025 1:07:35 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-current.html on Mar 25, 2025 1:07:35 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/natality.html#Assurance of Confidentiality."
+"2. Each birth record represents one liveborn infant."

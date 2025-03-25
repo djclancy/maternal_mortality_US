@@ -1,0 +1,788 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Delivery Method"	"Delivery Method Code"	Births
+	"Arizona"	"04"	"2010"	"2010"	"Vaginal"	"1"	63343
+	"Arizona"	"04"	"2010"	"2010"	"Cesarean"	"2"	23629
+	"Arizona"	"04"	"2010"	"2010"	"Unknown or Not Stated"	"9"	505
+	"Arizona"	"04"	"2011"	"2011"	"Vaginal"	"1"	61655
+	"Arizona"	"04"	"2011"	"2011"	"Cesarean"	"2"	23449
+	"Arizona"	"04"	"2011"	"2011"	"Unknown or Not Stated"	"9"	439
+	"Arizona"	"04"	"2012"	"2012"	"Vaginal"	"1"	62591
+	"Arizona"	"04"	"2012"	"2012"	"Cesarean"	"2"	23405
+	"Arizona"	"04"	"2012"	"2012"	"Unknown or Not Stated"	"9"	445
+	"Arizona"	"04"	"2013"	"2013"	"Vaginal"	"1"	61799
+	"Arizona"	"04"	"2013"	"2013"	"Cesarean"	"2"	23347
+	"Arizona"	"04"	"2013"	"2013"	"Unknown or Not Stated"	"9"	454
+	"Arizona"	"04"	"2014"	"2014"	"Vaginal"	"1"	62741
+	"Arizona"	"04"	"2014"	"2014"	"Cesarean"	"2"	24146
+	"Arizona"	"04"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2015"	"2015"	"Vaginal"	"1"	61834
+	"Arizona"	"04"	"2015"	"2015"	"Cesarean"	"2"	23516
+	"Arizona"	"04"	"2016"	"2016"	"Vaginal"	"1"	61297
+	"Arizona"	"04"	"2016"	"2016"	"Cesarean"	"2"	23220
+	"Arizona"	"04"	"2017"	"2017"	"Vaginal"	"1"	59884
+	"Arizona"	"04"	"2017"	"2017"	"Cesarean"	"2"	21986
+	"Arizona"	"04"	"2018"	"2018"	"Vaginal"	"1"	58521
+	"Arizona"	"04"	"2018"	"2018"	"Cesarean"	"2"	22199
+	"Arizona"	"04"	"2019"	"2019"	"Vaginal"	"1"	57330
+	"Arizona"	"04"	"2019"	"2019"	"Cesarean"	"2"	22039
+	"Arizona"	"04"	"2020"	"2020"	"Vaginal"	"1"	55076
+	"Arizona"	"04"	"2020"	"2020"	"Cesarean"	"2"	21870
+	"Arizona"	"04"	"2021"	"2021"	"Vaginal"	"1"	55545
+	"Arizona"	"04"	"2021"	"2021"	"Cesarean"	"2"	22368
+	"Arizona"	"04"	"2022"	"2022"	"Vaginal"	"1"	56055
+	"Arizona"	"04"	"2022"	"2022"	"Cesarean"	"2"	22489
+	"Arizona"	"04"	"2023"	"2023"	"Vaginal"	"1"	55418
+	"Arizona"	"04"	"2023"	"2023"	"Cesarean"	"2"	22675
+	"Arkansas"	"05"	"2010"	"2010"	"Vaginal"	"1"	24829
+	"Arkansas"	"05"	"2010"	"2010"	"Cesarean"	"2"	13412
+	"Arkansas"	"05"	"2010"	"2010"	"Unknown or Not Stated"	"9"	299
+	"Arkansas"	"05"	"2011"	"2011"	"Vaginal"	"1"	25263
+	"Arkansas"	"05"	"2011"	"2011"	"Cesarean"	"2"	13187
+	"Arkansas"	"05"	"2011"	"2011"	"Unknown or Not Stated"	"9"	265
+	"Arkansas"	"05"	"2012"	"2012"	"Vaginal"	"1"	24824
+	"Arkansas"	"05"	"2012"	"2012"	"Cesarean"	"2"	13282
+	"Arkansas"	"05"	"2012"	"2012"	"Unknown or Not Stated"	"9"	241
+	"Arkansas"	"05"	"2013"	"2013"	"Vaginal"	"1"	24679
+	"Arkansas"	"05"	"2013"	"2013"	"Cesarean"	"2"	12958
+	"Arkansas"	"05"	"2013"	"2013"	"Unknown or Not Stated"	"9"	195
+	"Arkansas"	"05"	"2014"	"2014"	"Vaginal"	"1"	26173
+	"Arkansas"	"05"	"2014"	"2014"	"Cesarean"	"2"	12338
+	"Arkansas"	"05"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2015"	"2015"	"Vaginal"	"1"	26341
+	"Arkansas"	"05"	"2015"	"2015"	"Cesarean"	"2"	12545
+	"Arkansas"	"05"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2016"	"2016"	"Vaginal"	"1"	25919
+	"Arkansas"	"05"	"2016"	"2016"	"Cesarean"	"2"	12354
+	"Arkansas"	"05"	"2017"	"2017"	"Vaginal"	"1"	24949
+	"Arkansas"	"05"	"2017"	"2017"	"Cesarean"	"2"	12565
+	"Arkansas"	"05"	"2018"	"2018"	"Vaginal"	"1"	24138
+	"Arkansas"	"05"	"2018"	"2018"	"Cesarean"	"2"	12876
+	"Arkansas"	"05"	"2019"	"2019"	"Vaginal"	"1"	23958
+	"Arkansas"	"05"	"2019"	"2019"	"Cesarean"	"2"	12604
+	"Arkansas"	"05"	"2020"	"2020"	"Vaginal"	"1"	23330
+	"Arkansas"	"05"	"2020"	"2020"	"Cesarean"	"2"	11917
+	"Arkansas"	"05"	"2021"	"2021"	"Vaginal"	"1"	23622
+	"Arkansas"	"05"	"2021"	"2021"	"Cesarean"	"2"	12339
+	"Arkansas"	"05"	"2022"	"2022"	"Vaginal"	"1"	23532
+	"Arkansas"	"05"	"2022"	"2022"	"Cesarean"	"2"	11938
+	"Arkansas"	"05"	"2023"	"2023"	"Vaginal"	"1"	23342
+	"Arkansas"	"05"	"2023"	"2023"	"Cesarean"	"2"	11918
+	"California"	"06"	"2010"	"2010"	"Vaginal"	"1"	341776
+	"California"	"06"	"2010"	"2010"	"Cesarean"	"2"	168417
+	"California"	"06"	"2011"	"2011"	"Vaginal"	"1"	335455
+	"California"	"06"	"2011"	"2011"	"Cesarean"	"2"	166661
+	"California"	"06"	"2012"	"2012"	"Vaginal"	"1"	336388
+	"California"	"06"	"2012"	"2012"	"Cesarean"	"2"	167365
+	"California"	"06"	"2013"	"2013"	"Vaginal"	"1"	330328
+	"California"	"06"	"2013"	"2013"	"Cesarean"	"2"	164375
+	"California"	"06"	"2014"	"2014"	"Vaginal"	"1"	338405
+	"California"	"06"	"2014"	"2014"	"Cesarean"	"2"	164472
+	"California"	"06"	"2015"	"2015"	"Vaginal"	"1"	333102
+	"California"	"06"	"2015"	"2015"	"Cesarean"	"2"	158646
+	"California"	"06"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"California"	"06"	"2016"	"2016"	"Vaginal"	"1"	332874
+	"California"	"06"	"2016"	"2016"	"Cesarean"	"2"	155952
+	"California"	"06"	"2017"	"2017"	"Vaginal"	"1"	323580
+	"California"	"06"	"2017"	"2017"	"Cesarean"	"2"	148077
+	"California"	"06"	"2018"	"2018"	"Vaginal"	"1"	314452
+	"California"	"06"	"2018"	"2018"	"Cesarean"	"2"	140464
+	"California"	"06"	"2019"	"2019"	"Vaginal"	"1"	309137
+	"California"	"06"	"2019"	"2019"	"Cesarean"	"2"	137337
+	"California"	"06"	"2020"	"2020"	"Vaginal"	"1"	292055
+	"California"	"06"	"2020"	"2020"	"Cesarean"	"2"	128196
+	"California"	"06"	"2021"	"2021"	"Vaginal"	"1"	291206
+	"California"	"06"	"2021"	"2021"	"Cesarean"	"2"	129401
+	"California"	"06"	"2022"	"2022"	"Vaginal"	"1"	289192
+	"California"	"06"	"2022"	"2022"	"Cesarean"	"2"	129910
+	"California"	"06"	"2023"	"2023"	"Vaginal"	"1"	273992
+	"California"	"06"	"2023"	"2023"	"Cesarean"	"2"	126099
+	"California"	"06"	"2023"	"2023"	"Unknown or Not Stated"	"9"	17
+	"Florida"	"12"	"2010"	"2010"	"Vaginal"	"1"	133469
+	"Florida"	"12"	"2010"	"2010"	"Cesarean"	"2"	81046
+	"Florida"	"12"	"2010"	"2010"	"Unknown or Not Stated"	"9"	75
+	"Florida"	"12"	"2011"	"2011"	"Vaginal"	"1"	131961
+	"Florida"	"12"	"2011"	"2011"	"Cesarean"	"2"	81345
+	"Florida"	"12"	"2011"	"2011"	"Unknown or Not Stated"	"9"	108
+	"Florida"	"12"	"2012"	"2012"	"Vaginal"	"1"	131816
+	"Florida"	"12"	"2012"	"2012"	"Cesarean"	"2"	81230
+	"Florida"	"12"	"2012"	"2012"	"Unknown or Not Stated"	"9"	102
+	"Florida"	"12"	"2013"	"2013"	"Vaginal"	"1"	134062
+	"Florida"	"12"	"2013"	"2013"	"Cesarean"	"2"	81237
+	"Florida"	"12"	"2013"	"2013"	"Unknown or Not Stated"	"9"	108
+	"Florida"	"12"	"2014"	"2014"	"Vaginal"	"1"	138230
+	"Florida"	"12"	"2014"	"2014"	"Cesarean"	"2"	81707
+	"Florida"	"12"	"2014"	"2014"	"Unknown or Not Stated"	"9"	54
+	"Florida"	"12"	"2015"	"2015"	"Vaginal"	"1"	140458
+	"Florida"	"12"	"2015"	"2015"	"Cesarean"	"2"	83715
+	"Florida"	"12"	"2015"	"2015"	"Unknown or Not Stated"	"9"	96
+	"Florida"	"12"	"2016"	"2016"	"Vaginal"	"1"	140715
+	"Florida"	"12"	"2016"	"2016"	"Cesarean"	"2"	84204
+	"Florida"	"12"	"2016"	"2016"	"Unknown or Not Stated"	"9"	103
+	"Florida"	"12"	"2017"	"2017"	"Vaginal"	"1"	140410
+	"Florida"	"12"	"2017"	"2017"	"Cesarean"	"2"	83124
+	"Florida"	"12"	"2017"	"2017"	"Unknown or Not Stated"	"9"	96
+	"Florida"	"12"	"2018"	"2018"	"Vaginal"	"1"	139876
+	"Florida"	"12"	"2018"	"2018"	"Cesarean"	"2"	81550
+	"Florida"	"12"	"2018"	"2018"	"Unknown or Not Stated"	"9"	116
+	"Florida"	"12"	"2019"	"2019"	"Vaginal"	"1"	139533
+	"Florida"	"12"	"2019"	"2019"	"Cesarean"	"2"	80321
+	"Florida"	"12"	"2019"	"2019"	"Unknown or Not Stated"	"9"	148
+	"Florida"	"12"	"2020"	"2020"	"Vaginal"	"1"	134295
+	"Florida"	"12"	"2020"	"2020"	"Cesarean"	"2"	75166
+	"Florida"	"12"	"2020"	"2020"	"Unknown or Not Stated"	"9"	210
+	"Florida"	"12"	"2021"	"2021"	"Vaginal"	"1"	138616
+	"Florida"	"12"	"2021"	"2021"	"Cesarean"	"2"	77295
+	"Florida"	"12"	"2021"	"2021"	"Unknown or Not Stated"	"9"	349
+	"Florida"	"12"	"2022"	"2022"	"Vaginal"	"1"	143713
+	"Florida"	"12"	"2022"	"2022"	"Cesarean"	"2"	80526
+	"Florida"	"12"	"2022"	"2022"	"Unknown or Not Stated"	"9"	194
+	"Florida"	"12"	"2023"	"2023"	"Vaginal"	"1"	141092
+	"Florida"	"12"	"2023"	"2023"	"Cesarean"	"2"	80137
+	"Florida"	"12"	"2023"	"2023"	"Unknown or Not Stated"	"9"	181
+	"Georgia"	"13"	"2010"	"2010"	"Vaginal"	"1"	87907
+	"Georgia"	"13"	"2010"	"2010"	"Cesarean"	"2"	45323
+	"Georgia"	"13"	"2010"	"2010"	"Unknown or Not Stated"	"9"	717
+	"Georgia"	"13"	"2011"	"2011"	"Vaginal"	"1"	87732
+	"Georgia"	"13"	"2011"	"2011"	"Cesarean"	"2"	44433
+	"Georgia"	"13"	"2011"	"2011"	"Unknown or Not Stated"	"9"	244
+	"Georgia"	"13"	"2012"	"2012"	"Vaginal"	"1"	86109
+	"Georgia"	"13"	"2012"	"2012"	"Cesarean"	"2"	44005
+	"Georgia"	"13"	"2012"	"2012"	"Unknown or Not Stated"	"9"	166
+	"Georgia"	"13"	"2013"	"2013"	"Vaginal"	"1"	84589
+	"Georgia"	"13"	"2013"	"2013"	"Cesarean"	"2"	43920
+	"Georgia"	"13"	"2013"	"2013"	"Unknown or Not Stated"	"9"	239
+	"Georgia"	"13"	"2014"	"2014"	"Vaginal"	"1"	86473
+	"Georgia"	"13"	"2014"	"2014"	"Cesarean"	"2"	44242
+	"Georgia"	"13"	"2014"	"2014"	"Unknown or Not Stated"	"9"	231
+	"Georgia"	"13"	"2015"	"2015"	"Vaginal"	"1"	87116
+	"Georgia"	"13"	"2015"	"2015"	"Cesarean"	"2"	44129
+	"Georgia"	"13"	"2015"	"2015"	"Unknown or Not Stated"	"9"	159
+	"Georgia"	"13"	"2016"	"2016"	"Vaginal"	"1"	85936
+	"Georgia"	"13"	"2016"	"2016"	"Cesarean"	"2"	43935
+	"Georgia"	"13"	"2016"	"2016"	"Unknown or Not Stated"	"9"	171
+	"Georgia"	"13"	"2017"	"2017"	"Vaginal"	"1"	84964
+	"Georgia"	"13"	"2017"	"2017"	"Cesarean"	"2"	44098
+	"Georgia"	"13"	"2017"	"2017"	"Unknown or Not Stated"	"9"	181
+	"Georgia"	"13"	"2018"	"2018"	"Vaginal"	"1"	83218
+	"Georgia"	"13"	"2018"	"2018"	"Cesarean"	"2"	42851
+	"Georgia"	"13"	"2018"	"2018"	"Unknown or Not Stated"	"9"	103
+	"Georgia"	"13"	"2019"	"2019"	"Vaginal"	"1"	82899
+	"Georgia"	"13"	"2019"	"2019"	"Cesarean"	"2"	43360
+	"Georgia"	"13"	"2019"	"2019"	"Unknown or Not Stated"	"9"	112
+	"Georgia"	"13"	"2020"	"2020"	"Vaginal"	"1"	80909
+	"Georgia"	"13"	"2020"	"2020"	"Cesarean"	"2"	41462
+	"Georgia"	"13"	"2020"	"2020"	"Unknown or Not Stated"	"9"	102
+	"Georgia"	"13"	"2021"	"2021"	"Vaginal"	"1"	80535
+	"Georgia"	"13"	"2021"	"2021"	"Cesarean"	"2"	43474
+	"Georgia"	"13"	"2021"	"2021"	"Unknown or Not Stated"	"9"	64
+	"Georgia"	"13"	"2022"	"2022"	"Vaginal"	"1"	81648
+	"Georgia"	"13"	"2022"	"2022"	"Cesarean"	"2"	44412
+	"Georgia"	"13"	"2022"	"2022"	"Unknown or Not Stated"	"9"	70
+	"Georgia"	"13"	"2023"	"2023"	"Vaginal"	"1"	80322
+	"Georgia"	"13"	"2023"	"2023"	"Cesarean"	"2"	44742
+	"Georgia"	"13"	"2023"	"2023"	"Unknown or Not Stated"	"9"	56
+	"Illinois"	"17"	"2010"	"2010"	"Vaginal"	"1"	113508
+	"Illinois"	"17"	"2010"	"2010"	"Cesarean"	"2"	51435
+	"Illinois"	"17"	"2010"	"2010"	"Unknown or Not Stated"	"9"	257
+	"Illinois"	"17"	"2011"	"2011"	"Vaginal"	"1"	110139
+	"Illinois"	"17"	"2011"	"2011"	"Cesarean"	"2"	51066
+	"Illinois"	"17"	"2011"	"2011"	"Unknown or Not Stated"	"9"	107
+	"Illinois"	"17"	"2012"	"2012"	"Vaginal"	"1"	108193
+	"Illinois"	"17"	"2012"	"2012"	"Cesarean"	"2"	50761
+	"Illinois"	"17"	"2012"	"2012"	"Unknown or Not Stated"	"9"	206
+	"Illinois"	"17"	"2013"	"2013"	"Vaginal"	"1"	106922
+	"Illinois"	"17"	"2013"	"2013"	"Cesarean"	"2"	49673
+	"Illinois"	"17"	"2013"	"2013"	"Unknown or Not Stated"	"9"	336
+	"Illinois"	"17"	"2014"	"2014"	"Vaginal"	"1"	108903
+	"Illinois"	"17"	"2014"	"2014"	"Cesarean"	"2"	49485
+	"Illinois"	"17"	"2014"	"2014"	"Unknown or Not Stated"	"9"	168
+	"Illinois"	"17"	"2015"	"2015"	"Vaginal"	"1"	109101
+	"Illinois"	"17"	"2015"	"2015"	"Cesarean"	"2"	48909
+	"Illinois"	"17"	"2015"	"2015"	"Unknown or Not Stated"	"9"	106
+	"Illinois"	"17"	"2016"	"2016"	"Vaginal"	"1"	106418
+	"Illinois"	"17"	"2016"	"2016"	"Cesarean"	"2"	47965
+	"Illinois"	"17"	"2016"	"2016"	"Unknown or Not Stated"	"9"	62
+	"Illinois"	"17"	"2017"	"2017"	"Vaginal"	"1"	102852
+	"Illinois"	"17"	"2017"	"2017"	"Cesarean"	"2"	46467
+	"Illinois"	"17"	"2017"	"2017"	"Unknown or Not Stated"	"9"	71
+	"Illinois"	"17"	"2018"	"2018"	"Vaginal"	"1"	99664
+	"Illinois"	"17"	"2018"	"2018"	"Cesarean"	"2"	45099
+	"Illinois"	"17"	"2018"	"2018"	"Unknown or Not Stated"	"9"	52
+	"Illinois"	"17"	"2019"	"2019"	"Vaginal"	"1"	97172
+	"Illinois"	"17"	"2019"	"2019"	"Cesarean"	"2"	42925
+	"Illinois"	"17"	"2019"	"2019"	"Unknown or Not Stated"	"9"	31
+	"Illinois"	"17"	"2020"	"2020"	"Vaginal"	"1"	92179
+	"Illinois"	"17"	"2020"	"2020"	"Cesarean"	"2"	41086
+	"Illinois"	"17"	"2020"	"2020"	"Unknown or Not Stated"	"9"	33
+	"Illinois"	"17"	"2021"	"2021"	"Vaginal"	"1"	90949
+	"Illinois"	"17"	"2021"	"2021"	"Cesarean"	"2"	41199
+	"Illinois"	"17"	"2021"	"2021"	"Unknown or Not Stated"	"9"	41
+	"Illinois"	"17"	"2022"	"2022"	"Vaginal"	"1"	88601
+	"Illinois"	"17"	"2022"	"2022"	"Cesarean"	"2"	39725
+	"Illinois"	"17"	"2022"	"2022"	"Unknown or Not Stated"	"9"	24
+	"Illinois"	"17"	"2023"	"2023"	"Vaginal"	"1"	86082
+	"Illinois"	"17"	"2023"	"2023"	"Cesarean"	"2"	38710
+	"Illinois"	"17"	"2023"	"2023"	"Unknown or Not Stated"	"9"	28
+	"Indiana"	"18"	"2010"	"2010"	"Vaginal"	"1"	58479
+	"Indiana"	"18"	"2010"	"2010"	"Cesarean"	"2"	25427
+	"Indiana"	"18"	"2010"	"2010"	"Unknown or Not Stated"	"9"	34
+	"Indiana"	"18"	"2011"	"2011"	"Vaginal"	"1"	58087
+	"Indiana"	"18"	"2011"	"2011"	"Cesarean"	"2"	25576
+	"Indiana"	"18"	"2011"	"2011"	"Unknown or Not Stated"	"9"	38
+	"Indiana"	"18"	"2012"	"2012"	"Vaginal"	"1"	57615
+	"Indiana"	"18"	"2012"	"2012"	"Cesarean"	"2"	25583
+	"Indiana"	"18"	"2012"	"2012"	"Unknown or Not Stated"	"9"	29
+	"Indiana"	"18"	"2013"	"2013"	"Vaginal"	"1"	57750
+	"Indiana"	"18"	"2013"	"2013"	"Cesarean"	"2"	25334
+	"Indiana"	"18"	"2013"	"2013"	"Unknown or Not Stated"	"9"	18
+	"Indiana"	"18"	"2014"	"2014"	"Vaginal"	"1"	58596
+	"Indiana"	"18"	"2014"	"2014"	"Cesarean"	"2"	25464
+	"Indiana"	"18"	"2014"	"2014"	"Unknown or Not Stated"	"9"	20
+	"Indiana"	"18"	"2015"	"2015"	"Vaginal"	"1"	59157
+	"Indiana"	"18"	"2015"	"2015"	"Cesarean"	"2"	24873
+	"Indiana"	"18"	"2015"	"2015"	"Unknown or Not Stated"	"9"	10
+	"Indiana"	"18"	"2016"	"2016"	"Vaginal"	"1"	58310
+	"Indiana"	"18"	"2016"	"2016"	"Cesarean"	"2"	24762
+	"Indiana"	"18"	"2016"	"2016"	"Unknown or Not Stated"	"9"	19
+	"Indiana"	"18"	"2017"	"2017"	"Vaginal"	"1"	57725
+	"Indiana"	"18"	"2017"	"2017"	"Cesarean"	"2"	24431
+	"Indiana"	"18"	"2017"	"2017"	"Unknown or Not Stated"	"9"	14
+	"Indiana"	"18"	"2018"	"2018"	"Vaginal"	"1"	57290
+	"Indiana"	"18"	"2018"	"2018"	"Cesarean"	"2"	24344
+	"Indiana"	"18"	"2018"	"2018"	"Unknown or Not Stated"	"9"	12
+	"Indiana"	"18"	"2019"	"2019"	"Vaginal"	"1"	57178
+	"Indiana"	"18"	"2019"	"2019"	"Cesarean"	"2"	23667
+	"Indiana"	"18"	"2019"	"2019"	"Unknown or Not Stated"	"9"	14
+	"Indiana"	"18"	"2020"	"2020"	"Vaginal"	"1"	54966
+	"Indiana"	"18"	"2020"	"2020"	"Cesarean"	"2"	23642
+	"Indiana"	"18"	"2021"	"2021"	"Vaginal"	"1"	55669
+	"Indiana"	"18"	"2021"	"2021"	"Cesarean"	"2"	24272
+	"Indiana"	"18"	"2022"	"2022"	"Vaginal"	"1"	55363
+	"Indiana"	"18"	"2022"	"2022"	"Cesarean"	"2"	24282
+	"Indiana"	"18"	"2023"	"2023"	"Vaginal"	"1"	54708
+	"Indiana"	"18"	"2023"	"2023"	"Cesarean"	"2"	24280
+	"Indiana"	"18"	"2023"	"2023"	"Unknown or Not Stated"	"9"	12
+	"Maryland"	"24"	"2010"	"2010"	"Vaginal"	"1"	48200
+	"Maryland"	"24"	"2010"	"2010"	"Cesarean"	"2"	25431
+	"Maryland"	"24"	"2010"	"2010"	"Unknown or Not Stated"	"9"	170
+	"Maryland"	"24"	"2011"	"2011"	"Vaginal"	"1"	47579
+	"Maryland"	"24"	"2011"	"2011"	"Cesarean"	"2"	25393
+	"Maryland"	"24"	"2011"	"2011"	"Unknown or Not Stated"	"9"	121
+	"Maryland"	"24"	"2012"	"2012"	"Vaginal"	"1"	47265
+	"Maryland"	"24"	"2012"	"2012"	"Cesarean"	"2"	25421
+	"Maryland"	"24"	"2012"	"2012"	"Unknown or Not Stated"	"9"	197
+	"Maryland"	"24"	"2013"	"2013"	"Vaginal"	"1"	46570
+	"Maryland"	"24"	"2013"	"2013"	"Cesarean"	"2"	25224
+	"Maryland"	"24"	"2013"	"2013"	"Unknown or Not Stated"	"9"	159
+	"Maryland"	"24"	"2014"	"2014"	"Vaginal"	"1"	48042
+	"Maryland"	"24"	"2014"	"2014"	"Cesarean"	"2"	25746
+	"Maryland"	"24"	"2014"	"2014"	"Unknown or Not Stated"	"9"	133
+	"Maryland"	"24"	"2015"	"2015"	"Vaginal"	"1"	47859
+	"Maryland"	"24"	"2015"	"2015"	"Cesarean"	"2"	25664
+	"Maryland"	"24"	"2015"	"2015"	"Unknown or Not Stated"	"9"	93
+	"Maryland"	"24"	"2016"	"2016"	"Vaginal"	"1"	48467
+	"Maryland"	"24"	"2016"	"2016"	"Cesarean"	"2"	24606
+	"Maryland"	"24"	"2016"	"2016"	"Unknown or Not Stated"	"9"	63
+	"Maryland"	"24"	"2017"	"2017"	"Vaginal"	"1"	47340
+	"Maryland"	"24"	"2017"	"2017"	"Cesarean"	"2"	24244
+	"Maryland"	"24"	"2017"	"2017"	"Unknown or Not Stated"	"9"	57
+	"Maryland"	"24"	"2018"	"2018"	"Vaginal"	"1"	47008
+	"Maryland"	"24"	"2018"	"2018"	"Cesarean"	"2"	24058
+	"Maryland"	"24"	"2018"	"2018"	"Unknown or Not Stated"	"9"	14
+	"Maryland"	"24"	"2019"	"2019"	"Vaginal"	"1"	47041
+	"Maryland"	"24"	"2019"	"2019"	"Cesarean"	"2"	23124
+	"Maryland"	"24"	"2019"	"2019"	"Unknown or Not Stated"	"9"	13
+	"Maryland"	"24"	"2020"	"2020"	"Vaginal"	"1"	45427
+	"Maryland"	"24"	"2020"	"2020"	"Cesarean"	"2"	23114
+	"Maryland"	"24"	"2020"	"2020"	"Unknown or Not Stated"	"9"	13
+	"Maryland"	"24"	"2021"	"2021"	"Vaginal"	"1"	44834
+	"Maryland"	"24"	"2021"	"2021"	"Cesarean"	"2"	23441
+	"Maryland"	"24"	"2021"	"2021"	"Unknown or Not Stated"	"9"	10
+	"Maryland"	"24"	"2022"	"2022"	"Vaginal"	"1"	45160
+	"Maryland"	"24"	"2022"	"2022"	"Cesarean"	"2"	23609
+	"Maryland"	"24"	"2022"	"2022"	"Unknown or Not Stated"	"9"	13
+	"Maryland"	"24"	"2023"	"2023"	"Vaginal"	"1"	42653
+	"Maryland"	"24"	"2023"	"2023"	"Cesarean"	"2"	22926
+	"Maryland"	"24"	"2023"	"2023"	"Unknown or Not Stated"	"9"	15
+	"Michigan"	"26"	"2010"	"2010"	"Vaginal"	"1"	77189
+	"Michigan"	"26"	"2010"	"2010"	"Cesarean"	"2"	37322
+	"Michigan"	"26"	"2010"	"2010"	"Unknown or Not Stated"	"9"	20
+	"Michigan"	"26"	"2011"	"2011"	"Vaginal"	"1"	76571
+	"Michigan"	"26"	"2011"	"2011"	"Cesarean"	"2"	37404
+	"Michigan"	"26"	"2011"	"2011"	"Unknown or Not Stated"	"9"	33
+	"Michigan"	"26"	"2012"	"2012"	"Vaginal"	"1"	76197
+	"Michigan"	"26"	"2012"	"2012"	"Cesarean"	"2"	36867
+	"Michigan"	"26"	"2012"	"2012"	"Unknown or Not Stated"	"9"	27
+	"Michigan"	"26"	"2013"	"2013"	"Vaginal"	"1"	76511
+	"Michigan"	"26"	"2013"	"2013"	"Cesarean"	"2"	36951
+	"Michigan"	"26"	"2013"	"2013"	"Unknown or Not Stated"	"9"	27
+	"Michigan"	"26"	"2014"	"2014"	"Vaginal"	"1"	76874
+	"Michigan"	"26"	"2014"	"2014"	"Cesarean"	"2"	37480
+	"Michigan"	"26"	"2014"	"2014"	"Unknown or Not Stated"	"9"	21
+	"Michigan"	"26"	"2015"	"2015"	"Vaginal"	"1"	77094
+	"Michigan"	"26"	"2015"	"2015"	"Cesarean"	"2"	36196
+	"Michigan"	"26"	"2015"	"2015"	"Unknown or Not Stated"	"9"	22
+	"Michigan"	"26"	"2016"	"2016"	"Vaginal"	"1"	77065
+	"Michigan"	"26"	"2016"	"2016"	"Cesarean"	"2"	36227
+	"Michigan"	"26"	"2016"	"2016"	"Unknown or Not Stated"	"9"	23
+	"Michigan"	"26"	"2017"	"2017"	"Vaginal"	"1"	75803
+	"Michigan"	"26"	"2017"	"2017"	"Cesarean"	"2"	35583
+	"Michigan"	"26"	"2017"	"2017"	"Unknown or Not Stated"	"9"	40
+	"Michigan"	"26"	"2018"	"2018"	"Vaginal"	"1"	74641
+	"Michigan"	"26"	"2018"	"2018"	"Cesarean"	"2"	35365
+	"Michigan"	"26"	"2018"	"2018"	"Unknown or Not Stated"	"9"	26
+	"Michigan"	"26"	"2019"	"2019"	"Vaginal"	"1"	73345
+	"Michigan"	"26"	"2019"	"2019"	"Cesarean"	"2"	34512
+	"Michigan"	"26"	"2019"	"2019"	"Unknown or Not Stated"	"9"	29
+	"Michigan"	"26"	"2020"	"2020"	"Vaginal"	"1"	70280
+	"Michigan"	"26"	"2020"	"2020"	"Cesarean"	"2"	33772
+	"Michigan"	"26"	"2020"	"2020"	"Unknown or Not Stated"	"9"	22
+	"Michigan"	"26"	"2021"	"2021"	"Vaginal"	"1"	70010
+	"Michigan"	"26"	"2021"	"2021"	"Cesarean"	"2"	34846
+	"Michigan"	"26"	"2021"	"2021"	"Unknown or Not Stated"	"9"	124
+	"Michigan"	"26"	"2022"	"2022"	"Vaginal"	"1"	68384
+	"Michigan"	"26"	"2022"	"2022"	"Cesarean"	"2"	33903
+	"Michigan"	"26"	"2022"	"2022"	"Unknown or Not Stated"	"9"	34
+	"Michigan"	"26"	"2023"	"2023"	"Vaginal"	"1"	66133
+	"Michigan"	"26"	"2023"	"2023"	"Cesarean"	"2"	32924
+	"Michigan"	"26"	"2023"	"2023"	"Unknown or Not Stated"	"9"	67
+	"Missouri"	"29"	"2010"	"2010"	"Vaginal"	"1"	52108
+	"Missouri"	"29"	"2010"	"2010"	"Cesarean"	"2"	24449
+	"Missouri"	"29"	"2010"	"2010"	"Unknown or Not Stated"	"9"	202
+	"Missouri"	"29"	"2011"	"2011"	"Vaginal"	"1"	51855
+	"Missouri"	"29"	"2011"	"2011"	"Cesarean"	"2"	23775
+	"Missouri"	"29"	"2011"	"2011"	"Unknown or Not Stated"	"9"	487
+	"Missouri"	"29"	"2012"	"2012"	"Vaginal"	"1"	51126
+	"Missouri"	"29"	"2012"	"2012"	"Cesarean"	"2"	23851
+	"Missouri"	"29"	"2012"	"2012"	"Unknown or Not Stated"	"9"	469
+	"Missouri"	"29"	"2013"	"2013"	"Vaginal"	"1"	51672
+	"Missouri"	"29"	"2013"	"2013"	"Cesarean"	"2"	23331
+	"Missouri"	"29"	"2013"	"2013"	"Unknown or Not Stated"	"9"	293
+	"Missouri"	"29"	"2014"	"2014"	"Vaginal"	"1"	52482
+	"Missouri"	"29"	"2014"	"2014"	"Cesarean"	"2"	22635
+	"Missouri"	"29"	"2014"	"2014"	"Unknown or Not Stated"	"9"	243
+	"Missouri"	"29"	"2015"	"2015"	"Vaginal"	"1"	52211
+	"Missouri"	"29"	"2015"	"2015"	"Cesarean"	"2"	22739
+	"Missouri"	"29"	"2015"	"2015"	"Unknown or Not Stated"	"9"	111
+	"Missouri"	"29"	"2016"	"2016"	"Vaginal"	"1"	52109
+	"Missouri"	"29"	"2016"	"2016"	"Cesarean"	"2"	22520
+	"Missouri"	"29"	"2016"	"2016"	"Unknown or Not Stated"	"9"	76
+	"Missouri"	"29"	"2017"	"2017"	"Vaginal"	"1"	50895
+	"Missouri"	"29"	"2017"	"2017"	"Cesarean"	"2"	21920
+	"Missouri"	"29"	"2017"	"2017"	"Unknown or Not Stated"	"9"	219
+	"Missouri"	"29"	"2018"	"2018"	"Vaginal"	"1"	51194
+	"Missouri"	"29"	"2018"	"2018"	"Cesarean"	"2"	21906
+	"Missouri"	"29"	"2018"	"2018"	"Unknown or Not Stated"	"9"	169
+	"Missouri"	"29"	"2019"	"2019"	"Vaginal"	"1"	50370
+	"Missouri"	"29"	"2019"	"2019"	"Cesarean"	"2"	21646
+	"Missouri"	"29"	"2019"	"2019"	"Unknown or Not Stated"	"9"	111
+	"Missouri"	"29"	"2020"	"2020"	"Vaginal"	"1"	48971
+	"Missouri"	"29"	"2020"	"2020"	"Cesarean"	"2"	20258
+	"Missouri"	"29"	"2020"	"2020"	"Unknown or Not Stated"	"9"	56
+	"Missouri"	"29"	"2021"	"2021"	"Vaginal"	"1"	48370
+	"Missouri"	"29"	"2021"	"2021"	"Cesarean"	"2"	20912
+	"Missouri"	"29"	"2021"	"2021"	"Unknown or Not Stated"	"9"	171
+	"Missouri"	"29"	"2022"	"2022"	"Vaginal"	"1"	47964
+	"Missouri"	"29"	"2022"	"2022"	"Cesarean"	"2"	20960
+	"Missouri"	"29"	"2022"	"2022"	"Unknown or Not Stated"	"9"	61
+	"Missouri"	"29"	"2023"	"2023"	"Vaginal"	"1"	46805
+	"Missouri"	"29"	"2023"	"2023"	"Cesarean"	"2"	20264
+	"Missouri"	"29"	"2023"	"2023"	"Unknown or Not Stated"	"9"	54
+	"New Jersey"	"34"	"2010"	"2010"	"Vaginal"	"1"	64841
+	"New Jersey"	"34"	"2010"	"2010"	"Cesarean"	"2"	41033
+	"New Jersey"	"34"	"2010"	"2010"	"Unknown or Not Stated"	"9"	1048
+	"New Jersey"	"34"	"2011"	"2011"	"Vaginal"	"1"	63752
+	"New Jersey"	"34"	"2011"	"2011"	"Cesarean"	"2"	40990
+	"New Jersey"	"34"	"2011"	"2011"	"Unknown or Not Stated"	"9"	1141
+	"New Jersey"	"34"	"2012"	"2012"	"Vaginal"	"1"	63200
+	"New Jersey"	"34"	"2012"	"2012"	"Cesarean"	"2"	39968
+	"New Jersey"	"34"	"2012"	"2012"	"Unknown or Not Stated"	"9"	1062
+	"New Jersey"	"34"	"2013"	"2013"	"Vaginal"	"1"	62664
+	"New Jersey"	"34"	"2013"	"2013"	"Cesarean"	"2"	39098
+	"New Jersey"	"34"	"2013"	"2013"	"Unknown or Not Stated"	"9"	813
+	"New Jersey"	"34"	"2014"	"2014"	"Vaginal"	"1"	64161
+	"New Jersey"	"34"	"2014"	"2014"	"Cesarean"	"2"	38343
+	"New Jersey"	"34"	"2014"	"2014"	"Unknown or Not Stated"	"9"	801
+	"New Jersey"	"34"	"2015"	"2015"	"Vaginal"	"1"	64914
+	"New Jersey"	"34"	"2015"	"2015"	"Cesarean"	"2"	37874
+	"New Jersey"	"34"	"2015"	"2015"	"Unknown or Not Stated"	"9"	339
+	"New Jersey"	"34"	"2016"	"2016"	"Vaginal"	"1"	65430
+	"New Jersey"	"34"	"2016"	"2016"	"Cesarean"	"2"	37164
+	"New Jersey"	"34"	"2016"	"2016"	"Unknown or Not Stated"	"9"	53
+	"New Jersey"	"34"	"2017"	"2017"	"Vaginal"	"1"	64839
+	"New Jersey"	"34"	"2017"	"2017"	"Cesarean"	"2"	36371
+	"New Jersey"	"34"	"2017"	"2017"	"Unknown or Not Stated"	"9"	40
+	"New Jersey"	"34"	"2018"	"2018"	"Vaginal"	"1"	65849
+	"New Jersey"	"34"	"2018"	"2018"	"Cesarean"	"2"	35335
+	"New Jersey"	"34"	"2018"	"2018"	"Unknown or Not Stated"	"9"	39
+	"New Jersey"	"34"	"2019"	"2019"	"Vaginal"	"1"	65629
+	"New Jersey"	"34"	"2019"	"2019"	"Cesarean"	"2"	33554
+	"New Jersey"	"34"	"2019"	"2019"	"Unknown or Not Stated"	"9"	402
+	"New Jersey"	"34"	"2020"	"2020"	"Vaginal"	"1"	65359
+	"New Jersey"	"34"	"2020"	"2020"	"Cesarean"	"2"	32551
+	"New Jersey"	"34"	"2020"	"2020"	"Unknown or Not Stated"	"9"	44
+	"New Jersey"	"34"	"2021"	"2021"	"Vaginal"	"1"	68537
+	"New Jersey"	"34"	"2021"	"2021"	"Cesarean"	"2"	32942
+	"New Jersey"	"34"	"2021"	"2021"	"Unknown or Not Stated"	"9"	18
+	"New Jersey"	"34"	"2022"	"2022"	"Vaginal"	"1"	69049
+	"New Jersey"	"34"	"2022"	"2022"	"Cesarean"	"2"	33844
+	"New Jersey"	"34"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"New Jersey"	"34"	"2023"	"2023"	"Vaginal"	"1"	67575
+	"New Jersey"	"34"	"2023"	"2023"	"Cesarean"	"2"	33423
+	"New York"	"36"	"2010"	"2010"	"Vaginal"	"1"	158895
+	"New York"	"36"	"2010"	"2010"	"Cesarean"	"2"	84377
+	"New York"	"36"	"2010"	"2010"	"Unknown or Not Stated"	"9"	1103
+	"New York"	"36"	"2011"	"2011"	"Vaginal"	"1"	157862
+	"New York"	"36"	"2011"	"2011"	"Cesarean"	"2"	82425
+	"New York"	"36"	"2011"	"2011"	"Unknown or Not Stated"	"9"	1025
+	"New York"	"36"	"2012"	"2012"	"Vaginal"	"1"	157872
+	"New York"	"36"	"2012"	"2012"	"Cesarean"	"2"	82303
+	"New York"	"36"	"2012"	"2012"	"Unknown or Not Stated"	"9"	741
+	"New York"	"36"	"2013"	"2013"	"Vaginal"	"1"	155175
+	"New York"	"36"	"2013"	"2013"	"Cesarean"	"2"	81117
+	"New York"	"36"	"2013"	"2013"	"Unknown or Not Stated"	"9"	688
+	"New York"	"36"	"2014"	"2014"	"Vaginal"	"1"	157171
+	"New York"	"36"	"2014"	"2014"	"Cesarean"	"2"	80586
+	"New York"	"36"	"2014"	"2014"	"Unknown or Not Stated"	"9"	1016
+	"New York"	"36"	"2015"	"2015"	"Vaginal"	"1"	156486
+	"New York"	"36"	"2015"	"2015"	"Cesarean"	"2"	80032
+	"New York"	"36"	"2015"	"2015"	"Unknown or Not Stated"	"9"	756
+	"New York"	"36"	"2016"	"2016"	"Vaginal"	"1"	154821
+	"New York"	"36"	"2016"	"2016"	"Cesarean"	"2"	78999
+	"New York"	"36"	"2016"	"2016"	"Unknown or Not Stated"	"9"	463
+	"New York"	"36"	"2017"	"2017"	"Vaginal"	"1"	151118
+	"New York"	"36"	"2017"	"2017"	"Cesarean"	"2"	78082
+	"New York"	"36"	"2017"	"2017"	"Unknown or Not Stated"	"9"	537
+	"New York"	"36"	"2018"	"2018"	"Vaginal"	"1"	149324
+	"New York"	"36"	"2018"	"2018"	"Cesarean"	"2"	76470
+	"New York"	"36"	"2018"	"2018"	"Unknown or Not Stated"	"9"	444
+	"New York"	"36"	"2019"	"2019"	"Vaginal"	"1"	147692
+	"New York"	"36"	"2019"	"2019"	"Cesarean"	"2"	73485
+	"New York"	"36"	"2019"	"2019"	"Unknown or Not Stated"	"9"	362
+	"New York"	"36"	"2020"	"2020"	"Vaginal"	"1"	138645
+	"New York"	"36"	"2020"	"2020"	"Cesarean"	"2"	70304
+	"New York"	"36"	"2020"	"2020"	"Unknown or Not Stated"	"9"	389
+	"New York"	"36"	"2021"	"2021"	"Vaginal"	"1"	138519
+	"New York"	"36"	"2021"	"2021"	"Cesarean"	"2"	71807
+	"New York"	"36"	"2021"	"2021"	"Unknown or Not Stated"	"9"	416
+	"New York"	"36"	"2022"	"2022"	"Vaginal"	"1"	136966
+	"New York"	"36"	"2022"	"2022"	"Cesarean"	"2"	70330
+	"New York"	"36"	"2022"	"2022"	"Unknown or Not Stated"	"9"	478
+	"New York"	"36"	"2023"	"2023"	"Vaginal"	"1"	134309
+	"New York"	"36"	"2023"	"2023"	"Cesarean"	"2"	68836
+	"New York"	"36"	"2023"	"2023"	"Unknown or Not Stated"	"9"	467
+	"North Carolina"	"37"	"2010"	"2010"	"Vaginal"	"1"	83880
+	"North Carolina"	"37"	"2010"	"2010"	"Cesarean"	"2"	37677
+	"North Carolina"	"37"	"2010"	"2010"	"Unknown or Not Stated"	"9"	793
+	"North Carolina"	"37"	"2011"	"2011"	"Vaginal"	"1"	83785
+	"North Carolina"	"37"	"2011"	"2011"	"Cesarean"	"2"	36583
+	"North Carolina"	"37"	"2011"	"2011"	"Unknown or Not Stated"	"9"	21
+	"North Carolina"	"37"	"2012"	"2012"	"Vaginal"	"1"	83138
+	"North Carolina"	"37"	"2012"	"2012"	"Cesarean"	"2"	36670
+	"North Carolina"	"37"	"2012"	"2012"	"Unknown or Not Stated"	"9"	23
+	"North Carolina"	"37"	"2013"	"2013"	"Vaginal"	"1"	82865
+	"North Carolina"	"37"	"2013"	"2013"	"Cesarean"	"2"	36123
+	"North Carolina"	"37"	"2013"	"2013"	"Unknown or Not Stated"	"9"	14
+	"North Carolina"	"37"	"2014"	"2014"	"Vaginal"	"1"	85228
+	"North Carolina"	"37"	"2014"	"2014"	"Cesarean"	"2"	35728
+	"North Carolina"	"37"	"2014"	"2014"	"Unknown or Not Stated"	"9"	19
+	"North Carolina"	"37"	"2015"	"2015"	"Vaginal"	"1"	85379
+	"North Carolina"	"37"	"2015"	"2015"	"Cesarean"	"2"	35415
+	"North Carolina"	"37"	"2015"	"2015"	"Unknown or Not Stated"	"9"	49
+	"North Carolina"	"37"	"2016"	"2016"	"Vaginal"	"1"	85204
+	"North Carolina"	"37"	"2016"	"2016"	"Cesarean"	"2"	35549
+	"North Carolina"	"37"	"2016"	"2016"	"Unknown or Not Stated"	"9"	26
+	"North Carolina"	"37"	"2017"	"2017"	"Vaginal"	"1"	84828
+	"North Carolina"	"37"	"2017"	"2017"	"Cesarean"	"2"	35271
+	"North Carolina"	"37"	"2017"	"2017"	"Unknown or Not Stated"	"9"	26
+	"North Carolina"	"37"	"2018"	"2018"	"Vaginal"	"1"	83935
+	"North Carolina"	"37"	"2018"	"2018"	"Cesarean"	"2"	34982
+	"North Carolina"	"37"	"2018"	"2018"	"Unknown or Not Stated"	"9"	37
+	"North Carolina"	"37"	"2019"	"2019"	"Vaginal"	"1"	84203
+	"North Carolina"	"37"	"2019"	"2019"	"Cesarean"	"2"	34483
+	"North Carolina"	"37"	"2019"	"2019"	"Unknown or Not Stated"	"9"	39
+	"North Carolina"	"37"	"2020"	"2020"	"Vaginal"	"1"	81757
+	"North Carolina"	"37"	"2020"	"2020"	"Cesarean"	"2"	34932
+	"North Carolina"	"37"	"2020"	"2020"	"Unknown or Not Stated"	"9"	41
+	"North Carolina"	"37"	"2021"	"2021"	"Vaginal"	"1"	83936
+	"North Carolina"	"37"	"2021"	"2021"	"Cesarean"	"2"	36453
+	"North Carolina"	"37"	"2021"	"2021"	"Unknown or Not Stated"	"9"	77
+	"North Carolina"	"37"	"2022"	"2022"	"Vaginal"	"1"	84620
+	"North Carolina"	"37"	"2022"	"2022"	"Cesarean"	"2"	36656
+	"North Carolina"	"37"	"2022"	"2022"	"Unknown or Not Stated"	"9"	286
+	"North Carolina"	"37"	"2023"	"2023"	"Vaginal"	"1"	82853
+	"North Carolina"	"37"	"2023"	"2023"	"Cesarean"	"2"	36772
+	"North Carolina"	"37"	"2023"	"2023"	"Unknown or Not Stated"	"9"	457
+	"Ohio"	"39"	"2010"	"2010"	"Vaginal"	"1"	95735
+	"Ohio"	"39"	"2010"	"2010"	"Cesarean"	"2"	42699
+	"Ohio"	"39"	"2010"	"2010"	"Unknown or Not Stated"	"9"	694
+	"Ohio"	"39"	"2011"	"2011"	"Vaginal"	"1"	94439
+	"Ohio"	"39"	"2011"	"2011"	"Cesarean"	"2"	42845
+	"Ohio"	"39"	"2011"	"2011"	"Unknown or Not Stated"	"9"	634
+	"Ohio"	"39"	"2012"	"2012"	"Vaginal"	"1"	95504
+	"Ohio"	"39"	"2012"	"2012"	"Cesarean"	"2"	42736
+	"Ohio"	"39"	"2012"	"2012"	"Unknown or Not Stated"	"9"	243
+	"Ohio"	"39"	"2013"	"2013"	"Vaginal"	"1"	95753
+	"Ohio"	"39"	"2013"	"2013"	"Cesarean"	"2"	43130
+	"Ohio"	"39"	"2013"	"2013"	"Unknown or Not Stated"	"9"	53
+	"Ohio"	"39"	"2014"	"2014"	"Vaginal"	"1"	96857
+	"Ohio"	"39"	"2014"	"2014"	"Cesarean"	"2"	42598
+	"Ohio"	"39"	"2014"	"2014"	"Unknown or Not Stated"	"9"	12
+	"Ohio"	"39"	"2015"	"2015"	"Vaginal"	"1"	96885
+	"Ohio"	"39"	"2015"	"2015"	"Cesarean"	"2"	42333
+	"Ohio"	"39"	"2015"	"2015"	"Unknown or Not Stated"	"9"	46
+	"Ohio"	"39"	"2016"	"2016"	"Vaginal"	"1"	95520
+	"Ohio"	"39"	"2016"	"2016"	"Cesarean"	"2"	42513
+	"Ohio"	"39"	"2016"	"2016"	"Unknown or Not Stated"	"9"	52
+	"Ohio"	"39"	"2017"	"2017"	"Vaginal"	"1"	95397
+	"Ohio"	"39"	"2017"	"2017"	"Cesarean"	"2"	41376
+	"Ohio"	"39"	"2017"	"2017"	"Unknown or Not Stated"	"9"	59
+	"Ohio"	"39"	"2018"	"2018"	"Vaginal"	"1"	93528
+	"Ohio"	"39"	"2018"	"2018"	"Cesarean"	"2"	41558
+	"Ohio"	"39"	"2018"	"2018"	"Unknown or Not Stated"	"9"	48
+	"Ohio"	"39"	"2019"	"2019"	"Vaginal"	"1"	92765
+	"Ohio"	"39"	"2019"	"2019"	"Cesarean"	"2"	41636
+	"Ohio"	"39"	"2019"	"2019"	"Unknown or Not Stated"	"9"	60
+	"Ohio"	"39"	"2020"	"2020"	"Vaginal"	"1"	88671
+	"Ohio"	"39"	"2020"	"2020"	"Cesarean"	"2"	40447
+	"Ohio"	"39"	"2020"	"2020"	"Unknown or Not Stated"	"9"	73
+	"Ohio"	"39"	"2021"	"2021"	"Vaginal"	"1"	88914
+	"Ohio"	"39"	"2021"	"2021"	"Cesarean"	"2"	40802
+	"Ohio"	"39"	"2021"	"2021"	"Unknown or Not Stated"	"9"	75
+	"Ohio"	"39"	"2022"	"2022"	"Vaginal"	"1"	87933
+	"Ohio"	"39"	"2022"	"2022"	"Cesarean"	"2"	40225
+	"Ohio"	"39"	"2022"	"2022"	"Unknown or Not Stated"	"9"	73
+	"Ohio"	"39"	"2023"	"2023"	"Vaginal"	"1"	86948
+	"Ohio"	"39"	"2023"	"2023"	"Cesarean"	"2"	39859
+	"Ohio"	"39"	"2023"	"2023"	"Unknown or Not Stated"	"9"	89
+	"Oklahoma"	"40"	"2010"	"2010"	"Vaginal"	"1"	34775
+	"Oklahoma"	"40"	"2010"	"2010"	"Cesarean"	"2"	18453
+	"Oklahoma"	"40"	"2010"	"2010"	"Unknown or Not Stated"	"9"	10
+	"Oklahoma"	"40"	"2011"	"2011"	"Vaginal"	"1"	34392
+	"Oklahoma"	"40"	"2011"	"2011"	"Cesarean"	"2"	17876
+	"Oklahoma"	"40"	"2012"	"2012"	"Vaginal"	"1"	34929
+	"Oklahoma"	"40"	"2012"	"2012"	"Cesarean"	"2"	17814
+	"Oklahoma"	"40"	"2013"	"2013"	"Vaginal"	"1"	35327
+	"Oklahoma"	"40"	"2013"	"2013"	"Cesarean"	"2"	18039
+	"Oklahoma"	"40"	"2014"	"2014"	"Vaginal"	"1"	35681
+	"Oklahoma"	"40"	"2014"	"2014"	"Cesarean"	"2"	17651
+	"Oklahoma"	"40"	"2015"	"2015"	"Vaginal"	"1"	35895
+	"Oklahoma"	"40"	"2015"	"2015"	"Cesarean"	"2"	17227
+	"Oklahoma"	"40"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2016"	"2016"	"Vaginal"	"1"	35775
+	"Oklahoma"	"40"	"2016"	"2016"	"Cesarean"	"2"	16816
+	"Oklahoma"	"40"	"2017"	"2017"	"Vaginal"	"1"	34058
+	"Oklahoma"	"40"	"2017"	"2017"	"Cesarean"	"2"	16156
+	"Oklahoma"	"40"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2018"	"2018"	"Vaginal"	"1"	33454
+	"Oklahoma"	"40"	"2018"	"2018"	"Cesarean"	"2"	16346
+	"Oklahoma"	"40"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2019"	"2019"	"Vaginal"	"1"	33359
+	"Oklahoma"	"40"	"2019"	"2019"	"Cesarean"	"2"	15781
+	"Oklahoma"	"40"	"2020"	"2020"	"Vaginal"	"1"	32333
+	"Oklahoma"	"40"	"2020"	"2020"	"Cesarean"	"2"	15290
+	"Oklahoma"	"40"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2021"	"2021"	"Vaginal"	"1"	32677
+	"Oklahoma"	"40"	"2021"	"2021"	"Cesarean"	"2"	15715
+	"Oklahoma"	"40"	"2021"	"2021"	"Unknown or Not Stated"	"9"	18
+	"Oklahoma"	"40"	"2022"	"2022"	"Vaginal"	"1"	32631
+	"Oklahoma"	"40"	"2022"	"2022"	"Cesarean"	"2"	15673
+	"Oklahoma"	"40"	"2022"	"2022"	"Unknown or Not Stated"	"9"	28
+	"Oklahoma"	"40"	"2023"	"2023"	"Vaginal"	"1"	32048
+	"Oklahoma"	"40"	"2023"	"2023"	"Cesarean"	"2"	15846
+	"Oklahoma"	"40"	"2023"	"2023"	"Unknown or Not Stated"	"9"	15
+	"Pennsylvania"	"42"	"2010"	"2010"	"Vaginal"	"1"	98265
+	"Pennsylvania"	"42"	"2010"	"2010"	"Cesarean"	"2"	44930
+	"Pennsylvania"	"42"	"2010"	"2010"	"Unknown or Not Stated"	"9"	126
+	"Pennsylvania"	"42"	"2011"	"2011"	"Vaginal"	"1"	98129
+	"Pennsylvania"	"42"	"2011"	"2011"	"Cesarean"	"2"	44918
+	"Pennsylvania"	"42"	"2011"	"2011"	"Unknown or Not Stated"	"9"	131
+	"Pennsylvania"	"42"	"2012"	"2012"	"Vaginal"	"1"	97417
+	"Pennsylvania"	"42"	"2012"	"2012"	"Cesarean"	"2"	44870
+	"Pennsylvania"	"42"	"2012"	"2012"	"Unknown or Not Stated"	"9"	227
+	"Pennsylvania"	"42"	"2013"	"2013"	"Vaginal"	"1"	96674
+	"Pennsylvania"	"42"	"2013"	"2013"	"Cesarean"	"2"	44072
+	"Pennsylvania"	"42"	"2013"	"2013"	"Unknown or Not Stated"	"9"	175
+	"Pennsylvania"	"42"	"2014"	"2014"	"Vaginal"	"1"	98930
+	"Pennsylvania"	"42"	"2014"	"2014"	"Cesarean"	"2"	43299
+	"Pennsylvania"	"42"	"2014"	"2014"	"Unknown or Not Stated"	"9"	39
+	"Pennsylvania"	"42"	"2015"	"2015"	"Vaginal"	"1"	98596
+	"Pennsylvania"	"42"	"2015"	"2015"	"Cesarean"	"2"	42421
+	"Pennsylvania"	"42"	"2015"	"2015"	"Unknown or Not Stated"	"9"	30
+	"Pennsylvania"	"42"	"2016"	"2016"	"Vaginal"	"1"	97818
+	"Pennsylvania"	"42"	"2016"	"2016"	"Cesarean"	"2"	41560
+	"Pennsylvania"	"42"	"2016"	"2016"	"Unknown or Not Stated"	"9"	31
+	"Pennsylvania"	"42"	"2017"	"2017"	"Vaginal"	"1"	95657
+	"Pennsylvania"	"42"	"2017"	"2017"	"Cesarean"	"2"	42051
+	"Pennsylvania"	"42"	"2017"	"2017"	"Unknown or Not Stated"	"9"	37
+	"Pennsylvania"	"42"	"2018"	"2018"	"Vaginal"	"1"	94789
+	"Pennsylvania"	"42"	"2018"	"2018"	"Cesarean"	"2"	40845
+	"Pennsylvania"	"42"	"2018"	"2018"	"Unknown or Not Stated"	"9"	39
+	"Pennsylvania"	"42"	"2019"	"2019"	"Vaginal"	"1"	93677
+	"Pennsylvania"	"42"	"2019"	"2019"	"Cesarean"	"2"	40530
+	"Pennsylvania"	"42"	"2019"	"2019"	"Unknown or Not Stated"	"9"	23
+	"Pennsylvania"	"42"	"2020"	"2020"	"Vaginal"	"1"	90735
+	"Pennsylvania"	"42"	"2020"	"2020"	"Cesarean"	"2"	39925
+	"Pennsylvania"	"42"	"2020"	"2020"	"Unknown or Not Stated"	"9"	33
+	"Pennsylvania"	"42"	"2021"	"2021"	"Vaginal"	"1"	91689
+	"Pennsylvania"	"42"	"2021"	"2021"	"Cesarean"	"2"	40880
+	"Pennsylvania"	"42"	"2021"	"2021"	"Unknown or Not Stated"	"9"	53
+	"Pennsylvania"	"42"	"2022"	"2022"	"Vaginal"	"1"	89680
+	"Pennsylvania"	"42"	"2022"	"2022"	"Cesarean"	"2"	40442
+	"Pennsylvania"	"42"	"2022"	"2022"	"Unknown or Not Stated"	"9"	130
+	"Pennsylvania"	"42"	"2023"	"2023"	"Vaginal"	"1"	87154
+	"Pennsylvania"	"42"	"2023"	"2023"	"Cesarean"	"2"	39718
+	"Pennsylvania"	"42"	"2023"	"2023"	"Unknown or Not Stated"	"9"	79
+	"South Carolina"	"45"	"2010"	"2010"	"Vaginal"	"1"	37887
+	"South Carolina"	"45"	"2010"	"2010"	"Cesarean"	"2"	20402
+	"South Carolina"	"45"	"2010"	"2010"	"Unknown or Not Stated"	"9"	53
+	"South Carolina"	"45"	"2011"	"2011"	"Vaginal"	"1"	37204
+	"South Carolina"	"45"	"2011"	"2011"	"Cesarean"	"2"	20169
+	"South Carolina"	"45"	"2011"	"2011"	"Unknown or Not Stated"	"9"	20
+	"South Carolina"	"45"	"2012"	"2012"	"Vaginal"	"1"	36891
+	"South Carolina"	"45"	"2012"	"2012"	"Cesarean"	"2"	20236
+	"South Carolina"	"45"	"2012"	"2012"	"Unknown or Not Stated"	"9"	28
+	"South Carolina"	"45"	"2013"	"2013"	"Vaginal"	"1"	36890
+	"South Carolina"	"45"	"2013"	"2013"	"Cesarean"	"2"	19893
+	"South Carolina"	"45"	"2013"	"2013"	"Unknown or Not Stated"	"9"	12
+	"South Carolina"	"45"	"2014"	"2014"	"Vaginal"	"1"	37837
+	"South Carolina"	"45"	"2014"	"2014"	"Cesarean"	"2"	19778
+	"South Carolina"	"45"	"2014"	"2014"	"Unknown or Not Stated"	"9"	12
+	"South Carolina"	"45"	"2015"	"2015"	"Vaginal"	"1"	38497
+	"South Carolina"	"45"	"2015"	"2015"	"Cesarean"	"2"	19594
+	"South Carolina"	"45"	"2015"	"2015"	"Unknown or Not Stated"	"9"	48
+	"South Carolina"	"45"	"2016"	"2016"	"Vaginal"	"1"	38113
+	"South Carolina"	"45"	"2016"	"2016"	"Cesarean"	"2"	19208
+	"South Carolina"	"45"	"2016"	"2016"	"Unknown or Not Stated"	"9"	21
+	"South Carolina"	"45"	"2017"	"2017"	"Vaginal"	"1"	37890
+	"South Carolina"	"45"	"2017"	"2017"	"Cesarean"	"2"	19130
+	"South Carolina"	"45"	"2018"	"2018"	"Vaginal"	"1"	37667
+	"South Carolina"	"45"	"2018"	"2018"	"Cesarean"	"2"	18994
+	"South Carolina"	"45"	"2019"	"2019"	"Vaginal"	"1"	38070
+	"South Carolina"	"45"	"2019"	"2019"	"Cesarean"	"2"	18955
+	"South Carolina"	"45"	"2019"	"2019"	"Unknown or Not Stated"	"9"	13
+	"South Carolina"	"45"	"2020"	"2020"	"Vaginal"	"1"	37059
+	"South Carolina"	"45"	"2020"	"2020"	"Cesarean"	"2"	18633
+	"South Carolina"	"45"	"2020"	"2020"	"Unknown or Not Stated"	"9"	12
+	"South Carolina"	"45"	"2021"	"2021"	"Vaginal"	"1"	38017
+	"South Carolina"	"45"	"2021"	"2021"	"Cesarean"	"2"	19160
+	"South Carolina"	"45"	"2022"	"2022"	"Vaginal"	"1"	38946
+	"South Carolina"	"45"	"2022"	"2022"	"Cesarean"	"2"	18859
+	"South Carolina"	"45"	"2022"	"2022"	"Unknown or Not Stated"	"9"	15
+	"South Carolina"	"45"	"2023"	"2023"	"Vaginal"	"1"	38887
+	"South Carolina"	"45"	"2023"	"2023"	"Cesarean"	"2"	18825
+	"South Carolina"	"45"	"2023"	"2023"	"Unknown or Not Stated"	"9"	17
+	"Texas"	"48"	"2010"	"2010"	"Vaginal"	"1"	250497
+	"Texas"	"48"	"2010"	"2010"	"Cesarean"	"2"	135599
+	"Texas"	"48"	"2010"	"2010"	"Unknown or Not Stated"	"9"	22
+	"Texas"	"48"	"2011"	"2011"	"Vaginal"	"1"	244132
+	"Texas"	"48"	"2011"	"2011"	"Cesarean"	"2"	133291
+	"Texas"	"48"	"2011"	"2011"	"Unknown or Not Stated"	"9"	22
+	"Texas"	"48"	"2012"	"2012"	"Vaginal"	"1"	247441
+	"Texas"	"48"	"2012"	"2012"	"Cesarean"	"2"	135259
+	"Texas"	"48"	"2012"	"2012"	"Unknown or Not Stated"	"9"	27
+	"Texas"	"48"	"2013"	"2013"	"Vaginal"	"1"	250916
+	"Texas"	"48"	"2013"	"2013"	"Cesarean"	"2"	136391
+	"Texas"	"48"	"2013"	"2013"	"Unknown or Not Stated"	"9"	33
+	"Texas"	"48"	"2014"	"2014"	"Vaginal"	"1"	260300
+	"Texas"	"48"	"2014"	"2014"	"Cesarean"	"2"	139438
+	"Texas"	"48"	"2014"	"2014"	"Unknown or Not Stated"	"9"	28
+	"Texas"	"48"	"2015"	"2015"	"Vaginal"	"1"	264701
+	"Texas"	"48"	"2015"	"2015"	"Cesarean"	"2"	138811
+	"Texas"	"48"	"2015"	"2015"	"Unknown or Not Stated"	"9"	106
+	"Texas"	"48"	"2016"	"2016"	"Vaginal"	"1"	260679
+	"Texas"	"48"	"2016"	"2016"	"Cesarean"	"2"	136950
+	"Texas"	"48"	"2016"	"2016"	"Unknown or Not Stated"	"9"	418
+	"Texas"	"48"	"2017"	"2017"	"Vaginal"	"1"	248208
+	"Texas"	"48"	"2017"	"2017"	"Cesarean"	"2"	133566
+	"Texas"	"48"	"2017"	"2017"	"Unknown or Not Stated"	"9"	276
+	"Texas"	"48"	"2018"	"2018"	"Vaginal"	"1"	245950
+	"Texas"	"48"	"2018"	"2018"	"Cesarean"	"2"	132626
+	"Texas"	"48"	"2018"	"2018"	"Unknown or Not Stated"	"9"	48
+	"Texas"	"48"	"2019"	"2019"	"Vaginal"	"1"	246089
+	"Texas"	"48"	"2019"	"2019"	"Cesarean"	"2"	131190
+	"Texas"	"48"	"2019"	"2019"	"Unknown or Not Stated"	"9"	320
+	"Texas"	"48"	"2020"	"2020"	"Vaginal"	"1"	240278
+	"Texas"	"48"	"2020"	"2020"	"Cesarean"	"2"	127577
+	"Texas"	"48"	"2020"	"2020"	"Unknown or Not Stated"	"9"	335
+	"Texas"	"48"	"2021"	"2021"	"Vaginal"	"1"	243311
+	"Texas"	"48"	"2021"	"2021"	"Cesarean"	"2"	130033
+	"Texas"	"48"	"2021"	"2021"	"Unknown or Not Stated"	"9"	250
+	"Texas"	"48"	"2022"	"2022"	"Vaginal"	"1"	254551
+	"Texas"	"48"	"2022"	"2022"	"Cesarean"	"2"	134979
+	"Texas"	"48"	"2022"	"2022"	"Unknown or Not Stated"	"9"	211
+	"Texas"	"48"	"2023"	"2023"	"Vaginal"	"1"	253891
+	"Texas"	"48"	"2023"	"2023"	"Cesarean"	"2"	133915
+	"Texas"	"48"	"2023"	"2023"	"Unknown or Not Stated"	"9"	139
+	"Washington"	"53"	"2010"	"2010"	"Vaginal"	"1"	61046
+	"Washington"	"53"	"2010"	"2010"	"Cesarean"	"2"	25493
+	"Washington"	"53"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2011"	"2011"	"Vaginal"	"1"	61962
+	"Washington"	"53"	"2011"	"2011"	"Cesarean"	"2"	25014
+	"Washington"	"53"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2012"	"2012"	"Vaginal"	"1"	62133
+	"Washington"	"53"	"2012"	"2012"	"Cesarean"	"2"	25330
+	"Washington"	"53"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2013"	"2013"	"Vaginal"	"1"	62064
+	"Washington"	"53"	"2013"	"2013"	"Cesarean"	"2"	24512
+	"Washington"	"53"	"2014"	"2014"	"Vaginal"	"1"	64109
+	"Washington"	"53"	"2014"	"2014"	"Cesarean"	"2"	24476
+	"Washington"	"53"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2015"	"2015"	"Vaginal"	"1"	64520
+	"Washington"	"53"	"2015"	"2015"	"Cesarean"	"2"	24447
+	"Washington"	"53"	"2015"	"2015"	"Unknown or Not Stated"	"9"	23
+	"Washington"	"53"	"2016"	"2016"	"Vaginal"	"1"	65577
+	"Washington"	"53"	"2016"	"2016"	"Cesarean"	"2"	24803
+	"Washington"	"53"	"2016"	"2016"	"Unknown or Not Stated"	"9"	125
+	"Washington"	"53"	"2017"	"2017"	"Vaginal"	"1"	63216
+	"Washington"	"53"	"2017"	"2017"	"Cesarean"	"2"	24190
+	"Washington"	"53"	"2017"	"2017"	"Unknown or Not Stated"	"9"	156
+	"Washington"	"53"	"2018"	"2018"	"Vaginal"	"1"	61998
+	"Washington"	"53"	"2018"	"2018"	"Cesarean"	"2"	23980
+	"Washington"	"53"	"2018"	"2018"	"Unknown or Not Stated"	"9"	107
+	"Washington"	"53"	"2019"	"2019"	"Vaginal"	"1"	61147
+	"Washington"	"53"	"2019"	"2019"	"Cesarean"	"2"	23579
+	"Washington"	"53"	"2019"	"2019"	"Unknown or Not Stated"	"9"	169
+	"Washington"	"53"	"2020"	"2020"	"Vaginal"	"1"	59256
+	"Washington"	"53"	"2020"	"2020"	"Cesarean"	"2"	23646
+	"Washington"	"53"	"2020"	"2020"	"Unknown or Not Stated"	"9"	184
+	"Washington"	"53"	"2021"	"2021"	"Vaginal"	"1"	59361
+	"Washington"	"53"	"2021"	"2021"	"Cesarean"	"2"	24290
+	"Washington"	"53"	"2021"	"2021"	"Unknown or Not Stated"	"9"	260
+	"Washington"	"53"	"2022"	"2022"	"Vaginal"	"1"	58224
+	"Washington"	"53"	"2022"	"2022"	"Cesarean"	"2"	24608
+	"Washington"	"53"	"2022"	"2022"	"Unknown or Not Stated"	"9"	501
+	"Washington"	"53"	"2023"	"2023"	"Vaginal"	"1"	56450
+	"Washington"	"53"	"2023"	"2023"	"Cesarean"	"2"	24219
+	"Washington"	"53"	"2023"	"2023"	"Unknown or Not Stated"	"9"	263
+"---"
+"Dataset: Natality, 2007-2023"
+"Query Parameters:"
+"States: Arizona (04); Arkansas (05); California (06); Florida (12); Georgia (13); Illinois (17); Indiana (18); Maryland (24);"
+"Michigan (26); Missouri (29); New Jersey (34); New York (36); North Carolina (37); Ohio (39); Oklahoma (40); Pennsylvania (42);"
+"South Carolina (45); Texas (48); Washington (53)"
+"Year: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020; 2021; 2022; 2023"
+"Group By: State; Year; Delivery Method"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
+"---"
+"Query Date: Mar 25, 2025 1:16:28 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-current.html on Mar 25, 2025 1:16:28 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/natality.html#Assurance of Confidentiality."
+"2. Each birth record represents one liveborn infant."

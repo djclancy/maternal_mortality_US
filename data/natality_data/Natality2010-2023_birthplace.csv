@@ -1,127 +1,102 @@
 "Notes","Census Division","Census Division Code","Year","Year Code","Birthplace","Birthplace Code",Births
-,"Division 1: New England","CENS-D1","2010","2010","Residence","4",947
-,"Division 1: New England","CENS-D1","2011","2011","Residence","4",1010
-,"Division 1: New England","CENS-D1","2012","2012","Residence","4",1048
-,"Division 1: New England","CENS-D1","2013","2013","Residence","4",1148
-,"Division 1: New England","CENS-D1","2014","2014","Residence","4",1116
-,"Division 1: New England","CENS-D1","2015","2015","Residence","4",1247
-,"Division 1: New England","CENS-D1","2016","2016","Residence","4",1279
-,"Division 1: New England","CENS-D1","2017","2017","Residence","4",1196
-,"Division 1: New England","CENS-D1","2018","2018","Residence","4",1163
-,"Division 1: New England","CENS-D1","2019","2019","Residence","4",1170
-,"Division 1: New England","CENS-D1","2020","2020","Residence","4",1487
-,"Division 1: New England","CENS-D1","2021","2021","Residence","4",1586
-,"Division 1: New England","CENS-D1","2022","2022","Residence","4",1659
-,"Division 1: New England","CENS-D1","2023","2023","Residence","4",1593
-,"Division 2: Middle Atlantic","CENS-D2","2010","2010","Residence","4",4822
-,"Division 2: Middle Atlantic","CENS-D2","2011","2011","Residence","4",5174
-,"Division 2: Middle Atlantic","CENS-D2","2012","2012","Residence","4",5082
-,"Division 2: Middle Atlantic","CENS-D2","2013","2013","Residence","4",5098
-,"Division 2: Middle Atlantic","CENS-D2","2014","2014","Residence","4",5178
-,"Division 2: Middle Atlantic","CENS-D2","2015","2015","Residence","4",5267
-,"Division 2: Middle Atlantic","CENS-D2","2016","2016","Residence","4",5375
-,"Division 2: Middle Atlantic","CENS-D2","2017","2017","Residence","4",5347
-,"Division 2: Middle Atlantic","CENS-D2","2018","2018","Residence","4",5558
-,"Division 2: Middle Atlantic","CENS-D2","2019","2019","Residence","4",5479
-,"Division 2: Middle Atlantic","CENS-D2","2020","2020","Residence","4",6465
-,"Division 2: Middle Atlantic","CENS-D2","2021","2021","Residence","4",6754
-,"Division 2: Middle Atlantic","CENS-D2","2022","2022","Residence","4",7464
-,"Division 2: Middle Atlantic","CENS-D2","2023","2023","Residence","4",7771
-,"Division 3: East North Central","CENS-D3","2010","2010","Residence","4",5300
-,"Division 3: East North Central","CENS-D3","2011","2011","Residence","4",5442
-,"Division 3: East North Central","CENS-D3","2012","2012","Residence","4",5780
-,"Division 3: East North Central","CENS-D3","2013","2013","Residence","4",6051
-,"Division 3: East North Central","CENS-D3","2014","2014","Residence","4",6393
-,"Division 3: East North Central","CENS-D3","2015","2015","Residence","4",6507
-,"Division 3: East North Central","CENS-D3","2016","2016","Residence","4",6491
-,"Division 3: East North Central","CENS-D3","2017","2017","Residence","4",6361
-,"Division 3: East North Central","CENS-D3","2018","2018","Residence","4",6584
-,"Division 3: East North Central","CENS-D3","2019","2019","Residence","4",6716
-,"Division 3: East North Central","CENS-D3","2020","2020","Residence","4",7852
-,"Division 3: East North Central","CENS-D3","2021","2021","Residence","4",8981
-,"Division 3: East North Central","CENS-D3","2022","2022","Residence","4",8788
-,"Division 3: East North Central","CENS-D3","2023","2023","Residence","4",9126
-,"Division 4: West North Central","CENS-D4","2010","2010","Residence","4",2463
-,"Division 4: West North Central","CENS-D4","2011","2011","Residence","4",2647
-,"Division 4: West North Central","CENS-D4","2012","2012","Residence","4",3025
-,"Division 4: West North Central","CENS-D4","2013","2013","Residence","4",3011
-,"Division 4: West North Central","CENS-D4","2014","2014","Residence","4",3145
-,"Division 4: West North Central","CENS-D4","2015","2015","Residence","4",3209
-,"Division 4: West North Central","CENS-D4","2016","2016","Residence","4",3423
-,"Division 4: West North Central","CENS-D4","2017","2017","Residence","4",3386
-,"Division 4: West North Central","CENS-D4","2018","2018","Residence","4",3382
-,"Division 4: West North Central","CENS-D4","2019","2019","Residence","4",3174
-,"Division 4: West North Central","CENS-D4","2020","2020","Residence","4",3743
-,"Division 4: West North Central","CENS-D4","2021","2021","Residence","4",4152
-,"Division 4: West North Central","CENS-D4","2022","2022","Residence","4",4407
-,"Division 4: West North Central","CENS-D4","2023","2023","Residence","4",4931
-,"Division 5: South Atlantic","CENS-D5","2010","2010","Residence","4",4132
-,"Division 5: South Atlantic","CENS-D5","2011","2011","Residence","4",4452
-,"Division 5: South Atlantic","CENS-D5","2012","2012","Residence","4",4551
-,"Division 5: South Atlantic","CENS-D5","2013","2013","Residence","4",4710
-,"Division 5: South Atlantic","CENS-D5","2014","2014","Residence","4",5001
-,"Division 5: South Atlantic","CENS-D5","2015","2015","Residence","4",5241
-,"Division 5: South Atlantic","CENS-D5","2016","2016","Residence","4",5457
-,"Division 5: South Atlantic","CENS-D5","2017","2017","Residence","4",5547
-,"Division 5: South Atlantic","CENS-D5","2018","2018","Residence","4",5628
-,"Division 5: South Atlantic","CENS-D5","2019","2019","Residence","4",5621
-,"Division 5: South Atlantic","CENS-D5","2020","2020","Residence","4",6968
-,"Division 5: South Atlantic","CENS-D5","2021","2021","Residence","4",8223
-,"Division 5: South Atlantic","CENS-D5","2022","2022","Residence","4",8988
-,"Division 5: South Atlantic","CENS-D5","2023","2023","Residence","4",8894
-,"Division 6: East South Central","CENS-D6","2010","2010","Residence","4",1361
-,"Division 6: East South Central","CENS-D6","2011","2011","Residence","4",1444
-,"Division 6: East South Central","CENS-D6","2012","2012","Residence","4",1607
-,"Division 6: East South Central","CENS-D6","2013","2013","Residence","4",1652
-,"Division 6: East South Central","CENS-D6","2014","2014","Residence","4",1822
-,"Division 6: East South Central","CENS-D6","2015","2015","Residence","4",1858
-,"Division 6: East South Central","CENS-D6","2016","2016","Residence","4",1867
-,"Division 6: East South Central","CENS-D6","2017","2017","Residence","4",1787
-,"Division 6: East South Central","CENS-D6","2018","2018","Residence","4",2019
-,"Division 6: East South Central","CENS-D6","2019","2019","Residence","4",2048
-,"Division 6: East South Central","CENS-D6","2020","2020","Residence","4",2453
-,"Division 6: East South Central","CENS-D6","2021","2021","Residence","4",2965
-,"Division 6: East South Central","CENS-D6","2022","2022","Residence","4",3202
-,"Division 6: East South Central","CENS-D6","2023","2023","Residence","4",3653
-,"Division 7: West South Central","CENS-D7","2010","2010","Residence","4",2571
-,"Division 7: West South Central","CENS-D7","2011","2011","Residence","4",2688
-,"Division 7: West South Central","CENS-D7","2012","2012","Residence","4",2957
-,"Division 7: West South Central","CENS-D7","2013","2013","Residence","4",2967
-,"Division 7: West South Central","CENS-D7","2014","2014","Residence","4",3499
-,"Division 7: West South Central","CENS-D7","2015","2015","Residence","4",3414
-,"Division 7: West South Central","CENS-D7","2016","2016","Residence","4",3424
-,"Division 7: West South Central","CENS-D7","2017","2017","Residence","4",3386
-,"Division 7: West South Central","CENS-D7","2018","2018","Residence","4",3434
-,"Division 7: West South Central","CENS-D7","2019","2019","Residence","4",3602
-,"Division 7: West South Central","CENS-D7","2020","2020","Residence","4",4148
-,"Division 7: West South Central","CENS-D7","2021","2021","Residence","4",4995
-,"Division 7: West South Central","CENS-D7","2022","2022","Residence","4",5329
-,"Division 7: West South Central","CENS-D7","2023","2023","Residence","4",5506
-,"Division 8: Mountain","CENS-D8","2010","2010","Residence","4",3972
-,"Division 8: Mountain","CENS-D8","2011","2011","Residence","4",3957
-,"Division 8: Mountain","CENS-D8","2012","2012","Residence","4",4428
-,"Division 8: Mountain","CENS-D8","2013","2013","Residence","4",4519
-,"Division 8: Mountain","CENS-D8","2014","2014","Residence","4",4627
-,"Division 8: Mountain","CENS-D8","2015","2015","Residence","4",4559
-,"Division 8: Mountain","CENS-D8","2016","2016","Residence","4",4528
-,"Division 8: Mountain","CENS-D8","2017","2017","Residence","4",4496
-,"Division 8: Mountain","CENS-D8","2018","2018","Residence","4",4358
-,"Division 8: Mountain","CENS-D8","2019","2019","Residence","4",4491
-,"Division 8: Mountain","CENS-D8","2020","2020","Residence","4",5246
-,"Division 8: Mountain","CENS-D8","2021","2021","Residence","4",5983
-,"Division 8: Mountain","CENS-D8","2022","2022","Residence","4",6340
-,"Division 8: Mountain","CENS-D8","2023","2023","Residence","4",6331
-,"Division 9: Pacific","CENS-D9","2010","2010","Residence","4",5932
-,"Division 9: Pacific","CENS-D9","2011","2011","Residence","4",6229
-,"Division 9: Pacific","CENS-D9","2012","2012","Residence","4",6706
-,"Division 9: Pacific","CENS-D9","2013","2013","Residence","4",6924
-,"Division 9: Pacific","CENS-D9","2014","2014","Residence","4",7313
-,"Division 9: Pacific","CENS-D9","2015","2015","Residence","4",7240
-,"Division 9: Pacific","CENS-D9","2016","2016","Residence","4",6986
-,"Division 9: Pacific","CENS-D9","2017","2017","Residence","4",6837
-,"Division 9: Pacific","CENS-D9","2018","2018","Residence","4",6386
-,"Division 9: Pacific","CENS-D9","2019","2019","Residence","4",6205
-,"Division 9: Pacific","CENS-D9","2020","2020","Residence","4",7284
-,"Division 9: Pacific","CENS-D9","2021","2021","Residence","4",8003
-,"Division 9: Pacific","CENS-D9","2022","2022","Residence","4",7894
-,"Division 9: Pacific","CENS-D9","2023","2023","Residence","4",7461
+,"Division 1: New England","CENS-D1","2010","2010","In Hospital","1",152447
+,"Division 1: New England","CENS-D1","2011","2011","In Hospital","1",151536
+,"Division 1: New England","CENS-D1","2012","2012","In Hospital","1",149491
+,"Division 1: New England","CENS-D1","2013","2013","In Hospital","1",148103
+,"Division 1: New England","CENS-D1","2014","2014","In Hospital","1",148433
+,"Division 1: New England","CENS-D1","2015","2015","In Hospital","1",147385
+,"Division 1: New England","CENS-D1","2016","2016","In Hospital","1",147027
+,"Division 1: New England","CENS-D1","2017","2017","In Hospital","1",144901
+,"Division 1: New England","CENS-D1","2018","2018","In Hospital","1",142425
+,"Division 1: New England","CENS-D1","2019","2019","In Hospital","1",140891
+,"Division 1: New England","CENS-D1","2020","2020","In Hospital","1",136485
+,"Division 1: New England","CENS-D1","2021","2021","In Hospital","1",143059
+,"Division 1: New England","CENS-D1","2022","2022","In Hospital","1",141425
+,"Division 1: New England","CENS-D1","2023","2023","In Hospital","1",137978
+,"Division 2: Middle Atlantic","CENS-D2","2010","2010","In Hospital","1",487464
+,"Division 2: Middle Atlantic","CENS-D2","2011","2011","In Hospital","1",482924
+,"Division 2: Middle Atlantic","CENS-D2","2012","2012","In Hospital","1",479988
+,"Division 2: Middle Atlantic","CENS-D2","2013","2013","In Hospital","1",472586
+,"Division 2: Middle Atlantic","CENS-D2","2014","2014","In Hospital","1",476165
+,"Division 2: Middle Atlantic","CENS-D2","2015","2015","In Hospital","1",473070
+,"Division 2: Middle Atlantic","CENS-D2","2016","2016","In Hospital","1",467930
+,"Division 2: Middle Atlantic","CENS-D2","2017","2017","In Hospital","1",460150
+,"Division 2: Middle Atlantic","CENS-D2","2018","2018","In Hospital","1",454263
+,"Division 2: Middle Atlantic","CENS-D2","2019","2019","In Hospital","1",446537
+,"Division 2: Middle Atlantic","CENS-D2","2020","2020","In Hospital","1",427763
+,"Division 2: Middle Atlantic","CENS-D2","2021","2021","In Hospital","1",434036
+,"Division 2: Middle Atlantic","CENS-D2","2022","2022","In Hospital","1",429785
+,"Division 2: Middle Atlantic","CENS-D2","2023","2023","In Hospital","1",420266
+,"Division 3: East North Central","CENS-D3","2010","2010","In Hospital","1",564288
+,"Division 3: East North Central","CENS-D3","2011","2011","In Hospital","1",557459
+,"Division 3: East North Central","CENS-D3","2012","2012","In Hospital","1",553717
+,"Division 3: East North Central","CENS-D3","2013","2013","In Hospital","1",551267
+,"Division 3: East North Central","CENS-D3","2014","2014","In Hospital","1",555287
+,"Division 3: East North Central","CENS-D3","2015","2015","In Hospital","1",553254
+,"Division 3: East North Central","CENS-D3","2016","2016","In Hospital","1",546917
+,"Division 3: East North Central","CENS-D3","2017","2017","In Hospital","1",536181
+,"Division 3: East North Central","CENS-D3","2018","2018","In Hospital","1",526732
+,"Division 3: East North Central","CENS-D3","2019","2019","In Hospital","1",517492
+,"Division 3: East North Central","CENS-D3","2020","2020","In Hospital","1",495165
+,"Division 3: East North Central","CENS-D3","2021","2021","In Hospital","1",496520
+,"Division 3: East North Central","CENS-D3","2022","2022","In Hospital","1",486201
+,"Division 3: East North Central","CENS-D3","2023","2023","In Hospital","1",476753
+,"Division 4: West North Central","CENS-D4","2010","2010","In Hospital","1",268491
+,"Division 4: West North Central","CENS-D4","2011","2011","In Hospital","1",266237
+,"Division 4: West North Central","CENS-D4","2012","2012","In Hospital","1",267488
+,"Division 4: West North Central","CENS-D4","2013","2013","In Hospital","1",266909
+,"Division 4: West North Central","CENS-D4","2014","2014","In Hospital","1",269948
+,"Division 4: West North Central","CENS-D4","2015","2015","In Hospital","1",269082
+,"Division 4: West North Central","CENS-D4","2016","2016","In Hospital","1",267087
+,"Division 4: West North Central","CENS-D4","2017","2017","In Hospital","1",260363
+,"Division 4: West North Central","CENS-D4","2018","2018","In Hospital","1",257551
+,"Division 4: West North Central","CENS-D4","2019","2019","In Hospital","1",252897
+,"Division 4: West North Central","CENS-D4","2020","2020","In Hospital","1",242742
+,"Division 4: West North Central","CENS-D4","2021","2021","In Hospital","1",245330
+,"Division 4: West North Central","CENS-D4","2022","2022","In Hospital","1",242561
+,"Division 4: West North Central","CENS-D4","2023","2023","In Hospital","1",237122
+,"Division 5: South Atlantic","CENS-D5","2010","2010","In Hospital","1",739558
+,"Division 5: South Atlantic","CENS-D5","2011","2011","In Hospital","1",732533
+,"Division 5: South Atlantic","CENS-D5","2012","2012","In Hospital","1",728872
+,"Division 5: South Atlantic","CENS-D5","2013","2013","In Hospital","1",726087
+,"Division 5: South Atlantic","CENS-D5","2014","2014","In Hospital","1",738251
+,"Division 5: South Atlantic","CENS-D5","2015","2015","In Hospital","1",742427
+,"Division 5: South Atlantic","CENS-D5","2016","2016","In Hospital","1",738612
+,"Division 5: South Atlantic","CENS-D5","2017","2017","In Hospital","1",730440
+,"Division 5: South Atlantic","CENS-D5","2018","2018","In Hospital","1",721746
+,"Division 5: South Atlantic","CENS-D5","2019","2019","In Hospital","1",717101
+,"Division 5: South Atlantic","CENS-D5","2020","2020","In Hospital","1",693070
+,"Division 5: South Atlantic","CENS-D5","2021","2021","In Hospital","1",705461
+,"Division 5: South Atlantic","CENS-D5","2022","2022","In Hospital","1",716562
+,"Division 5: South Atlantic","CENS-D5","2023","2023","In Hospital","1",704205
+,"Division 6: East South Central","CENS-D6","2010","2010","In Hospital","1",233562
+,"Division 6: East South Central","CENS-D6","2011","2011","In Hospital","1",232223
+,"Division 6: East South Central","CENS-D6","2012","2012","In Hospital","1",231140
+,"Division 6: East South Central","CENS-D6","2013","2013","In Hospital","1",230369
+,"Division 6: East South Central","CENS-D6","2014","2014","In Hospital","1",233609
+,"Division 6: East South Central","CENS-D6","2015","2015","In Hospital","1",233287
+,"Division 6: East South Central","CENS-D6","2016","2016","In Hospital","1",230741
+,"Division 6: East South Central","CENS-D6","2017","2017","In Hospital","1",229795
+,"Division 6: East South Central","CENS-D6","2018","2018","In Hospital","1",226804
+,"Division 6: East South Central","CENS-D6","2019","2019","In Hospital","1",226096
+,"Division 6: East South Central","CENS-D6","2020","2020","In Hospital","1",220289
+,"Division 6: East South Central","CENS-D6","2021","2021","In Hospital","1",223354
+,"Division 6: East South Central","CENS-D6","2022","2022","In Hospital","1",223310
+,"Division 6: East South Central","CENS-D6","2023","2023","In Hospital","1",222843
+,"Division 7: West South Central","CENS-D7","2010","2010","In Hospital","1",535680
+,"Division 7: West South Central","CENS-D7","2011","2011","In Hospital","1",525428
+,"Division 7: West South Central","CENS-D7","2012","2012","In Hospital","1",530936
+,"Division 7: West South Central","CENS-D7","2013","2013","In Hospital","1",535896
+,"Division 7: West South Central","CENS-D7","2014","2014","In Hospital","1",549161
+,"Division 7: West South Central","CENS-D7","2015","2015","In Hospital","1",553339
+,"Division 7: West South Central","CENS-D7","2016","2016","In Hospital","1",544979
+,"Division 7: West South Central","CENS-D7","2017","2017","In Hospital","1",523828
+,"Division 7: West South Central","CENS-D7","2018","2018","In Hospital","1",518159
+,"Division 7: West South Central","CENS-D7","2019","2019","In Hospital","1",515416
+,"Division 7: West South Central","CENS-D7","2020","2020","In Hospital","1",500336
+,"Division 7: West South Central","CENS-D7","2021","2021","In Hospital","1",506058
+,"Division 7: West South Central","CENS-D7","2022","2022","In Hospital","1",519992
+,"Division 7: West South Central","CENS-D7","2023","2023","In Hospital","1",515795
+,"Division 8: Mountain","CENS-D8","2010","2010","In Hospital","1",306877
+,"Division 8: Mountain","CENS-D8","2011","2011","In Hospital","1",300185
+,"Division 8: Mountain","CENS-D8","2012","2012","In Hospital","1",301232

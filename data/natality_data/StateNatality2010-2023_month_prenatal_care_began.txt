@@ -1,0 +1,3421 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Month Prenatal Care Began"	"Month Prenatal Care Began Code"	Births
+	"Arizona"	"04"	"2010"	"2010"	"No prenatal care"	"00"	0
+	"Arizona"	"04"	"2010"	"2010"	"1st month"	"01"	0
+	"Arizona"	"04"	"2010"	"2010"	"2nd month"	"02"	0
+	"Arizona"	"04"	"2010"	"2010"	"3rd month"	"03"	0
+	"Arizona"	"04"	"2010"	"2010"	"4th month"	"04"	0
+	"Arizona"	"04"	"2010"	"2010"	"5th month"	"05"	0
+	"Arizona"	"04"	"2010"	"2010"	"6th month"	"06"	0
+	"Arizona"	"04"	"2010"	"2010"	"7th month"	"07"	0
+	"Arizona"	"04"	"2010"	"2010"	"8th month"	"08"	0
+	"Arizona"	"04"	"2010"	"2010"	"9th month"	"09"	0
+	"Arizona"	"04"	"2010"	"2010"	"10th month"	"10"	0
+	"Arizona"	"04"	"2010"	"2010"	"Unknown or Not Stated"	"99"	0
+	"Arizona"	"04"	"2010"	"2010"	"Not Reported"	"98"	87477
+	"Arizona"	"04"	"2011"	"2011"	"No prenatal care"	"00"	0
+	"Arizona"	"04"	"2011"	"2011"	"1st month"	"01"	0
+	"Arizona"	"04"	"2011"	"2011"	"2nd month"	"02"	0
+	"Arizona"	"04"	"2011"	"2011"	"3rd month"	"03"	0
+	"Arizona"	"04"	"2011"	"2011"	"4th month"	"04"	0
+	"Arizona"	"04"	"2011"	"2011"	"5th month"	"05"	0
+	"Arizona"	"04"	"2011"	"2011"	"6th month"	"06"	0
+	"Arizona"	"04"	"2011"	"2011"	"7th month"	"07"	0
+	"Arizona"	"04"	"2011"	"2011"	"8th month"	"08"	0
+	"Arizona"	"04"	"2011"	"2011"	"9th month"	"09"	0
+	"Arizona"	"04"	"2011"	"2011"	"10th month"	"10"	0
+	"Arizona"	"04"	"2011"	"2011"	"Unknown or Not Stated"	"99"	0
+	"Arizona"	"04"	"2011"	"2011"	"Not Reported"	"98"	85543
+	"Arizona"	"04"	"2012"	"2012"	"No prenatal care"	"00"	0
+	"Arizona"	"04"	"2012"	"2012"	"1st month"	"01"	0
+	"Arizona"	"04"	"2012"	"2012"	"2nd month"	"02"	0
+	"Arizona"	"04"	"2012"	"2012"	"3rd month"	"03"	0
+	"Arizona"	"04"	"2012"	"2012"	"4th month"	"04"	0
+	"Arizona"	"04"	"2012"	"2012"	"5th month"	"05"	0
+	"Arizona"	"04"	"2012"	"2012"	"6th month"	"06"	0
+	"Arizona"	"04"	"2012"	"2012"	"7th month"	"07"	0
+	"Arizona"	"04"	"2012"	"2012"	"8th month"	"08"	0
+	"Arizona"	"04"	"2012"	"2012"	"9th month"	"09"	0
+	"Arizona"	"04"	"2012"	"2012"	"10th month"	"10"	0
+	"Arizona"	"04"	"2012"	"2012"	"Unknown or Not Stated"	"99"	0
+	"Arizona"	"04"	"2012"	"2012"	"Not Reported"	"98"	86441
+	"Arizona"	"04"	"2013"	"2013"	"No prenatal care"	"00"	0
+	"Arizona"	"04"	"2013"	"2013"	"1st month"	"01"	0
+	"Arizona"	"04"	"2013"	"2013"	"2nd month"	"02"	0
+	"Arizona"	"04"	"2013"	"2013"	"3rd month"	"03"	0
+	"Arizona"	"04"	"2013"	"2013"	"4th month"	"04"	0
+	"Arizona"	"04"	"2013"	"2013"	"5th month"	"05"	0
+	"Arizona"	"04"	"2013"	"2013"	"6th month"	"06"	0
+	"Arizona"	"04"	"2013"	"2013"	"7th month"	"07"	0
+	"Arizona"	"04"	"2013"	"2013"	"8th month"	"08"	0
+	"Arizona"	"04"	"2013"	"2013"	"9th month"	"09"	0
+	"Arizona"	"04"	"2013"	"2013"	"10th month"	"10"	0
+	"Arizona"	"04"	"2013"	"2013"	"Unknown or Not Stated"	"99"	0
+	"Arizona"	"04"	"2013"	"2013"	"Not Reported"	"98"	85600
+	"Arizona"	"04"	"2014"	"2014"	"No prenatal care"	"00"	1862
+	"Arizona"	"04"	"2014"	"2014"	"1st month"	"01"	8553
+	"Arizona"	"04"	"2014"	"2014"	"2nd month"	"02"	34117
+	"Arizona"	"04"	"2014"	"2014"	"3rd month"	"03"	20467
+	"Arizona"	"04"	"2014"	"2014"	"4th month"	"04"	8059
+	"Arizona"	"04"	"2014"	"2014"	"5th month"	"05"	4513
+	"Arizona"	"04"	"2014"	"2014"	"6th month"	"06"	2887
+	"Arizona"	"04"	"2014"	"2014"	"7th month"	"07"	2258
+	"Arizona"	"04"	"2014"	"2014"	"8th month"	"08"	1730
+	"Arizona"	"04"	"2014"	"2014"	"9th month"	"09"	794
+	"Arizona"	"04"	"2014"	"2014"	"10th month"	"10"	20
+	"Arizona"	"04"	"2014"	"2014"	"Unknown or Not Stated"	"99"	1627
+	"Arizona"	"04"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Arizona"	"04"	"2015"	"2015"	"No prenatal care"	"00"	1888
+	"Arizona"	"04"	"2015"	"2015"	"1st month"	"01"	7053
+	"Arizona"	"04"	"2015"	"2015"	"2nd month"	"02"	33852
+	"Arizona"	"04"	"2015"	"2015"	"3rd month"	"03"	20815
+	"Arizona"	"04"	"2015"	"2015"	"4th month"	"04"	7952
+	"Arizona"	"04"	"2015"	"2015"	"5th month"	"05"	4439
+	"Arizona"	"04"	"2015"	"2015"	"6th month"	"06"	2806
+	"Arizona"	"04"	"2015"	"2015"	"7th month"	"07"	2308
+	"Arizona"	"04"	"2015"	"2015"	"8th month"	"08"	1785
+	"Arizona"	"04"	"2015"	"2015"	"9th month"	"09"	747
+	"Arizona"	"04"	"2015"	"2015"	"10th month"	"10"	18
+	"Arizona"	"04"	"2015"	"2015"	"Unknown or Not Stated"	"99"	1688
+	"Arizona"	"04"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Arizona"	"04"	"2016"	"2016"	"No prenatal care"	"00"	2041
+	"Arizona"	"04"	"2016"	"2016"	"1st month"	"01"	5683
+	"Arizona"	"04"	"2016"	"2016"	"2nd month"	"02"	33533
+	"Arizona"	"04"	"2016"	"2016"	"3rd month"	"03"	21208
+	"Arizona"	"04"	"2016"	"2016"	"4th month"	"04"	7760
+	"Arizona"	"04"	"2016"	"2016"	"5th month"	"05"	4402
+	"Arizona"	"04"	"2016"	"2016"	"6th month"	"06"	2915
+	"Arizona"	"04"	"2016"	"2016"	"7th month"	"07"	2313
+	"Arizona"	"04"	"2016"	"2016"	"8th month"	"08"	1885
+	"Arizona"	"04"	"2016"	"2016"	"9th month"	"09"	828
+	"Arizona"	"04"	"2016"	"2016"	"10th month"	"10"	11
+	"Arizona"	"04"	"2016"	"2016"	"Unknown or Not Stated"	"99"	1941
+	"Arizona"	"04"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Arizona"	"04"	"2017"	"2017"	"No prenatal care"	"00"	2365
+	"Arizona"	"04"	"2017"	"2017"	"1st month"	"01"	4854
+	"Arizona"	"04"	"2017"	"2017"	"2nd month"	"02"	32382
+	"Arizona"	"04"	"2017"	"2017"	"3rd month"	"03"	20823
+	"Arizona"	"04"	"2017"	"2017"	"4th month"	"04"	7643
+	"Arizona"	"04"	"2017"	"2017"	"5th month"	"05"	4272
+	"Arizona"	"04"	"2017"	"2017"	"6th month"	"06"	2851
+	"Arizona"	"04"	"2017"	"2017"	"7th month"	"07"	2222
+	"Arizona"	"04"	"2017"	"2017"	"8th month"	"08"	1814
+	"Arizona"	"04"	"2017"	"2017"	"9th month"	"09"	769
+	"Arizona"	"04"	"2017"	"2017"	"10th month"	"10"	17
+	"Arizona"	"04"	"2017"	"2017"	"Unknown or Not Stated"	"99"	1860
+	"Arizona"	"04"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Arizona"	"04"	"2018"	"2018"	"No prenatal care"	"00"	2268
+	"Arizona"	"04"	"2018"	"2018"	"1st month"	"01"	4429
+	"Arizona"	"04"	"2018"	"2018"	"2nd month"	"02"	31699
+	"Arizona"	"04"	"2018"	"2018"	"3rd month"	"03"	21335
+	"Arizona"	"04"	"2018"	"2018"	"4th month"	"04"	7490
+	"Arizona"	"04"	"2018"	"2018"	"5th month"	"05"	4175
+	"Arizona"	"04"	"2018"	"2018"	"6th month"	"06"	2731
+	"Arizona"	"04"	"2018"	"2018"	"7th month"	"07"	2380
+	"Arizona"	"04"	"2018"	"2018"	"8th month"	"08"	1950
+	"Arizona"	"04"	"2018"	"2018"	"9th month"	"09"	837
+	"Arizona"	"04"	"2018"	"2018"	"10th month"	"10"	16
+	"Arizona"	"04"	"2018"	"2018"	"Unknown or Not Stated"	"99"	1413
+	"Arizona"	"04"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Arizona"	"04"	"2019"	"2019"	"No prenatal care"	"00"	2084
+	"Arizona"	"04"	"2019"	"2019"	"1st month"	"01"	3900
+	"Arizona"	"04"	"2019"	"2019"	"2nd month"	"02"	30735
+	"Arizona"	"04"	"2019"	"2019"	"3rd month"	"03"	20727
+	"Arizona"	"04"	"2019"	"2019"	"4th month"	"04"	7392
+	"Arizona"	"04"	"2019"	"2019"	"5th month"	"05"	4147
+	"Arizona"	"04"	"2019"	"2019"	"6th month"	"06"	2874
+	"Arizona"	"04"	"2019"	"2019"	"7th month"	"07"	2478
+	"Arizona"	"04"	"2019"	"2019"	"8th month"	"08"	2122
+	"Arizona"	"04"	"2019"	"2019"	"9th month"	"09"	931
+	"Arizona"	"04"	"2019"	"2019"	"10th month"	"10"	13
+	"Arizona"	"04"	"2019"	"2019"	"Unknown or Not Stated"	"99"	1972
+	"Arizona"	"04"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Arizona"	"04"	"2020"	"2020"	"No prenatal care"	"00"	1933
+	"Arizona"	"04"	"2020"	"2020"	"1st month"	"01"	3616
+	"Arizona"	"04"	"2020"	"2020"	"2nd month"	"02"	29326
+	"Arizona"	"04"	"2020"	"2020"	"3rd month"	"03"	20765
+	"Arizona"	"04"	"2020"	"2020"	"4th month"	"04"	7207
+	"Arizona"	"04"	"2020"	"2020"	"5th month"	"05"	4046
+	"Arizona"	"04"	"2020"	"2020"	"6th month"	"06"	2716
+	"Arizona"	"04"	"2020"	"2020"	"7th month"	"07"	2306
+	"Arizona"	"04"	"2020"	"2020"	"8th month"	"08"	1972
+	"Arizona"	"04"	"2020"	"2020"	"9th month"	"09"	945
+	"Arizona"	"04"	"2020"	"2020"	"10th month"	"10"	18
+	"Arizona"	"04"	"2020"	"2020"	"Unknown or Not Stated"	"99"	2097
+	"Arizona"	"04"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Arizona"	"04"	"2021"	"2021"	"No prenatal care"	"00"	1981
+	"Arizona"	"04"	"2021"	"2021"	"1st month"	"01"	4200
+	"Arizona"	"04"	"2021"	"2021"	"2nd month"	"02"	31809
+	"Arizona"	"04"	"2021"	"2021"	"3rd month"	"03"	20857
+	"Arizona"	"04"	"2021"	"2021"	"4th month"	"04"	6722
+	"Arizona"	"04"	"2021"	"2021"	"5th month"	"05"	3545
+	"Arizona"	"04"	"2021"	"2021"	"6th month"	"06"	2605
+	"Arizona"	"04"	"2021"	"2021"	"7th month"	"07"	2295
+	"Arizona"	"04"	"2021"	"2021"	"8th month"	"08"	1766
+	"Arizona"	"04"	"2021"	"2021"	"9th month"	"09"	798
+	"Arizona"	"04"	"2021"	"2021"	"10th month"	"10"	12
+	"Arizona"	"04"	"2021"	"2021"	"Unknown or Not Stated"	"99"	1326
+	"Arizona"	"04"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Arizona"	"04"	"2022"	"2022"	"No prenatal care"	"00"	1881
+	"Arizona"	"04"	"2022"	"2022"	"1st month"	"01"	4325
+	"Arizona"	"04"	"2022"	"2022"	"2nd month"	"02"	31541
+	"Arizona"	"04"	"2022"	"2022"	"3rd month"	"03"	21252
+	"Arizona"	"04"	"2022"	"2022"	"4th month"	"04"	6829
+	"Arizona"	"04"	"2022"	"2022"	"5th month"	"05"	3779
+	"Arizona"	"04"	"2022"	"2022"	"6th month"	"06"	2532
+	"Arizona"	"04"	"2022"	"2022"	"7th month"	"07"	2184
+	"Arizona"	"04"	"2022"	"2022"	"8th month"	"08"	1700
+	"Arizona"	"04"	"2022"	"2022"	"9th month"	"09"	731
+	"Arizona"	"04"	"2022"	"2022"	"Unknown or Not Stated"	"99"	1785
+	"Arizona"	"04"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Arizona"	"04"	"2023"	"2023"	"No prenatal care"	"00"	1892
+	"Arizona"	"04"	"2023"	"2023"	"1st month"	"01"	3759
+	"Arizona"	"04"	"2023"	"2023"	"2nd month"	"02"	29586
+	"Arizona"	"04"	"2023"	"2023"	"3rd month"	"03"	22952
+	"Arizona"	"04"	"2023"	"2023"	"4th month"	"04"	7288
+	"Arizona"	"04"	"2023"	"2023"	"5th month"	"05"	3900
+	"Arizona"	"04"	"2023"	"2023"	"6th month"	"06"	2666
+	"Arizona"	"04"	"2023"	"2023"	"7th month"	"07"	2282
+	"Arizona"	"04"	"2023"	"2023"	"8th month"	"08"	1751
+	"Arizona"	"04"	"2023"	"2023"	"9th month"	"09"	693
+	"Arizona"	"04"	"2023"	"2023"	"10th month"	"10"	10
+	"Arizona"	"04"	"2023"	"2023"	"Unknown or Not Stated"	"99"	1317
+	"Arizona"	"04"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Arkansas"	"05"	"2010"	"2010"	"No prenatal care"	"00"	0
+	"Arkansas"	"05"	"2010"	"2010"	"1st month"	"01"	0
+	"Arkansas"	"05"	"2010"	"2010"	"2nd month"	"02"	0
+	"Arkansas"	"05"	"2010"	"2010"	"3rd month"	"03"	0
+	"Arkansas"	"05"	"2010"	"2010"	"4th month"	"04"	0
+	"Arkansas"	"05"	"2010"	"2010"	"5th month"	"05"	0
+	"Arkansas"	"05"	"2010"	"2010"	"6th month"	"06"	0
+	"Arkansas"	"05"	"2010"	"2010"	"7th month"	"07"	0
+	"Arkansas"	"05"	"2010"	"2010"	"8th month"	"08"	0
+	"Arkansas"	"05"	"2010"	"2010"	"9th month"	"09"	0
+	"Arkansas"	"05"	"2010"	"2010"	"10th month"	"10"	0
+	"Arkansas"	"05"	"2010"	"2010"	"Unknown or Not Stated"	"99"	0
+	"Arkansas"	"05"	"2010"	"2010"	"Not Reported"	"98"	38540
+	"Arkansas"	"05"	"2011"	"2011"	"No prenatal care"	"00"	0
+	"Arkansas"	"05"	"2011"	"2011"	"1st month"	"01"	0
+	"Arkansas"	"05"	"2011"	"2011"	"2nd month"	"02"	0
+	"Arkansas"	"05"	"2011"	"2011"	"3rd month"	"03"	0
+	"Arkansas"	"05"	"2011"	"2011"	"4th month"	"04"	0
+	"Arkansas"	"05"	"2011"	"2011"	"5th month"	"05"	0
+	"Arkansas"	"05"	"2011"	"2011"	"6th month"	"06"	0
+	"Arkansas"	"05"	"2011"	"2011"	"7th month"	"07"	0
+	"Arkansas"	"05"	"2011"	"2011"	"8th month"	"08"	0
+	"Arkansas"	"05"	"2011"	"2011"	"9th month"	"09"	0
+	"Arkansas"	"05"	"2011"	"2011"	"10th month"	"10"	0
+	"Arkansas"	"05"	"2011"	"2011"	"Unknown or Not Stated"	"99"	0
+	"Arkansas"	"05"	"2011"	"2011"	"Not Reported"	"98"	38715
+	"Arkansas"	"05"	"2012"	"2012"	"No prenatal care"	"00"	0
+	"Arkansas"	"05"	"2012"	"2012"	"1st month"	"01"	0
+	"Arkansas"	"05"	"2012"	"2012"	"2nd month"	"02"	0
+	"Arkansas"	"05"	"2012"	"2012"	"3rd month"	"03"	0
+	"Arkansas"	"05"	"2012"	"2012"	"4th month"	"04"	0
+	"Arkansas"	"05"	"2012"	"2012"	"5th month"	"05"	0
+	"Arkansas"	"05"	"2012"	"2012"	"6th month"	"06"	0
+	"Arkansas"	"05"	"2012"	"2012"	"7th month"	"07"	0
+	"Arkansas"	"05"	"2012"	"2012"	"8th month"	"08"	0
+	"Arkansas"	"05"	"2012"	"2012"	"9th month"	"09"	0
+	"Arkansas"	"05"	"2012"	"2012"	"10th month"	"10"	0
+	"Arkansas"	"05"	"2012"	"2012"	"Unknown or Not Stated"	"99"	0
+	"Arkansas"	"05"	"2012"	"2012"	"Not Reported"	"98"	38347
+	"Arkansas"	"05"	"2013"	"2013"	"No prenatal care"	"00"	0
+	"Arkansas"	"05"	"2013"	"2013"	"1st month"	"01"	0
+	"Arkansas"	"05"	"2013"	"2013"	"2nd month"	"02"	0
+	"Arkansas"	"05"	"2013"	"2013"	"3rd month"	"03"	0
+	"Arkansas"	"05"	"2013"	"2013"	"4th month"	"04"	0
+	"Arkansas"	"05"	"2013"	"2013"	"5th month"	"05"	0
+	"Arkansas"	"05"	"2013"	"2013"	"6th month"	"06"	0
+	"Arkansas"	"05"	"2013"	"2013"	"7th month"	"07"	0
+	"Arkansas"	"05"	"2013"	"2013"	"8th month"	"08"	0
+	"Arkansas"	"05"	"2013"	"2013"	"9th month"	"09"	0
+	"Arkansas"	"05"	"2013"	"2013"	"10th month"	"10"	0
+	"Arkansas"	"05"	"2013"	"2013"	"Unknown or Not Stated"	"99"	0
+	"Arkansas"	"05"	"2013"	"2013"	"Not Reported"	"98"	37832
+	"Arkansas"	"05"	"2014"	"2014"	"No prenatal care"	"00"	853
+	"Arkansas"	"05"	"2014"	"2014"	"1st month"	"01"	1858
+	"Arkansas"	"05"	"2014"	"2014"	"2nd month"	"02"	10228
+	"Arkansas"	"05"	"2014"	"2014"	"3rd month"	"03"	9577
+	"Arkansas"	"05"	"2014"	"2014"	"4th month"	"04"	4206
+	"Arkansas"	"05"	"2014"	"2014"	"5th month"	"05"	2540
+	"Arkansas"	"05"	"2014"	"2014"	"6th month"	"06"	1544
+	"Arkansas"	"05"	"2014"	"2014"	"7th month"	"07"	1230
+	"Arkansas"	"05"	"2014"	"2014"	"8th month"	"08"	675
+	"Arkansas"	"05"	"2014"	"2014"	"9th month"	"09"	263
+	"Arkansas"	"05"	"2014"	"2014"	"Unknown or Not Stated"	"99"	5533
+	"Arkansas"	"05"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Arkansas"	"05"	"2015"	"2015"	"No prenatal care"	"00"	943
+	"Arkansas"	"05"	"2015"	"2015"	"1st month"	"01"	1510
+	"Arkansas"	"05"	"2015"	"2015"	"2nd month"	"02"	11069
+	"Arkansas"	"05"	"2015"	"2015"	"3rd month"	"03"	10149
+	"Arkansas"	"05"	"2015"	"2015"	"4th month"	"04"	3867
+	"Arkansas"	"05"	"2015"	"2015"	"5th month"	"05"	2232
+	"Arkansas"	"05"	"2015"	"2015"	"6th month"	"06"	1469
+	"Arkansas"	"05"	"2015"	"2015"	"7th month"	"07"	1324
+	"Arkansas"	"05"	"2015"	"2015"	"8th month"	"08"	728
+	"Arkansas"	"05"	"2015"	"2015"	"9th month"	"09"	289
+	"Arkansas"	"05"	"2015"	"2015"	"Unknown or Not Stated"	"99"	5302
+	"Arkansas"	"05"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Arkansas"	"05"	"2016"	"2016"	"No prenatal care"	"00"	1047
+	"Arkansas"	"05"	"2016"	"2016"	"1st month"	"01"	1738
+	"Arkansas"	"05"	"2016"	"2016"	"2nd month"	"02"	11414
+	"Arkansas"	"05"	"2016"	"2016"	"3rd month"	"03"	9954
+	"Arkansas"	"05"	"2016"	"2016"	"4th month"	"04"	3430
+	"Arkansas"	"05"	"2016"	"2016"	"5th month"	"05"	2083
+	"Arkansas"	"05"	"2016"	"2016"	"6th month"	"06"	1490
+	"Arkansas"	"05"	"2016"	"2016"	"7th month"	"07"	1522
+	"Arkansas"	"05"	"2016"	"2016"	"8th month"	"08"	824
+	"Arkansas"	"05"	"2016"	"2016"	"9th month"	"09"	298
+	"Arkansas"	"05"	"2016"	"2016"	"Unknown or Not Stated"	"99"	4471
+	"Arkansas"	"05"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Arkansas"	"05"	"2017"	"2017"	"No prenatal care"	"00"	1237
+	"Arkansas"	"05"	"2017"	"2017"	"1st month"	"01"	2447
+	"Arkansas"	"05"	"2017"	"2017"	"2nd month"	"02"	12179
+	"Arkansas"	"05"	"2017"	"2017"	"3rd month"	"03"	10275
+	"Arkansas"	"05"	"2017"	"2017"	"4th month"	"04"	3599
+	"Arkansas"	"05"	"2017"	"2017"	"5th month"	"05"	2025
+	"Arkansas"	"05"	"2017"	"2017"	"6th month"	"06"	1372
+	"Arkansas"	"05"	"2017"	"2017"	"7th month"	"07"	1314
+	"Arkansas"	"05"	"2017"	"2017"	"8th month"	"08"	729
+	"Arkansas"	"05"	"2017"	"2017"	"9th month"	"09"	269
+	"Arkansas"	"05"	"2017"	"2017"	"Unknown or Not Stated"	"99"	2073
+	"Arkansas"	"05"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Arkansas"	"05"	"2018"	"2018"	"No prenatal care"	"00"	924
+	"Arkansas"	"05"	"2018"	"2018"	"1st month"	"01"	958
+	"Arkansas"	"05"	"2018"	"2018"	"2nd month"	"02"	13474
+	"Arkansas"	"05"	"2018"	"2018"	"3rd month"	"03"	11396
+	"Arkansas"	"05"	"2018"	"2018"	"4th month"	"04"	3809
+	"Arkansas"	"05"	"2018"	"2018"	"5th month"	"05"	2160
+	"Arkansas"	"05"	"2018"	"2018"	"6th month"	"06"	1435
+	"Arkansas"	"05"	"2018"	"2018"	"7th month"	"07"	1325
+	"Arkansas"	"05"	"2018"	"2018"	"8th month"	"08"	779
+	"Arkansas"	"05"	"2018"	"2018"	"9th month"	"09"	316
+	"Arkansas"	"05"	"2018"	"2018"	"Unknown or Not Stated"	"99"	437
+	"Arkansas"	"05"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Arkansas"	"05"	"2019"	"2019"	"No prenatal care"	"00"	790
+	"Arkansas"	"05"	"2019"	"2019"	"1st month"	"01"	794
+	"Arkansas"	"05"	"2019"	"2019"	"2nd month"	"02"	14242
+	"Arkansas"	"05"	"2019"	"2019"	"3rd month"	"03"	10970
+	"Arkansas"	"05"	"2019"	"2019"	"4th month"	"04"	3586
+	"Arkansas"	"05"	"2019"	"2019"	"5th month"	"05"	2040
+	"Arkansas"	"05"	"2019"	"2019"	"6th month"	"06"	1409
+	"Arkansas"	"05"	"2019"	"2019"	"7th month"	"07"	1202
+	"Arkansas"	"05"	"2019"	"2019"	"8th month"	"08"	864
+	"Arkansas"	"05"	"2019"	"2019"	"9th month"	"09"	283
+	"Arkansas"	"05"	"2019"	"2019"	"Unknown or Not Stated"	"99"	381
+	"Arkansas"	"05"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Arkansas"	"05"	"2020"	"2020"	"No prenatal care"	"00"	938
+	"Arkansas"	"05"	"2020"	"2020"	"1st month"	"01"	652
+	"Arkansas"	"05"	"2020"	"2020"	"2nd month"	"02"	13457
+	"Arkansas"	"05"	"2020"	"2020"	"3rd month"	"03"	10801
+	"Arkansas"	"05"	"2020"	"2020"	"4th month"	"04"	3518
+	"Arkansas"	"05"	"2020"	"2020"	"5th month"	"05"	1999
+	"Arkansas"	"05"	"2020"	"2020"	"6th month"	"06"	1253
+	"Arkansas"	"05"	"2020"	"2020"	"7th month"	"07"	1195
+	"Arkansas"	"05"	"2020"	"2020"	"8th month"	"08"	788
+	"Arkansas"	"05"	"2020"	"2020"	"9th month"	"09"	297
+	"Arkansas"	"05"	"2020"	"2020"	"Unknown or Not Stated"	"99"	347
+	"Arkansas"	"05"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Arkansas"	"05"	"2021"	"2021"	"No prenatal care"	"00"	1043
+	"Arkansas"	"05"	"2021"	"2021"	"1st month"	"01"	604
+	"Arkansas"	"05"	"2021"	"2021"	"2nd month"	"02"	13950
+	"Arkansas"	"05"	"2021"	"2021"	"3rd month"	"03"	10927
+	"Arkansas"	"05"	"2021"	"2021"	"4th month"	"04"	3166
+	"Arkansas"	"05"	"2021"	"2021"	"5th month"	"05"	1812
+	"Arkansas"	"05"	"2021"	"2021"	"6th month"	"06"	1237
+	"Arkansas"	"05"	"2021"	"2021"	"7th month"	"07"	1435
+	"Arkansas"	"05"	"2021"	"2021"	"8th month"	"08"	1009
+	"Arkansas"	"05"	"2021"	"2021"	"9th month"	"09"	417
+	"Arkansas"	"05"	"2021"	"2021"	"Unknown or Not Stated"	"99"	363
+	"Arkansas"	"05"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Arkansas"	"05"	"2022"	"2022"	"No prenatal care"	"00"	1189
+	"Arkansas"	"05"	"2022"	"2022"	"1st month"	"01"	550
+	"Arkansas"	"05"	"2022"	"2022"	"2nd month"	"02"	14097
+	"Arkansas"	"05"	"2022"	"2022"	"3rd month"	"03"	10434
+	"Arkansas"	"05"	"2022"	"2022"	"4th month"	"04"	3429
+	"Arkansas"	"05"	"2022"	"2022"	"5th month"	"05"	1850
+	"Arkansas"	"05"	"2022"	"2022"	"6th month"	"06"	1189
+	"Arkansas"	"05"	"2022"	"2022"	"7th month"	"07"	1242
+	"Arkansas"	"05"	"2022"	"2022"	"8th month"	"08"	824
+	"Arkansas"	"05"	"2022"	"2022"	"9th month"	"09"	306
+	"Arkansas"	"05"	"2022"	"2022"	"Unknown or Not Stated"	"99"	358
+	"Arkansas"	"05"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Arkansas"	"05"	"2023"	"2023"	"No prenatal care"	"00"	1026
+	"Arkansas"	"05"	"2023"	"2023"	"1st month"	"01"	407
+	"Arkansas"	"05"	"2023"	"2023"	"2nd month"	"02"	13489
+	"Arkansas"	"05"	"2023"	"2023"	"3rd month"	"03"	11531
+	"Arkansas"	"05"	"2023"	"2023"	"4th month"	"04"	3299
+	"Arkansas"	"05"	"2023"	"2023"	"5th month"	"05"	1822
+	"Arkansas"	"05"	"2023"	"2023"	"6th month"	"06"	1176
+	"Arkansas"	"05"	"2023"	"2023"	"7th month"	"07"	1164
+	"Arkansas"	"05"	"2023"	"2023"	"8th month"	"08"	800
+	"Arkansas"	"05"	"2023"	"2023"	"9th month"	"09"	316
+	"Arkansas"	"05"	"2023"	"2023"	"Unknown or Not Stated"	"99"	233
+	"Arkansas"	"05"	"2023"	"2023"	"Not Reported"	"98"	0
+	"California"	"06"	"2010"	"2010"	"No prenatal care"	"00"	2518
+	"California"	"06"	"2010"	"2010"	"1st month"	"01"	52420
+	"California"	"06"	"2010"	"2010"	"2nd month"	"02"	208864
+	"California"	"06"	"2010"	"2010"	"3rd month"	"03"	145636
+	"California"	"06"	"2010"	"2010"	"4th month"	"04"	41400
+	"California"	"06"	"2010"	"2010"	"5th month"	"05"	19452
+	"California"	"06"	"2010"	"2010"	"6th month"	"06"	11423
+	"California"	"06"	"2010"	"2010"	"7th month"	"07"	7002
+	"California"	"06"	"2010"	"2010"	"8th month"	"08"	4833
+	"California"	"06"	"2010"	"2010"	"9th month"	"09"	2354
+	"California"	"06"	"2010"	"2010"	"10th month"	"10"	281
+	"California"	"06"	"2010"	"2010"	"Unknown or Not Stated"	"99"	14015
+	"California"	"06"	"2010"	"2010"	"Not Reported"	"98"	0
+	"California"	"06"	"2011"	"2011"	"No prenatal care"	"00"	2406
+	"California"	"06"	"2011"	"2011"	"1st month"	"01"	48866
+	"California"	"06"	"2011"	"2011"	"2nd month"	"02"	208020
+	"California"	"06"	"2011"	"2011"	"3rd month"	"03"	145806
+	"California"	"06"	"2011"	"2011"	"4th month"	"04"	40655
+	"California"	"06"	"2011"	"2011"	"5th month"	"05"	18917
+	"California"	"06"	"2011"	"2011"	"6th month"	"06"	10967
+	"California"	"06"	"2011"	"2011"	"7th month"	"07"	6873
+	"California"	"06"	"2011"	"2011"	"8th month"	"08"	4802
+	"California"	"06"	"2011"	"2011"	"9th month"	"09"	2345
+	"California"	"06"	"2011"	"2011"	"10th month"	"10"	302
+	"California"	"06"	"2011"	"2011"	"Unknown or Not Stated"	"99"	12161
+	"California"	"06"	"2011"	"2011"	"Not Reported"	"98"	0
+	"California"	"06"	"2012"	"2012"	"No prenatal care"	"00"	2589
+	"California"	"06"	"2012"	"2012"	"1st month"	"01"	46773
+	"California"	"06"	"2012"	"2012"	"2nd month"	"02"	212551
+	"California"	"06"	"2012"	"2012"	"3rd month"	"03"	145865
+	"California"	"06"	"2012"	"2012"	"4th month"	"04"	39478
+	"California"	"06"	"2012"	"2012"	"5th month"	"05"	18547
+	"California"	"06"	"2012"	"2012"	"6th month"	"06"	10984
+	"California"	"06"	"2012"	"2012"	"7th month"	"07"	6877
+	"California"	"06"	"2012"	"2012"	"8th month"	"08"	4913
+	"California"	"06"	"2012"	"2012"	"9th month"	"09"	2509
+	"California"	"06"	"2012"	"2012"	"10th month"	"10"	281
+	"California"	"06"	"2012"	"2012"	"Unknown or Not Stated"	"99"	12388
+	"California"	"06"	"2012"	"2012"	"Not Reported"	"98"	0
+	"California"	"06"	"2013"	"2013"	"No prenatal care"	"00"	2903
+	"California"	"06"	"2013"	"2013"	"1st month"	"01"	46209
+	"California"	"06"	"2013"	"2013"	"2nd month"	"02"	216004
+	"California"	"06"	"2013"	"2013"	"3rd month"	"03"	139672
+	"California"	"06"	"2013"	"2013"	"4th month"	"04"	36975
+	"California"	"06"	"2013"	"2013"	"5th month"	"05"	17936
+	"California"	"06"	"2013"	"2013"	"6th month"	"06"	10546
+	"California"	"06"	"2013"	"2013"	"7th month"	"07"	7102
+	"California"	"06"	"2013"	"2013"	"8th month"	"08"	5116
+	"California"	"06"	"2013"	"2013"	"9th month"	"09"	2447
+	"California"	"06"	"2013"	"2013"	"10th month"	"10"	188
+	"California"	"06"	"2013"	"2013"	"Unknown or Not Stated"	"99"	9607
+	"California"	"06"	"2013"	"2013"	"Not Reported"	"98"	0
+	"California"	"06"	"2014"	"2014"	"No prenatal care"	"00"	3176
+	"California"	"06"	"2014"	"2014"	"1st month"	"01"	66922
+	"California"	"06"	"2014"	"2014"	"2nd month"	"02"	242983
+	"California"	"06"	"2014"	"2014"	"3rd month"	"03"	108374
+	"California"	"06"	"2014"	"2014"	"4th month"	"04"	31914
+	"California"	"06"	"2014"	"2014"	"5th month"	"05"	16467
+	"California"	"06"	"2014"	"2014"	"6th month"	"06"	10165
+	"California"	"06"	"2014"	"2014"	"7th month"	"07"	7704
+	"California"	"06"	"2014"	"2014"	"8th month"	"08"	5348
+	"California"	"06"	"2014"	"2014"	"9th month"	"09"	1675
+	"California"	"06"	"2014"	"2014"	"10th month"	"10"	26
+	"California"	"06"	"2014"	"2014"	"Unknown or Not Stated"	"99"	8125
+	"California"	"06"	"2014"	"2014"	"Not Reported"	"98"	0
+	"California"	"06"	"2015"	"2015"	"No prenatal care"	"00"	3173
+	"California"	"06"	"2015"	"2015"	"1st month"	"01"	62219
+	"California"	"06"	"2015"	"2015"	"2nd month"	"02"	238708
+	"California"	"06"	"2015"	"2015"	"3rd month"	"03"	108562
+	"California"	"06"	"2015"	"2015"	"4th month"	"04"	31674
+	"California"	"06"	"2015"	"2015"	"5th month"	"05"	15551
+	"California"	"06"	"2015"	"2015"	"6th month"	"06"	9503
+	"California"	"06"	"2015"	"2015"	"7th month"	"07"	7426
+	"California"	"06"	"2015"	"2015"	"8th month"	"08"	5431
+	"California"	"06"	"2015"	"2015"	"9th month"	"09"	1808
+	"California"	"06"	"2015"	"2015"	"10th month"	"10"	17
+	"California"	"06"	"2015"	"2015"	"Unknown or Not Stated"	"99"	7676
+	"California"	"06"	"2015"	"2015"	"Not Reported"	"98"	0
+	"California"	"06"	"2016"	"2016"	"No prenatal care"	"00"	3528
+	"California"	"06"	"2016"	"2016"	"1st month"	"01"	60763
+	"California"	"06"	"2016"	"2016"	"2nd month"	"02"	239529
+	"California"	"06"	"2016"	"2016"	"3rd month"	"03"	108621
+	"California"	"06"	"2016"	"2016"	"4th month"	"04"	30173
+	"California"	"06"	"2016"	"2016"	"5th month"	"05"	14702
+	"California"	"06"	"2016"	"2016"	"6th month"	"06"	8892
+	"California"	"06"	"2016"	"2016"	"7th month"	"07"	7094
+	"California"	"06"	"2016"	"2016"	"8th month"	"08"	5812
+	"California"	"06"	"2016"	"2016"	"9th month"	"09"	1709
+	"California"	"06"	"2016"	"2016"	"10th month"	"10"	14
+	"California"	"06"	"2016"	"2016"	"Unknown or Not Stated"	"99"	7990
+	"California"	"06"	"2016"	"2016"	"Not Reported"	"98"	0
+	"California"	"06"	"2017"	"2017"	"No prenatal care"	"00"	3999
+	"California"	"06"	"2017"	"2017"	"1st month"	"01"	57408
+	"California"	"06"	"2017"	"2017"	"2nd month"	"02"	234426
+	"California"	"06"	"2017"	"2017"	"3rd month"	"03"	105285
+	"California"	"06"	"2017"	"2017"	"4th month"	"04"	28825
+	"California"	"06"	"2017"	"2017"	"5th month"	"05"	13962
+	"California"	"06"	"2017"	"2017"	"6th month"	"06"	8545
+	"California"	"06"	"2017"	"2017"	"7th month"	"07"	6519
+	"California"	"06"	"2017"	"2017"	"8th month"	"08"	5286
+	"California"	"06"	"2017"	"2017"	"9th month"	"09"	1736
+	"California"	"06"	"2017"	"2017"	"10th month"	"10"	25
+	"California"	"06"	"2017"	"2017"	"Unknown or Not Stated"	"99"	5642
+	"California"	"06"	"2017"	"2017"	"Not Reported"	"98"	0
+	"California"	"06"	"2018"	"2018"	"No prenatal care"	"00"	3754
+	"California"	"06"	"2018"	"2018"	"1st month"	"01"	52655
+	"California"	"06"	"2018"	"2018"	"2nd month"	"02"	229779
+	"California"	"06"	"2018"	"2018"	"3rd month"	"03"	103387
+	"California"	"06"	"2018"	"2018"	"4th month"	"04"	27036
+	"California"	"06"	"2018"	"2018"	"5th month"	"05"	13233
+	"California"	"06"	"2018"	"2018"	"6th month"	"06"	7862
+	"California"	"06"	"2018"	"2018"	"7th month"	"07"	6154
+	"California"	"06"	"2018"	"2018"	"8th month"	"08"	4950
+	"California"	"06"	"2018"	"2018"	"9th month"	"09"	1592
+	"California"	"06"	"2018"	"2018"	"10th month"	"10"	24
+	"California"	"06"	"2018"	"2018"	"Unknown or Not Stated"	"99"	4494
+	"California"	"06"	"2018"	"2018"	"Not Reported"	"98"	0
+	"California"	"06"	"2019"	"2019"	"No prenatal care"	"00"	3416
+	"California"	"06"	"2019"	"2019"	"1st month"	"01"	47876
+	"California"	"06"	"2019"	"2019"	"2nd month"	"02"	222516
+	"California"	"06"	"2019"	"2019"	"3rd month"	"03"	107547
+	"California"	"06"	"2019"	"2019"	"4th month"	"04"	26980
+	"California"	"06"	"2019"	"2019"	"5th month"	"05"	12667
+	"California"	"06"	"2019"	"2019"	"6th month"	"06"	7466
+	"California"	"06"	"2019"	"2019"	"7th month"	"07"	6046
+	"California"	"06"	"2019"	"2019"	"8th month"	"08"	4954
+	"California"	"06"	"2019"	"2019"	"9th month"	"09"	1575
+	"California"	"06"	"2019"	"2019"	"10th month"	"10"	21
+	"California"	"06"	"2019"	"2019"	"Unknown or Not Stated"	"99"	5415
+	"California"	"06"	"2019"	"2019"	"Not Reported"	"98"	0
+	"California"	"06"	"2020"	"2020"	"No prenatal care"	"00"	3402
+	"California"	"06"	"2020"	"2020"	"1st month"	"01"	41406
+	"California"	"06"	"2020"	"2020"	"2nd month"	"02"	211793
+	"California"	"06"	"2020"	"2020"	"3rd month"	"03"	101828
+	"California"	"06"	"2020"	"2020"	"4th month"	"04"	25492
+	"California"	"06"	"2020"	"2020"	"5th month"	"05"	12323
+	"California"	"06"	"2020"	"2020"	"6th month"	"06"	7339
+	"California"	"06"	"2020"	"2020"	"7th month"	"07"	5121
+	"California"	"06"	"2020"	"2020"	"8th month"	"08"	3717
+	"California"	"06"	"2020"	"2020"	"9th month"	"09"	1364
+	"California"	"06"	"2020"	"2020"	"10th month"	"10"	24
+	"California"	"06"	"2020"	"2020"	"Unknown or Not Stated"	"99"	6450
+	"California"	"06"	"2020"	"2020"	"Not Reported"	"98"	0
+	"California"	"06"	"2021"	"2021"	"No prenatal care"	"00"	3627
+	"California"	"06"	"2021"	"2021"	"1st month"	"01"	37594
+	"California"	"06"	"2021"	"2021"	"2nd month"	"02"	214409
+	"California"	"06"	"2021"	"2021"	"3rd month"	"03"	106083
+	"California"	"06"	"2021"	"2021"	"4th month"	"04"	24790
+	"California"	"06"	"2021"	"2021"	"5th month"	"05"	11227
+	"California"	"06"	"2021"	"2021"	"6th month"	"06"	6668
+	"California"	"06"	"2021"	"2021"	"7th month"	"07"	4897
+	"California"	"06"	"2021"	"2021"	"8th month"	"08"	3544
+	"California"	"06"	"2021"	"2021"	"9th month"	"09"	1298
+	"California"	"06"	"2021"	"2021"	"10th month"	"10"	24
+	"California"	"06"	"2021"	"2021"	"Unknown or Not Stated"	"99"	6447
+	"California"	"06"	"2021"	"2021"	"Not Reported"	"98"	0
+	"California"	"06"	"2022"	"2022"	"No prenatal care"	"00"	3603
+	"California"	"06"	"2022"	"2022"	"1st month"	"01"	33634
+	"California"	"06"	"2022"	"2022"	"2nd month"	"02"	202233
+	"California"	"06"	"2022"	"2022"	"3rd month"	"03"	113712
+	"California"	"06"	"2022"	"2022"	"4th month"	"04"	27431
+	"California"	"06"	"2022"	"2022"	"5th month"	"05"	12604
+	"California"	"06"	"2022"	"2022"	"6th month"	"06"	7127
+	"California"	"06"	"2022"	"2022"	"7th month"	"07"	5295
+	"California"	"06"	"2022"	"2022"	"8th month"	"08"	4010
+	"California"	"06"	"2022"	"2022"	"9th month"	"09"	1538
+	"California"	"06"	"2022"	"2022"	"10th month"	"10"	27
+	"California"	"06"	"2022"	"2022"	"Unknown or Not Stated"	"99"	7890
+	"California"	"06"	"2022"	"2022"	"Not Reported"	"98"	0
+	"California"	"06"	"2023"	"2023"	"No prenatal care"	"00"	3103
+	"California"	"06"	"2023"	"2023"	"1st month"	"01"	31172
+	"California"	"06"	"2023"	"2023"	"2nd month"	"02"	185555
+	"California"	"06"	"2023"	"2023"	"3rd month"	"03"	112959
+	"California"	"06"	"2023"	"2023"	"4th month"	"04"	28221
+	"California"	"06"	"2023"	"2023"	"5th month"	"05"	12447
+	"California"	"06"	"2023"	"2023"	"6th month"	"06"	6977
+	"California"	"06"	"2023"	"2023"	"7th month"	"07"	5236
+	"California"	"06"	"2023"	"2023"	"8th month"	"08"	4068
+	"California"	"06"	"2023"	"2023"	"9th month"	"09"	1473
+	"California"	"06"	"2023"	"2023"	"10th month"	"10"	32
+	"California"	"06"	"2023"	"2023"	"Unknown or Not Stated"	"99"	8865
+	"California"	"06"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Florida"	"12"	"2010"	"2010"	"No prenatal care"	"00"	2689
+	"Florida"	"12"	"2010"	"2010"	"1st month"	"01"	20823
+	"Florida"	"12"	"2010"	"2010"	"2nd month"	"02"	68010
+	"Florida"	"12"	"2010"	"2010"	"3rd month"	"03"	56008
+	"Florida"	"12"	"2010"	"2010"	"4th month"	"04"	23283
+	"Florida"	"12"	"2010"	"2010"	"5th month"	"05"	12240
+	"Florida"	"12"	"2010"	"2010"	"6th month"	"06"	7503
+	"Florida"	"12"	"2010"	"2010"	"7th month"	"07"	4416
+	"Florida"	"12"	"2010"	"2010"	"8th month"	"08"	2944
+	"Florida"	"12"	"2010"	"2010"	"9th month"	"09"	1234
+	"Florida"	"12"	"2010"	"2010"	"10th month"	"10"	176
+	"Florida"	"12"	"2010"	"2010"	"Unknown or Not Stated"	"99"	15264
+	"Florida"	"12"	"2010"	"2010"	"Not Reported"	"98"	0
+	"Florida"	"12"	"2011"	"2011"	"No prenatal care"	"00"	2584
+	"Florida"	"12"	"2011"	"2011"	"1st month"	"01"	21150
+	"Florida"	"12"	"2011"	"2011"	"2nd month"	"02"	71112
+	"Florida"	"12"	"2011"	"2011"	"3rd month"	"03"	58216
+	"Florida"	"12"	"2011"	"2011"	"4th month"	"04"	23225
+	"Florida"	"12"	"2011"	"2011"	"5th month"	"05"	11810
+	"Florida"	"12"	"2011"	"2011"	"6th month"	"06"	7027
+	"Florida"	"12"	"2011"	"2011"	"7th month"	"07"	4430
+	"Florida"	"12"	"2011"	"2011"	"8th month"	"08"	2950
+	"Florida"	"12"	"2011"	"2011"	"9th month"	"09"	1179
+	"Florida"	"12"	"2011"	"2011"	"10th month"	"10"	114
+	"Florida"	"12"	"2011"	"2011"	"Unknown or Not Stated"	"99"	9617
+	"Florida"	"12"	"2011"	"2011"	"Not Reported"	"98"	0
+	"Florida"	"12"	"2012"	"2012"	"No prenatal care"	"00"	2879
+	"Florida"	"12"	"2012"	"2012"	"1st month"	"01"	20003
+	"Florida"	"12"	"2012"	"2012"	"2nd month"	"02"	71301
+	"Florida"	"12"	"2012"	"2012"	"3rd month"	"03"	59291
+	"Florida"	"12"	"2012"	"2012"	"4th month"	"04"	23608
+	"Florida"	"12"	"2012"	"2012"	"5th month"	"05"	12070
+	"Florida"	"12"	"2012"	"2012"	"6th month"	"06"	7170
+	"Florida"	"12"	"2012"	"2012"	"7th month"	"07"	4774
+	"Florida"	"12"	"2012"	"2012"	"8th month"	"08"	3336
+	"Florida"	"12"	"2012"	"2012"	"9th month"	"09"	1354
+	"Florida"	"12"	"2012"	"2012"	"10th month"	"10"	161
+	"Florida"	"12"	"2012"	"2012"	"Unknown or Not Stated"	"99"	7201
+	"Florida"	"12"	"2012"	"2012"	"Not Reported"	"98"	0
+	"Florida"	"12"	"2013"	"2013"	"No prenatal care"	"00"	2850
+	"Florida"	"12"	"2013"	"2013"	"1st month"	"01"	21434
+	"Florida"	"12"	"2013"	"2013"	"2nd month"	"02"	70198
+	"Florida"	"12"	"2013"	"2013"	"3rd month"	"03"	60557
+	"Florida"	"12"	"2013"	"2013"	"4th month"	"04"	24234
+	"Florida"	"12"	"2013"	"2013"	"5th month"	"05"	11968
+	"Florida"	"12"	"2013"	"2013"	"6th month"	"06"	6979
+	"Florida"	"12"	"2013"	"2013"	"7th month"	"07"	4756
+	"Florida"	"12"	"2013"	"2013"	"8th month"	"08"	3370
+	"Florida"	"12"	"2013"	"2013"	"9th month"	"09"	1489
+	"Florida"	"12"	"2013"	"2013"	"10th month"	"10"	153
+	"Florida"	"12"	"2013"	"2013"	"Unknown or Not Stated"	"99"	7419
+	"Florida"	"12"	"2013"	"2013"	"Not Reported"	"98"	0
+	"Florida"	"12"	"2014"	"2014"	"No prenatal care"	"00"	2918
+	"Florida"	"12"	"2014"	"2014"	"1st month"	"01"	27763
+	"Florida"	"12"	"2014"	"2014"	"2nd month"	"02"	76291
+	"Florida"	"12"	"2014"	"2014"	"3rd month"	"03"	55363
+	"Florida"	"12"	"2014"	"2014"	"4th month"	"04"	21079
+	"Florida"	"12"	"2014"	"2014"	"5th month"	"05"	11121
+	"Florida"	"12"	"2014"	"2014"	"6th month"	"06"	6557
+	"Florida"	"12"	"2014"	"2014"	"7th month"	"07"	4993
+	"Florida"	"12"	"2014"	"2014"	"8th month"	"08"	3548
+	"Florida"	"12"	"2014"	"2014"	"9th month"	"09"	1096
+	"Florida"	"12"	"2014"	"2014"	"Unknown or Not Stated"	"99"	9256
+	"Florida"	"12"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Florida"	"12"	"2015"	"2015"	"No prenatal care"	"00"	3119
+	"Florida"	"12"	"2015"	"2015"	"1st month"	"01"	26484
+	"Florida"	"12"	"2015"	"2015"	"2nd month"	"02"	78145
+	"Florida"	"12"	"2015"	"2015"	"3rd month"	"03"	56778
+	"Florida"	"12"	"2015"	"2015"	"4th month"	"04"	20841
+	"Florida"	"12"	"2015"	"2015"	"5th month"	"05"	10879
+	"Florida"	"12"	"2015"	"2015"	"6th month"	"06"	6821
+	"Florida"	"12"	"2015"	"2015"	"7th month"	"07"	5215
+	"Florida"	"12"	"2015"	"2015"	"8th month"	"08"	3819
+	"Florida"	"12"	"2015"	"2015"	"9th month"	"09"	1110
+	"Florida"	"12"	"2015"	"2015"	"10th month"	"10"	18
+	"Florida"	"12"	"2015"	"2015"	"Unknown or Not Stated"	"99"	11040
+	"Florida"	"12"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Florida"	"12"	"2016"	"2016"	"No prenatal care"	"00"	3974
+	"Florida"	"12"	"2016"	"2016"	"1st month"	"01"	24524
+	"Florida"	"12"	"2016"	"2016"	"2nd month"	"02"	77031
+	"Florida"	"12"	"2016"	"2016"	"3rd month"	"03"	56992
+	"Florida"	"12"	"2016"	"2016"	"4th month"	"04"	20879
+	"Florida"	"12"	"2016"	"2016"	"5th month"	"05"	11178
+	"Florida"	"12"	"2016"	"2016"	"6th month"	"06"	6739
+	"Florida"	"12"	"2016"	"2016"	"7th month"	"07"	5334
+	"Florida"	"12"	"2016"	"2016"	"8th month"	"08"	3806
+	"Florida"	"12"	"2016"	"2016"	"9th month"	"09"	1197
+	"Florida"	"12"	"2016"	"2016"	"Unknown or Not Stated"	"99"	13360
+	"Florida"	"12"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Florida"	"12"	"2017"	"2017"	"No prenatal care"	"00"	4897
+	"Florida"	"12"	"2017"	"2017"	"1st month"	"01"	22641
+	"Florida"	"12"	"2017"	"2017"	"2nd month"	"02"	75026
+	"Florida"	"12"	"2017"	"2017"	"3rd month"	"03"	57135
+	"Florida"	"12"	"2017"	"2017"	"4th month"	"04"	20950
+	"Florida"	"12"	"2017"	"2017"	"5th month"	"05"	11409
+	"Florida"	"12"	"2017"	"2017"	"6th month"	"06"	6979
+	"Florida"	"12"	"2017"	"2017"	"7th month"	"07"	5563
+	"Florida"	"12"	"2017"	"2017"	"8th month"	"08"	4123
+	"Florida"	"12"	"2017"	"2017"	"9th month"	"09"	1295
+	"Florida"	"12"	"2017"	"2017"	"Unknown or Not Stated"	"99"	13603
+	"Florida"	"12"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Florida"	"12"	"2018"	"2018"	"No prenatal care"	"00"	4499
+	"Florida"	"12"	"2018"	"2018"	"1st month"	"01"	19294
+	"Florida"	"12"	"2018"	"2018"	"2nd month"	"02"	72889
+	"Florida"	"12"	"2018"	"2018"	"3rd month"	"03"	60421
+	"Florida"	"12"	"2018"	"2018"	"4th month"	"04"	21678
+	"Florida"	"12"	"2018"	"2018"	"5th month"	"05"	11489
+	"Florida"	"12"	"2018"	"2018"	"6th month"	"06"	7342
+	"Florida"	"12"	"2018"	"2018"	"7th month"	"07"	5811
+	"Florida"	"12"	"2018"	"2018"	"8th month"	"08"	4651
+	"Florida"	"12"	"2018"	"2018"	"9th month"	"09"	1479
+	"Florida"	"12"	"2018"	"2018"	"10th month"	"10"	11
+	"Florida"	"12"	"2018"	"2018"	"Unknown or Not Stated"	"99"	11978
+	"Florida"	"12"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Florida"	"12"	"2019"	"2019"	"No prenatal care"	"00"	4699
+	"Florida"	"12"	"2019"	"2019"	"1st month"	"01"	19653
+	"Florida"	"12"	"2019"	"2019"	"2nd month"	"02"	70019
+	"Florida"	"12"	"2019"	"2019"	"3rd month"	"03"	60880
+	"Florida"	"12"	"2019"	"2019"	"4th month"	"04"	21281
+	"Florida"	"12"	"2019"	"2019"	"5th month"	"05"	11406
+	"Florida"	"12"	"2019"	"2019"	"6th month"	"06"	7229
+	"Florida"	"12"	"2019"	"2019"	"7th month"	"07"	5974
+	"Florida"	"12"	"2019"	"2019"	"8th month"	"08"	4905
+	"Florida"	"12"	"2019"	"2019"	"9th month"	"09"	1522
+	"Florida"	"12"	"2019"	"2019"	"Unknown or Not Stated"	"99"	12425
+	"Florida"	"12"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Florida"	"12"	"2020"	"2020"	"No prenatal care"	"00"	4758
+	"Florida"	"12"	"2020"	"2020"	"1st month"	"01"	16001
+	"Florida"	"12"	"2020"	"2020"	"2nd month"	"02"	68715
+	"Florida"	"12"	"2020"	"2020"	"3rd month"	"03"	62551
+	"Florida"	"12"	"2020"	"2020"	"4th month"	"04"	21480
+	"Florida"	"12"	"2020"	"2020"	"5th month"	"05"	11163
+	"Florida"	"12"	"2020"	"2020"	"6th month"	"06"	6995
+	"Florida"	"12"	"2020"	"2020"	"7th month"	"07"	5609
+	"Florida"	"12"	"2020"	"2020"	"8th month"	"08"	4291
+	"Florida"	"12"	"2020"	"2020"	"9th month"	"09"	1278
+	"Florida"	"12"	"2020"	"2020"	"Unknown or Not Stated"	"99"	6822
+	"Florida"	"12"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Florida"	"12"	"2021"	"2021"	"No prenatal care"	"00"	5818
+	"Florida"	"12"	"2021"	"2021"	"1st month"	"01"	13263
+	"Florida"	"12"	"2021"	"2021"	"2nd month"	"02"	66853
+	"Florida"	"12"	"2021"	"2021"	"3rd month"	"03"	67543
+	"Florida"	"12"	"2021"	"2021"	"4th month"	"04"	22105
+	"Florida"	"12"	"2021"	"2021"	"5th month"	"05"	11874
+	"Florida"	"12"	"2021"	"2021"	"6th month"	"06"	7801
+	"Florida"	"12"	"2021"	"2021"	"7th month"	"07"	6436
+	"Florida"	"12"	"2021"	"2021"	"8th month"	"08"	4991
+	"Florida"	"12"	"2021"	"2021"	"9th month"	"09"	1790
+	"Florida"	"12"	"2021"	"2021"	"10th month"	"10"	11
+	"Florida"	"12"	"2021"	"2021"	"Unknown or Not Stated"	"99"	7775
+	"Florida"	"12"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Florida"	"12"	"2022"	"2022"	"No prenatal care"	"00"	6874
+	"Florida"	"12"	"2022"	"2022"	"1st month"	"01"	12727
+	"Florida"	"12"	"2022"	"2022"	"2nd month"	"02"	63513
+	"Florida"	"12"	"2022"	"2022"	"3rd month"	"03"	73198
+	"Florida"	"12"	"2022"	"2022"	"4th month"	"04"	25107
+	"Florida"	"12"	"2022"	"2022"	"5th month"	"05"	13546
+	"Florida"	"12"	"2022"	"2022"	"6th month"	"06"	8626
+	"Florida"	"12"	"2022"	"2022"	"7th month"	"07"	7030
+	"Florida"	"12"	"2022"	"2022"	"8th month"	"08"	5820
+	"Florida"	"12"	"2022"	"2022"	"9th month"	"09"	2214
+	"Florida"	"12"	"2022"	"2022"	"10th month"	"10"	20
+	"Florida"	"12"	"2022"	"2022"	"Unknown or Not Stated"	"99"	5758
+	"Florida"	"12"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Florida"	"12"	"2023"	"2023"	"No prenatal care"	"00"	7665
+	"Florida"	"12"	"2023"	"2023"	"1st month"	"01"	12409
+	"Florida"	"12"	"2023"	"2023"	"2nd month"	"02"	57490
+	"Florida"	"12"	"2023"	"2023"	"3rd month"	"03"	73704
+	"Florida"	"12"	"2023"	"2023"	"4th month"	"04"	26850
+	"Florida"	"12"	"2023"	"2023"	"5th month"	"05"	13966
+	"Florida"	"12"	"2023"	"2023"	"6th month"	"06"	9165
+	"Florida"	"12"	"2023"	"2023"	"7th month"	"07"	7382
+	"Florida"	"12"	"2023"	"2023"	"8th month"	"08"	5855
+	"Florida"	"12"	"2023"	"2023"	"9th month"	"09"	2168
+	"Florida"	"12"	"2023"	"2023"	"10th month"	"10"	23
+	"Florida"	"12"	"2023"	"2023"	"Unknown or Not Stated"	"99"	4733
+	"Florida"	"12"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Georgia"	"13"	"2010"	"2010"	"No prenatal care"	"00"	2443
+	"Georgia"	"13"	"2010"	"2010"	"1st month"	"01"	10688
+	"Georgia"	"13"	"2010"	"2010"	"2nd month"	"02"	34778
+	"Georgia"	"13"	"2010"	"2010"	"3rd month"	"03"	28923
+	"Georgia"	"13"	"2010"	"2010"	"4th month"	"04"	11063
+	"Georgia"	"13"	"2010"	"2010"	"5th month"	"05"	5719
+	"Georgia"	"13"	"2010"	"2010"	"6th month"	"06"	3504
+	"Georgia"	"13"	"2010"	"2010"	"7th month"	"07"	2339
+	"Georgia"	"13"	"2010"	"2010"	"8th month"	"08"	1659
+	"Georgia"	"13"	"2010"	"2010"	"9th month"	"09"	702
+	"Georgia"	"13"	"2010"	"2010"	"10th month"	"10"	68
+	"Georgia"	"13"	"2010"	"2010"	"Unknown or Not Stated"	"99"	32061
+	"Georgia"	"13"	"2010"	"2010"	"Not Reported"	"98"	0
+	"Georgia"	"13"	"2011"	"2011"	"No prenatal care"	"00"	2462
+	"Georgia"	"13"	"2011"	"2011"	"1st month"	"01"	10514
+	"Georgia"	"13"	"2011"	"2011"	"2nd month"	"02"	37277
+	"Georgia"	"13"	"2011"	"2011"	"3rd month"	"03"	31213
+	"Georgia"	"13"	"2011"	"2011"	"4th month"	"04"	12101
+	"Georgia"	"13"	"2011"	"2011"	"5th month"	"05"	6476
+	"Georgia"	"13"	"2011"	"2011"	"6th month"	"06"	4120
+	"Georgia"	"13"	"2011"	"2011"	"7th month"	"07"	2725
+	"Georgia"	"13"	"2011"	"2011"	"8th month"	"08"	1861
+	"Georgia"	"13"	"2011"	"2011"	"9th month"	"09"	859
+	"Georgia"	"13"	"2011"	"2011"	"10th month"	"10"	96
+	"Georgia"	"13"	"2011"	"2011"	"Unknown or Not Stated"	"99"	22705
+	"Georgia"	"13"	"2011"	"2011"	"Not Reported"	"98"	0
+	"Georgia"	"13"	"2012"	"2012"	"No prenatal care"	"00"	2177
+	"Georgia"	"13"	"2012"	"2012"	"1st month"	"01"	10734
+	"Georgia"	"13"	"2012"	"2012"	"2nd month"	"02"	39187
+	"Georgia"	"13"	"2012"	"2012"	"3rd month"	"03"	32570
+	"Georgia"	"13"	"2012"	"2012"	"4th month"	"04"	12363
+	"Georgia"	"13"	"2012"	"2012"	"5th month"	"05"	6380
+	"Georgia"	"13"	"2012"	"2012"	"6th month"	"06"	3931
+	"Georgia"	"13"	"2012"	"2012"	"7th month"	"07"	2731
+	"Georgia"	"13"	"2012"	"2012"	"8th month"	"08"	1869
+	"Georgia"	"13"	"2012"	"2012"	"9th month"	"09"	855
+	"Georgia"	"13"	"2012"	"2012"	"10th month"	"10"	105
+	"Georgia"	"13"	"2012"	"2012"	"Unknown or Not Stated"	"99"	17378
+	"Georgia"	"13"	"2012"	"2012"	"Not Reported"	"98"	0
+	"Georgia"	"13"	"2013"	"2013"	"No prenatal care"	"00"	2705
+	"Georgia"	"13"	"2013"	"2013"	"1st month"	"01"	10866
+	"Georgia"	"13"	"2013"	"2013"	"2nd month"	"02"	38605
+	"Georgia"	"13"	"2013"	"2013"	"3rd month"	"03"	30582
+	"Georgia"	"13"	"2013"	"2013"	"4th month"	"04"	11166
+	"Georgia"	"13"	"2013"	"2013"	"5th month"	"05"	5926
+	"Georgia"	"13"	"2013"	"2013"	"6th month"	"06"	3642
+	"Georgia"	"13"	"2013"	"2013"	"7th month"	"07"	2513
+	"Georgia"	"13"	"2013"	"2013"	"8th month"	"08"	1898
+	"Georgia"	"13"	"2013"	"2013"	"9th month"	"09"	828
+	"Georgia"	"13"	"2013"	"2013"	"10th month"	"10"	75
+	"Georgia"	"13"	"2013"	"2013"	"Unknown or Not Stated"	"99"	19942
+	"Georgia"	"13"	"2013"	"2013"	"Not Reported"	"98"	0
+	"Georgia"	"13"	"2014"	"2014"	"No prenatal care"	"00"	3283
+	"Georgia"	"13"	"2014"	"2014"	"1st month"	"01"	12504
+	"Georgia"	"13"	"2014"	"2014"	"2nd month"	"02"	40757
+	"Georgia"	"13"	"2014"	"2014"	"3rd month"	"03"	27087
+	"Georgia"	"13"	"2014"	"2014"	"4th month"	"04"	10104
+	"Georgia"	"13"	"2014"	"2014"	"5th month"	"05"	5508
+	"Georgia"	"13"	"2014"	"2014"	"6th month"	"06"	3386
+	"Georgia"	"13"	"2014"	"2014"	"7th month"	"07"	2654
+	"Georgia"	"13"	"2014"	"2014"	"8th month"	"08"	1784
+	"Georgia"	"13"	"2014"	"2014"	"9th month"	"09"	675
+	"Georgia"	"13"	"2014"	"2014"	"Unknown or Not Stated"	"99"	23197
+	"Georgia"	"13"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Georgia"	"13"	"2015"	"2015"	"No prenatal care"	"00"	3662
+	"Georgia"	"13"	"2015"	"2015"	"1st month"	"01"	12666
+	"Georgia"	"13"	"2015"	"2015"	"2nd month"	"02"	42598
+	"Georgia"	"13"	"2015"	"2015"	"3rd month"	"03"	29271
+	"Georgia"	"13"	"2015"	"2015"	"4th month"	"04"	10061
+	"Georgia"	"13"	"2015"	"2015"	"5th month"	"05"	5542
+	"Georgia"	"13"	"2015"	"2015"	"6th month"	"06"	3595
+	"Georgia"	"13"	"2015"	"2015"	"7th month"	"07"	2824
+	"Georgia"	"13"	"2015"	"2015"	"8th month"	"08"	1952
+	"Georgia"	"13"	"2015"	"2015"	"9th month"	"09"	685
+	"Georgia"	"13"	"2015"	"2015"	"Unknown or Not Stated"	"99"	18540
+	"Georgia"	"13"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Georgia"	"13"	"2016"	"2016"	"No prenatal care"	"00"	4261
+	"Georgia"	"13"	"2016"	"2016"	"1st month"	"01"	13433
+	"Georgia"	"13"	"2016"	"2016"	"2nd month"	"02"	46361
+	"Georgia"	"13"	"2016"	"2016"	"3rd month"	"03"	32711
+	"Georgia"	"13"	"2016"	"2016"	"4th month"	"04"	11129
+	"Georgia"	"13"	"2016"	"2016"	"5th month"	"05"	6012
+	"Georgia"	"13"	"2016"	"2016"	"6th month"	"06"	3827
+	"Georgia"	"13"	"2016"	"2016"	"7th month"	"07"	3028
+	"Georgia"	"13"	"2016"	"2016"	"8th month"	"08"	2103
+	"Georgia"	"13"	"2016"	"2016"	"9th month"	"09"	776
+	"Georgia"	"13"	"2016"	"2016"	"Unknown or Not Stated"	"99"	6394
+	"Georgia"	"13"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Georgia"	"13"	"2017"	"2017"	"No prenatal care"	"00"	4900
+	"Georgia"	"13"	"2017"	"2017"	"1st month"	"01"	13940
+	"Georgia"	"13"	"2017"	"2017"	"2nd month"	"02"	48021
+	"Georgia"	"13"	"2017"	"2017"	"3rd month"	"03"	32978
+	"Georgia"	"13"	"2017"	"2017"	"4th month"	"04"	11442
+	"Georgia"	"13"	"2017"	"2017"	"5th month"	"05"	6052
+	"Georgia"	"13"	"2017"	"2017"	"6th month"	"06"	3762
+	"Georgia"	"13"	"2017"	"2017"	"7th month"	"07"	2876
+	"Georgia"	"13"	"2017"	"2017"	"8th month"	"08"	2201
+	"Georgia"	"13"	"2017"	"2017"	"9th month"	"09"	762
+	"Georgia"	"13"	"2017"	"2017"	"10th month"	"10"	12
+	"Georgia"	"13"	"2017"	"2017"	"Unknown or Not Stated"	"99"	2297
+	"Georgia"	"13"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Georgia"	"13"	"2018"	"2018"	"No prenatal care"	"00"	5115
+	"Georgia"	"13"	"2018"	"2018"	"1st month"	"01"	14257
+	"Georgia"	"13"	"2018"	"2018"	"2nd month"	"02"	46208
+	"Georgia"	"13"	"2018"	"2018"	"3rd month"	"03"	31316
+	"Georgia"	"13"	"2018"	"2018"	"4th month"	"04"	11268
+	"Georgia"	"13"	"2018"	"2018"	"5th month"	"05"	5918
+	"Georgia"	"13"	"2018"	"2018"	"6th month"	"06"	3590
+	"Georgia"	"13"	"2018"	"2018"	"7th month"	"07"	2832
+	"Georgia"	"13"	"2018"	"2018"	"8th month"	"08"	2019
+	"Georgia"	"13"	"2018"	"2018"	"9th month"	"09"	789
+	"Georgia"	"13"	"2018"	"2018"	"Unknown or Not Stated"	"99"	2851
+	"Georgia"	"13"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Georgia"	"13"	"2019"	"2019"	"No prenatal care"	"00"	5282
+	"Georgia"	"13"	"2019"	"2019"	"1st month"	"01"	14043
+	"Georgia"	"13"	"2019"	"2019"	"2nd month"	"02"	46811
+	"Georgia"	"13"	"2019"	"2019"	"3rd month"	"03"	32084
+	"Georgia"	"13"	"2019"	"2019"	"4th month"	"04"	10759
+	"Georgia"	"13"	"2019"	"2019"	"5th month"	"05"	5702
+	"Georgia"	"13"	"2019"	"2019"	"6th month"	"06"	3575
+	"Georgia"	"13"	"2019"	"2019"	"7th month"	"07"	2773
+	"Georgia"	"13"	"2019"	"2019"	"8th month"	"08"	1867
+	"Georgia"	"13"	"2019"	"2019"	"9th month"	"09"	828
+	"Georgia"	"13"	"2019"	"2019"	"10th month"	"10"	10
+	"Georgia"	"13"	"2019"	"2019"	"Unknown or Not Stated"	"99"	2637
+	"Georgia"	"13"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Georgia"	"13"	"2020"	"2020"	"No prenatal care"	"00"	5845
+	"Georgia"	"13"	"2020"	"2020"	"1st month"	"01"	12693
+	"Georgia"	"13"	"2020"	"2020"	"2nd month"	"02"	45870
+	"Georgia"	"13"	"2020"	"2020"	"3rd month"	"03"	33068
+	"Georgia"	"13"	"2020"	"2020"	"4th month"	"04"	10530
+	"Georgia"	"13"	"2020"	"2020"	"5th month"	"05"	5342
+	"Georgia"	"13"	"2020"	"2020"	"6th month"	"06"	3114
+	"Georgia"	"13"	"2020"	"2020"	"7th month"	"07"	2437
+	"Georgia"	"13"	"2020"	"2020"	"8th month"	"08"	1630
+	"Georgia"	"13"	"2020"	"2020"	"9th month"	"09"	745
+	"Georgia"	"13"	"2020"	"2020"	"10th month"	"10"	13
+	"Georgia"	"13"	"2020"	"2020"	"Unknown or Not Stated"	"99"	1186
+	"Georgia"	"13"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Georgia"	"13"	"2021"	"2021"	"No prenatal care"	"00"	5169
+	"Georgia"	"13"	"2021"	"2021"	"1st month"	"01"	12896
+	"Georgia"	"13"	"2021"	"2021"	"2nd month"	"02"	48285
+	"Georgia"	"13"	"2021"	"2021"	"3rd month"	"03"	34046
+	"Georgia"	"13"	"2021"	"2021"	"4th month"	"04"	10167
+	"Georgia"	"13"	"2021"	"2021"	"5th month"	"05"	4934
+	"Georgia"	"13"	"2021"	"2021"	"6th month"	"06"	2938
+	"Georgia"	"13"	"2021"	"2021"	"7th month"	"07"	2260
+	"Georgia"	"13"	"2021"	"2021"	"8th month"	"08"	1589
+	"Georgia"	"13"	"2021"	"2021"	"9th month"	"09"	749
+	"Georgia"	"13"	"2021"	"2021"	"10th month"	"10"	10
+	"Georgia"	"13"	"2021"	"2021"	"Unknown or Not Stated"	"99"	1030
+	"Georgia"	"13"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Georgia"	"13"	"2022"	"2022"	"No prenatal care"	"00"	4336
+	"Georgia"	"13"	"2022"	"2022"	"1st month"	"01"	13236
+	"Georgia"	"13"	"2022"	"2022"	"2nd month"	"02"	47466
+	"Georgia"	"13"	"2022"	"2022"	"3rd month"	"03"	35971
+	"Georgia"	"13"	"2022"	"2022"	"4th month"	"04"	10607
+	"Georgia"	"13"	"2022"	"2022"	"5th month"	"05"	5229
+	"Georgia"	"13"	"2022"	"2022"	"6th month"	"06"	3203
+	"Georgia"	"13"	"2022"	"2022"	"7th month"	"07"	2541
+	"Georgia"	"13"	"2022"	"2022"	"8th month"	"08"	1760
+	"Georgia"	"13"	"2022"	"2022"	"9th month"	"09"	852
+	"Georgia"	"13"	"2022"	"2022"	"10th month"	"10"	15
+	"Georgia"	"13"	"2022"	"2022"	"Unknown or Not Stated"	"99"	914
+	"Georgia"	"13"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Georgia"	"13"	"2023"	"2023"	"No prenatal care"	"00"	5821
+	"Georgia"	"13"	"2023"	"2023"	"1st month"	"01"	11693
+	"Georgia"	"13"	"2023"	"2023"	"2nd month"	"02"	45159
+	"Georgia"	"13"	"2023"	"2023"	"3rd month"	"03"	36279
+	"Georgia"	"13"	"2023"	"2023"	"4th month"	"04"	11048
+	"Georgia"	"13"	"2023"	"2023"	"5th month"	"05"	5611
+	"Georgia"	"13"	"2023"	"2023"	"6th month"	"06"	3243
+	"Georgia"	"13"	"2023"	"2023"	"7th month"	"07"	2472
+	"Georgia"	"13"	"2023"	"2023"	"8th month"	"08"	1755
+	"Georgia"	"13"	"2023"	"2023"	"9th month"	"09"	768
+	"Georgia"	"13"	"2023"	"2023"	"Unknown or Not Stated"	"99"	1263
+	"Georgia"	"13"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Illinois"	"17"	"2010"	"2010"	"No prenatal care"	"00"	2822
+	"Illinois"	"17"	"2010"	"2010"	"1st month"	"01"	10173
+	"Illinois"	"17"	"2010"	"2010"	"2nd month"	"02"	53932
+	"Illinois"	"17"	"2010"	"2010"	"3rd month"	"03"	54922
+	"Illinois"	"17"	"2010"	"2010"	"4th month"	"04"	17213
+	"Illinois"	"17"	"2010"	"2010"	"5th month"	"05"	7623
+	"Illinois"	"17"	"2010"	"2010"	"6th month"	"06"	4538
+	"Illinois"	"17"	"2010"	"2010"	"7th month"	"07"	2657
+	"Illinois"	"17"	"2010"	"2010"	"8th month"	"08"	1693
+	"Illinois"	"17"	"2010"	"2010"	"9th month"	"09"	712
+	"Illinois"	"17"	"2010"	"2010"	"10th month"	"10"	114
+	"Illinois"	"17"	"2010"	"2010"	"Unknown or Not Stated"	"99"	8801
+	"Illinois"	"17"	"2010"	"2010"	"Not Reported"	"98"	0
+	"Illinois"	"17"	"2011"	"2011"	"No prenatal care"	"00"	2057
+	"Illinois"	"17"	"2011"	"2011"	"1st month"	"01"	9493
+	"Illinois"	"17"	"2011"	"2011"	"2nd month"	"02"	56380
+	"Illinois"	"17"	"2011"	"2011"	"3rd month"	"03"	55071
+	"Illinois"	"17"	"2011"	"2011"	"4th month"	"04"	17255
+	"Illinois"	"17"	"2011"	"2011"	"5th month"	"05"	7566
+	"Illinois"	"17"	"2011"	"2011"	"6th month"	"06"	4309
+	"Illinois"	"17"	"2011"	"2011"	"7th month"	"07"	2739
+	"Illinois"	"17"	"2011"	"2011"	"8th month"	"08"	1826
+	"Illinois"	"17"	"2011"	"2011"	"9th month"	"09"	787
+	"Illinois"	"17"	"2011"	"2011"	"10th month"	"10"	97
+	"Illinois"	"17"	"2011"	"2011"	"Unknown or Not Stated"	"99"	3732
+	"Illinois"	"17"	"2011"	"2011"	"Not Reported"	"98"	0
+	"Illinois"	"17"	"2012"	"2012"	"No prenatal care"	"00"	1785
+	"Illinois"	"17"	"2012"	"2012"	"1st month"	"01"	9059
+	"Illinois"	"17"	"2012"	"2012"	"2nd month"	"02"	55222
+	"Illinois"	"17"	"2012"	"2012"	"3rd month"	"03"	54571
+	"Illinois"	"17"	"2012"	"2012"	"4th month"	"04"	16570
+	"Illinois"	"17"	"2012"	"2012"	"5th month"	"05"	7382
+	"Illinois"	"17"	"2012"	"2012"	"6th month"	"06"	4337
+	"Illinois"	"17"	"2012"	"2012"	"7th month"	"07"	2798
+	"Illinois"	"17"	"2012"	"2012"	"8th month"	"08"	1874
+	"Illinois"	"17"	"2012"	"2012"	"9th month"	"09"	808
+	"Illinois"	"17"	"2012"	"2012"	"10th month"	"10"	126
+	"Illinois"	"17"	"2012"	"2012"	"Unknown or Not Stated"	"99"	4628
+	"Illinois"	"17"	"2012"	"2012"	"Not Reported"	"98"	0
+	"Illinois"	"17"	"2013"	"2013"	"No prenatal care"	"00"	1494
+	"Illinois"	"17"	"2013"	"2013"	"1st month"	"01"	9120
+	"Illinois"	"17"	"2013"	"2013"	"2nd month"	"02"	55207
+	"Illinois"	"17"	"2013"	"2013"	"3rd month"	"03"	53168
+	"Illinois"	"17"	"2013"	"2013"	"4th month"	"04"	15757
+	"Illinois"	"17"	"2013"	"2013"	"5th month"	"05"	7212
+	"Illinois"	"17"	"2013"	"2013"	"6th month"	"06"	4245
+	"Illinois"	"17"	"2013"	"2013"	"7th month"	"07"	2816
+	"Illinois"	"17"	"2013"	"2013"	"8th month"	"08"	1873
+	"Illinois"	"17"	"2013"	"2013"	"9th month"	"09"	816
+	"Illinois"	"17"	"2013"	"2013"	"10th month"	"10"	110
+	"Illinois"	"17"	"2013"	"2013"	"Unknown or Not Stated"	"99"	5113
+	"Illinois"	"17"	"2013"	"2013"	"Not Reported"	"98"	0
+	"Illinois"	"17"	"2014"	"2014"	"No prenatal care"	"00"	1687
+	"Illinois"	"17"	"2014"	"2014"	"1st month"	"01"	11386
+	"Illinois"	"17"	"2014"	"2014"	"2nd month"	"02"	66966
+	"Illinois"	"17"	"2014"	"2014"	"3rd month"	"03"	44936
+	"Illinois"	"17"	"2014"	"2014"	"4th month"	"04"	13341
+	"Illinois"	"17"	"2014"	"2014"	"5th month"	"05"	6521
+	"Illinois"	"17"	"2014"	"2014"	"6th month"	"06"	3991
+	"Illinois"	"17"	"2014"	"2014"	"7th month"	"07"	2893
+	"Illinois"	"17"	"2014"	"2014"	"8th month"	"08"	1892
+	"Illinois"	"17"	"2014"	"2014"	"9th month"	"09"	621
+	"Illinois"	"17"	"2014"	"2014"	"Unknown or Not Stated"	"99"	4315
+	"Illinois"	"17"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Illinois"	"17"	"2015"	"2015"	"No prenatal care"	"00"	1956
+	"Illinois"	"17"	"2015"	"2015"	"1st month"	"01"	8033
+	"Illinois"	"17"	"2015"	"2015"	"2nd month"	"02"	65106
+	"Illinois"	"17"	"2015"	"2015"	"3rd month"	"03"	45965
+	"Illinois"	"17"	"2015"	"2015"	"4th month"	"04"	13640
+	"Illinois"	"17"	"2015"	"2015"	"5th month"	"05"	6952
+	"Illinois"	"17"	"2015"	"2015"	"6th month"	"06"	4165
+	"Illinois"	"17"	"2015"	"2015"	"7th month"	"07"	3215
+	"Illinois"	"17"	"2015"	"2015"	"8th month"	"08"	2167
+	"Illinois"	"17"	"2015"	"2015"	"9th month"	"09"	738
+	"Illinois"	"17"	"2015"	"2015"	"Unknown or Not Stated"	"99"	6173
+	"Illinois"	"17"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Illinois"	"17"	"2016"	"2016"	"No prenatal care"	"00"	2052
+	"Illinois"	"17"	"2016"	"2016"	"1st month"	"01"	6300
+	"Illinois"	"17"	"2016"	"2016"	"2nd month"	"02"	63046
+	"Illinois"	"17"	"2016"	"2016"	"3rd month"	"03"	45872
+	"Illinois"	"17"	"2016"	"2016"	"4th month"	"04"	13342
+	"Illinois"	"17"	"2016"	"2016"	"5th month"	"05"	6957
+	"Illinois"	"17"	"2016"	"2016"	"6th month"	"06"	4374
+	"Illinois"	"17"	"2016"	"2016"	"7th month"	"07"	3447
+	"Illinois"	"17"	"2016"	"2016"	"8th month"	"08"	2314
+	"Illinois"	"17"	"2016"	"2016"	"9th month"	"09"	766
+	"Illinois"	"17"	"2016"	"2016"	"Unknown or Not Stated"	"99"	5966
+	"Illinois"	"17"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Illinois"	"17"	"2017"	"2017"	"No prenatal care"	"00"	2069
+	"Illinois"	"17"	"2017"	"2017"	"1st month"	"01"	5342
+	"Illinois"	"17"	"2017"	"2017"	"2nd month"	"02"	59915
+	"Illinois"	"17"	"2017"	"2017"	"3rd month"	"03"	44710
+	"Illinois"	"17"	"2017"	"2017"	"4th month"	"04"	12995
+	"Illinois"	"17"	"2017"	"2017"	"5th month"	"05"	6909
+	"Illinois"	"17"	"2017"	"2017"	"6th month"	"06"	4303
+	"Illinois"	"17"	"2017"	"2017"	"7th month"	"07"	3313
+	"Illinois"	"17"	"2017"	"2017"	"8th month"	"08"	2341
+	"Illinois"	"17"	"2017"	"2017"	"9th month"	"09"	888
+	"Illinois"	"17"	"2017"	"2017"	"10th month"	"10"	10
+	"Illinois"	"17"	"2017"	"2017"	"Unknown or Not Stated"	"99"	6595
+	"Illinois"	"17"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Illinois"	"17"	"2018"	"2018"	"No prenatal care"	"00"	2071
+	"Illinois"	"17"	"2018"	"2018"	"1st month"	"01"	5146
+	"Illinois"	"17"	"2018"	"2018"	"2nd month"	"02"	58148
+	"Illinois"	"17"	"2018"	"2018"	"3rd month"	"03"	44240
+	"Illinois"	"17"	"2018"	"2018"	"4th month"	"04"	12184
+	"Illinois"	"17"	"2018"	"2018"	"5th month"	"05"	6386
+	"Illinois"	"17"	"2018"	"2018"	"6th month"	"06"	4028
+	"Illinois"	"17"	"2018"	"2018"	"7th month"	"07"	3282
+	"Illinois"	"17"	"2018"	"2018"	"8th month"	"08"	2264
+	"Illinois"	"17"	"2018"	"2018"	"9th month"	"09"	755
+	"Illinois"	"17"	"2018"	"2018"	"Unknown or Not Stated"	"99"	6303
+	"Illinois"	"17"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Illinois"	"17"	"2019"	"2019"	"No prenatal care"	"00"	1783
+	"Illinois"	"17"	"2019"	"2019"	"1st month"	"01"	4774
+	"Illinois"	"17"	"2019"	"2019"	"2nd month"	"02"	56362
+	"Illinois"	"17"	"2019"	"2019"	"3rd month"	"03"	44802
+	"Illinois"	"17"	"2019"	"2019"	"4th month"	"04"	12009
+	"Illinois"	"17"	"2019"	"2019"	"5th month"	"05"	6364
+	"Illinois"	"17"	"2019"	"2019"	"6th month"	"06"	4111
+	"Illinois"	"17"	"2019"	"2019"	"7th month"	"07"	3018
+	"Illinois"	"17"	"2019"	"2019"	"8th month"	"08"	2137
+	"Illinois"	"17"	"2019"	"2019"	"9th month"	"09"	708
+	"Illinois"	"17"	"2019"	"2019"	"Unknown or Not Stated"	"99"	4054
+	"Illinois"	"17"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Illinois"	"17"	"2020"	"2020"	"No prenatal care"	"00"	1813
+	"Illinois"	"17"	"2020"	"2020"	"1st month"	"01"	4160
+	"Illinois"	"17"	"2020"	"2020"	"2nd month"	"02"	52856
+	"Illinois"	"17"	"2020"	"2020"	"3rd month"	"03"	45176
+	"Illinois"	"17"	"2020"	"2020"	"4th month"	"04"	11244
+	"Illinois"	"17"	"2020"	"2020"	"5th month"	"05"	5985
+	"Illinois"	"17"	"2020"	"2020"	"6th month"	"06"	3583
+	"Illinois"	"17"	"2020"	"2020"	"7th month"	"07"	2685
+	"Illinois"	"17"	"2020"	"2020"	"8th month"	"08"	1733
+	"Illinois"	"17"	"2020"	"2020"	"9th month"	"09"	576
+	"Illinois"	"17"	"2020"	"2020"	"Unknown or Not Stated"	"99"	3484
+	"Illinois"	"17"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Illinois"	"17"	"2021"	"2021"	"No prenatal care"	"00"	1807
+	"Illinois"	"17"	"2021"	"2021"	"1st month"	"01"	3478
+	"Illinois"	"17"	"2021"	"2021"	"2nd month"	"02"	52233
+	"Illinois"	"17"	"2021"	"2021"	"3rd month"	"03"	47090
+	"Illinois"	"17"	"2021"	"2021"	"4th month"	"04"	11142
+	"Illinois"	"17"	"2021"	"2021"	"5th month"	"05"	5473
+	"Illinois"	"17"	"2021"	"2021"	"6th month"	"06"	3246
+	"Illinois"	"17"	"2021"	"2021"	"7th month"	"07"	2421
+	"Illinois"	"17"	"2021"	"2021"	"8th month"	"08"	1696
+	"Illinois"	"17"	"2021"	"2021"	"9th month"	"09"	589
+	"Illinois"	"17"	"2021"	"2021"	"Unknown or Not Stated"	"99"	3007
+	"Illinois"	"17"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Illinois"	"17"	"2022"	"2022"	"No prenatal care"	"00"	1914
+	"Illinois"	"17"	"2022"	"2022"	"1st month"	"01"	3342
+	"Illinois"	"17"	"2022"	"2022"	"2nd month"	"02"	47853
+	"Illinois"	"17"	"2022"	"2022"	"3rd month"	"03"	47264
+	"Illinois"	"17"	"2022"	"2022"	"4th month"	"04"	11671
+	"Illinois"	"17"	"2022"	"2022"	"5th month"	"05"	5756
+	"Illinois"	"17"	"2022"	"2022"	"6th month"	"06"	3400
+	"Illinois"	"17"	"2022"	"2022"	"7th month"	"07"	2601
+	"Illinois"	"17"	"2022"	"2022"	"8th month"	"08"	1891
+	"Illinois"	"17"	"2022"	"2022"	"9th month"	"09"	644
+	"Illinois"	"17"	"2022"	"2022"	"Unknown or Not Stated"	"99"	2008
+	"Illinois"	"17"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Illinois"	"17"	"2023"	"2023"	"No prenatal care"	"00"	1915
+	"Illinois"	"17"	"2023"	"2023"	"1st month"	"01"	3153
+	"Illinois"	"17"	"2023"	"2023"	"2nd month"	"02"	43467
+	"Illinois"	"17"	"2023"	"2023"	"3rd month"	"03"	47699
+	"Illinois"	"17"	"2023"	"2023"	"4th month"	"04"	12082
+	"Illinois"	"17"	"2023"	"2023"	"5th month"	"05"	5694
+	"Illinois"	"17"	"2023"	"2023"	"6th month"	"06"	3544
+	"Illinois"	"17"	"2023"	"2023"	"7th month"	"07"	2746
+	"Illinois"	"17"	"2023"	"2023"	"8th month"	"08"	1991
+	"Illinois"	"17"	"2023"	"2023"	"9th month"	"09"	654
+	"Illinois"	"17"	"2023"	"2023"	"Unknown or Not Stated"	"99"	1871
+	"Illinois"	"17"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Indiana"	"18"	"2010"	"2010"	"No prenatal care"	"00"	1081
+	"Indiana"	"18"	"2010"	"2010"	"1st month"	"01"	2448
+	"Indiana"	"18"	"2010"	"2010"	"2nd month"	"02"	23535
+	"Indiana"	"18"	"2010"	"2010"	"3rd month"	"03"	31543
+	"Indiana"	"18"	"2010"	"2010"	"4th month"	"04"	11567
+	"Indiana"	"18"	"2010"	"2010"	"5th month"	"05"	5694
+	"Indiana"	"18"	"2010"	"2010"	"6th month"	"06"	3334
+	"Indiana"	"18"	"2010"	"2010"	"7th month"	"07"	2142
+	"Indiana"	"18"	"2010"	"2010"	"8th month"	"08"	1414
+	"Indiana"	"18"	"2010"	"2010"	"9th month"	"09"	628
+	"Indiana"	"18"	"2010"	"2010"	"10th month"	"10"	68
+	"Indiana"	"18"	"2010"	"2010"	"Unknown or Not Stated"	"99"	486
+	"Indiana"	"18"	"2010"	"2010"	"Not Reported"	"98"	0
+	"Indiana"	"18"	"2011"	"2011"	"No prenatal care"	"00"	1021
+	"Indiana"	"18"	"2011"	"2011"	"1st month"	"01"	2283
+	"Indiana"	"18"	"2011"	"2011"	"2nd month"	"02"	22874
+	"Indiana"	"18"	"2011"	"2011"	"3rd month"	"03"	31824
+	"Indiana"	"18"	"2011"	"2011"	"4th month"	"04"	11965
+	"Indiana"	"18"	"2011"	"2011"	"5th month"	"05"	5609
+	"Indiana"	"18"	"2011"	"2011"	"6th month"	"06"	3423
+	"Indiana"	"18"	"2011"	"2011"	"7th month"	"07"	2203
+	"Indiana"	"18"	"2011"	"2011"	"8th month"	"08"	1346
+	"Indiana"	"18"	"2011"	"2011"	"9th month"	"09"	648
+	"Indiana"	"18"	"2011"	"2011"	"10th month"	"10"	98
+	"Indiana"	"18"	"2011"	"2011"	"Unknown or Not Stated"	"99"	407
+	"Indiana"	"18"	"2011"	"2011"	"Not Reported"	"98"	0
+	"Indiana"	"18"	"2012"	"2012"	"No prenatal care"	"00"	1024
+	"Indiana"	"18"	"2012"	"2012"	"1st month"	"01"	2276
+	"Indiana"	"18"	"2012"	"2012"	"2nd month"	"02"	22717
+	"Indiana"	"18"	"2012"	"2012"	"3rd month"	"03"	31933
+	"Indiana"	"18"	"2012"	"2012"	"4th month"	"04"	11663
+	"Indiana"	"18"	"2012"	"2012"	"5th month"	"05"	5601
+	"Indiana"	"18"	"2012"	"2012"	"6th month"	"06"	3341
+	"Indiana"	"18"	"2012"	"2012"	"7th month"	"07"	2150
+	"Indiana"	"18"	"2012"	"2012"	"8th month"	"08"	1431
+	"Indiana"	"18"	"2012"	"2012"	"9th month"	"09"	648
+	"Indiana"	"18"	"2012"	"2012"	"10th month"	"10"	80
+	"Indiana"	"18"	"2012"	"2012"	"Unknown or Not Stated"	"99"	363
+	"Indiana"	"18"	"2012"	"2012"	"Not Reported"	"98"	0
+	"Indiana"	"18"	"2013"	"2013"	"No prenatal care"	"00"	1024
+	"Indiana"	"18"	"2013"	"2013"	"1st month"	"01"	2095
+	"Indiana"	"18"	"2013"	"2013"	"2nd month"	"02"	22076
+	"Indiana"	"18"	"2013"	"2013"	"3rd month"	"03"	32038
+	"Indiana"	"18"	"2013"	"2013"	"4th month"	"04"	11890
+	"Indiana"	"18"	"2013"	"2013"	"5th month"	"05"	5782
+	"Indiana"	"18"	"2013"	"2013"	"6th month"	"06"	3387
+	"Indiana"	"18"	"2013"	"2013"	"7th month"	"07"	2203
+	"Indiana"	"18"	"2013"	"2013"	"8th month"	"08"	1477
+	"Indiana"	"18"	"2013"	"2013"	"9th month"	"09"	698
+	"Indiana"	"18"	"2013"	"2013"	"10th month"	"10"	101
+	"Indiana"	"18"	"2013"	"2013"	"Unknown or Not Stated"	"99"	331
+	"Indiana"	"18"	"2013"	"2013"	"Not Reported"	"98"	0
+	"Indiana"	"18"	"2014"	"2014"	"No prenatal care"	"00"	1245
+	"Indiana"	"18"	"2014"	"2014"	"1st month"	"01"	2920
+	"Indiana"	"18"	"2014"	"2014"	"2nd month"	"02"	28648
+	"Indiana"	"18"	"2014"	"2014"	"3rd month"	"03"	28613
+	"Indiana"	"18"	"2014"	"2014"	"4th month"	"04"	10084
+	"Indiana"	"18"	"2014"	"2014"	"5th month"	"05"	5259
+	"Indiana"	"18"	"2014"	"2014"	"6th month"	"06"	3027
+	"Indiana"	"18"	"2014"	"2014"	"7th month"	"07"	2207
+	"Indiana"	"18"	"2014"	"2014"	"8th month"	"08"	1364
+	"Indiana"	"18"	"2014"	"2014"	"9th month"	"09"	488
+	"Indiana"	"18"	"2014"	"2014"	"Unknown or Not Stated"	"99"	216
+	"Indiana"	"18"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Indiana"	"18"	"2015"	"2015"	"No prenatal care"	"00"	1079
+	"Indiana"	"18"	"2015"	"2015"	"1st month"	"01"	3134
+	"Indiana"	"18"	"2015"	"2015"	"2nd month"	"02"	28655
+	"Indiana"	"18"	"2015"	"2015"	"3rd month"	"03"	29804
+	"Indiana"	"18"	"2015"	"2015"	"4th month"	"04"	9706
+	"Indiana"	"18"	"2015"	"2015"	"5th month"	"05"	4890
+	"Indiana"	"18"	"2015"	"2015"	"6th month"	"06"	2844
+	"Indiana"	"18"	"2015"	"2015"	"7th month"	"07"	1937
+	"Indiana"	"18"	"2015"	"2015"	"8th month"	"08"	1337
+	"Indiana"	"18"	"2015"	"2015"	"9th month"	"09"	460
+	"Indiana"	"18"	"2015"	"2015"	"Unknown or Not Stated"	"99"	188
+	"Indiana"	"18"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Indiana"	"18"	"2016"	"2016"	"No prenatal care"	"00"	1128
+	"Indiana"	"18"	"2016"	"2016"	"1st month"	"01"	2926
+	"Indiana"	"18"	"2016"	"2016"	"2nd month"	"02"	27491
+	"Indiana"	"18"	"2016"	"2016"	"3rd month"	"03"	30758
+	"Indiana"	"18"	"2016"	"2016"	"4th month"	"04"	9452
+	"Indiana"	"18"	"2016"	"2016"	"5th month"	"05"	4699
+	"Indiana"	"18"	"2016"	"2016"	"6th month"	"06"	2603
+	"Indiana"	"18"	"2016"	"2016"	"7th month"	"07"	1988
+	"Indiana"	"18"	"2016"	"2016"	"8th month"	"08"	1381
+	"Indiana"	"18"	"2016"	"2016"	"9th month"	"09"	464
+	"Indiana"	"18"	"2016"	"2016"	"10th month"	"10"	10
+	"Indiana"	"18"	"2016"	"2016"	"Unknown or Not Stated"	"99"	191
+	"Indiana"	"18"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Indiana"	"18"	"2017"	"2017"	"No prenatal care"	"00"	1229
+	"Indiana"	"18"	"2017"	"2017"	"1st month"	"01"	2242
+	"Indiana"	"18"	"2017"	"2017"	"2nd month"	"02"	26678
+	"Indiana"	"18"	"2017"	"2017"	"3rd month"	"03"	31012
+	"Indiana"	"18"	"2017"	"2017"	"4th month"	"04"	9547
+	"Indiana"	"18"	"2017"	"2017"	"5th month"	"05"	4606
+	"Indiana"	"18"	"2017"	"2017"	"6th month"	"06"	2743
+	"Indiana"	"18"	"2017"	"2017"	"7th month"	"07"	2001
+	"Indiana"	"18"	"2017"	"2017"	"8th month"	"08"	1387
+	"Indiana"	"18"	"2017"	"2017"	"9th month"	"09"	511
+	"Indiana"	"18"	"2017"	"2017"	"Unknown or Not Stated"	"99"	206
+	"Indiana"	"18"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Indiana"	"18"	"2018"	"2018"	"No prenatal care"	"00"	1228
+	"Indiana"	"18"	"2018"	"2018"	"1st month"	"01"	2023
+	"Indiana"	"18"	"2018"	"2018"	"2nd month"	"02"	25936
+	"Indiana"	"18"	"2018"	"2018"	"3rd month"	"03"	31318
+	"Indiana"	"18"	"2018"	"2018"	"4th month"	"04"	9483
+	"Indiana"	"18"	"2018"	"2018"	"5th month"	"05"	4637
+	"Indiana"	"18"	"2018"	"2018"	"6th month"	"06"	2788
+	"Indiana"	"18"	"2018"	"2018"	"7th month"	"07"	2091
+	"Indiana"	"18"	"2018"	"2018"	"8th month"	"08"	1354
+	"Indiana"	"18"	"2018"	"2018"	"9th month"	"09"	566
+	"Indiana"	"18"	"2018"	"2018"	"Unknown or Not Stated"	"99"	213
+	"Indiana"	"18"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Indiana"	"18"	"2019"	"2019"	"No prenatal care"	"00"	1259
+	"Indiana"	"18"	"2019"	"2019"	"1st month"	"01"	1990
+	"Indiana"	"18"	"2019"	"2019"	"2nd month"	"02"	26322
+	"Indiana"	"18"	"2019"	"2019"	"3rd month"	"03"	30945
+	"Indiana"	"18"	"2019"	"2019"	"4th month"	"04"	9382
+	"Indiana"	"18"	"2019"	"2019"	"5th month"	"05"	4335
+	"Indiana"	"18"	"2019"	"2019"	"6th month"	"06"	2603
+	"Indiana"	"18"	"2019"	"2019"	"7th month"	"07"	1939
+	"Indiana"	"18"	"2019"	"2019"	"8th month"	"08"	1348
+	"Indiana"	"18"	"2019"	"2019"	"9th month"	"09"	552
+	"Indiana"	"18"	"2019"	"2019"	"Unknown or Not Stated"	"99"	177
+	"Indiana"	"18"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Indiana"	"18"	"2020"	"2020"	"No prenatal care"	"00"	1148
+	"Indiana"	"18"	"2020"	"2020"	"1st month"	"01"	1897
+	"Indiana"	"18"	"2020"	"2020"	"2nd month"	"02"	25842
+	"Indiana"	"18"	"2020"	"2020"	"3rd month"	"03"	30493
+	"Indiana"	"18"	"2020"	"2020"	"4th month"	"04"	8873
+	"Indiana"	"18"	"2020"	"2020"	"5th month"	"05"	4309
+	"Indiana"	"18"	"2020"	"2020"	"6th month"	"06"	2437
+	"Indiana"	"18"	"2020"	"2020"	"7th month"	"07"	1768
+	"Indiana"	"18"	"2020"	"2020"	"8th month"	"08"	1296
+	"Indiana"	"18"	"2020"	"2020"	"9th month"	"09"	432
+	"Indiana"	"18"	"2020"	"2020"	"Unknown or Not Stated"	"99"	113
+	"Indiana"	"18"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Indiana"	"18"	"2021"	"2021"	"No prenatal care"	"00"	1423
+	"Indiana"	"18"	"2021"	"2021"	"1st month"	"01"	2091
+	"Indiana"	"18"	"2021"	"2021"	"2nd month"	"02"	27186
+	"Indiana"	"18"	"2021"	"2021"	"3rd month"	"03"	31430
+	"Indiana"	"18"	"2021"	"2021"	"4th month"	"04"	8356
+	"Indiana"	"18"	"2021"	"2021"	"5th month"	"05"	3684
+	"Indiana"	"18"	"2021"	"2021"	"6th month"	"06"	2190
+	"Indiana"	"18"	"2021"	"2021"	"7th month"	"07"	1756
+	"Indiana"	"18"	"2021"	"2021"	"8th month"	"08"	1271
+	"Indiana"	"18"	"2021"	"2021"	"9th month"	"09"	406
+	"Indiana"	"18"	"2021"	"2021"	"Unknown or Not Stated"	"99"	150
+	"Indiana"	"18"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Indiana"	"18"	"2022"	"2022"	"No prenatal care"	"00"	1561
+	"Indiana"	"18"	"2022"	"2022"	"1st month"	"01"	2026
+	"Indiana"	"18"	"2022"	"2022"	"2nd month"	"02"	25501
+	"Indiana"	"18"	"2022"	"2022"	"3rd month"	"03"	32627
+	"Indiana"	"18"	"2022"	"2022"	"4th month"	"04"	7970
+	"Indiana"	"18"	"2022"	"2022"	"5th month"	"05"	3906
+	"Indiana"	"18"	"2022"	"2022"	"6th month"	"06"	2241
+	"Indiana"	"18"	"2022"	"2022"	"7th month"	"07"	1834
+	"Indiana"	"18"	"2022"	"2022"	"8th month"	"08"	1327
+	"Indiana"	"18"	"2022"	"2022"	"9th month"	"09"	513
+	"Indiana"	"18"	"2022"	"2022"	"Unknown or Not Stated"	"99"	141
+	"Indiana"	"18"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Indiana"	"18"	"2023"	"2023"	"No prenatal care"	"00"	1660
+	"Indiana"	"18"	"2023"	"2023"	"1st month"	"01"	2016
+	"Indiana"	"18"	"2023"	"2023"	"2nd month"	"02"	23920
+	"Indiana"	"18"	"2023"	"2023"	"3rd month"	"03"	32995
+	"Indiana"	"18"	"2023"	"2023"	"4th month"	"04"	8389
+	"Indiana"	"18"	"2023"	"2023"	"5th month"	"05"	3931
+	"Indiana"	"18"	"2023"	"2023"	"6th month"	"06"	2353
+	"Indiana"	"18"	"2023"	"2023"	"7th month"	"07"	1848
+	"Indiana"	"18"	"2023"	"2023"	"8th month"	"08"	1263
+	"Indiana"	"18"	"2023"	"2023"	"9th month"	"09"	503
+	"Indiana"	"18"	"2023"	"2023"	"Unknown or Not Stated"	"99"	114
+	"Indiana"	"18"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Maryland"	"24"	"2010"	"2010"	"No prenatal care"	"00"	1261
+	"Maryland"	"24"	"2010"	"2010"	"1st month"	"01"	2252
+	"Maryland"	"24"	"2010"	"2010"	"2nd month"	"02"	17203
+	"Maryland"	"24"	"2010"	"2010"	"3rd month"	"03"	22035
+	"Maryland"	"24"	"2010"	"2010"	"4th month"	"04"	7759
+	"Maryland"	"24"	"2010"	"2010"	"5th month"	"05"	3954
+	"Maryland"	"24"	"2010"	"2010"	"6th month"	"06"	2387
+	"Maryland"	"24"	"2010"	"2010"	"7th month"	"07"	1608
+	"Maryland"	"24"	"2010"	"2010"	"8th month"	"08"	1143
+	"Maryland"	"24"	"2010"	"2010"	"9th month"	"09"	517
+	"Maryland"	"24"	"2010"	"2010"	"10th month"	"10"	80
+	"Maryland"	"24"	"2010"	"2010"	"Unknown or Not Stated"	"99"	13602
+	"Maryland"	"24"	"2010"	"2010"	"Not Reported"	"98"	0
+	"Maryland"	"24"	"2011"	"2011"	"No prenatal care"	"00"	1584
+	"Maryland"	"24"	"2011"	"2011"	"1st month"	"01"	1791
+	"Maryland"	"24"	"2011"	"2011"	"2nd month"	"02"	19011
+	"Maryland"	"24"	"2011"	"2011"	"3rd month"	"03"	24244
+	"Maryland"	"24"	"2011"	"2011"	"4th month"	"04"	8689
+	"Maryland"	"24"	"2011"	"2011"	"5th month"	"05"	4500
+	"Maryland"	"24"	"2011"	"2011"	"6th month"	"06"	2727
+	"Maryland"	"24"	"2011"	"2011"	"7th month"	"07"	1962
+	"Maryland"	"24"	"2011"	"2011"	"8th month"	"08"	1331
+	"Maryland"	"24"	"2011"	"2011"	"9th month"	"09"	666
+	"Maryland"	"24"	"2011"	"2011"	"10th month"	"10"	66
+	"Maryland"	"24"	"2011"	"2011"	"Unknown or Not Stated"	"99"	6522
+	"Maryland"	"24"	"2011"	"2011"	"Not Reported"	"98"	0
+	"Maryland"	"24"	"2012"	"2012"	"No prenatal care"	"00"	1565
+	"Maryland"	"24"	"2012"	"2012"	"1st month"	"01"	1972
+	"Maryland"	"24"	"2012"	"2012"	"2nd month"	"02"	19813
+	"Maryland"	"24"	"2012"	"2012"	"3rd month"	"03"	25913
+	"Maryland"	"24"	"2012"	"2012"	"4th month"	"04"	9041
+	"Maryland"	"24"	"2012"	"2012"	"5th month"	"05"	4520
+	"Maryland"	"24"	"2012"	"2012"	"6th month"	"06"	2848
+	"Maryland"	"24"	"2012"	"2012"	"7th month"	"07"	2021
+	"Maryland"	"24"	"2012"	"2012"	"8th month"	"08"	1591
+	"Maryland"	"24"	"2012"	"2012"	"9th month"	"09"	803
+	"Maryland"	"24"	"2012"	"2012"	"10th month"	"10"	99
+	"Maryland"	"24"	"2012"	"2012"	"Unknown or Not Stated"	"99"	2697
+	"Maryland"	"24"	"2012"	"2012"	"Not Reported"	"98"	0
+	"Maryland"	"24"	"2013"	"2013"	"No prenatal care"	"00"	1523
+	"Maryland"	"24"	"2013"	"2013"	"1st month"	"01"	1388
+	"Maryland"	"24"	"2013"	"2013"	"2nd month"	"02"	19366
+	"Maryland"	"24"	"2013"	"2013"	"3rd month"	"03"	23987
+	"Maryland"	"24"	"2013"	"2013"	"4th month"	"04"	8558
+	"Maryland"	"24"	"2013"	"2013"	"5th month"	"05"	4245
+	"Maryland"	"24"	"2013"	"2013"	"6th month"	"06"	2747
+	"Maryland"	"24"	"2013"	"2013"	"7th month"	"07"	2002
+	"Maryland"	"24"	"2013"	"2013"	"8th month"	"08"	1635
+	"Maryland"	"24"	"2013"	"2013"	"9th month"	"09"	868
+	"Maryland"	"24"	"2013"	"2013"	"10th month"	"10"	74
+	"Maryland"	"24"	"2013"	"2013"	"Unknown or Not Stated"	"99"	5560
+	"Maryland"	"24"	"2013"	"2013"	"Not Reported"	"98"	0
+	"Maryland"	"24"	"2014"	"2014"	"No prenatal care"	"00"	1249
+	"Maryland"	"24"	"2014"	"2014"	"1st month"	"01"	1771
+	"Maryland"	"24"	"2014"	"2014"	"2nd month"	"02"	25270
+	"Maryland"	"24"	"2014"	"2014"	"3rd month"	"03"	21310
+	"Maryland"	"24"	"2014"	"2014"	"4th month"	"04"	7589
+	"Maryland"	"24"	"2014"	"2014"	"5th month"	"05"	4055
+	"Maryland"	"24"	"2014"	"2014"	"6th month"	"06"	2619
+	"Maryland"	"24"	"2014"	"2014"	"7th month"	"07"	2058
+	"Maryland"	"24"	"2014"	"2014"	"8th month"	"08"	1667
+	"Maryland"	"24"	"2014"	"2014"	"9th month"	"09"	837
+	"Maryland"	"24"	"2014"	"2014"	"10th month"	"10"	21
+	"Maryland"	"24"	"2014"	"2014"	"Unknown or Not Stated"	"99"	5475
+	"Maryland"	"24"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Maryland"	"24"	"2015"	"2015"	"No prenatal care"	"00"	1210
+	"Maryland"	"24"	"2015"	"2015"	"1st month"	"01"	1517
+	"Maryland"	"24"	"2015"	"2015"	"2nd month"	"02"	25603
+	"Maryland"	"24"	"2015"	"2015"	"3rd month"	"03"	21554
+	"Maryland"	"24"	"2015"	"2015"	"4th month"	"04"	7498
+	"Maryland"	"24"	"2015"	"2015"	"5th month"	"05"	4051
+	"Maryland"	"24"	"2015"	"2015"	"6th month"	"06"	2598
+	"Maryland"	"24"	"2015"	"2015"	"7th month"	"07"	2071
+	"Maryland"	"24"	"2015"	"2015"	"8th month"	"08"	1606
+	"Maryland"	"24"	"2015"	"2015"	"9th month"	"09"	786
+	"Maryland"	"24"	"2015"	"2015"	"10th month"	"10"	11
+	"Maryland"	"24"	"2015"	"2015"	"Unknown or Not Stated"	"99"	5111
+	"Maryland"	"24"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Maryland"	"24"	"2016"	"2016"	"No prenatal care"	"00"	1013
+	"Maryland"	"24"	"2016"	"2016"	"1st month"	"01"	1704
+	"Maryland"	"24"	"2016"	"2016"	"2nd month"	"02"	25596
+	"Maryland"	"24"	"2016"	"2016"	"3rd month"	"03"	21744
+	"Maryland"	"24"	"2016"	"2016"	"4th month"	"04"	7314
+	"Maryland"	"24"	"2016"	"2016"	"5th month"	"05"	3960
+	"Maryland"	"24"	"2016"	"2016"	"6th month"	"06"	2474
+	"Maryland"	"24"	"2016"	"2016"	"7th month"	"07"	2020
+	"Maryland"	"24"	"2016"	"2016"	"8th month"	"08"	1581
+	"Maryland"	"24"	"2016"	"2016"	"9th month"	"09"	713
+	"Maryland"	"24"	"2016"	"2016"	"Unknown or Not Stated"	"99"	5009
+	"Maryland"	"24"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Maryland"	"24"	"2017"	"2017"	"No prenatal care"	"00"	830
+	"Maryland"	"24"	"2017"	"2017"	"1st month"	"01"	1867
+	"Maryland"	"24"	"2017"	"2017"	"2nd month"	"02"	26620
+	"Maryland"	"24"	"2017"	"2017"	"3rd month"	"03"	21888
+	"Maryland"	"24"	"2017"	"2017"	"4th month"	"04"	7159
+	"Maryland"	"24"	"2017"	"2017"	"5th month"	"05"	3759
+	"Maryland"	"24"	"2017"	"2017"	"6th month"	"06"	2287
+	"Maryland"	"24"	"2017"	"2017"	"7th month"	"07"	1869
+	"Maryland"	"24"	"2017"	"2017"	"8th month"	"08"	1411
+	"Maryland"	"24"	"2017"	"2017"	"9th month"	"09"	561
+	"Maryland"	"24"	"2017"	"2017"	"10th month"	"10"	14
+	"Maryland"	"24"	"2017"	"2017"	"Unknown or Not Stated"	"99"	3376
+	"Maryland"	"24"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Maryland"	"24"	"2018"	"2018"	"No prenatal care"	"00"	900
+	"Maryland"	"24"	"2018"	"2018"	"1st month"	"01"	1690
+	"Maryland"	"24"	"2018"	"2018"	"2nd month"	"02"	26032
+	"Maryland"	"24"	"2018"	"2018"	"3rd month"	"03"	22837
+	"Maryland"	"24"	"2018"	"2018"	"4th month"	"04"	6963
+	"Maryland"	"24"	"2018"	"2018"	"5th month"	"05"	3537
+	"Maryland"	"24"	"2018"	"2018"	"6th month"	"06"	2244
+	"Maryland"	"24"	"2018"	"2018"	"7th month"	"07"	1597
+	"Maryland"	"24"	"2018"	"2018"	"8th month"	"08"	1410
+	"Maryland"	"24"	"2018"	"2018"	"9th month"	"09"	550
+	"Maryland"	"24"	"2018"	"2018"	"10th month"	"10"	12
+	"Maryland"	"24"	"2018"	"2018"	"Unknown or Not Stated"	"99"	3308
+	"Maryland"	"24"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Maryland"	"24"	"2019"	"2019"	"No prenatal care"	"00"	1063
+	"Maryland"	"24"	"2019"	"2019"	"1st month"	"01"	1612
+	"Maryland"	"24"	"2019"	"2019"	"2nd month"	"02"	25309
+	"Maryland"	"24"	"2019"	"2019"	"3rd month"	"03"	23060
+	"Maryland"	"24"	"2019"	"2019"	"4th month"	"04"	6792
+	"Maryland"	"24"	"2019"	"2019"	"5th month"	"05"	3513
+	"Maryland"	"24"	"2019"	"2019"	"6th month"	"06"	2057
+	"Maryland"	"24"	"2019"	"2019"	"7th month"	"07"	1748
+	"Maryland"	"24"	"2019"	"2019"	"8th month"	"08"	1325
+	"Maryland"	"24"	"2019"	"2019"	"9th month"	"09"	574
+	"Maryland"	"24"	"2019"	"2019"	"10th month"	"10"	16
+	"Maryland"	"24"	"2019"	"2019"	"Unknown or Not Stated"	"99"	3109
+	"Maryland"	"24"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Maryland"	"24"	"2020"	"2020"	"No prenatal care"	"00"	929
+	"Maryland"	"24"	"2020"	"2020"	"1st month"	"01"	1483
+	"Maryland"	"24"	"2020"	"2020"	"2nd month"	"02"	24077
+	"Maryland"	"24"	"2020"	"2020"	"3rd month"	"03"	24021
+	"Maryland"	"24"	"2020"	"2020"	"4th month"	"04"	6764
+	"Maryland"	"24"	"2020"	"2020"	"5th month"	"05"	3616
+	"Maryland"	"24"	"2020"	"2020"	"6th month"	"06"	2096
+	"Maryland"	"24"	"2020"	"2020"	"7th month"	"07"	1549
+	"Maryland"	"24"	"2020"	"2020"	"8th month"	"08"	1055
+	"Maryland"	"24"	"2020"	"2020"	"9th month"	"09"	394
+	"Maryland"	"24"	"2020"	"2020"	"Unknown or Not Stated"	"99"	2564
+	"Maryland"	"24"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Maryland"	"24"	"2021"	"2021"	"No prenatal care"	"00"	974
+	"Maryland"	"24"	"2021"	"2021"	"1st month"	"01"	1480
+	"Maryland"	"24"	"2021"	"2021"	"2nd month"	"02"	24738
+	"Maryland"	"24"	"2021"	"2021"	"3rd month"	"03"	24191
+	"Maryland"	"24"	"2021"	"2021"	"4th month"	"04"	6384
+	"Maryland"	"24"	"2021"	"2021"	"5th month"	"05"	3106
+	"Maryland"	"24"	"2021"	"2021"	"6th month"	"06"	1967
+	"Maryland"	"24"	"2021"	"2021"	"7th month"	"07"	1448
+	"Maryland"	"24"	"2021"	"2021"	"8th month"	"08"	1046
+	"Maryland"	"24"	"2021"	"2021"	"9th month"	"09"	470
+	"Maryland"	"24"	"2021"	"2021"	"Unknown or Not Stated"	"99"	2475
+	"Maryland"	"24"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Maryland"	"24"	"2022"	"2022"	"No prenatal care"	"00"	1365
+	"Maryland"	"24"	"2022"	"2022"	"1st month"	"01"	1258
+	"Maryland"	"24"	"2022"	"2022"	"2nd month"	"02"	22837
+	"Maryland"	"24"	"2022"	"2022"	"3rd month"	"03"	24534
+	"Maryland"	"24"	"2022"	"2022"	"4th month"	"04"	6773
+	"Maryland"	"24"	"2022"	"2022"	"5th month"	"05"	3393
+	"Maryland"	"24"	"2022"	"2022"	"6th month"	"06"	2047
+	"Maryland"	"24"	"2022"	"2022"	"7th month"	"07"	1537
+	"Maryland"	"24"	"2022"	"2022"	"8th month"	"08"	1113
+	"Maryland"	"24"	"2022"	"2022"	"9th month"	"09"	555
+	"Maryland"	"24"	"2022"	"2022"	"10th month"	"10"	10
+	"Maryland"	"24"	"2022"	"2022"	"Unknown or Not Stated"	"99"	3360
+	"Maryland"	"24"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Maryland"	"24"	"2023"	"2023"	"No prenatal care"	"00"	1243
+	"Maryland"	"24"	"2023"	"2023"	"1st month"	"01"	1182
+	"Maryland"	"24"	"2023"	"2023"	"2nd month"	"02"	21405
+	"Maryland"	"24"	"2023"	"2023"	"3rd month"	"03"	23746
+	"Maryland"	"24"	"2023"	"2023"	"4th month"	"04"	6615
+	"Maryland"	"24"	"2023"	"2023"	"5th month"	"05"	3155
+	"Maryland"	"24"	"2023"	"2023"	"6th month"	"06"	1940
+	"Maryland"	"24"	"2023"	"2023"	"7th month"	"07"	1500
+	"Maryland"	"24"	"2023"	"2023"	"8th month"	"08"	1070
+	"Maryland"	"24"	"2023"	"2023"	"9th month"	"09"	463
+	"Maryland"	"24"	"2023"	"2023"	"Unknown or Not Stated"	"99"	3270
+	"Maryland"	"24"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Michigan"	"26"	"2010"	"2010"	"No prenatal care"	"00"	1358
+	"Michigan"	"26"	"2010"	"2010"	"1st month"	"01"	8672
+	"Michigan"	"26"	"2010"	"2010"	"2nd month"	"02"	38456
+	"Michigan"	"26"	"2010"	"2010"	"3rd month"	"03"	39440
+	"Michigan"	"26"	"2010"	"2010"	"4th month"	"04"	11628
+	"Michigan"	"26"	"2010"	"2010"	"5th month"	"05"	5169
+	"Michigan"	"26"	"2010"	"2010"	"6th month"	"06"	2955
+	"Michigan"	"26"	"2010"	"2010"	"7th month"	"07"	1816
+	"Michigan"	"26"	"2010"	"2010"	"8th month"	"08"	1137
+	"Michigan"	"26"	"2010"	"2010"	"9th month"	"09"	458
+	"Michigan"	"26"	"2010"	"2010"	"10th month"	"10"	61
+	"Michigan"	"26"	"2010"	"2010"	"Unknown or Not Stated"	"99"	3381
+	"Michigan"	"26"	"2010"	"2010"	"Not Reported"	"98"	0
+	"Michigan"	"26"	"2011"	"2011"	"No prenatal care"	"00"	1262
+	"Michigan"	"26"	"2011"	"2011"	"1st month"	"01"	8236
+	"Michigan"	"26"	"2011"	"2011"	"2nd month"	"02"	38256
+	"Michigan"	"26"	"2011"	"2011"	"3rd month"	"03"	39906
+	"Michigan"	"26"	"2011"	"2011"	"4th month"	"04"	11491
+	"Michigan"	"26"	"2011"	"2011"	"5th month"	"05"	5086
+	"Michigan"	"26"	"2011"	"2011"	"6th month"	"06"	2915
+	"Michigan"	"26"	"2011"	"2011"	"7th month"	"07"	1866
+	"Michigan"	"26"	"2011"	"2011"	"8th month"	"08"	1213
+	"Michigan"	"26"	"2011"	"2011"	"9th month"	"09"	544
+	"Michigan"	"26"	"2011"	"2011"	"10th month"	"10"	71
+	"Michigan"	"26"	"2011"	"2011"	"Unknown or Not Stated"	"99"	3162
+	"Michigan"	"26"	"2011"	"2011"	"Not Reported"	"98"	0
+	"Michigan"	"26"	"2012"	"2012"	"No prenatal care"	"00"	1251
+	"Michigan"	"26"	"2012"	"2012"	"1st month"	"01"	8898
+	"Michigan"	"26"	"2012"	"2012"	"2nd month"	"02"	37577
+	"Michigan"	"26"	"2012"	"2012"	"3rd month"	"03"	38961
+	"Michigan"	"26"	"2012"	"2012"	"4th month"	"04"	11208
+	"Michigan"	"26"	"2012"	"2012"	"5th month"	"05"	5138
+	"Michigan"	"26"	"2012"	"2012"	"6th month"	"06"	3093
+	"Michigan"	"26"	"2012"	"2012"	"7th month"	"07"	1963
+	"Michigan"	"26"	"2012"	"2012"	"8th month"	"08"	1311
+	"Michigan"	"26"	"2012"	"2012"	"9th month"	"09"	584
+	"Michigan"	"26"	"2012"	"2012"	"10th month"	"10"	85
+	"Michigan"	"26"	"2012"	"2012"	"Unknown or Not Stated"	"99"	3022
+	"Michigan"	"26"	"2012"	"2012"	"Not Reported"	"98"	0
+	"Michigan"	"26"	"2013"	"2013"	"No prenatal care"	"00"	1524
+	"Michigan"	"26"	"2013"	"2013"	"1st month"	"01"	8347
+	"Michigan"	"26"	"2013"	"2013"	"2nd month"	"02"	36863
+	"Michigan"	"26"	"2013"	"2013"	"3rd month"	"03"	39310
+	"Michigan"	"26"	"2013"	"2013"	"4th month"	"04"	11721
+	"Michigan"	"26"	"2013"	"2013"	"5th month"	"05"	5270
+	"Michigan"	"26"	"2013"	"2013"	"6th month"	"06"	3171
+	"Michigan"	"26"	"2013"	"2013"	"7th month"	"07"	2227
+	"Michigan"	"26"	"2013"	"2013"	"8th month"	"08"	1422
+	"Michigan"	"26"	"2013"	"2013"	"9th month"	"09"	621
+	"Michigan"	"26"	"2013"	"2013"	"10th month"	"10"	98
+	"Michigan"	"26"	"2013"	"2013"	"Unknown or Not Stated"	"99"	2915
+	"Michigan"	"26"	"2013"	"2013"	"Not Reported"	"98"	0
+	"Michigan"	"26"	"2014"	"2014"	"No prenatal care"	"00"	1479
+	"Michigan"	"26"	"2014"	"2014"	"1st month"	"01"	9917
+	"Michigan"	"26"	"2014"	"2014"	"2nd month"	"02"	43822
+	"Michigan"	"26"	"2014"	"2014"	"3rd month"	"03"	34647
+	"Michigan"	"26"	"2014"	"2014"	"4th month"	"04"	10235
+	"Michigan"	"26"	"2014"	"2014"	"5th month"	"05"	4956
+	"Michigan"	"26"	"2014"	"2014"	"6th month"	"06"	2984
+	"Michigan"	"26"	"2014"	"2014"	"7th month"	"07"	2111
+	"Michigan"	"26"	"2014"	"2014"	"8th month"	"08"	1313
+	"Michigan"	"26"	"2014"	"2014"	"9th month"	"09"	482
+	"Michigan"	"26"	"2014"	"2014"	"Unknown or Not Stated"	"99"	2424
+	"Michigan"	"26"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Michigan"	"26"	"2015"	"2015"	"No prenatal care"	"00"	1521
+	"Michigan"	"26"	"2015"	"2015"	"1st month"	"01"	9733
+	"Michigan"	"26"	"2015"	"2015"	"2nd month"	"02"	43887
+	"Michigan"	"26"	"2015"	"2015"	"3rd month"	"03"	33962
+	"Michigan"	"26"	"2015"	"2015"	"4th month"	"04"	9925
+	"Michigan"	"26"	"2015"	"2015"	"5th month"	"05"	4814
+	"Michigan"	"26"	"2015"	"2015"	"6th month"	"06"	2786
+	"Michigan"	"26"	"2015"	"2015"	"7th month"	"07"	1971
+	"Michigan"	"26"	"2015"	"2015"	"8th month"	"08"	1367
+	"Michigan"	"26"	"2015"	"2015"	"9th month"	"09"	503
+	"Michigan"	"26"	"2015"	"2015"	"10th month"	"10"	14
+	"Michigan"	"26"	"2015"	"2015"	"Unknown or Not Stated"	"99"	2829
+	"Michigan"	"26"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Michigan"	"26"	"2016"	"2016"	"No prenatal care"	"00"	1599
+	"Michigan"	"26"	"2016"	"2016"	"1st month"	"01"	9578
+	"Michigan"	"26"	"2016"	"2016"	"2nd month"	"02"	43719
+	"Michigan"	"26"	"2016"	"2016"	"3rd month"	"03"	34529
+	"Michigan"	"26"	"2016"	"2016"	"4th month"	"04"	9620
+	"Michigan"	"26"	"2016"	"2016"	"5th month"	"05"	4737
+	"Michigan"	"26"	"2016"	"2016"	"6th month"	"06"	2747
+	"Michigan"	"26"	"2016"	"2016"	"7th month"	"07"	1949
+	"Michigan"	"26"	"2016"	"2016"	"8th month"	"08"	1223
+	"Michigan"	"26"	"2016"	"2016"	"9th month"	"09"	416
+	"Michigan"	"26"	"2016"	"2016"	"Unknown or Not Stated"	"99"	3190
+	"Michigan"	"26"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Michigan"	"26"	"2017"	"2017"	"No prenatal care"	"00"	1775
+	"Michigan"	"26"	"2017"	"2017"	"1st month"	"01"	9058
+	"Michigan"	"26"	"2017"	"2017"	"2nd month"	"02"	42928
+	"Michigan"	"26"	"2017"	"2017"	"3rd month"	"03"	34896
+	"Michigan"	"26"	"2017"	"2017"	"4th month"	"04"	9048
+	"Michigan"	"26"	"2017"	"2017"	"5th month"	"05"	4317
+	"Michigan"	"26"	"2017"	"2017"	"6th month"	"06"	2544
+	"Michigan"	"26"	"2017"	"2017"	"7th month"	"07"	1879
+	"Michigan"	"26"	"2017"	"2017"	"8th month"	"08"	1183
+	"Michigan"	"26"	"2017"	"2017"	"9th month"	"09"	391
+	"Michigan"	"26"	"2017"	"2017"	"10th month"	"10"	12
+	"Michigan"	"26"	"2017"	"2017"	"Unknown or Not Stated"	"99"	3395
+	"Michigan"	"26"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Michigan"	"26"	"2018"	"2018"	"No prenatal care"	"00"	1445
+	"Michigan"	"26"	"2018"	"2018"	"1st month"	"01"	8305
+	"Michigan"	"26"	"2018"	"2018"	"2nd month"	"02"	42289
+	"Michigan"	"26"	"2018"	"2018"	"3rd month"	"03"	34916
+	"Michigan"	"26"	"2018"	"2018"	"4th month"	"04"	9492
+	"Michigan"	"26"	"2018"	"2018"	"5th month"	"05"	4315
+	"Michigan"	"26"	"2018"	"2018"	"6th month"	"06"	2698
+	"Michigan"	"26"	"2018"	"2018"	"7th month"	"07"	2027
+	"Michigan"	"26"	"2018"	"2018"	"8th month"	"08"	1233
+	"Michigan"	"26"	"2018"	"2018"	"9th month"	"09"	445
+	"Michigan"	"26"	"2018"	"2018"	"10th month"	"10"	10
+	"Michigan"	"26"	"2018"	"2018"	"Unknown or Not Stated"	"99"	2857
+	"Michigan"	"26"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Michigan"	"26"	"2019"	"2019"	"No prenatal care"	"00"	1531
+	"Michigan"	"26"	"2019"	"2019"	"1st month"	"01"	8158
+	"Michigan"	"26"	"2019"	"2019"	"2nd month"	"02"	41628
+	"Michigan"	"26"	"2019"	"2019"	"3rd month"	"03"	34337
+	"Michigan"	"26"	"2019"	"2019"	"4th month"	"04"	8744
+	"Michigan"	"26"	"2019"	"2019"	"5th month"	"05"	4145
+	"Michigan"	"26"	"2019"	"2019"	"6th month"	"06"	2698
+	"Michigan"	"26"	"2019"	"2019"	"7th month"	"07"	2005
+	"Michigan"	"26"	"2019"	"2019"	"8th month"	"08"	1539
+	"Michigan"	"26"	"2019"	"2019"	"9th month"	"09"	513
+	"Michigan"	"26"	"2019"	"2019"	"Unknown or Not Stated"	"99"	2582
+	"Michigan"	"26"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Michigan"	"26"	"2020"	"2020"	"No prenatal care"	"00"	1679
+	"Michigan"	"26"	"2020"	"2020"	"1st month"	"01"	6222
+	"Michigan"	"26"	"2020"	"2020"	"2nd month"	"02"	41312
+	"Michigan"	"26"	"2020"	"2020"	"3rd month"	"03"	34169
+	"Michigan"	"26"	"2020"	"2020"	"4th month"	"04"	8867
+	"Michigan"	"26"	"2020"	"2020"	"5th month"	"05"	4140
+	"Michigan"	"26"	"2020"	"2020"	"6th month"	"06"	2505
+	"Michigan"	"26"	"2020"	"2020"	"7th month"	"07"	1894
+	"Michigan"	"26"	"2020"	"2020"	"8th month"	"08"	1397
+	"Michigan"	"26"	"2020"	"2020"	"9th month"	"09"	484
+	"Michigan"	"26"	"2020"	"2020"	"Unknown or Not Stated"	"99"	1397
+	"Michigan"	"26"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Michigan"	"26"	"2021"	"2021"	"No prenatal care"	"00"	1958
+	"Michigan"	"26"	"2021"	"2021"	"1st month"	"01"	4954
+	"Michigan"	"26"	"2021"	"2021"	"2nd month"	"02"	39921
+	"Michigan"	"26"	"2021"	"2021"	"3rd month"	"03"	37408
+	"Michigan"	"26"	"2021"	"2021"	"4th month"	"04"	9154
+	"Michigan"	"26"	"2021"	"2021"	"5th month"	"05"	4155
+	"Michigan"	"26"	"2021"	"2021"	"6th month"	"06"	2435
+	"Michigan"	"26"	"2021"	"2021"	"7th month"	"07"	1897
+	"Michigan"	"26"	"2021"	"2021"	"8th month"	"08"	1309
+	"Michigan"	"26"	"2021"	"2021"	"9th month"	"09"	464
+	"Michigan"	"26"	"2021"	"2021"	"Unknown or Not Stated"	"99"	1317
+	"Michigan"	"26"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Michigan"	"26"	"2022"	"2022"	"No prenatal care"	"00"	2135
+	"Michigan"	"26"	"2022"	"2022"	"1st month"	"01"	5796
+	"Michigan"	"26"	"2022"	"2022"	"2nd month"	"02"	38809
+	"Michigan"	"26"	"2022"	"2022"	"3rd month"	"03"	35017
+	"Michigan"	"26"	"2022"	"2022"	"4th month"	"04"	8879
+	"Michigan"	"26"	"2022"	"2022"	"5th month"	"05"	3937
+	"Michigan"	"26"	"2022"	"2022"	"6th month"	"06"	2469
+	"Michigan"	"26"	"2022"	"2022"	"7th month"	"07"	1993
+	"Michigan"	"26"	"2022"	"2022"	"8th month"	"08"	1379
+	"Michigan"	"26"	"2022"	"2022"	"9th month"	"09"	527
+	"Michigan"	"26"	"2022"	"2022"	"Unknown or Not Stated"	"99"	1376
+	"Michigan"	"26"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Michigan"	"26"	"2023"	"2023"	"No prenatal care"	"00"	2791
+	"Michigan"	"26"	"2023"	"2023"	"1st month"	"01"	5422
+	"Michigan"	"26"	"2023"	"2023"	"2nd month"	"02"	37908
+	"Michigan"	"26"	"2023"	"2023"	"3rd month"	"03"	33000
+	"Michigan"	"26"	"2023"	"2023"	"4th month"	"04"	8084
+	"Michigan"	"26"	"2023"	"2023"	"5th month"	"05"	3697
+	"Michigan"	"26"	"2023"	"2023"	"6th month"	"06"	2264
+	"Michigan"	"26"	"2023"	"2023"	"7th month"	"07"	1829
+	"Michigan"	"26"	"2023"	"2023"	"8th month"	"08"	1328
+	"Michigan"	"26"	"2023"	"2023"	"9th month"	"09"	452
+	"Michigan"	"26"	"2023"	"2023"	"Unknown or Not Stated"	"99"	2345
+	"Michigan"	"26"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Missouri"	"29"	"2010"	"2010"	"No prenatal care"	"00"	736
+	"Missouri"	"29"	"2010"	"2010"	"1st month"	"01"	3541
+	"Missouri"	"29"	"2010"	"2010"	"2nd month"	"02"	29901
+	"Missouri"	"29"	"2010"	"2010"	"3rd month"	"03"	22880
+	"Missouri"	"29"	"2010"	"2010"	"4th month"	"04"	7615
+	"Missouri"	"29"	"2010"	"2010"	"5th month"	"05"	3752
+	"Missouri"	"29"	"2010"	"2010"	"6th month"	"06"	2142
+	"Missouri"	"29"	"2010"	"2010"	"7th month"	"07"	1196
+	"Missouri"	"29"	"2010"	"2010"	"8th month"	"08"	830
+	"Missouri"	"29"	"2010"	"2010"	"9th month"	"09"	343
+	"Missouri"	"29"	"2010"	"2010"	"10th month"	"10"	52
+	"Missouri"	"29"	"2010"	"2010"	"Unknown or Not Stated"	"99"	3771
+	"Missouri"	"29"	"2010"	"2010"	"Not Reported"	"98"	0
+	"Missouri"	"29"	"2011"	"2011"	"No prenatal care"	"00"	791
+	"Missouri"	"29"	"2011"	"2011"	"1st month"	"01"	3236
+	"Missouri"	"29"	"2011"	"2011"	"2nd month"	"02"	28662
+	"Missouri"	"29"	"2011"	"2011"	"3rd month"	"03"	23236
+	"Missouri"	"29"	"2011"	"2011"	"4th month"	"04"	7662
+	"Missouri"	"29"	"2011"	"2011"	"5th month"	"05"	3777
+	"Missouri"	"29"	"2011"	"2011"	"6th month"	"06"	2180
+	"Missouri"	"29"	"2011"	"2011"	"7th month"	"07"	1292
+	"Missouri"	"29"	"2011"	"2011"	"8th month"	"08"	818
+	"Missouri"	"29"	"2011"	"2011"	"9th month"	"09"	351
+	"Missouri"	"29"	"2011"	"2011"	"10th month"	"10"	49
+	"Missouri"	"29"	"2011"	"2011"	"Unknown or Not Stated"	"99"	4063
+	"Missouri"	"29"	"2011"	"2011"	"Not Reported"	"98"	0
+	"Missouri"	"29"	"2012"	"2012"	"No prenatal care"	"00"	723
+	"Missouri"	"29"	"2012"	"2012"	"1st month"	"01"	3168
+	"Missouri"	"29"	"2012"	"2012"	"2nd month"	"02"	27960
+	"Missouri"	"29"	"2012"	"2012"	"3rd month"	"03"	22946
+	"Missouri"	"29"	"2012"	"2012"	"4th month"	"04"	7550
+	"Missouri"	"29"	"2012"	"2012"	"5th month"	"05"	3880
+	"Missouri"	"29"	"2012"	"2012"	"6th month"	"06"	2212
+	"Missouri"	"29"	"2012"	"2012"	"7th month"	"07"	1373
+	"Missouri"	"29"	"2012"	"2012"	"8th month"	"08"	905
+	"Missouri"	"29"	"2012"	"2012"	"9th month"	"09"	400
+	"Missouri"	"29"	"2012"	"2012"	"10th month"	"10"	37
+	"Missouri"	"29"	"2012"	"2012"	"Unknown or Not Stated"	"99"	4292
+	"Missouri"	"29"	"2012"	"2012"	"Not Reported"	"98"	0
+	"Missouri"	"29"	"2013"	"2013"	"No prenatal care"	"00"	817
+	"Missouri"	"29"	"2013"	"2013"	"1st month"	"01"	3002
+	"Missouri"	"29"	"2013"	"2013"	"2nd month"	"02"	27946
+	"Missouri"	"29"	"2013"	"2013"	"3rd month"	"03"	23083
+	"Missouri"	"29"	"2013"	"2013"	"4th month"	"04"	7590
+	"Missouri"	"29"	"2013"	"2013"	"5th month"	"05"	3883
+	"Missouri"	"29"	"2013"	"2013"	"6th month"	"06"	2271
+	"Missouri"	"29"	"2013"	"2013"	"7th month"	"07"	1511
+	"Missouri"	"29"	"2013"	"2013"	"8th month"	"08"	1023
+	"Missouri"	"29"	"2013"	"2013"	"9th month"	"09"	528
+	"Missouri"	"29"	"2013"	"2013"	"10th month"	"10"	80
+	"Missouri"	"29"	"2013"	"2013"	"Unknown or Not Stated"	"99"	3562
+	"Missouri"	"29"	"2013"	"2013"	"Not Reported"	"98"	0
+	"Missouri"	"29"	"2014"	"2014"	"No prenatal care"	"00"	913
+	"Missouri"	"29"	"2014"	"2014"	"1st month"	"01"	4640
+	"Missouri"	"29"	"2014"	"2014"	"2nd month"	"02"	32298
+	"Missouri"	"29"	"2014"	"2014"	"3rd month"	"03"	18605
+	"Missouri"	"29"	"2014"	"2014"	"4th month"	"04"	6685
+	"Missouri"	"29"	"2014"	"2014"	"5th month"	"05"	3776
+	"Missouri"	"29"	"2014"	"2014"	"6th month"	"06"	2353
+	"Missouri"	"29"	"2014"	"2014"	"7th month"	"07"	1657
+	"Missouri"	"29"	"2014"	"2014"	"8th month"	"08"	1057
+	"Missouri"	"29"	"2014"	"2014"	"9th month"	"09"	391
+	"Missouri"	"29"	"2014"	"2014"	"10th month"	"10"	15
+	"Missouri"	"29"	"2014"	"2014"	"Unknown or Not Stated"	"99"	2970
+	"Missouri"	"29"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Missouri"	"29"	"2015"	"2015"	"No prenatal care"	"00"	788
+	"Missouri"	"29"	"2015"	"2015"	"1st month"	"01"	3837
+	"Missouri"	"29"	"2015"	"2015"	"2nd month"	"02"	31346
+	"Missouri"	"29"	"2015"	"2015"	"3rd month"	"03"	20328
+	"Missouri"	"29"	"2015"	"2015"	"4th month"	"04"	6639
+	"Missouri"	"29"	"2015"	"2015"	"5th month"	"05"	3812
+	"Missouri"	"29"	"2015"	"2015"	"6th month"	"06"	2270
+	"Missouri"	"29"	"2015"	"2015"	"7th month"	"07"	1532
+	"Missouri"	"29"	"2015"	"2015"	"8th month"	"08"	980
+	"Missouri"	"29"	"2015"	"2015"	"9th month"	"09"	385
+	"Missouri"	"29"	"2015"	"2015"	"10th month"	"10"	14
+	"Missouri"	"29"	"2015"	"2015"	"Unknown or Not Stated"	"99"	3130
+	"Missouri"	"29"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Missouri"	"29"	"2016"	"2016"	"No prenatal care"	"00"	906
+	"Missouri"	"29"	"2016"	"2016"	"1st month"	"01"	2534
+	"Missouri"	"29"	"2016"	"2016"	"2nd month"	"02"	29711
+	"Missouri"	"29"	"2016"	"2016"	"3rd month"	"03"	22561
+	"Missouri"	"29"	"2016"	"2016"	"4th month"	"04"	6493
+	"Missouri"	"29"	"2016"	"2016"	"5th month"	"05"	3412
+	"Missouri"	"29"	"2016"	"2016"	"6th month"	"06"	2116
+	"Missouri"	"29"	"2016"	"2016"	"7th month"	"07"	1505
+	"Missouri"	"29"	"2016"	"2016"	"8th month"	"08"	1040
+	"Missouri"	"29"	"2016"	"2016"	"9th month"	"09"	329
+	"Missouri"	"29"	"2016"	"2016"	"10th month"	"10"	10
+	"Missouri"	"29"	"2016"	"2016"	"Unknown or Not Stated"	"99"	4088
+	"Missouri"	"29"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Missouri"	"29"	"2017"	"2017"	"No prenatal care"	"00"	943
+	"Missouri"	"29"	"2017"	"2017"	"1st month"	"01"	2044
+	"Missouri"	"29"	"2017"	"2017"	"2nd month"	"02"	28260
+	"Missouri"	"29"	"2017"	"2017"	"3rd month"	"03"	22293
+	"Missouri"	"29"	"2017"	"2017"	"4th month"	"04"	6695
+	"Missouri"	"29"	"2017"	"2017"	"5th month"	"05"	3510
+	"Missouri"	"29"	"2017"	"2017"	"6th month"	"06"	2010
+	"Missouri"	"29"	"2017"	"2017"	"7th month"	"07"	1550
+	"Missouri"	"29"	"2017"	"2017"	"8th month"	"08"	1004
+	"Missouri"	"29"	"2017"	"2017"	"9th month"	"09"	367
+	"Missouri"	"29"	"2017"	"2017"	"Unknown or Not Stated"	"99"	4355
+	"Missouri"	"29"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Missouri"	"29"	"2018"	"2018"	"No prenatal care"	"00"	1210
+	"Missouri"	"29"	"2018"	"2018"	"1st month"	"01"	1972
+	"Missouri"	"29"	"2018"	"2018"	"2nd month"	"02"	28169
+	"Missouri"	"29"	"2018"	"2018"	"3rd month"	"03"	22220
+	"Missouri"	"29"	"2018"	"2018"	"4th month"	"04"	6811
+	"Missouri"	"29"	"2018"	"2018"	"5th month"	"05"	3557
+	"Missouri"	"29"	"2018"	"2018"	"6th month"	"06"	2256
+	"Missouri"	"29"	"2018"	"2018"	"7th month"	"07"	1620
+	"Missouri"	"29"	"2018"	"2018"	"8th month"	"08"	1166
+	"Missouri"	"29"	"2018"	"2018"	"9th month"	"09"	457
+	"Missouri"	"29"	"2018"	"2018"	"Unknown or Not Stated"	"99"	3823
+	"Missouri"	"29"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Missouri"	"29"	"2019"	"2019"	"No prenatal care"	"00"	1657
+	"Missouri"	"29"	"2019"	"2019"	"1st month"	"01"	1768
+	"Missouri"	"29"	"2019"	"2019"	"2nd month"	"02"	28411
+	"Missouri"	"29"	"2019"	"2019"	"3rd month"	"03"	22542
+	"Missouri"	"29"	"2019"	"2019"	"4th month"	"04"	6417
+	"Missouri"	"29"	"2019"	"2019"	"5th month"	"05"	3467
+	"Missouri"	"29"	"2019"	"2019"	"6th month"	"06"	2183
+	"Missouri"	"29"	"2019"	"2019"	"7th month"	"07"	1596
+	"Missouri"	"29"	"2019"	"2019"	"8th month"	"08"	1181
+	"Missouri"	"29"	"2019"	"2019"	"9th month"	"09"	534
+	"Missouri"	"29"	"2019"	"2019"	"10th month"	"10"	12
+	"Missouri"	"29"	"2019"	"2019"	"Unknown or Not Stated"	"99"	2359
+	"Missouri"	"29"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Missouri"	"29"	"2020"	"2020"	"No prenatal care"	"00"	1425
+	"Missouri"	"29"	"2020"	"2020"	"1st month"	"01"	1551
+	"Missouri"	"29"	"2020"	"2020"	"2nd month"	"02"	27059
+	"Missouri"	"29"	"2020"	"2020"	"3rd month"	"03"	22058
+	"Missouri"	"29"	"2020"	"2020"	"4th month"	"04"	6605
+	"Missouri"	"29"	"2020"	"2020"	"5th month"	"05"	3302
+	"Missouri"	"29"	"2020"	"2020"	"6th month"	"06"	2035
+	"Missouri"	"29"	"2020"	"2020"	"7th month"	"07"	1448
+	"Missouri"	"29"	"2020"	"2020"	"8th month"	"08"	987
+	"Missouri"	"29"	"2020"	"2020"	"9th month"	"09"	461
+	"Missouri"	"29"	"2020"	"2020"	"10th month"	"10"	10
+	"Missouri"	"29"	"2020"	"2020"	"Unknown or Not Stated"	"99"	2344
+	"Missouri"	"29"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Missouri"	"29"	"2021"	"2021"	"No prenatal care"	"00"	1433
+	"Missouri"	"29"	"2021"	"2021"	"1st month"	"01"	1523
+	"Missouri"	"29"	"2021"	"2021"	"2nd month"	"02"	26975
+	"Missouri"	"29"	"2021"	"2021"	"3rd month"	"03"	23902
+	"Missouri"	"29"	"2021"	"2021"	"4th month"	"04"	6185
+	"Missouri"	"29"	"2021"	"2021"	"5th month"	"05"	2924
+	"Missouri"	"29"	"2021"	"2021"	"6th month"	"06"	1758
+	"Missouri"	"29"	"2021"	"2021"	"7th month"	"07"	1276
+	"Missouri"	"29"	"2021"	"2021"	"8th month"	"08"	1010
+	"Missouri"	"29"	"2021"	"2021"	"9th month"	"09"	435
+	"Missouri"	"29"	"2021"	"2021"	"Unknown or Not Stated"	"99"	2025
+	"Missouri"	"29"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Missouri"	"29"	"2022"	"2022"	"No prenatal care"	"00"	1522
+	"Missouri"	"29"	"2022"	"2022"	"1st month"	"01"	1492
+	"Missouri"	"29"	"2022"	"2022"	"2nd month"	"02"	25710
+	"Missouri"	"29"	"2022"	"2022"	"3rd month"	"03"	24217
+	"Missouri"	"29"	"2022"	"2022"	"4th month"	"04"	6503
+	"Missouri"	"29"	"2022"	"2022"	"5th month"	"05"	3201
+	"Missouri"	"29"	"2022"	"2022"	"6th month"	"06"	1915
+	"Missouri"	"29"	"2022"	"2022"	"7th month"	"07"	1452
+	"Missouri"	"29"	"2022"	"2022"	"8th month"	"08"	1055
+	"Missouri"	"29"	"2022"	"2022"	"9th month"	"09"	523
+	"Missouri"	"29"	"2022"	"2022"	"Unknown or Not Stated"	"99"	1389
+	"Missouri"	"29"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Missouri"	"29"	"2023"	"2023"	"No prenatal care"	"00"	1648
+	"Missouri"	"29"	"2023"	"2023"	"1st month"	"01"	1163
+	"Missouri"	"29"	"2023"	"2023"	"2nd month"	"02"	23190
+	"Missouri"	"29"	"2023"	"2023"	"3rd month"	"03"	25675
+	"Missouri"	"29"	"2023"	"2023"	"4th month"	"04"	6762
+	"Missouri"	"29"	"2023"	"2023"	"5th month"	"05"	3081
+	"Missouri"	"29"	"2023"	"2023"	"6th month"	"06"	1854
+	"Missouri"	"29"	"2023"	"2023"	"7th month"	"07"	1326
+	"Missouri"	"29"	"2023"	"2023"	"8th month"	"08"	1010
+	"Missouri"	"29"	"2023"	"2023"	"9th month"	"09"	497
+	"Missouri"	"29"	"2023"	"2023"	"10th month"	"10"	12
+	"Missouri"	"29"	"2023"	"2023"	"Unknown or Not Stated"	"99"	905
+	"Missouri"	"29"	"2023"	"2023"	"Not Reported"	"98"	0
+	"New Jersey"	"34"	"2010"	"2010"	"No prenatal care"	"00"	0
+	"New Jersey"	"34"	"2010"	"2010"	"1st month"	"01"	0
+	"New Jersey"	"34"	"2010"	"2010"	"2nd month"	"02"	0
+	"New Jersey"	"34"	"2010"	"2010"	"3rd month"	"03"	0
+	"New Jersey"	"34"	"2010"	"2010"	"4th month"	"04"	0
+	"New Jersey"	"34"	"2010"	"2010"	"5th month"	"05"	0
+	"New Jersey"	"34"	"2010"	"2010"	"6th month"	"06"	0
+	"New Jersey"	"34"	"2010"	"2010"	"7th month"	"07"	0
+	"New Jersey"	"34"	"2010"	"2010"	"8th month"	"08"	0
+	"New Jersey"	"34"	"2010"	"2010"	"9th month"	"09"	0
+	"New Jersey"	"34"	"2010"	"2010"	"10th month"	"10"	0
+	"New Jersey"	"34"	"2010"	"2010"	"Unknown or Not Stated"	"99"	0
+	"New Jersey"	"34"	"2010"	"2010"	"Not Reported"	"98"	106922
+	"New Jersey"	"34"	"2011"	"2011"	"No prenatal care"	"00"	0
+	"New Jersey"	"34"	"2011"	"2011"	"1st month"	"01"	0
+	"New Jersey"	"34"	"2011"	"2011"	"2nd month"	"02"	0
+	"New Jersey"	"34"	"2011"	"2011"	"3rd month"	"03"	0
+	"New Jersey"	"34"	"2011"	"2011"	"4th month"	"04"	0
+	"New Jersey"	"34"	"2011"	"2011"	"5th month"	"05"	0
+	"New Jersey"	"34"	"2011"	"2011"	"6th month"	"06"	0
+	"New Jersey"	"34"	"2011"	"2011"	"7th month"	"07"	0
+	"New Jersey"	"34"	"2011"	"2011"	"8th month"	"08"	0
+	"New Jersey"	"34"	"2011"	"2011"	"9th month"	"09"	0
+	"New Jersey"	"34"	"2011"	"2011"	"10th month"	"10"	0
+	"New Jersey"	"34"	"2011"	"2011"	"Unknown or Not Stated"	"99"	0
+	"New Jersey"	"34"	"2011"	"2011"	"Not Reported"	"98"	105883
+	"New Jersey"	"34"	"2012"	"2012"	"No prenatal care"	"00"	0
+	"New Jersey"	"34"	"2012"	"2012"	"1st month"	"01"	0
+	"New Jersey"	"34"	"2012"	"2012"	"2nd month"	"02"	0
+	"New Jersey"	"34"	"2012"	"2012"	"3rd month"	"03"	0
+	"New Jersey"	"34"	"2012"	"2012"	"4th month"	"04"	0
+	"New Jersey"	"34"	"2012"	"2012"	"5th month"	"05"	0
+	"New Jersey"	"34"	"2012"	"2012"	"6th month"	"06"	0
+	"New Jersey"	"34"	"2012"	"2012"	"7th month"	"07"	0
+	"New Jersey"	"34"	"2012"	"2012"	"8th month"	"08"	0
+	"New Jersey"	"34"	"2012"	"2012"	"9th month"	"09"	0
+	"New Jersey"	"34"	"2012"	"2012"	"10th month"	"10"	0
+	"New Jersey"	"34"	"2012"	"2012"	"Unknown or Not Stated"	"99"	0
+	"New Jersey"	"34"	"2012"	"2012"	"Not Reported"	"98"	104230
+	"New Jersey"	"34"	"2013"	"2013"	"No prenatal care"	"00"	0
+	"New Jersey"	"34"	"2013"	"2013"	"1st month"	"01"	0
+	"New Jersey"	"34"	"2013"	"2013"	"2nd month"	"02"	0
+	"New Jersey"	"34"	"2013"	"2013"	"3rd month"	"03"	0
+	"New Jersey"	"34"	"2013"	"2013"	"4th month"	"04"	0
+	"New Jersey"	"34"	"2013"	"2013"	"5th month"	"05"	0
+	"New Jersey"	"34"	"2013"	"2013"	"6th month"	"06"	0
+	"New Jersey"	"34"	"2013"	"2013"	"7th month"	"07"	0
+	"New Jersey"	"34"	"2013"	"2013"	"8th month"	"08"	0
+	"New Jersey"	"34"	"2013"	"2013"	"9th month"	"09"	0
+	"New Jersey"	"34"	"2013"	"2013"	"10th month"	"10"	0
+	"New Jersey"	"34"	"2013"	"2013"	"Unknown or Not Stated"	"99"	0
+	"New Jersey"	"34"	"2013"	"2013"	"Not Reported"	"98"	102575
+	"New Jersey"	"34"	"2014"	"2014"	"No prenatal care"	"00"	0
+	"New Jersey"	"34"	"2014"	"2014"	"1st month"	"01"	0
+	"New Jersey"	"34"	"2014"	"2014"	"2nd month"	"02"	0
+	"New Jersey"	"34"	"2014"	"2014"	"3rd month"	"03"	0
+	"New Jersey"	"34"	"2014"	"2014"	"4th month"	"04"	0
+	"New Jersey"	"34"	"2014"	"2014"	"5th month"	"05"	0
+	"New Jersey"	"34"	"2014"	"2014"	"6th month"	"06"	0
+	"New Jersey"	"34"	"2014"	"2014"	"7th month"	"07"	0
+	"New Jersey"	"34"	"2014"	"2014"	"8th month"	"08"	0
+	"New Jersey"	"34"	"2014"	"2014"	"9th month"	"09"	0
+	"New Jersey"	"34"	"2014"	"2014"	"10th month"	"10"	0
+	"New Jersey"	"34"	"2014"	"2014"	"Unknown or Not Stated"	"99"	0
+	"New Jersey"	"34"	"2014"	"2014"	"Not Reported"	"98"	103305
+	"New Jersey"	"34"	"2015"	"2015"	"No prenatal care"	"00"	0
+	"New Jersey"	"34"	"2015"	"2015"	"1st month"	"01"	0
+	"New Jersey"	"34"	"2015"	"2015"	"2nd month"	"02"	0
+	"New Jersey"	"34"	"2015"	"2015"	"3rd month"	"03"	0
+	"New Jersey"	"34"	"2015"	"2015"	"4th month"	"04"	0
+	"New Jersey"	"34"	"2015"	"2015"	"5th month"	"05"	0
+	"New Jersey"	"34"	"2015"	"2015"	"6th month"	"06"	0
+	"New Jersey"	"34"	"2015"	"2015"	"7th month"	"07"	0
+	"New Jersey"	"34"	"2015"	"2015"	"8th month"	"08"	0
+	"New Jersey"	"34"	"2015"	"2015"	"9th month"	"09"	0
+	"New Jersey"	"34"	"2015"	"2015"	"10th month"	"10"	0
+	"New Jersey"	"34"	"2015"	"2015"	"Unknown or Not Stated"	"99"	0
+	"New Jersey"	"34"	"2015"	"2015"	"Not Reported"	"98"	103127
+	"New Jersey"	"34"	"2016"	"2016"	"No prenatal care"	"00"	1628
+	"New Jersey"	"34"	"2016"	"2016"	"1st month"	"01"	4344
+	"New Jersey"	"34"	"2016"	"2016"	"2nd month"	"02"	38070
+	"New Jersey"	"34"	"2016"	"2016"	"3rd month"	"03"	34653
+	"New Jersey"	"34"	"2016"	"2016"	"4th month"	"04"	10002
+	"New Jersey"	"34"	"2016"	"2016"	"5th month"	"05"	4862
+	"New Jersey"	"34"	"2016"	"2016"	"6th month"	"06"	2977
+	"New Jersey"	"34"	"2016"	"2016"	"7th month"	"07"	2203
+	"New Jersey"	"34"	"2016"	"2016"	"8th month"	"08"	1506
+	"New Jersey"	"34"	"2016"	"2016"	"9th month"	"09"	475
+	"New Jersey"	"34"	"2016"	"2016"	"Unknown or Not Stated"	"99"	1919
+	"New Jersey"	"34"	"2016"	"2016"	"Not Reported"	"98"	0
+	"New Jersey"	"34"	"2017"	"2017"	"No prenatal care"	"00"	1616
+	"New Jersey"	"34"	"2017"	"2017"	"1st month"	"01"	3987
+	"New Jersey"	"34"	"2017"	"2017"	"2nd month"	"02"	37792
+	"New Jersey"	"34"	"2017"	"2017"	"3rd month"	"03"	34349
+	"New Jersey"	"34"	"2017"	"2017"	"4th month"	"04"	10019
+	"New Jersey"	"34"	"2017"	"2017"	"5th month"	"05"	4889
+	"New Jersey"	"34"	"2017"	"2017"	"6th month"	"06"	2900
+	"New Jersey"	"34"	"2017"	"2017"	"7th month"	"07"	2156
+	"New Jersey"	"34"	"2017"	"2017"	"8th month"	"08"	1489
+	"New Jersey"	"34"	"2017"	"2017"	"9th month"	"09"	534
+	"New Jersey"	"34"	"2017"	"2017"	"Unknown or Not Stated"	"99"	1514
+	"New Jersey"	"34"	"2017"	"2017"	"Not Reported"	"98"	0
+	"New Jersey"	"34"	"2018"	"2018"	"No prenatal care"	"00"	1682
+	"New Jersey"	"34"	"2018"	"2018"	"1st month"	"01"	3405
+	"New Jersey"	"34"	"2018"	"2018"	"2nd month"	"02"	37755
+	"New Jersey"	"34"	"2018"	"2018"	"3rd month"	"03"	35028
+	"New Jersey"	"34"	"2018"	"2018"	"4th month"	"04"	9848
+	"New Jersey"	"34"	"2018"	"2018"	"5th month"	"05"	4652
+	"New Jersey"	"34"	"2018"	"2018"	"6th month"	"06"	2903
+	"New Jersey"	"34"	"2018"	"2018"	"7th month"	"07"	2221
+	"New Jersey"	"34"	"2018"	"2018"	"8th month"	"08"	1538
+	"New Jersey"	"34"	"2018"	"2018"	"9th month"	"09"	542
+	"New Jersey"	"34"	"2018"	"2018"	"Unknown or Not Stated"	"99"	1641
+	"New Jersey"	"34"	"2018"	"2018"	"Not Reported"	"98"	0
+	"New Jersey"	"34"	"2019"	"2019"	"No prenatal care"	"00"	2023
+	"New Jersey"	"34"	"2019"	"2019"	"1st month"	"01"	2980
+	"New Jersey"	"34"	"2019"	"2019"	"2nd month"	"02"	37087
+	"New Jersey"	"34"	"2019"	"2019"	"3rd month"	"03"	34721
+	"New Jersey"	"34"	"2019"	"2019"	"4th month"	"04"	9673
+	"New Jersey"	"34"	"2019"	"2019"	"5th month"	"05"	4690
+	"New Jersey"	"34"	"2019"	"2019"	"6th month"	"06"	2831
+	"New Jersey"	"34"	"2019"	"2019"	"7th month"	"07"	2215
+	"New Jersey"	"34"	"2019"	"2019"	"8th month"	"08"	1547
+	"New Jersey"	"34"	"2019"	"2019"	"9th month"	"09"	565
+	"New Jersey"	"34"	"2019"	"2019"	"Unknown or Not Stated"	"99"	1246
+	"New Jersey"	"34"	"2019"	"2019"	"Not Reported"	"98"	0
+	"New Jersey"	"34"	"2020"	"2020"	"No prenatal care"	"00"	1490
+	"New Jersey"	"34"	"2020"	"2020"	"1st month"	"01"	2852
+	"New Jersey"	"34"	"2020"	"2020"	"2nd month"	"02"	36796
+	"New Jersey"	"34"	"2020"	"2020"	"3rd month"	"03"	34809
+	"New Jersey"	"34"	"2020"	"2020"	"4th month"	"04"	9452
+	"New Jersey"	"34"	"2020"	"2020"	"5th month"	"05"	4527
+	"New Jersey"	"34"	"2020"	"2020"	"6th month"	"06"	2816
+	"New Jersey"	"34"	"2020"	"2020"	"7th month"	"07"	2048
+	"New Jersey"	"34"	"2020"	"2020"	"8th month"	"08"	1417
+	"New Jersey"	"34"	"2020"	"2020"	"9th month"	"09"	538
+	"New Jersey"	"34"	"2020"	"2020"	"Unknown or Not Stated"	"99"	1203
+	"New Jersey"	"34"	"2020"	"2020"	"Not Reported"	"98"	0
+	"New Jersey"	"34"	"2021"	"2021"	"No prenatal care"	"00"	1880
+	"New Jersey"	"34"	"2021"	"2021"	"1st month"	"01"	2571
+	"New Jersey"	"34"	"2021"	"2021"	"2nd month"	"02"	37031
+	"New Jersey"	"34"	"2021"	"2021"	"3rd month"	"03"	37838
+	"New Jersey"	"34"	"2021"	"2021"	"4th month"	"04"	9737
+	"New Jersey"	"34"	"2021"	"2021"	"5th month"	"05"	4361
+	"New Jersey"	"34"	"2021"	"2021"	"6th month"	"06"	2612
+	"New Jersey"	"34"	"2021"	"2021"	"7th month"	"07"	1910
+	"New Jersey"	"34"	"2021"	"2021"	"8th month"	"08"	1427
+	"New Jersey"	"34"	"2021"	"2021"	"9th month"	"09"	498
+	"New Jersey"	"34"	"2021"	"2021"	"Unknown or Not Stated"	"99"	1627
+	"New Jersey"	"34"	"2021"	"2021"	"Not Reported"	"98"	0
+	"New Jersey"	"34"	"2022"	"2022"	"No prenatal care"	"00"	1770
+	"New Jersey"	"34"	"2022"	"2022"	"1st month"	"01"	2193
+	"New Jersey"	"34"	"2022"	"2022"	"2nd month"	"02"	35109
+	"New Jersey"	"34"	"2022"	"2022"	"3rd month"	"03"	40082
+	"New Jersey"	"34"	"2022"	"2022"	"4th month"	"04"	10505
+	"New Jersey"	"34"	"2022"	"2022"	"5th month"	"05"	4825
+	"New Jersey"	"34"	"2022"	"2022"	"6th month"	"06"	2913
+	"New Jersey"	"34"	"2022"	"2022"	"7th month"	"07"	2328
+	"New Jersey"	"34"	"2022"	"2022"	"8th month"	"08"	1626
+	"New Jersey"	"34"	"2022"	"2022"	"9th month"	"09"	659
+	"New Jersey"	"34"	"2022"	"2022"	"Unknown or Not Stated"	"99"	881
+	"New Jersey"	"34"	"2022"	"2022"	"Not Reported"	"98"	0
+	"New Jersey"	"34"	"2023"	"2023"	"No prenatal care"	"00"	1890
+	"New Jersey"	"34"	"2023"	"2023"	"1st month"	"01"	1950
+	"New Jersey"	"34"	"2023"	"2023"	"2nd month"	"02"	33918
+	"New Jersey"	"34"	"2023"	"2023"	"3rd month"	"03"	40400
+	"New Jersey"	"34"	"2023"	"2023"	"4th month"	"04"	10171
+	"New Jersey"	"34"	"2023"	"2023"	"5th month"	"05"	4515
+	"New Jersey"	"34"	"2023"	"2023"	"6th month"	"06"	2840
+	"New Jersey"	"34"	"2023"	"2023"	"7th month"	"07"	2261
+	"New Jersey"	"34"	"2023"	"2023"	"8th month"	"08"	1620
+	"New Jersey"	"34"	"2023"	"2023"	"9th month"	"09"	618
+	"New Jersey"	"34"	"2023"	"2023"	"Unknown or Not Stated"	"99"	812
+	"New Jersey"	"34"	"2023"	"2023"	"Not Reported"	"98"	0
+	"New York"	"36"	"2010"	"2010"	"No prenatal care"	"00"	1666
+	"New York"	"36"	"2010"	"2010"	"1st month"	"01"	8526
+	"New York"	"36"	"2010"	"2010"	"2nd month"	"02"	78547
+	"New York"	"36"	"2010"	"2010"	"3rd month"	"03"	87617
+	"New York"	"36"	"2010"	"2010"	"4th month"	"04"	28257
+	"New York"	"36"	"2010"	"2010"	"5th month"	"05"	12654
+	"New York"	"36"	"2010"	"2010"	"6th month"	"06"	7381
+	"New York"	"36"	"2010"	"2010"	"7th month"	"07"	5405
+	"New York"	"36"	"2010"	"2010"	"8th month"	"08"	4005
+	"New York"	"36"	"2010"	"2010"	"9th month"	"09"	1993
+	"New York"	"36"	"2010"	"2010"	"10th month"	"10"	249
+	"New York"	"36"	"2010"	"2010"	"Unknown or Not Stated"	"99"	8075
+	"New York"	"36"	"2010"	"2010"	"Not Reported"	"98"	0
+	"New York"	"36"	"2011"	"2011"	"No prenatal care"	"00"	1617
+	"New York"	"36"	"2011"	"2011"	"1st month"	"01"	7761
+	"New York"	"36"	"2011"	"2011"	"2nd month"	"02"	78221
+	"New York"	"36"	"2011"	"2011"	"3rd month"	"03"	86606
+	"New York"	"36"	"2011"	"2011"	"4th month"	"04"	29293
+	"New York"	"36"	"2011"	"2011"	"5th month"	"05"	12520
+	"New York"	"36"	"2011"	"2011"	"6th month"	"06"	7172
+	"New York"	"36"	"2011"	"2011"	"7th month"	"07"	4908
+	"New York"	"36"	"2011"	"2011"	"8th month"	"08"	3938
+	"New York"	"36"	"2011"	"2011"	"9th month"	"09"	2040
+	"New York"	"36"	"2011"	"2011"	"10th month"	"10"	248
+	"New York"	"36"	"2011"	"2011"	"Unknown or Not Stated"	"99"	6988
+	"New York"	"36"	"2011"	"2011"	"Not Reported"	"98"	0
+	"New York"	"36"	"2012"	"2012"	"No prenatal care"	"00"	1532
+	"New York"	"36"	"2012"	"2012"	"1st month"	"01"	8467
+	"New York"	"36"	"2012"	"2012"	"2nd month"	"02"	78141
+	"New York"	"36"	"2012"	"2012"	"3rd month"	"03"	87217
+	"New York"	"36"	"2012"	"2012"	"4th month"	"04"	27807
+	"New York"	"36"	"2012"	"2012"	"5th month"	"05"	12253
+	"New York"	"36"	"2012"	"2012"	"6th month"	"06"	6860
+	"New York"	"36"	"2012"	"2012"	"7th month"	"07"	4798
+	"New York"	"36"	"2012"	"2012"	"8th month"	"08"	3941
+	"New York"	"36"	"2012"	"2012"	"9th month"	"09"	2110
+	"New York"	"36"	"2012"	"2012"	"10th month"	"10"	246
+	"New York"	"36"	"2012"	"2012"	"Unknown or Not Stated"	"99"	7544
+	"New York"	"36"	"2012"	"2012"	"Not Reported"	"98"	0
+	"New York"	"36"	"2013"	"2013"	"No prenatal care"	"00"	1425
+	"New York"	"36"	"2013"	"2013"	"1st month"	"01"	9247
+	"New York"	"36"	"2013"	"2013"	"2nd month"	"02"	79780
+	"New York"	"36"	"2013"	"2013"	"3rd month"	"03"	84415
+	"New York"	"36"	"2013"	"2013"	"4th month"	"04"	25673
+	"New York"	"36"	"2013"	"2013"	"5th month"	"05"	11137
+	"New York"	"36"	"2013"	"2013"	"6th month"	"06"	6542
+	"New York"	"36"	"2013"	"2013"	"7th month"	"07"	5015
+	"New York"	"36"	"2013"	"2013"	"8th month"	"08"	4379
+	"New York"	"36"	"2013"	"2013"	"9th month"	"09"	2183
+	"New York"	"36"	"2013"	"2013"	"10th month"	"10"	251
+	"New York"	"36"	"2013"	"2013"	"Unknown or Not Stated"	"99"	6933
+	"New York"	"36"	"2013"	"2013"	"Not Reported"	"98"	0
+	"New York"	"36"	"2014"	"2014"	"No prenatal care"	"00"	1396
+	"New York"	"36"	"2014"	"2014"	"1st month"	"01"	15445
+	"New York"	"36"	"2014"	"2014"	"2nd month"	"02"	97034
+	"New York"	"36"	"2014"	"2014"	"3rd month"	"03"	70258
+	"New York"	"36"	"2014"	"2014"	"4th month"	"04"	20885
+	"New York"	"36"	"2014"	"2014"	"5th month"	"05"	9693
+	"New York"	"36"	"2014"	"2014"	"6th month"	"06"	5992
+	"New York"	"36"	"2014"	"2014"	"7th month"	"07"	4839
+	"New York"	"36"	"2014"	"2014"	"8th month"	"08"	3868
+	"New York"	"36"	"2014"	"2014"	"9th month"	"09"	1591
+	"New York"	"36"	"2014"	"2014"	"10th month"	"10"	23
+	"New York"	"36"	"2014"	"2014"	"Unknown or Not Stated"	"99"	7749
+	"New York"	"36"	"2014"	"2014"	"Not Reported"	"98"	0
+	"New York"	"36"	"2015"	"2015"	"No prenatal care"	"00"	1222
+	"New York"	"36"	"2015"	"2015"	"1st month"	"01"	14638
+	"New York"	"36"	"2015"	"2015"	"2nd month"	"02"	98738
+	"New York"	"36"	"2015"	"2015"	"3rd month"	"03"	71042
+	"New York"	"36"	"2015"	"2015"	"4th month"	"04"	19591
+	"New York"	"36"	"2015"	"2015"	"5th month"	"05"	8922
+	"New York"	"36"	"2015"	"2015"	"6th month"	"06"	5415
+	"New York"	"36"	"2015"	"2015"	"7th month"	"07"	4618
+	"New York"	"36"	"2015"	"2015"	"8th month"	"08"	3814
+	"New York"	"36"	"2015"	"2015"	"9th month"	"09"	1542
+	"New York"	"36"	"2015"	"2015"	"10th month"	"10"	19
+	"New York"	"36"	"2015"	"2015"	"Unknown or Not Stated"	"99"	7713
+	"New York"	"36"	"2015"	"2015"	"Not Reported"	"98"	0
+	"New York"	"36"	"2016"	"2016"	"No prenatal care"	"00"	1235
+	"New York"	"36"	"2016"	"2016"	"1st month"	"01"	15642
+	"New York"	"36"	"2016"	"2016"	"2nd month"	"02"	99215
+	"New York"	"36"	"2016"	"2016"	"3rd month"	"03"	70216
+	"New York"	"36"	"2016"	"2016"	"4th month"	"04"	18940
+	"New York"	"36"	"2016"	"2016"	"5th month"	"05"	8343
+	"New York"	"36"	"2016"	"2016"	"6th month"	"06"	5241
+	"New York"	"36"	"2016"	"2016"	"7th month"	"07"	4823
+	"New York"	"36"	"2016"	"2016"	"8th month"	"08"	3935
+	"New York"	"36"	"2016"	"2016"	"9th month"	"09"	1630
+	"New York"	"36"	"2016"	"2016"	"10th month"	"10"	19
+	"New York"	"36"	"2016"	"2016"	"Unknown or Not Stated"	"99"	5044
+	"New York"	"36"	"2016"	"2016"	"Not Reported"	"98"	0
+	"New York"	"36"	"2017"	"2017"	"No prenatal care"	"00"	1390
+	"New York"	"36"	"2017"	"2017"	"1st month"	"01"	13727
+	"New York"	"36"	"2017"	"2017"	"2nd month"	"02"	95125
+	"New York"	"36"	"2017"	"2017"	"3rd month"	"03"	72032
+	"New York"	"36"	"2017"	"2017"	"4th month"	"04"	18805
+	"New York"	"36"	"2017"	"2017"	"5th month"	"05"	8270
+	"New York"	"36"	"2017"	"2017"	"6th month"	"06"	5190
+	"New York"	"36"	"2017"	"2017"	"7th month"	"07"	4480
+	"New York"	"36"	"2017"	"2017"	"8th month"	"08"	3765
+	"New York"	"36"	"2017"	"2017"	"9th month"	"09"	1566
+	"New York"	"36"	"2017"	"2017"	"10th month"	"10"	22
+	"New York"	"36"	"2017"	"2017"	"Unknown or Not Stated"	"99"	5365
+	"New York"	"36"	"2017"	"2017"	"Not Reported"	"98"	0
+	"New York"	"36"	"2018"	"2018"	"No prenatal care"	"00"	1325
+	"New York"	"36"	"2018"	"2018"	"1st month"	"01"	12555
+	"New York"	"36"	"2018"	"2018"	"2nd month"	"02"	94631
+	"New York"	"36"	"2018"	"2018"	"3rd month"	"03"	70640
+	"New York"	"36"	"2018"	"2018"	"4th month"	"04"	18290
+	"New York"	"36"	"2018"	"2018"	"5th month"	"05"	8012
+	"New York"	"36"	"2018"	"2018"	"6th month"	"06"	4985
+	"New York"	"36"	"2018"	"2018"	"7th month"	"07"	4329
+	"New York"	"36"	"2018"	"2018"	"8th month"	"08"	3549
+	"New York"	"36"	"2018"	"2018"	"9th month"	"09"	1536
+	"New York"	"36"	"2018"	"2018"	"10th month"	"10"	30
+	"New York"	"36"	"2018"	"2018"	"Unknown or Not Stated"	"99"	6356
+	"New York"	"36"	"2018"	"2018"	"Not Reported"	"98"	0
+	"New York"	"36"	"2019"	"2019"	"No prenatal care"	"00"	1690
+	"New York"	"36"	"2019"	"2019"	"1st month"	"01"	12223
+	"New York"	"36"	"2019"	"2019"	"2nd month"	"02"	94589
+	"New York"	"36"	"2019"	"2019"	"3rd month"	"03"	69070
+	"New York"	"36"	"2019"	"2019"	"4th month"	"04"	17116
+	"New York"	"36"	"2019"	"2019"	"5th month"	"05"	7640
+	"New York"	"36"	"2019"	"2019"	"6th month"	"06"	4796
+	"New York"	"36"	"2019"	"2019"	"7th month"	"07"	4020
+	"New York"	"36"	"2019"	"2019"	"8th month"	"08"	3558
+	"New York"	"36"	"2019"	"2019"	"9th month"	"09"	1522
+	"New York"	"36"	"2019"	"2019"	"10th month"	"10"	17
+	"New York"	"36"	"2019"	"2019"	"Unknown or Not Stated"	"99"	5298
+	"New York"	"36"	"2019"	"2019"	"Not Reported"	"98"	0
+	"New York"	"36"	"2020"	"2020"	"No prenatal care"	"00"	1893
+	"New York"	"36"	"2020"	"2020"	"1st month"	"01"	9469
+	"New York"	"36"	"2020"	"2020"	"2nd month"	"02"	86477
+	"New York"	"36"	"2020"	"2020"	"3rd month"	"03"	68144
+	"New York"	"36"	"2020"	"2020"	"4th month"	"04"	17166
+	"New York"	"36"	"2020"	"2020"	"5th month"	"05"	7866
+	"New York"	"36"	"2020"	"2020"	"6th month"	"06"	4620
+	"New York"	"36"	"2020"	"2020"	"7th month"	"07"	3756
+	"New York"	"36"	"2020"	"2020"	"8th month"	"08"	2949
+	"New York"	"36"	"2020"	"2020"	"9th month"	"09"	1187
+	"New York"	"36"	"2020"	"2020"	"10th month"	"10"	14
+	"New York"	"36"	"2020"	"2020"	"Unknown or Not Stated"	"99"	5797
+	"New York"	"36"	"2020"	"2020"	"Not Reported"	"98"	0
+	"New York"	"36"	"2021"	"2021"	"No prenatal care"	"00"	1899
+	"New York"	"36"	"2021"	"2021"	"1st month"	"01"	8424
+	"New York"	"36"	"2021"	"2021"	"2nd month"	"02"	84757
+	"New York"	"36"	"2021"	"2021"	"3rd month"	"03"	71865
+	"New York"	"36"	"2021"	"2021"	"4th month"	"04"	17175
+	"New York"	"36"	"2021"	"2021"	"5th month"	"05"	7385
+	"New York"	"36"	"2021"	"2021"	"6th month"	"06"	4702
+	"New York"	"36"	"2021"	"2021"	"7th month"	"07"	3865
+	"New York"	"36"	"2021"	"2021"	"8th month"	"08"	3132
+	"New York"	"36"	"2021"	"2021"	"9th month"	"09"	1285
+	"New York"	"36"	"2021"	"2021"	"10th month"	"10"	19
+	"New York"	"36"	"2021"	"2021"	"Unknown or Not Stated"	"99"	6234
+	"New York"	"36"	"2021"	"2021"	"Not Reported"	"98"	0
+	"New York"	"36"	"2022"	"2022"	"No prenatal care"	"00"	2312
+	"New York"	"36"	"2022"	"2022"	"1st month"	"01"	8452
+	"New York"	"36"	"2022"	"2022"	"2nd month"	"02"	80034
+	"New York"	"36"	"2022"	"2022"	"3rd month"	"03"	72402
+	"New York"	"36"	"2022"	"2022"	"4th month"	"04"	17526
+	"New York"	"36"	"2022"	"2022"	"5th month"	"05"	7511
+	"New York"	"36"	"2022"	"2022"	"6th month"	"06"	4809
+	"New York"	"36"	"2022"	"2022"	"7th month"	"07"	4180
+	"New York"	"36"	"2022"	"2022"	"8th month"	"08"	3472
+	"New York"	"36"	"2022"	"2022"	"9th month"	"09"	1627
+	"New York"	"36"	"2022"	"2022"	"10th month"	"10"	16
+	"New York"	"36"	"2022"	"2022"	"Unknown or Not Stated"	"99"	5433
+	"New York"	"36"	"2022"	"2022"	"Not Reported"	"98"	0
+	"New York"	"36"	"2023"	"2023"	"No prenatal care"	"00"	2319
+	"New York"	"36"	"2023"	"2023"	"1st month"	"01"	7919
+	"New York"	"36"	"2023"	"2023"	"2nd month"	"02"	77818
+	"New York"	"36"	"2023"	"2023"	"3rd month"	"03"	71111
+	"New York"	"36"	"2023"	"2023"	"4th month"	"04"	17332
+	"New York"	"36"	"2023"	"2023"	"5th month"	"05"	7694
+	"New York"	"36"	"2023"	"2023"	"6th month"	"06"	4872
+	"New York"	"36"	"2023"	"2023"	"7th month"	"07"	4346
+	"New York"	"36"	"2023"	"2023"	"8th month"	"08"	3766
+	"New York"	"36"	"2023"	"2023"	"9th month"	"09"	1767
+	"New York"	"36"	"2023"	"2023"	"10th month"	"10"	31
+	"New York"	"36"	"2023"	"2023"	"Unknown or Not Stated"	"99"	4637
+	"New York"	"36"	"2023"	"2023"	"Not Reported"	"98"	0
+	"North Carolina"	"37"	"2010"	"2010"	"No prenatal care"	"00"	0
+	"North Carolina"	"37"	"2010"	"2010"	"1st month"	"01"	0
+	"North Carolina"	"37"	"2010"	"2010"	"2nd month"	"02"	0
+	"North Carolina"	"37"	"2010"	"2010"	"3rd month"	"03"	0
+	"North Carolina"	"37"	"2010"	"2010"	"4th month"	"04"	0
+	"North Carolina"	"37"	"2010"	"2010"	"5th month"	"05"	0
+	"North Carolina"	"37"	"2010"	"2010"	"6th month"	"06"	0
+	"North Carolina"	"37"	"2010"	"2010"	"7th month"	"07"	0
+	"North Carolina"	"37"	"2010"	"2010"	"8th month"	"08"	0
+	"North Carolina"	"37"	"2010"	"2010"	"9th month"	"09"	0
+	"North Carolina"	"37"	"2010"	"2010"	"10th month"	"10"	0
+	"North Carolina"	"37"	"2010"	"2010"	"Unknown or Not Stated"	"99"	0
+	"North Carolina"	"37"	"2010"	"2010"	"Not Reported"	"98"	122350
+	"North Carolina"	"37"	"2011"	"2011"	"No prenatal care"	"00"	1640
+	"North Carolina"	"37"	"2011"	"2011"	"1st month"	"01"	9338
+	"North Carolina"	"37"	"2011"	"2011"	"2nd month"	"02"	36060
+	"North Carolina"	"37"	"2011"	"2011"	"3rd month"	"03"	40386
+	"North Carolina"	"37"	"2011"	"2011"	"4th month"	"04"	15095
+	"North Carolina"	"37"	"2011"	"2011"	"5th month"	"05"	7219
+	"North Carolina"	"37"	"2011"	"2011"	"6th month"	"06"	4124
+	"North Carolina"	"37"	"2011"	"2011"	"7th month"	"07"	2439
+	"North Carolina"	"37"	"2011"	"2011"	"8th month"	"08"	1490
+	"North Carolina"	"37"	"2011"	"2011"	"9th month"	"09"	694
+	"North Carolina"	"37"	"2011"	"2011"	"10th month"	"10"	108
+	"North Carolina"	"37"	"2011"	"2011"	"Unknown or Not Stated"	"99"	1796
+	"North Carolina"	"37"	"2011"	"2011"	"Not Reported"	"98"	0
+	"North Carolina"	"37"	"2012"	"2012"	"No prenatal care"	"00"	2017
+	"North Carolina"	"37"	"2012"	"2012"	"1st month"	"01"	9089
+	"North Carolina"	"37"	"2012"	"2012"	"2nd month"	"02"	36266
+	"North Carolina"	"37"	"2012"	"2012"	"3rd month"	"03"	40324
+	"North Carolina"	"37"	"2012"	"2012"	"4th month"	"04"	14554
+	"North Carolina"	"37"	"2012"	"2012"	"5th month"	"05"	7049
+	"North Carolina"	"37"	"2012"	"2012"	"6th month"	"06"	3901
+	"North Carolina"	"37"	"2012"	"2012"	"7th month"	"07"	2297
+	"North Carolina"	"37"	"2012"	"2012"	"8th month"	"08"	1534
+	"North Carolina"	"37"	"2012"	"2012"	"9th month"	"09"	697
+	"North Carolina"	"37"	"2012"	"2012"	"10th month"	"10"	132
+	"North Carolina"	"37"	"2012"	"2012"	"Unknown or Not Stated"	"99"	1971
+	"North Carolina"	"37"	"2012"	"2012"	"Not Reported"	"98"	0
+	"North Carolina"	"37"	"2013"	"2013"	"No prenatal care"	"00"	2514
+	"North Carolina"	"37"	"2013"	"2013"	"1st month"	"01"	8993
+	"North Carolina"	"37"	"2013"	"2013"	"2nd month"	"02"	35518
+	"North Carolina"	"37"	"2013"	"2013"	"3rd month"	"03"	39933
+	"North Carolina"	"37"	"2013"	"2013"	"4th month"	"04"	14273
+	"North Carolina"	"37"	"2013"	"2013"	"5th month"	"05"	6856
+	"North Carolina"	"37"	"2013"	"2013"	"6th month"	"06"	4045
+	"North Carolina"	"37"	"2013"	"2013"	"7th month"	"07"	2494
+	"North Carolina"	"37"	"2013"	"2013"	"8th month"	"08"	1676
+	"North Carolina"	"37"	"2013"	"2013"	"9th month"	"09"	831
+	"North Carolina"	"37"	"2013"	"2013"	"10th month"	"10"	157
+	"North Carolina"	"37"	"2013"	"2013"	"Unknown or Not Stated"	"99"	1712
+	"North Carolina"	"37"	"2013"	"2013"	"Not Reported"	"98"	0
+	"North Carolina"	"37"	"2014"	"2014"	"No prenatal care"	"00"	2234
+	"North Carolina"	"37"	"2014"	"2014"	"1st month"	"01"	10014
+	"North Carolina"	"37"	"2014"	"2014"	"2nd month"	"02"	42564
+	"North Carolina"	"37"	"2014"	"2014"	"3rd month"	"03"	36001
+	"North Carolina"	"37"	"2014"	"2014"	"4th month"	"04"	12557
+	"North Carolina"	"37"	"2014"	"2014"	"5th month"	"05"	6786
+	"North Carolina"	"37"	"2014"	"2014"	"6th month"	"06"	4031
+	"North Carolina"	"37"	"2014"	"2014"	"7th month"	"07"	2862
+	"North Carolina"	"37"	"2014"	"2014"	"8th month"	"08"	1804
+	"North Carolina"	"37"	"2014"	"2014"	"9th month"	"09"	704
+	"North Carolina"	"37"	"2014"	"2014"	"10th month"	"10"	26
+	"North Carolina"	"37"	"2014"	"2014"	"Unknown or Not Stated"	"99"	1392
+	"North Carolina"	"37"	"2014"	"2014"	"Not Reported"	"98"	0
+	"North Carolina"	"37"	"2015"	"2015"	"No prenatal care"	"00"	2692
+	"North Carolina"	"37"	"2015"	"2015"	"1st month"	"01"	7372
+	"North Carolina"	"37"	"2015"	"2015"	"2nd month"	"02"	42608
+	"North Carolina"	"37"	"2015"	"2015"	"3rd month"	"03"	38327
+	"North Carolina"	"37"	"2015"	"2015"	"4th month"	"04"	12970
+	"North Carolina"	"37"	"2015"	"2015"	"5th month"	"05"	6651
+	"North Carolina"	"37"	"2015"	"2015"	"6th month"	"06"	3866
+	"North Carolina"	"37"	"2015"	"2015"	"7th month"	"07"	2736
+	"North Carolina"	"37"	"2015"	"2015"	"8th month"	"08"	1856
+	"North Carolina"	"37"	"2015"	"2015"	"9th month"	"09"	660
+	"North Carolina"	"37"	"2015"	"2015"	"10th month"	"10"	14
+	"North Carolina"	"37"	"2015"	"2015"	"Unknown or Not Stated"	"99"	1091
+	"North Carolina"	"37"	"2015"	"2015"	"Not Reported"	"98"	0
+	"North Carolina"	"37"	"2016"	"2016"	"No prenatal care"	"00"	1928
+	"North Carolina"	"37"	"2016"	"2016"	"1st month"	"01"	8292
+	"North Carolina"	"37"	"2016"	"2016"	"2nd month"	"02"	44203
+	"North Carolina"	"37"	"2016"	"2016"	"3rd month"	"03"	37488
+	"North Carolina"	"37"	"2016"	"2016"	"4th month"	"04"	12392
+	"North Carolina"	"37"	"2016"	"2016"	"5th month"	"05"	6726
+	"North Carolina"	"37"	"2016"	"2016"	"6th month"	"06"	3773
+	"North Carolina"	"37"	"2016"	"2016"	"7th month"	"07"	2700
+	"North Carolina"	"37"	"2016"	"2016"	"8th month"	"08"	1857
+	"North Carolina"	"37"	"2016"	"2016"	"9th month"	"09"	723
+	"North Carolina"	"37"	"2016"	"2016"	"Unknown or Not Stated"	"99"	691
+	"North Carolina"	"37"	"2016"	"2016"	"Not Reported"	"98"	0
+	"North Carolina"	"37"	"2017"	"2017"	"No prenatal care"	"00"	2159
+	"North Carolina"	"37"	"2017"	"2017"	"1st month"	"01"	7177
+	"North Carolina"	"37"	"2017"	"2017"	"2nd month"	"02"	42903
+	"North Carolina"	"37"	"2017"	"2017"	"3rd month"	"03"	39118
+	"North Carolina"	"37"	"2017"	"2017"	"4th month"	"04"	12321
+	"North Carolina"	"37"	"2017"	"2017"	"5th month"	"05"	6457
+	"North Carolina"	"37"	"2017"	"2017"	"6th month"	"06"	3651
+	"North Carolina"	"37"	"2017"	"2017"	"7th month"	"07"	2793
+	"North Carolina"	"37"	"2017"	"2017"	"8th month"	"08"	1923
+	"North Carolina"	"37"	"2017"	"2017"	"9th month"	"09"	802
+	"North Carolina"	"37"	"2017"	"2017"	"10th month"	"10"	22
+	"North Carolina"	"37"	"2017"	"2017"	"Unknown or Not Stated"	"99"	799
+	"North Carolina"	"37"	"2017"	"2017"	"Not Reported"	"98"	0
+	"North Carolina"	"37"	"2018"	"2018"	"No prenatal care"	"00"	2247
+	"North Carolina"	"37"	"2018"	"2018"	"1st month"	"01"	6325
+	"North Carolina"	"37"	"2018"	"2018"	"2nd month"	"02"	41313
+	"North Carolina"	"37"	"2018"	"2018"	"3rd month"	"03"	40485
+	"North Carolina"	"37"	"2018"	"2018"	"4th month"	"04"	12005
+	"North Carolina"	"37"	"2018"	"2018"	"5th month"	"05"	6323
+	"North Carolina"	"37"	"2018"	"2018"	"6th month"	"06"	3638
+	"North Carolina"	"37"	"2018"	"2018"	"7th month"	"07"	2822
+	"North Carolina"	"37"	"2018"	"2018"	"8th month"	"08"	1998
+	"North Carolina"	"37"	"2018"	"2018"	"9th month"	"09"	844
+	"North Carolina"	"37"	"2018"	"2018"	"10th month"	"10"	33
+	"North Carolina"	"37"	"2018"	"2018"	"Unknown or Not Stated"	"99"	921
+	"North Carolina"	"37"	"2018"	"2018"	"Not Reported"	"98"	0
+	"North Carolina"	"37"	"2019"	"2019"	"No prenatal care"	"00"	2942
+	"North Carolina"	"37"	"2019"	"2019"	"1st month"	"01"	5251
+	"North Carolina"	"37"	"2019"	"2019"	"2nd month"	"02"	40941
+	"North Carolina"	"37"	"2019"	"2019"	"3rd month"	"03"	41119
+	"North Carolina"	"37"	"2019"	"2019"	"4th month"	"04"	11823
+	"North Carolina"	"37"	"2019"	"2019"	"5th month"	"05"	6065
+	"North Carolina"	"37"	"2019"	"2019"	"6th month"	"06"	3654
+	"North Carolina"	"37"	"2019"	"2019"	"7th month"	"07"	2823
+	"North Carolina"	"37"	"2019"	"2019"	"8th month"	"08"	2219
+	"North Carolina"	"37"	"2019"	"2019"	"9th month"	"09"	875
+	"North Carolina"	"37"	"2019"	"2019"	"10th month"	"10"	18
+	"North Carolina"	"37"	"2019"	"2019"	"Unknown or Not Stated"	"99"	995
+	"North Carolina"	"37"	"2019"	"2019"	"Not Reported"	"98"	0
+	"North Carolina"	"37"	"2020"	"2020"	"No prenatal care"	"00"	3307
+	"North Carolina"	"37"	"2020"	"2020"	"1st month"	"01"	3508
+	"North Carolina"	"37"	"2020"	"2020"	"2nd month"	"02"	39758
+	"North Carolina"	"37"	"2020"	"2020"	"3rd month"	"03"	42312
+	"North Carolina"	"37"	"2020"	"2020"	"4th month"	"04"	11738
+	"North Carolina"	"37"	"2020"	"2020"	"5th month"	"05"	6022
+	"North Carolina"	"37"	"2020"	"2020"	"6th month"	"06"	3393
+	"North Carolina"	"37"	"2020"	"2020"	"7th month"	"07"	2685
+	"North Carolina"	"37"	"2020"	"2020"	"8th month"	"08"	1990
+	"North Carolina"	"37"	"2020"	"2020"	"9th month"	"09"	858
+	"North Carolina"	"37"	"2020"	"2020"	"10th month"	"10"	18
+	"North Carolina"	"37"	"2020"	"2020"	"Unknown or Not Stated"	"99"	1141
+	"North Carolina"	"37"	"2020"	"2020"	"Not Reported"	"98"	0
+	"North Carolina"	"37"	"2021"	"2021"	"No prenatal care"	"00"	4589
+	"North Carolina"	"37"	"2021"	"2021"	"1st month"	"01"	3420
+	"North Carolina"	"37"	"2021"	"2021"	"2nd month"	"02"	40622
+	"North Carolina"	"37"	"2021"	"2021"	"3rd month"	"03"	44892
+	"North Carolina"	"37"	"2021"	"2021"	"4th month"	"04"	11735
+	"North Carolina"	"37"	"2021"	"2021"	"5th month"	"05"	5481
+	"North Carolina"	"37"	"2021"	"2021"	"6th month"	"06"	3244
+	"North Carolina"	"37"	"2021"	"2021"	"7th month"	"07"	2596
+	"North Carolina"	"37"	"2021"	"2021"	"8th month"	"08"	2020
+	"North Carolina"	"37"	"2021"	"2021"	"9th month"	"09"	821
+	"North Carolina"	"37"	"2021"	"2021"	"10th month"	"10"	17
+	"North Carolina"	"37"	"2021"	"2021"	"Unknown or Not Stated"	"99"	1029
+	"North Carolina"	"37"	"2021"	"2021"	"Not Reported"	"98"	0
+	"North Carolina"	"37"	"2022"	"2022"	"No prenatal care"	"00"	5523
+	"North Carolina"	"37"	"2022"	"2022"	"1st month"	"01"	3771
+	"North Carolina"	"37"	"2022"	"2022"	"2nd month"	"02"	39504
+	"North Carolina"	"37"	"2022"	"2022"	"3rd month"	"03"	44146
+	"North Carolina"	"37"	"2022"	"2022"	"4th month"	"04"	12069
+	"North Carolina"	"37"	"2022"	"2022"	"5th month"	"05"	6111
+	"North Carolina"	"37"	"2022"	"2022"	"6th month"	"06"	3672
+	"North Carolina"	"37"	"2022"	"2022"	"7th month"	"07"	2936
+	"North Carolina"	"37"	"2022"	"2022"	"8th month"	"08"	2164
+	"North Carolina"	"37"	"2022"	"2022"	"9th month"	"09"	879
+	"North Carolina"	"37"	"2022"	"2022"	"Unknown or Not Stated"	"99"	778
+	"North Carolina"	"37"	"2022"	"2022"	"Not Reported"	"98"	0
+	"North Carolina"	"37"	"2023"	"2023"	"No prenatal care"	"00"	4954
+	"North Carolina"	"37"	"2023"	"2023"	"1st month"	"01"	3269
+	"North Carolina"	"37"	"2023"	"2023"	"2nd month"	"02"	38687
+	"North Carolina"	"37"	"2023"	"2023"	"3rd month"	"03"	44490
+	"North Carolina"	"37"	"2023"	"2023"	"4th month"	"04"	12412
+	"North Carolina"	"37"	"2023"	"2023"	"5th month"	"05"	6136
+	"North Carolina"	"37"	"2023"	"2023"	"6th month"	"06"	3414
+	"North Carolina"	"37"	"2023"	"2023"	"7th month"	"07"	2688
+	"North Carolina"	"37"	"2023"	"2023"	"8th month"	"08"	2100
+	"North Carolina"	"37"	"2023"	"2023"	"9th month"	"09"	814
+	"North Carolina"	"37"	"2023"	"2023"	"10th month"	"10"	14
+	"North Carolina"	"37"	"2023"	"2023"	"Unknown or Not Stated"	"99"	1104
+	"North Carolina"	"37"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Ohio"	"39"	"2010"	"2010"	"No prenatal care"	"00"	1375
+	"Ohio"	"39"	"2010"	"2010"	"1st month"	"01"	5129
+	"Ohio"	"39"	"2010"	"2010"	"2nd month"	"02"	42769
+	"Ohio"	"39"	"2010"	"2010"	"3rd month"	"03"	46422
+	"Ohio"	"39"	"2010"	"2010"	"4th month"	"04"	15356
+	"Ohio"	"39"	"2010"	"2010"	"5th month"	"05"	7254
+	"Ohio"	"39"	"2010"	"2010"	"6th month"	"06"	4416
+	"Ohio"	"39"	"2010"	"2010"	"7th month"	"07"	2911
+	"Ohio"	"39"	"2010"	"2010"	"8th month"	"08"	1885
+	"Ohio"	"39"	"2010"	"2010"	"9th month"	"09"	870
+	"Ohio"	"39"	"2010"	"2010"	"10th month"	"10"	99
+	"Ohio"	"39"	"2010"	"2010"	"Unknown or Not Stated"	"99"	10642
+	"Ohio"	"39"	"2010"	"2010"	"Not Reported"	"98"	0
+	"Ohio"	"39"	"2011"	"2011"	"No prenatal care"	"00"	1310
+	"Ohio"	"39"	"2011"	"2011"	"1st month"	"01"	5202
+	"Ohio"	"39"	"2011"	"2011"	"2nd month"	"02"	42935
+	"Ohio"	"39"	"2011"	"2011"	"3rd month"	"03"	47358
+	"Ohio"	"39"	"2011"	"2011"	"4th month"	"04"	15611
+	"Ohio"	"39"	"2011"	"2011"	"5th month"	"05"	7106
+	"Ohio"	"39"	"2011"	"2011"	"6th month"	"06"	4290
+	"Ohio"	"39"	"2011"	"2011"	"7th month"	"07"	2980
+	"Ohio"	"39"	"2011"	"2011"	"8th month"	"08"	2029
+	"Ohio"	"39"	"2011"	"2011"	"9th month"	"09"	868
+	"Ohio"	"39"	"2011"	"2011"	"10th month"	"10"	115
+	"Ohio"	"39"	"2011"	"2011"	"Unknown or Not Stated"	"99"	8114
+	"Ohio"	"39"	"2011"	"2011"	"Not Reported"	"98"	0
+	"Ohio"	"39"	"2012"	"2012"	"No prenatal care"	"00"	1545
+	"Ohio"	"39"	"2012"	"2012"	"1st month"	"01"	5110
+	"Ohio"	"39"	"2012"	"2012"	"2nd month"	"02"	41240
+	"Ohio"	"39"	"2012"	"2012"	"3rd month"	"03"	48487
+	"Ohio"	"39"	"2012"	"2012"	"4th month"	"04"	15659
+	"Ohio"	"39"	"2012"	"2012"	"5th month"	"05"	7329
+	"Ohio"	"39"	"2012"	"2012"	"6th month"	"06"	4486
+	"Ohio"	"39"	"2012"	"2012"	"7th month"	"07"	3139
+	"Ohio"	"39"	"2012"	"2012"	"8th month"	"08"	2192
+	"Ohio"	"39"	"2012"	"2012"	"9th month"	"09"	1035
+	"Ohio"	"39"	"2012"	"2012"	"10th month"	"10"	112
+	"Ohio"	"39"	"2012"	"2012"	"Unknown or Not Stated"	"99"	8149
+	"Ohio"	"39"	"2012"	"2012"	"Not Reported"	"98"	0
+	"Ohio"	"39"	"2013"	"2013"	"No prenatal care"	"00"	1846
+	"Ohio"	"39"	"2013"	"2013"	"1st month"	"01"	4448
+	"Ohio"	"39"	"2013"	"2013"	"2nd month"	"02"	41108
+	"Ohio"	"39"	"2013"	"2013"	"3rd month"	"03"	49285
+	"Ohio"	"39"	"2013"	"2013"	"4th month"	"04"	16272
+	"Ohio"	"39"	"2013"	"2013"	"5th month"	"05"	7699
+	"Ohio"	"39"	"2013"	"2013"	"6th month"	"06"	4828
+	"Ohio"	"39"	"2013"	"2013"	"7th month"	"07"	3201
+	"Ohio"	"39"	"2013"	"2013"	"8th month"	"08"	2222
+	"Ohio"	"39"	"2013"	"2013"	"9th month"	"09"	1113
+	"Ohio"	"39"	"2013"	"2013"	"10th month"	"10"	176
+	"Ohio"	"39"	"2013"	"2013"	"Unknown or Not Stated"	"99"	6738
+	"Ohio"	"39"	"2013"	"2013"	"Not Reported"	"98"	0
+	"Ohio"	"39"	"2014"	"2014"	"No prenatal care"	"00"	2589
+	"Ohio"	"39"	"2014"	"2014"	"1st month"	"01"	4860
+	"Ohio"	"39"	"2014"	"2014"	"2nd month"	"02"	53391
+	"Ohio"	"39"	"2014"	"2014"	"3rd month"	"03"	43514
+	"Ohio"	"39"	"2014"	"2014"	"4th month"	"04"	13851
+	"Ohio"	"39"	"2014"	"2014"	"5th month"	"05"	7207
+	"Ohio"	"39"	"2014"	"2014"	"6th month"	"06"	4458
+	"Ohio"	"39"	"2014"	"2014"	"7th month"	"07"	3511
+	"Ohio"	"39"	"2014"	"2014"	"8th month"	"08"	2426
+	"Ohio"	"39"	"2014"	"2014"	"9th month"	"09"	1006
+	"Ohio"	"39"	"2014"	"2014"	"10th month"	"10"	27
+	"Ohio"	"39"	"2014"	"2014"	"Unknown or Not Stated"	"99"	2627
+	"Ohio"	"39"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Ohio"	"39"	"2015"	"2015"	"No prenatal care"	"00"	2203
+	"Ohio"	"39"	"2015"	"2015"	"1st month"	"01"	4558
+	"Ohio"	"39"	"2015"	"2015"	"2nd month"	"02"	53900
+	"Ohio"	"39"	"2015"	"2015"	"3rd month"	"03"	44488
+	"Ohio"	"39"	"2015"	"2015"	"4th month"	"04"	13495
+	"Ohio"	"39"	"2015"	"2015"	"5th month"	"05"	6891
+	"Ohio"	"39"	"2015"	"2015"	"6th month"	"06"	4403
+	"Ohio"	"39"	"2015"	"2015"	"7th month"	"07"	3439
+	"Ohio"	"39"	"2015"	"2015"	"8th month"	"08"	2393
+	"Ohio"	"39"	"2015"	"2015"	"9th month"	"09"	908
+	"Ohio"	"39"	"2015"	"2015"	"10th month"	"10"	18
+	"Ohio"	"39"	"2015"	"2015"	"Unknown or Not Stated"	"99"	2568
+	"Ohio"	"39"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Ohio"	"39"	"2016"	"2016"	"No prenatal care"	"00"	2088
+	"Ohio"	"39"	"2016"	"2016"	"1st month"	"01"	3321
+	"Ohio"	"39"	"2016"	"2016"	"2nd month"	"02"	52360
+	"Ohio"	"39"	"2016"	"2016"	"3rd month"	"03"	46993
+	"Ohio"	"39"	"2016"	"2016"	"4th month"	"04"	13621
+	"Ohio"	"39"	"2016"	"2016"	"5th month"	"05"	6842
+	"Ohio"	"39"	"2016"	"2016"	"6th month"	"06"	4280
+	"Ohio"	"39"	"2016"	"2016"	"7th month"	"07"	3429
+	"Ohio"	"39"	"2016"	"2016"	"8th month"	"08"	2326
+	"Ohio"	"39"	"2016"	"2016"	"9th month"	"09"	914
+	"Ohio"	"39"	"2016"	"2016"	"10th month"	"10"	15
+	"Ohio"	"39"	"2016"	"2016"	"Unknown or Not Stated"	"99"	1896
+	"Ohio"	"39"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Ohio"	"39"	"2017"	"2017"	"No prenatal care"	"00"	2042
+	"Ohio"	"39"	"2017"	"2017"	"1st month"	"01"	2602
+	"Ohio"	"39"	"2017"	"2017"	"2nd month"	"02"	52144
+	"Ohio"	"39"	"2017"	"2017"	"3rd month"	"03"	47563
+	"Ohio"	"39"	"2017"	"2017"	"4th month"	"04"	13309
+	"Ohio"	"39"	"2017"	"2017"	"5th month"	"05"	6867
+	"Ohio"	"39"	"2017"	"2017"	"6th month"	"06"	4212
+	"Ohio"	"39"	"2017"	"2017"	"7th month"	"07"	3258
+	"Ohio"	"39"	"2017"	"2017"	"8th month"	"08"	2341
+	"Ohio"	"39"	"2017"	"2017"	"9th month"	"09"	938
+	"Ohio"	"39"	"2017"	"2017"	"10th month"	"10"	10
+	"Ohio"	"39"	"2017"	"2017"	"Unknown or Not Stated"	"99"	1546
+	"Ohio"	"39"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Ohio"	"39"	"2018"	"2018"	"No prenatal care"	"00"	2002
+	"Ohio"	"39"	"2018"	"2018"	"1st month"	"01"	2753
+	"Ohio"	"39"	"2018"	"2018"	"2nd month"	"02"	52207
+	"Ohio"	"39"	"2018"	"2018"	"3rd month"	"03"	47599
+	"Ohio"	"39"	"2018"	"2018"	"4th month"	"04"	12738
+	"Ohio"	"39"	"2018"	"2018"	"5th month"	"05"	6454
+	"Ohio"	"39"	"2018"	"2018"	"6th month"	"06"	3987
+	"Ohio"	"39"	"2018"	"2018"	"7th month"	"07"	3157
+	"Ohio"	"39"	"2018"	"2018"	"8th month"	"08"	2172
+	"Ohio"	"39"	"2018"	"2018"	"9th month"	"09"	818
+	"Ohio"	"39"	"2018"	"2018"	"10th month"	"10"	17
+	"Ohio"	"39"	"2018"	"2018"	"Unknown or Not Stated"	"99"	1230
+	"Ohio"	"39"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Ohio"	"39"	"2019"	"2019"	"No prenatal care"	"00"	2055
+	"Ohio"	"39"	"2019"	"2019"	"1st month"	"01"	2716
+	"Ohio"	"39"	"2019"	"2019"	"2nd month"	"02"	51985
+	"Ohio"	"39"	"2019"	"2019"	"3rd month"	"03"	48108
+	"Ohio"	"39"	"2019"	"2019"	"4th month"	"04"	12653
+	"Ohio"	"39"	"2019"	"2019"	"5th month"	"05"	6316
+	"Ohio"	"39"	"2019"	"2019"	"6th month"	"06"	3768
+	"Ohio"	"39"	"2019"	"2019"	"7th month"	"07"	2975
+	"Ohio"	"39"	"2019"	"2019"	"8th month"	"08"	2091
+	"Ohio"	"39"	"2019"	"2019"	"9th month"	"09"	817
+	"Ohio"	"39"	"2019"	"2019"	"10th month"	"10"	19
+	"Ohio"	"39"	"2019"	"2019"	"Unknown or Not Stated"	"99"	958
+	"Ohio"	"39"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Ohio"	"39"	"2020"	"2020"	"No prenatal care"	"00"	1885
+	"Ohio"	"39"	"2020"	"2020"	"1st month"	"01"	2471
+	"Ohio"	"39"	"2020"	"2020"	"2nd month"	"02"	50012
+	"Ohio"	"39"	"2020"	"2020"	"3rd month"	"03"	46777
+	"Ohio"	"39"	"2020"	"2020"	"4th month"	"04"	12130
+	"Ohio"	"39"	"2020"	"2020"	"5th month"	"05"	6060
+	"Ohio"	"39"	"2020"	"2020"	"6th month"	"06"	3536
+	"Ohio"	"39"	"2020"	"2020"	"7th month"	"07"	2667
+	"Ohio"	"39"	"2020"	"2020"	"8th month"	"08"	1873
+	"Ohio"	"39"	"2020"	"2020"	"9th month"	"09"	708
+	"Ohio"	"39"	"2020"	"2020"	"10th month"	"10"	12
+	"Ohio"	"39"	"2020"	"2020"	"Unknown or Not Stated"	"99"	1060
+	"Ohio"	"39"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Ohio"	"39"	"2021"	"2021"	"No prenatal care"	"00"	2093
+	"Ohio"	"39"	"2021"	"2021"	"1st month"	"01"	2191
+	"Ohio"	"39"	"2021"	"2021"	"2nd month"	"02"	51014
+	"Ohio"	"39"	"2021"	"2021"	"3rd month"	"03"	48020
+	"Ohio"	"39"	"2021"	"2021"	"4th month"	"04"	11521
+	"Ohio"	"39"	"2021"	"2021"	"5th month"	"05"	5654
+	"Ohio"	"39"	"2021"	"2021"	"6th month"	"06"	3239
+	"Ohio"	"39"	"2021"	"2021"	"7th month"	"07"	2547
+	"Ohio"	"39"	"2021"	"2021"	"8th month"	"08"	1733
+	"Ohio"	"39"	"2021"	"2021"	"9th month"	"09"	702
+	"Ohio"	"39"	"2021"	"2021"	"10th month"	"10"	12
+	"Ohio"	"39"	"2021"	"2021"	"Unknown or Not Stated"	"99"	1065
+	"Ohio"	"39"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Ohio"	"39"	"2022"	"2022"	"No prenatal care"	"00"	2125
+	"Ohio"	"39"	"2022"	"2022"	"1st month"	"01"	2092
+	"Ohio"	"39"	"2022"	"2022"	"2nd month"	"02"	49063
+	"Ohio"	"39"	"2022"	"2022"	"3rd month"	"03"	47749
+	"Ohio"	"39"	"2022"	"2022"	"4th month"	"04"	11760
+	"Ohio"	"39"	"2022"	"2022"	"5th month"	"05"	5555
+	"Ohio"	"39"	"2022"	"2022"	"6th month"	"06"	3502
+	"Ohio"	"39"	"2022"	"2022"	"7th month"	"07"	2710
+	"Ohio"	"39"	"2022"	"2022"	"8th month"	"08"	1901
+	"Ohio"	"39"	"2022"	"2022"	"9th month"	"09"	756
+	"Ohio"	"39"	"2022"	"2022"	"10th month"	"10"	10
+	"Ohio"	"39"	"2022"	"2022"	"Unknown or Not Stated"	"99"	1008
+	"Ohio"	"39"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Ohio"	"39"	"2023"	"2023"	"No prenatal care"	"00"	2187
+	"Ohio"	"39"	"2023"	"2023"	"1st month"	"01"	1916
+	"Ohio"	"39"	"2023"	"2023"	"2nd month"	"02"	48098
+	"Ohio"	"39"	"2023"	"2023"	"3rd month"	"03"	47327
+	"Ohio"	"39"	"2023"	"2023"	"4th month"	"04"	11942
+	"Ohio"	"39"	"2023"	"2023"	"5th month"	"05"	5664
+	"Ohio"	"39"	"2023"	"2023"	"6th month"	"06"	3411
+	"Ohio"	"39"	"2023"	"2023"	"7th month"	"07"	2761
+	"Ohio"	"39"	"2023"	"2023"	"8th month"	"08"	1964
+	"Ohio"	"39"	"2023"	"2023"	"9th month"	"09"	784
+	"Ohio"	"39"	"2023"	"2023"	"10th month"	"10"	15
+	"Ohio"	"39"	"2023"	"2023"	"Unknown or Not Stated"	"99"	827
+	"Ohio"	"39"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Oklahoma"	"40"	"2010"	"2010"	"No prenatal care"	"00"	886
+	"Oklahoma"	"40"	"2010"	"2010"	"1st month"	"01"	1912
+	"Oklahoma"	"40"	"2010"	"2010"	"2nd month"	"02"	13744
+	"Oklahoma"	"40"	"2010"	"2010"	"3rd month"	"03"	17514
+	"Oklahoma"	"40"	"2010"	"2010"	"4th month"	"04"	7530
+	"Oklahoma"	"40"	"2010"	"2010"	"5th month"	"05"	3688
+	"Oklahoma"	"40"	"2010"	"2010"	"6th month"	"06"	2170
+	"Oklahoma"	"40"	"2010"	"2010"	"7th month"	"07"	1525
+	"Oklahoma"	"40"	"2010"	"2010"	"8th month"	"08"	1091
+	"Oklahoma"	"40"	"2010"	"2010"	"9th month"	"09"	477
+	"Oklahoma"	"40"	"2010"	"2010"	"10th month"	"10"	76
+	"Oklahoma"	"40"	"2010"	"2010"	"Unknown or Not Stated"	"99"	2625
+	"Oklahoma"	"40"	"2010"	"2010"	"Not Reported"	"98"	0
+	"Oklahoma"	"40"	"2011"	"2011"	"No prenatal care"	"00"	926
+	"Oklahoma"	"40"	"2011"	"2011"	"1st month"	"01"	1832
+	"Oklahoma"	"40"	"2011"	"2011"	"2nd month"	"02"	14027
+	"Oklahoma"	"40"	"2011"	"2011"	"3rd month"	"03"	17137
+	"Oklahoma"	"40"	"2011"	"2011"	"4th month"	"04"	7009
+	"Oklahoma"	"40"	"2011"	"2011"	"5th month"	"05"	3405
+	"Oklahoma"	"40"	"2011"	"2011"	"6th month"	"06"	2080
+	"Oklahoma"	"40"	"2011"	"2011"	"7th month"	"07"	1426
+	"Oklahoma"	"40"	"2011"	"2011"	"8th month"	"08"	1123
+	"Oklahoma"	"40"	"2011"	"2011"	"9th month"	"09"	532
+	"Oklahoma"	"40"	"2011"	"2011"	"10th month"	"10"	80
+	"Oklahoma"	"40"	"2011"	"2011"	"Unknown or Not Stated"	"99"	2695
+	"Oklahoma"	"40"	"2011"	"2011"	"Not Reported"	"98"	0
+	"Oklahoma"	"40"	"2012"	"2012"	"No prenatal care"	"00"	1054
+	"Oklahoma"	"40"	"2012"	"2012"	"1st month"	"01"	1880
+	"Oklahoma"	"40"	"2012"	"2012"	"2nd month"	"02"	14663
+	"Oklahoma"	"40"	"2012"	"2012"	"3rd month"	"03"	17737
+	"Oklahoma"	"40"	"2012"	"2012"	"4th month"	"04"	6495
+	"Oklahoma"	"40"	"2012"	"2012"	"5th month"	"05"	3156
+	"Oklahoma"	"40"	"2012"	"2012"	"6th month"	"06"	1995
+	"Oklahoma"	"40"	"2012"	"2012"	"7th month"	"07"	1312
+	"Oklahoma"	"40"	"2012"	"2012"	"8th month"	"08"	1020
+	"Oklahoma"	"40"	"2012"	"2012"	"9th month"	"09"	509
+	"Oklahoma"	"40"	"2012"	"2012"	"10th month"	"10"	79
+	"Oklahoma"	"40"	"2012"	"2012"	"Unknown or Not Stated"	"99"	2851
+	"Oklahoma"	"40"	"2012"	"2012"	"Not Reported"	"98"	0
+	"Oklahoma"	"40"	"2013"	"2013"	"No prenatal care"	"00"	1085
+	"Oklahoma"	"40"	"2013"	"2013"	"1st month"	"01"	1974
+	"Oklahoma"	"40"	"2013"	"2013"	"2nd month"	"02"	14895
+	"Oklahoma"	"40"	"2013"	"2013"	"3rd month"	"03"	17544
+	"Oklahoma"	"40"	"2013"	"2013"	"4th month"	"04"	6499
+	"Oklahoma"	"40"	"2013"	"2013"	"5th month"	"05"	3109
+	"Oklahoma"	"40"	"2013"	"2013"	"6th month"	"06"	1839
+	"Oklahoma"	"40"	"2013"	"2013"	"7th month"	"07"	1305
+	"Oklahoma"	"40"	"2013"	"2013"	"8th month"	"08"	1003
+	"Oklahoma"	"40"	"2013"	"2013"	"9th month"	"09"	512
+	"Oklahoma"	"40"	"2013"	"2013"	"10th month"	"10"	69
+	"Oklahoma"	"40"	"2013"	"2013"	"Unknown or Not Stated"	"99"	3535
+	"Oklahoma"	"40"	"2013"	"2013"	"Not Reported"	"98"	0
+	"Oklahoma"	"40"	"2014"	"2014"	"No prenatal care"	"00"	984
+	"Oklahoma"	"40"	"2014"	"2014"	"1st month"	"01"	2711
+	"Oklahoma"	"40"	"2014"	"2014"	"2nd month"	"02"	18872
+	"Oklahoma"	"40"	"2014"	"2014"	"3rd month"	"03"	15815
+	"Oklahoma"	"40"	"2014"	"2014"	"4th month"	"04"	5390
+	"Oklahoma"	"40"	"2014"	"2014"	"5th month"	"05"	2868
+	"Oklahoma"	"40"	"2014"	"2014"	"6th month"	"06"	1806
+	"Oklahoma"	"40"	"2014"	"2014"	"7th month"	"07"	1505
+	"Oklahoma"	"40"	"2014"	"2014"	"8th month"	"08"	1046
+	"Oklahoma"	"40"	"2014"	"2014"	"9th month"	"09"	350
+	"Oklahoma"	"40"	"2014"	"2014"	"Unknown or Not Stated"	"99"	1987
+	"Oklahoma"	"40"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Oklahoma"	"40"	"2015"	"2015"	"No prenatal care"	"00"	816
+	"Oklahoma"	"40"	"2015"	"2015"	"1st month"	"01"	2659
+	"Oklahoma"	"40"	"2015"	"2015"	"2nd month"	"02"	19508
+	"Oklahoma"	"40"	"2015"	"2015"	"3rd month"	"03"	16552
+	"Oklahoma"	"40"	"2015"	"2015"	"4th month"	"04"	5329
+	"Oklahoma"	"40"	"2015"	"2015"	"5th month"	"05"	2699
+	"Oklahoma"	"40"	"2015"	"2015"	"6th month"	"06"	1677
+	"Oklahoma"	"40"	"2015"	"2015"	"7th month"	"07"	1353
+	"Oklahoma"	"40"	"2015"	"2015"	"8th month"	"08"	979
+	"Oklahoma"	"40"	"2015"	"2015"	"9th month"	"09"	353
+	"Oklahoma"	"40"	"2015"	"2015"	"Unknown or Not Stated"	"99"	1193
+	"Oklahoma"	"40"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Oklahoma"	"40"	"2016"	"2016"	"No prenatal care"	"00"	946
+	"Oklahoma"	"40"	"2016"	"2016"	"1st month"	"01"	2152
+	"Oklahoma"	"40"	"2016"	"2016"	"2nd month"	"02"	18857
+	"Oklahoma"	"40"	"2016"	"2016"	"3rd month"	"03"	16402
+	"Oklahoma"	"40"	"2016"	"2016"	"4th month"	"04"	5571
+	"Oklahoma"	"40"	"2016"	"2016"	"5th month"	"05"	2864
+	"Oklahoma"	"40"	"2016"	"2016"	"6th month"	"06"	1781
+	"Oklahoma"	"40"	"2016"	"2016"	"7th month"	"07"	1362
+	"Oklahoma"	"40"	"2016"	"2016"	"8th month"	"08"	1066
+	"Oklahoma"	"40"	"2016"	"2016"	"9th month"	"09"	400
+	"Oklahoma"	"40"	"2016"	"2016"	"Unknown or Not Stated"	"99"	1187
+	"Oklahoma"	"40"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Oklahoma"	"40"	"2017"	"2017"	"No prenatal care"	"00"	929
+	"Oklahoma"	"40"	"2017"	"2017"	"1st month"	"01"	2027
+	"Oklahoma"	"40"	"2017"	"2017"	"2nd month"	"02"	19120
+	"Oklahoma"	"40"	"2017"	"2017"	"3rd month"	"03"	15242
+	"Oklahoma"	"40"	"2017"	"2017"	"4th month"	"04"	5118
+	"Oklahoma"	"40"	"2017"	"2017"	"5th month"	"05"	2557
+	"Oklahoma"	"40"	"2017"	"2017"	"6th month"	"06"	1542
+	"Oklahoma"	"40"	"2017"	"2017"	"7th month"	"07"	1273
+	"Oklahoma"	"40"	"2017"	"2017"	"8th month"	"08"	921
+	"Oklahoma"	"40"	"2017"	"2017"	"9th month"	"09"	314
+	"Oklahoma"	"40"	"2017"	"2017"	"Unknown or Not Stated"	"99"	1168
+	"Oklahoma"	"40"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Oklahoma"	"40"	"2018"	"2018"	"No prenatal care"	"00"	821
+	"Oklahoma"	"40"	"2018"	"2018"	"1st month"	"01"	1880
+	"Oklahoma"	"40"	"2018"	"2018"	"2nd month"	"02"	19462
+	"Oklahoma"	"40"	"2018"	"2018"	"3rd month"	"03"	15230
+	"Oklahoma"	"40"	"2018"	"2018"	"4th month"	"04"	4829
+	"Oklahoma"	"40"	"2018"	"2018"	"5th month"	"05"	2453
+	"Oklahoma"	"40"	"2018"	"2018"	"6th month"	"06"	1532
+	"Oklahoma"	"40"	"2018"	"2018"	"7th month"	"07"	1282
+	"Oklahoma"	"40"	"2018"	"2018"	"8th month"	"08"	883
+	"Oklahoma"	"40"	"2018"	"2018"	"9th month"	"09"	345
+	"Oklahoma"	"40"	"2018"	"2018"	"Unknown or Not Stated"	"99"	1077
+	"Oklahoma"	"40"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Oklahoma"	"40"	"2019"	"2019"	"No prenatal care"	"00"	940
+	"Oklahoma"	"40"	"2019"	"2019"	"1st month"	"01"	2054
+	"Oklahoma"	"40"	"2019"	"2019"	"2nd month"	"02"	19811
+	"Oklahoma"	"40"	"2019"	"2019"	"3rd month"	"03"	15123
+	"Oklahoma"	"40"	"2019"	"2019"	"4th month"	"04"	4586
+	"Oklahoma"	"40"	"2019"	"2019"	"5th month"	"05"	2314
+	"Oklahoma"	"40"	"2019"	"2019"	"6th month"	"06"	1543
+	"Oklahoma"	"40"	"2019"	"2019"	"7th month"	"07"	1173
+	"Oklahoma"	"40"	"2019"	"2019"	"8th month"	"08"	772
+	"Oklahoma"	"40"	"2019"	"2019"	"9th month"	"09"	293
+	"Oklahoma"	"40"	"2019"	"2019"	"Unknown or Not Stated"	"99"	530
+	"Oklahoma"	"40"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Oklahoma"	"40"	"2020"	"2020"	"No prenatal care"	"00"	893
+	"Oklahoma"	"40"	"2020"	"2020"	"1st month"	"01"	1926
+	"Oklahoma"	"40"	"2020"	"2020"	"2nd month"	"02"	18378
+	"Oklahoma"	"40"	"2020"	"2020"	"3rd month"	"03"	15174
+	"Oklahoma"	"40"	"2020"	"2020"	"4th month"	"04"	4528
+	"Oklahoma"	"40"	"2020"	"2020"	"5th month"	"05"	2322
+	"Oklahoma"	"40"	"2020"	"2020"	"6th month"	"06"	1296
+	"Oklahoma"	"40"	"2020"	"2020"	"7th month"	"07"	1125
+	"Oklahoma"	"40"	"2020"	"2020"	"8th month"	"08"	856
+	"Oklahoma"	"40"	"2020"	"2020"	"9th month"	"09"	301
+	"Oklahoma"	"40"	"2020"	"2020"	"Unknown or Not Stated"	"99"	822
+	"Oklahoma"	"40"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Oklahoma"	"40"	"2021"	"2021"	"No prenatal care"	"00"	944
+	"Oklahoma"	"40"	"2021"	"2021"	"1st month"	"01"	1944
+	"Oklahoma"	"40"	"2021"	"2021"	"2nd month"	"02"	19572
+	"Oklahoma"	"40"	"2021"	"2021"	"3rd month"	"03"	15697
+	"Oklahoma"	"40"	"2021"	"2021"	"4th month"	"04"	4291
+	"Oklahoma"	"40"	"2021"	"2021"	"5th month"	"05"	2067
+	"Oklahoma"	"40"	"2021"	"2021"	"6th month"	"06"	1271
+	"Oklahoma"	"40"	"2021"	"2021"	"7th month"	"07"	1050
+	"Oklahoma"	"40"	"2021"	"2021"	"8th month"	"08"	710
+	"Oklahoma"	"40"	"2021"	"2021"	"9th month"	"09"	238
+	"Oklahoma"	"40"	"2021"	"2021"	"Unknown or Not Stated"	"99"	625
+	"Oklahoma"	"40"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Oklahoma"	"40"	"2022"	"2022"	"No prenatal care"	"00"	1094
+	"Oklahoma"	"40"	"2022"	"2022"	"1st month"	"01"	1964
+	"Oklahoma"	"40"	"2022"	"2022"	"2nd month"	"02"	18362
+	"Oklahoma"	"40"	"2022"	"2022"	"3rd month"	"03"	16406
+	"Oklahoma"	"40"	"2022"	"2022"	"4th month"	"04"	4483
+	"Oklahoma"	"40"	"2022"	"2022"	"5th month"	"05"	2073
+	"Oklahoma"	"40"	"2022"	"2022"	"6th month"	"06"	1323
+	"Oklahoma"	"40"	"2022"	"2022"	"7th month"	"07"	1016
+	"Oklahoma"	"40"	"2022"	"2022"	"8th month"	"08"	755
+	"Oklahoma"	"40"	"2022"	"2022"	"9th month"	"09"	275
+	"Oklahoma"	"40"	"2022"	"2022"	"Unknown or Not Stated"	"99"	578
+	"Oklahoma"	"40"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Oklahoma"	"40"	"2023"	"2023"	"No prenatal care"	"00"	866
+	"Oklahoma"	"40"	"2023"	"2023"	"1st month"	"01"	1706
+	"Oklahoma"	"40"	"2023"	"2023"	"2nd month"	"02"	17265
+	"Oklahoma"	"40"	"2023"	"2023"	"3rd month"	"03"	17123
+	"Oklahoma"	"40"	"2023"	"2023"	"4th month"	"04"	4847
+	"Oklahoma"	"40"	"2023"	"2023"	"5th month"	"05"	2255
+	"Oklahoma"	"40"	"2023"	"2023"	"6th month"	"06"	1291
+	"Oklahoma"	"40"	"2023"	"2023"	"7th month"	"07"	980
+	"Oklahoma"	"40"	"2023"	"2023"	"8th month"	"08"	708
+	"Oklahoma"	"40"	"2023"	"2023"	"9th month"	"09"	257
+	"Oklahoma"	"40"	"2023"	"2023"	"Unknown or Not Stated"	"99"	609
+	"Oklahoma"	"40"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Pennsylvania"	"42"	"2010"	"2010"	"No prenatal care"	"00"	2280
+	"Pennsylvania"	"42"	"2010"	"2010"	"1st month"	"01"	2714
+	"Pennsylvania"	"42"	"2010"	"2010"	"2nd month"	"02"	39926
+	"Pennsylvania"	"42"	"2010"	"2010"	"3rd month"	"03"	55275
+	"Pennsylvania"	"42"	"2010"	"2010"	"4th month"	"04"	16365
+	"Pennsylvania"	"42"	"2010"	"2010"	"5th month"	"05"	7832
+	"Pennsylvania"	"42"	"2010"	"2010"	"6th month"	"06"	5004
+	"Pennsylvania"	"42"	"2010"	"2010"	"7th month"	"07"	3544
+	"Pennsylvania"	"42"	"2010"	"2010"	"8th month"	"08"	2436
+	"Pennsylvania"	"42"	"2010"	"2010"	"9th month"	"09"	1033
+	"Pennsylvania"	"42"	"2010"	"2010"	"10th month"	"10"	90
+	"Pennsylvania"	"42"	"2010"	"2010"	"Unknown or Not Stated"	"99"	6822
+	"Pennsylvania"	"42"	"2010"	"2010"	"Not Reported"	"98"	0
+	"Pennsylvania"	"42"	"2011"	"2011"	"No prenatal care"	"00"	1997
+	"Pennsylvania"	"42"	"2011"	"2011"	"1st month"	"01"	2431
+	"Pennsylvania"	"42"	"2011"	"2011"	"2nd month"	"02"	40852
+	"Pennsylvania"	"42"	"2011"	"2011"	"3rd month"	"03"	55378
+	"Pennsylvania"	"42"	"2011"	"2011"	"4th month"	"04"	15998
+	"Pennsylvania"	"42"	"2011"	"2011"	"5th month"	"05"	8010
+	"Pennsylvania"	"42"	"2011"	"2011"	"6th month"	"06"	5030
+	"Pennsylvania"	"42"	"2011"	"2011"	"7th month"	"07"	3379
+	"Pennsylvania"	"42"	"2011"	"2011"	"8th month"	"08"	2451
+	"Pennsylvania"	"42"	"2011"	"2011"	"9th month"	"09"	1080
+	"Pennsylvania"	"42"	"2011"	"2011"	"10th month"	"10"	100
+	"Pennsylvania"	"42"	"2011"	"2011"	"Unknown or Not Stated"	"99"	6472
+	"Pennsylvania"	"42"	"2011"	"2011"	"Not Reported"	"98"	0
+	"Pennsylvania"	"42"	"2012"	"2012"	"No prenatal care"	"00"	1818
+	"Pennsylvania"	"42"	"2012"	"2012"	"1st month"	"01"	3007
+	"Pennsylvania"	"42"	"2012"	"2012"	"2nd month"	"02"	41591
+	"Pennsylvania"	"42"	"2012"	"2012"	"3rd month"	"03"	54279
+	"Pennsylvania"	"42"	"2012"	"2012"	"4th month"	"04"	15597
+	"Pennsylvania"	"42"	"2012"	"2012"	"5th month"	"05"	7784
+	"Pennsylvania"	"42"	"2012"	"2012"	"6th month"	"06"	4918
+	"Pennsylvania"	"42"	"2012"	"2012"	"7th month"	"07"	3371
+	"Pennsylvania"	"42"	"2012"	"2012"	"8th month"	"08"	2355
+	"Pennsylvania"	"42"	"2012"	"2012"	"9th month"	"09"	1015
+	"Pennsylvania"	"42"	"2012"	"2012"	"10th month"	"10"	98
+	"Pennsylvania"	"42"	"2012"	"2012"	"Unknown or Not Stated"	"99"	6681
+	"Pennsylvania"	"42"	"2012"	"2012"	"Not Reported"	"98"	0
+	"Pennsylvania"	"42"	"2013"	"2013"	"No prenatal care"	"00"	2068
+	"Pennsylvania"	"42"	"2013"	"2013"	"1st month"	"01"	3193
+	"Pennsylvania"	"42"	"2013"	"2013"	"2nd month"	"02"	41769
+	"Pennsylvania"	"42"	"2013"	"2013"	"3rd month"	"03"	52219
+	"Pennsylvania"	"42"	"2013"	"2013"	"4th month"	"04"	15138
+	"Pennsylvania"	"42"	"2013"	"2013"	"5th month"	"05"	7480
+	"Pennsylvania"	"42"	"2013"	"2013"	"6th month"	"06"	4544
+	"Pennsylvania"	"42"	"2013"	"2013"	"7th month"	"07"	3331
+	"Pennsylvania"	"42"	"2013"	"2013"	"8th month"	"08"	2436
+	"Pennsylvania"	"42"	"2013"	"2013"	"9th month"	"09"	1126
+	"Pennsylvania"	"42"	"2013"	"2013"	"10th month"	"10"	127
+	"Pennsylvania"	"42"	"2013"	"2013"	"Unknown or Not Stated"	"99"	7490
+	"Pennsylvania"	"42"	"2013"	"2013"	"Not Reported"	"98"	0
+	"Pennsylvania"	"42"	"2014"	"2014"	"No prenatal care"	"00"	2431
+	"Pennsylvania"	"42"	"2014"	"2014"	"1st month"	"01"	3565
+	"Pennsylvania"	"42"	"2014"	"2014"	"2nd month"	"02"	53542
+	"Pennsylvania"	"42"	"2014"	"2014"	"3rd month"	"03"	45915
+	"Pennsylvania"	"42"	"2014"	"2014"	"4th month"	"04"	13010
+	"Pennsylvania"	"42"	"2014"	"2014"	"5th month"	"05"	6841
+	"Pennsylvania"	"42"	"2014"	"2014"	"6th month"	"06"	4517
+	"Pennsylvania"	"42"	"2014"	"2014"	"7th month"	"07"	3387
+	"Pennsylvania"	"42"	"2014"	"2014"	"8th month"	"08"	2377
+	"Pennsylvania"	"42"	"2014"	"2014"	"9th month"	"09"	770
+	"Pennsylvania"	"42"	"2014"	"2014"	"10th month"	"10"	10
+	"Pennsylvania"	"42"	"2014"	"2014"	"Unknown or Not Stated"	"99"	5903
+	"Pennsylvania"	"42"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Pennsylvania"	"42"	"2015"	"2015"	"No prenatal care"	"00"	2164
+	"Pennsylvania"	"42"	"2015"	"2015"	"1st month"	"01"	3467
+	"Pennsylvania"	"42"	"2015"	"2015"	"2nd month"	"02"	52064
+	"Pennsylvania"	"42"	"2015"	"2015"	"3rd month"	"03"	46383
+	"Pennsylvania"	"42"	"2015"	"2015"	"4th month"	"04"	12936
+	"Pennsylvania"	"42"	"2015"	"2015"	"5th month"	"05"	6997
+	"Pennsylvania"	"42"	"2015"	"2015"	"6th month"	"06"	4498
+	"Pennsylvania"	"42"	"2015"	"2015"	"7th month"	"07"	3483
+	"Pennsylvania"	"42"	"2015"	"2015"	"8th month"	"08"	2498
+	"Pennsylvania"	"42"	"2015"	"2015"	"9th month"	"09"	822
+	"Pennsylvania"	"42"	"2015"	"2015"	"10th month"	"10"	12
+	"Pennsylvania"	"42"	"2015"	"2015"	"Unknown or Not Stated"	"99"	5723
+	"Pennsylvania"	"42"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Pennsylvania"	"42"	"2016"	"2016"	"No prenatal care"	"00"	2090
+	"Pennsylvania"	"42"	"2016"	"2016"	"1st month"	"01"	4044
+	"Pennsylvania"	"42"	"2016"	"2016"	"2nd month"	"02"	54561
+	"Pennsylvania"	"42"	"2016"	"2016"	"3rd month"	"03"	46087
+	"Pennsylvania"	"42"	"2016"	"2016"	"4th month"	"04"	12104
+	"Pennsylvania"	"42"	"2016"	"2016"	"5th month"	"05"	6346
+	"Pennsylvania"	"42"	"2016"	"2016"	"6th month"	"06"	3850
+	"Pennsylvania"	"42"	"2016"	"2016"	"7th month"	"07"	3135
+	"Pennsylvania"	"42"	"2016"	"2016"	"8th month"	"08"	2275
+	"Pennsylvania"	"42"	"2016"	"2016"	"9th month"	"09"	914
+	"Pennsylvania"	"42"	"2016"	"2016"	"10th month"	"10"	23
+	"Pennsylvania"	"42"	"2016"	"2016"	"Unknown or Not Stated"	"99"	3980
+	"Pennsylvania"	"42"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Pennsylvania"	"42"	"2017"	"2017"	"No prenatal care"	"00"	2189
+	"Pennsylvania"	"42"	"2017"	"2017"	"1st month"	"01"	4171
+	"Pennsylvania"	"42"	"2017"	"2017"	"2nd month"	"02"	53066
+	"Pennsylvania"	"42"	"2017"	"2017"	"3rd month"	"03"	45958
+	"Pennsylvania"	"42"	"2017"	"2017"	"4th month"	"04"	11814
+	"Pennsylvania"	"42"	"2017"	"2017"	"5th month"	"05"	6281
+	"Pennsylvania"	"42"	"2017"	"2017"	"6th month"	"06"	3933
+	"Pennsylvania"	"42"	"2017"	"2017"	"7th month"	"07"	3123
+	"Pennsylvania"	"42"	"2017"	"2017"	"8th month"	"08"	2406
+	"Pennsylvania"	"42"	"2017"	"2017"	"9th month"	"09"	1140
+	"Pennsylvania"	"42"	"2017"	"2017"	"10th month"	"10"	34
+	"Pennsylvania"	"42"	"2017"	"2017"	"Unknown or Not Stated"	"99"	3630
+	"Pennsylvania"	"42"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Pennsylvania"	"42"	"2018"	"2018"	"No prenatal care"	"00"	2324
+	"Pennsylvania"	"42"	"2018"	"2018"	"1st month"	"01"	4246
+	"Pennsylvania"	"42"	"2018"	"2018"	"2nd month"	"02"	51106
+	"Pennsylvania"	"42"	"2018"	"2018"	"3rd month"	"03"	46493
+	"Pennsylvania"	"42"	"2018"	"2018"	"4th month"	"04"	11075
+	"Pennsylvania"	"42"	"2018"	"2018"	"5th month"	"05"	6194
+	"Pennsylvania"	"42"	"2018"	"2018"	"6th month"	"06"	3941
+	"Pennsylvania"	"42"	"2018"	"2018"	"7th month"	"07"	2967
+	"Pennsylvania"	"42"	"2018"	"2018"	"8th month"	"08"	2221
+	"Pennsylvania"	"42"	"2018"	"2018"	"9th month"	"09"	858
+	"Pennsylvania"	"42"	"2018"	"2018"	"10th month"	"10"	22
+	"Pennsylvania"	"42"	"2018"	"2018"	"Unknown or Not Stated"	"99"	4226
+	"Pennsylvania"	"42"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Pennsylvania"	"42"	"2019"	"2019"	"No prenatal care"	"00"	2669
+	"Pennsylvania"	"42"	"2019"	"2019"	"1st month"	"01"	5743
+	"Pennsylvania"	"42"	"2019"	"2019"	"2nd month"	"02"	51294
+	"Pennsylvania"	"42"	"2019"	"2019"	"3rd month"	"03"	44145
+	"Pennsylvania"	"42"	"2019"	"2019"	"4th month"	"04"	10613
+	"Pennsylvania"	"42"	"2019"	"2019"	"5th month"	"05"	5673
+	"Pennsylvania"	"42"	"2019"	"2019"	"6th month"	"06"	3666
+	"Pennsylvania"	"42"	"2019"	"2019"	"7th month"	"07"	2952
+	"Pennsylvania"	"42"	"2019"	"2019"	"8th month"	"08"	2376
+	"Pennsylvania"	"42"	"2019"	"2019"	"9th month"	"09"	912
+	"Pennsylvania"	"42"	"2019"	"2019"	"10th month"	"10"	24
+	"Pennsylvania"	"42"	"2019"	"2019"	"Unknown or Not Stated"	"99"	4163
+	"Pennsylvania"	"42"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Pennsylvania"	"42"	"2020"	"2020"	"No prenatal care"	"00"	2263
+	"Pennsylvania"	"42"	"2020"	"2020"	"1st month"	"01"	4275
+	"Pennsylvania"	"42"	"2020"	"2020"	"2nd month"	"02"	48460
+	"Pennsylvania"	"42"	"2020"	"2020"	"3rd month"	"03"	45000
+	"Pennsylvania"	"42"	"2020"	"2020"	"4th month"	"04"	10740
+	"Pennsylvania"	"42"	"2020"	"2020"	"5th month"	"05"	5911
+	"Pennsylvania"	"42"	"2020"	"2020"	"6th month"	"06"	3582
+	"Pennsylvania"	"42"	"2020"	"2020"	"7th month"	"07"	2768
+	"Pennsylvania"	"42"	"2020"	"2020"	"8th month"	"08"	2220
+	"Pennsylvania"	"42"	"2020"	"2020"	"9th month"	"09"	900
+	"Pennsylvania"	"42"	"2020"	"2020"	"10th month"	"10"	11
+	"Pennsylvania"	"42"	"2020"	"2020"	"Unknown or Not Stated"	"99"	4563
+	"Pennsylvania"	"42"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Pennsylvania"	"42"	"2021"	"2021"	"No prenatal care"	"00"	2749
+	"Pennsylvania"	"42"	"2021"	"2021"	"1st month"	"01"	2130
+	"Pennsylvania"	"42"	"2021"	"2021"	"2nd month"	"02"	48419
+	"Pennsylvania"	"42"	"2021"	"2021"	"3rd month"	"03"	48856
+	"Pennsylvania"	"42"	"2021"	"2021"	"4th month"	"04"	10849
+	"Pennsylvania"	"42"	"2021"	"2021"	"5th month"	"05"	5700
+	"Pennsylvania"	"42"	"2021"	"2021"	"6th month"	"06"	3351
+	"Pennsylvania"	"42"	"2021"	"2021"	"7th month"	"07"	2720
+	"Pennsylvania"	"42"	"2021"	"2021"	"8th month"	"08"	2114
+	"Pennsylvania"	"42"	"2021"	"2021"	"9th month"	"09"	832
+	"Pennsylvania"	"42"	"2021"	"2021"	"10th month"	"10"	19
+	"Pennsylvania"	"42"	"2021"	"2021"	"Unknown or Not Stated"	"99"	4883
+	"Pennsylvania"	"42"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Pennsylvania"	"42"	"2022"	"2022"	"No prenatal care"	"00"	2658
+	"Pennsylvania"	"42"	"2022"	"2022"	"1st month"	"01"	1997
+	"Pennsylvania"	"42"	"2022"	"2022"	"2nd month"	"02"	47730
+	"Pennsylvania"	"42"	"2022"	"2022"	"3rd month"	"03"	48352
+	"Pennsylvania"	"42"	"2022"	"2022"	"4th month"	"04"	10922
+	"Pennsylvania"	"42"	"2022"	"2022"	"5th month"	"05"	5759
+	"Pennsylvania"	"42"	"2022"	"2022"	"6th month"	"06"	3470
+	"Pennsylvania"	"42"	"2022"	"2022"	"7th month"	"07"	2783
+	"Pennsylvania"	"42"	"2022"	"2022"	"8th month"	"08"	2244
+	"Pennsylvania"	"42"	"2022"	"2022"	"9th month"	"09"	980
+	"Pennsylvania"	"42"	"2022"	"2022"	"10th month"	"10"	15
+	"Pennsylvania"	"42"	"2022"	"2022"	"Unknown or Not Stated"	"99"	3342
+	"Pennsylvania"	"42"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Pennsylvania"	"42"	"2023"	"2023"	"No prenatal care"	"00"	2285
+	"Pennsylvania"	"42"	"2023"	"2023"	"1st month"	"01"	1857
+	"Pennsylvania"	"42"	"2023"	"2023"	"2nd month"	"02"	45934
+	"Pennsylvania"	"42"	"2023"	"2023"	"3rd month"	"03"	46969
+	"Pennsylvania"	"42"	"2023"	"2023"	"4th month"	"04"	11129
+	"Pennsylvania"	"42"	"2023"	"2023"	"5th month"	"05"	5640
+	"Pennsylvania"	"42"	"2023"	"2023"	"6th month"	"06"	3544
+	"Pennsylvania"	"42"	"2023"	"2023"	"7th month"	"07"	2913
+	"Pennsylvania"	"42"	"2023"	"2023"	"8th month"	"08"	2406
+	"Pennsylvania"	"42"	"2023"	"2023"	"9th month"	"09"	1141
+	"Pennsylvania"	"42"	"2023"	"2023"	"10th month"	"10"	26
+	"Pennsylvania"	"42"	"2023"	"2023"	"Unknown or Not Stated"	"99"	3107
+	"Pennsylvania"	"42"	"2023"	"2023"	"Not Reported"	"98"	0
+	"South Carolina"	"45"	"2010"	"2010"	"No prenatal care"	"00"	653
+	"South Carolina"	"45"	"2010"	"2010"	"1st month"	"01"	1777
+	"South Carolina"	"45"	"2010"	"2010"	"2nd month"	"02"	19111
+	"South Carolina"	"45"	"2010"	"2010"	"3rd month"	"03"	18464
+	"South Carolina"	"45"	"2010"	"2010"	"4th month"	"04"	6905
+	"South Carolina"	"45"	"2010"	"2010"	"5th month"	"05"	3655
+	"South Carolina"	"45"	"2010"	"2010"	"6th month"	"06"	2413
+	"South Carolina"	"45"	"2010"	"2010"	"7th month"	"07"	1691
+	"South Carolina"	"45"	"2010"	"2010"	"8th month"	"08"	1150
+	"South Carolina"	"45"	"2010"	"2010"	"9th month"	"09"	555
+	"South Carolina"	"45"	"2010"	"2010"	"10th month"	"10"	59
+	"South Carolina"	"45"	"2010"	"2010"	"Unknown or Not Stated"	"99"	1909
+	"South Carolina"	"45"	"2010"	"2010"	"Not Reported"	"98"	0
+	"South Carolina"	"45"	"2011"	"2011"	"No prenatal care"	"00"	626
+	"South Carolina"	"45"	"2011"	"2011"	"1st month"	"01"	1912
+	"South Carolina"	"45"	"2011"	"2011"	"2nd month"	"02"	19144
+	"South Carolina"	"45"	"2011"	"2011"	"3rd month"	"03"	18620
+	"South Carolina"	"45"	"2011"	"2011"	"4th month"	"04"	7172
+	"South Carolina"	"45"	"2011"	"2011"	"5th month"	"05"	3735
+	"South Carolina"	"45"	"2011"	"2011"	"6th month"	"06"	2314
+	"South Carolina"	"45"	"2011"	"2011"	"7th month"	"07"	1621
+	"South Carolina"	"45"	"2011"	"2011"	"8th month"	"08"	1226
+	"South Carolina"	"45"	"2011"	"2011"	"9th month"	"09"	519
+	"South Carolina"	"45"	"2011"	"2011"	"10th month"	"10"	90
+	"South Carolina"	"45"	"2011"	"2011"	"Unknown or Not Stated"	"99"	414
+	"South Carolina"	"45"	"2011"	"2011"	"Not Reported"	"98"	0
+	"South Carolina"	"45"	"2012"	"2012"	"No prenatal care"	"00"	586
+	"South Carolina"	"45"	"2012"	"2012"	"1st month"	"01"	1782
+	"South Carolina"	"45"	"2012"	"2012"	"2nd month"	"02"	18666
+	"South Carolina"	"45"	"2012"	"2012"	"3rd month"	"03"	19093
+	"South Carolina"	"45"	"2012"	"2012"	"4th month"	"04"	7262
+	"South Carolina"	"45"	"2012"	"2012"	"5th month"	"05"	3679
+	"South Carolina"	"45"	"2012"	"2012"	"6th month"	"06"	2376
+	"South Carolina"	"45"	"2012"	"2012"	"7th month"	"07"	1599
+	"South Carolina"	"45"	"2012"	"2012"	"8th month"	"08"	1124
+	"South Carolina"	"45"	"2012"	"2012"	"9th month"	"09"	559
+	"South Carolina"	"45"	"2012"	"2012"	"10th month"	"10"	81
+	"South Carolina"	"45"	"2012"	"2012"	"Unknown or Not Stated"	"99"	348
+	"South Carolina"	"45"	"2012"	"2012"	"Not Reported"	"98"	0
+	"South Carolina"	"45"	"2013"	"2013"	"No prenatal care"	"00"	584
+	"South Carolina"	"45"	"2013"	"2013"	"1st month"	"01"	1644
+	"South Carolina"	"45"	"2013"	"2013"	"2nd month"	"02"	18067
+	"South Carolina"	"45"	"2013"	"2013"	"3rd month"	"03"	18877
+	"South Carolina"	"45"	"2013"	"2013"	"4th month"	"04"	7458
+	"South Carolina"	"45"	"2013"	"2013"	"5th month"	"05"	3781
+	"South Carolina"	"45"	"2013"	"2013"	"6th month"	"06"	2362
+	"South Carolina"	"45"	"2013"	"2013"	"7th month"	"07"	1667
+	"South Carolina"	"45"	"2013"	"2013"	"8th month"	"08"	1158
+	"South Carolina"	"45"	"2013"	"2013"	"9th month"	"09"	538
+	"South Carolina"	"45"	"2013"	"2013"	"10th month"	"10"	66
+	"South Carolina"	"45"	"2013"	"2013"	"Unknown or Not Stated"	"99"	593
+	"South Carolina"	"45"	"2013"	"2013"	"Not Reported"	"98"	0
+	"South Carolina"	"45"	"2014"	"2014"	"No prenatal care"	"00"	642
+	"South Carolina"	"45"	"2014"	"2014"	"1st month"	"01"	1989
+	"South Carolina"	"45"	"2014"	"2014"	"2nd month"	"02"	21462
+	"South Carolina"	"45"	"2014"	"2014"	"3rd month"	"03"	17730
+	"South Carolina"	"45"	"2014"	"2014"	"4th month"	"04"	6357
+	"South Carolina"	"45"	"2014"	"2014"	"5th month"	"05"	3663
+	"South Carolina"	"45"	"2014"	"2014"	"6th month"	"06"	2270
+	"South Carolina"	"45"	"2014"	"2014"	"7th month"	"07"	1660
+	"South Carolina"	"45"	"2014"	"2014"	"8th month"	"08"	1153
+	"South Carolina"	"45"	"2014"	"2014"	"9th month"	"09"	379
+	"South Carolina"	"45"	"2014"	"2014"	"Unknown or Not Stated"	"99"	319
+	"South Carolina"	"45"	"2014"	"2014"	"Not Reported"	"98"	0
+	"South Carolina"	"45"	"2015"	"2015"	"No prenatal care"	"00"	812
+	"South Carolina"	"45"	"2015"	"2015"	"1st month"	"01"	2013
+	"South Carolina"	"45"	"2015"	"2015"	"2nd month"	"02"	20925
+	"South Carolina"	"45"	"2015"	"2015"	"3rd month"	"03"	18313
+	"South Carolina"	"45"	"2015"	"2015"	"4th month"	"04"	6584
+	"South Carolina"	"45"	"2015"	"2015"	"5th month"	"05"	3624
+	"South Carolina"	"45"	"2015"	"2015"	"6th month"	"06"	2282
+	"South Carolina"	"45"	"2015"	"2015"	"7th month"	"07"	1756
+	"South Carolina"	"45"	"2015"	"2015"	"8th month"	"08"	1217
+	"South Carolina"	"45"	"2015"	"2015"	"9th month"	"09"	433
+	"South Carolina"	"45"	"2015"	"2015"	"10th month"	"10"	10
+	"South Carolina"	"45"	"2015"	"2015"	"Unknown or Not Stated"	"99"	170
+	"South Carolina"	"45"	"2015"	"2015"	"Not Reported"	"98"	0
+	"South Carolina"	"45"	"2016"	"2016"	"No prenatal care"	"00"	876
+	"South Carolina"	"45"	"2016"	"2016"	"1st month"	"01"	1965
+	"South Carolina"	"45"	"2016"	"2016"	"2nd month"	"02"	20530
+	"South Carolina"	"45"	"2016"	"2016"	"3rd month"	"03"	18730
+	"South Carolina"	"45"	"2016"	"2016"	"4th month"	"04"	6440
+	"South Carolina"	"45"	"2016"	"2016"	"5th month"	"05"	3362
+	"South Carolina"	"45"	"2016"	"2016"	"6th month"	"06"	2081
+	"South Carolina"	"45"	"2016"	"2016"	"7th month"	"07"	1683
+	"South Carolina"	"45"	"2016"	"2016"	"8th month"	"08"	1144
+	"South Carolina"	"45"	"2016"	"2016"	"9th month"	"09"	411
+	"South Carolina"	"45"	"2016"	"2016"	"Unknown or Not Stated"	"99"	114
+	"South Carolina"	"45"	"2016"	"2016"	"Not Reported"	"98"	0
+	"South Carolina"	"45"	"2017"	"2017"	"No prenatal care"	"00"	919
+	"South Carolina"	"45"	"2017"	"2017"	"1st month"	"01"	1690
+	"South Carolina"	"45"	"2017"	"2017"	"2nd month"	"02"	21171
+	"South Carolina"	"45"	"2017"	"2017"	"3rd month"	"03"	18818
+	"South Carolina"	"45"	"2017"	"2017"	"4th month"	"04"	6206
+	"South Carolina"	"45"	"2017"	"2017"	"5th month"	"05"	3376
+	"South Carolina"	"45"	"2017"	"2017"	"6th month"	"06"	1897
+	"South Carolina"	"45"	"2017"	"2017"	"7th month"	"07"	1438
+	"South Carolina"	"45"	"2017"	"2017"	"8th month"	"08"	1046
+	"South Carolina"	"45"	"2017"	"2017"	"9th month"	"09"	360
+	"South Carolina"	"45"	"2017"	"2017"	"Unknown or Not Stated"	"99"	106
+	"South Carolina"	"45"	"2017"	"2017"	"Not Reported"	"98"	0
+	"South Carolina"	"45"	"2018"	"2018"	"No prenatal care"	"00"	1202
+	"South Carolina"	"45"	"2018"	"2018"	"1st month"	"01"	1728
+	"South Carolina"	"45"	"2018"	"2018"	"2nd month"	"02"	22474
+	"South Carolina"	"45"	"2018"	"2018"	"3rd month"	"03"	17819
+	"South Carolina"	"45"	"2018"	"2018"	"4th month"	"04"	5522
+	"South Carolina"	"45"	"2018"	"2018"	"5th month"	"05"	3080
+	"South Carolina"	"45"	"2018"	"2018"	"6th month"	"06"	1883
+	"South Carolina"	"45"	"2018"	"2018"	"7th month"	"07"	1424
+	"South Carolina"	"45"	"2018"	"2018"	"8th month"	"08"	1015
+	"South Carolina"	"45"	"2018"	"2018"	"9th month"	"09"	410
+	"South Carolina"	"45"	"2018"	"2018"	"Unknown or Not Stated"	"99"	111
+	"South Carolina"	"45"	"2018"	"2018"	"Not Reported"	"98"	0
+	"South Carolina"	"45"	"2019"	"2019"	"No prenatal care"	"00"	1032
+	"South Carolina"	"45"	"2019"	"2019"	"1st month"	"01"	2192
+	"South Carolina"	"45"	"2019"	"2019"	"2nd month"	"02"	23397
+	"South Carolina"	"45"	"2019"	"2019"	"3rd month"	"03"	17528
+	"South Carolina"	"45"	"2019"	"2019"	"4th month"	"04"	5197
+	"South Carolina"	"45"	"2019"	"2019"	"5th month"	"05"	3061
+	"South Carolina"	"45"	"2019"	"2019"	"6th month"	"06"	1796
+	"South Carolina"	"45"	"2019"	"2019"	"7th month"	"07"	1368
+	"South Carolina"	"45"	"2019"	"2019"	"8th month"	"08"	955
+	"South Carolina"	"45"	"2019"	"2019"	"9th month"	"09"	338
+	"South Carolina"	"45"	"2019"	"2019"	"Unknown or Not Stated"	"99"	170
+	"South Carolina"	"45"	"2019"	"2019"	"Not Reported"	"98"	0
+	"South Carolina"	"45"	"2020"	"2020"	"No prenatal care"	"00"	1142
+	"South Carolina"	"45"	"2020"	"2020"	"1st month"	"01"	1574
+	"South Carolina"	"45"	"2020"	"2020"	"2nd month"	"02"	23260
+	"South Carolina"	"45"	"2020"	"2020"	"3rd month"	"03"	17460
+	"South Carolina"	"45"	"2020"	"2020"	"4th month"	"04"	4834
+	"South Carolina"	"45"	"2020"	"2020"	"5th month"	"05"	2853
+	"South Carolina"	"45"	"2020"	"2020"	"6th month"	"06"	1751
+	"South Carolina"	"45"	"2020"	"2020"	"7th month"	"07"	1362
+	"South Carolina"	"45"	"2020"	"2020"	"8th month"	"08"	963
+	"South Carolina"	"45"	"2020"	"2020"	"9th month"	"09"	370
+	"South Carolina"	"45"	"2020"	"2020"	"Unknown or Not Stated"	"99"	132
+	"South Carolina"	"45"	"2020"	"2020"	"Not Reported"	"98"	0
+	"South Carolina"	"45"	"2021"	"2021"	"No prenatal care"	"00"	1910
+	"South Carolina"	"45"	"2021"	"2021"	"1st month"	"01"	1304
+	"South Carolina"	"45"	"2021"	"2021"	"2nd month"	"02"	22892
+	"South Carolina"	"45"	"2021"	"2021"	"3rd month"	"03"	18118
+	"South Carolina"	"45"	"2021"	"2021"	"4th month"	"04"	5208
+	"South Carolina"	"45"	"2021"	"2021"	"5th month"	"05"	2806
+	"South Carolina"	"45"	"2021"	"2021"	"6th month"	"06"	1736
+	"South Carolina"	"45"	"2021"	"2021"	"7th month"	"07"	1527
+	"South Carolina"	"45"	"2021"	"2021"	"8th month"	"08"	1157
+	"South Carolina"	"45"	"2021"	"2021"	"9th month"	"09"	421
+	"South Carolina"	"45"	"2021"	"2021"	"Unknown or Not Stated"	"99"	101
+	"South Carolina"	"45"	"2021"	"2021"	"Not Reported"	"98"	0
+	"South Carolina"	"45"	"2022"	"2022"	"No prenatal care"	"00"	1143
+	"South Carolina"	"45"	"2022"	"2022"	"1st month"	"01"	1302
+	"South Carolina"	"45"	"2022"	"2022"	"2nd month"	"02"	22786
+	"South Carolina"	"45"	"2022"	"2022"	"3rd month"	"03"	18936
+	"South Carolina"	"45"	"2022"	"2022"	"4th month"	"04"	5583
+	"South Carolina"	"45"	"2022"	"2022"	"5th month"	"05"	2941
+	"South Carolina"	"45"	"2022"	"2022"	"6th month"	"06"	1822
+	"South Carolina"	"45"	"2022"	"2022"	"7th month"	"07"	1545
+	"South Carolina"	"45"	"2022"	"2022"	"8th month"	"08"	1195
+	"South Carolina"	"45"	"2022"	"2022"	"9th month"	"09"	457
+	"South Carolina"	"45"	"2022"	"2022"	"Unknown or Not Stated"	"99"	105
+	"South Carolina"	"45"	"2022"	"2022"	"Not Reported"	"98"	0
+	"South Carolina"	"45"	"2023"	"2023"	"No prenatal care"	"00"	1170
+	"South Carolina"	"45"	"2023"	"2023"	"1st month"	"01"	1177
+	"South Carolina"	"45"	"2023"	"2023"	"2nd month"	"02"	22728
+	"South Carolina"	"45"	"2023"	"2023"	"3rd month"	"03"	19324
+	"South Carolina"	"45"	"2023"	"2023"	"4th month"	"04"	5724
+	"South Carolina"	"45"	"2023"	"2023"	"5th month"	"05"	2952
+	"South Carolina"	"45"	"2023"	"2023"	"6th month"	"06"	1697
+	"South Carolina"	"45"	"2023"	"2023"	"7th month"	"07"	1358
+	"South Carolina"	"45"	"2023"	"2023"	"8th month"	"08"	1002
+	"South Carolina"	"45"	"2023"	"2023"	"9th month"	"09"	424
+	"South Carolina"	"45"	"2023"	"2023"	"Unknown or Not Stated"	"99"	167
+	"South Carolina"	"45"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Texas"	"48"	"2010"	"2010"	"No prenatal care"	"00"	15739
+	"Texas"	"48"	"2010"	"2010"	"1st month"	"01"	23440
+	"Texas"	"48"	"2010"	"2010"	"2nd month"	"02"	100640
+	"Texas"	"48"	"2010"	"2010"	"3rd month"	"03"	110952
+	"Texas"	"48"	"2010"	"2010"	"4th month"	"04"	54191
+	"Texas"	"48"	"2010"	"2010"	"5th month"	"05"	30279
+	"Texas"	"48"	"2010"	"2010"	"6th month"	"06"	19673
+	"Texas"	"48"	"2010"	"2010"	"7th month"	"07"	12821
+	"Texas"	"48"	"2010"	"2010"	"8th month"	"08"	9156
+	"Texas"	"48"	"2010"	"2010"	"9th month"	"09"	4513
+	"Texas"	"48"	"2010"	"2010"	"10th month"	"10"	626
+	"Texas"	"48"	"2010"	"2010"	"Unknown or Not Stated"	"99"	4088
+	"Texas"	"48"	"2010"	"2010"	"Not Reported"	"98"	0
+	"Texas"	"48"	"2011"	"2011"	"No prenatal care"	"00"	14651
+	"Texas"	"48"	"2011"	"2011"	"1st month"	"01"	22574
+	"Texas"	"48"	"2011"	"2011"	"2nd month"	"02"	103202
+	"Texas"	"48"	"2011"	"2011"	"3rd month"	"03"	111962
+	"Texas"	"48"	"2011"	"2011"	"4th month"	"04"	52555
+	"Texas"	"48"	"2011"	"2011"	"5th month"	"05"	27645
+	"Texas"	"48"	"2011"	"2011"	"6th month"	"06"	17070
+	"Texas"	"48"	"2011"	"2011"	"7th month"	"07"	11418
+	"Texas"	"48"	"2011"	"2011"	"8th month"	"08"	8037
+	"Texas"	"48"	"2011"	"2011"	"9th month"	"09"	4101
+	"Texas"	"48"	"2011"	"2011"	"10th month"	"10"	545
+	"Texas"	"48"	"2011"	"2011"	"Unknown or Not Stated"	"99"	3685
+	"Texas"	"48"	"2011"	"2011"	"Not Reported"	"98"	0
+	"Texas"	"48"	"2012"	"2012"	"No prenatal care"	"00"	14425
+	"Texas"	"48"	"2012"	"2012"	"1st month"	"01"	23615
+	"Texas"	"48"	"2012"	"2012"	"2nd month"	"02"	102156
+	"Texas"	"48"	"2012"	"2012"	"3rd month"	"03"	114452
+	"Texas"	"48"	"2012"	"2012"	"4th month"	"04"	52926
+	"Texas"	"48"	"2012"	"2012"	"5th month"	"05"	27808
+	"Texas"	"48"	"2012"	"2012"	"6th month"	"06"	17190
+	"Texas"	"48"	"2012"	"2012"	"7th month"	"07"	11655
+	"Texas"	"48"	"2012"	"2012"	"8th month"	"08"	8478
+	"Texas"	"48"	"2012"	"2012"	"9th month"	"09"	4435
+	"Texas"	"48"	"2012"	"2012"	"10th month"	"10"	569
+	"Texas"	"48"	"2012"	"2012"	"Unknown or Not Stated"	"99"	5018
+	"Texas"	"48"	"2012"	"2012"	"Not Reported"	"98"	0
+	"Texas"	"48"	"2013"	"2013"	"No prenatal care"	"00"	14145
+	"Texas"	"48"	"2013"	"2013"	"1st month"	"01"	21968
+	"Texas"	"48"	"2013"	"2013"	"2nd month"	"02"	102729
+	"Texas"	"48"	"2013"	"2013"	"3rd month"	"03"	116361
+	"Texas"	"48"	"2013"	"2013"	"4th month"	"04"	52610
+	"Texas"	"48"	"2013"	"2013"	"5th month"	"05"	27773
+	"Texas"	"48"	"2013"	"2013"	"6th month"	"06"	17075
+	"Texas"	"48"	"2013"	"2013"	"7th month"	"07"	11526
+	"Texas"	"48"	"2013"	"2013"	"8th month"	"08"	8683
+	"Texas"	"48"	"2013"	"2013"	"9th month"	"09"	4532
+	"Texas"	"48"	"2013"	"2013"	"10th month"	"10"	634
+	"Texas"	"48"	"2013"	"2013"	"Unknown or Not Stated"	"99"	9304
+	"Texas"	"48"	"2013"	"2013"	"Not Reported"	"98"	0
+	"Texas"	"48"	"2014"	"2014"	"No prenatal care"	"00"	14067
+	"Texas"	"48"	"2014"	"2014"	"1st month"	"01"	28652
+	"Texas"	"48"	"2014"	"2014"	"2nd month"	"02"	123560
+	"Texas"	"48"	"2014"	"2014"	"3rd month"	"03"	108639
+	"Texas"	"48"	"2014"	"2014"	"4th month"	"04"	47688
+	"Texas"	"48"	"2014"	"2014"	"5th month"	"05"	25983
+	"Texas"	"48"	"2014"	"2014"	"6th month"	"06"	16110
+	"Texas"	"48"	"2014"	"2014"	"7th month"	"07"	12031
+	"Texas"	"48"	"2014"	"2014"	"8th month"	"08"	8765
+	"Texas"	"48"	"2014"	"2014"	"9th month"	"09"	3634
+	"Texas"	"48"	"2014"	"2014"	"10th month"	"10"	52
+	"Texas"	"48"	"2014"	"2014"	"Unknown or Not Stated"	"99"	10585
+	"Texas"	"48"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Texas"	"48"	"2015"	"2015"	"No prenatal care"	"00"	12864
+	"Texas"	"48"	"2015"	"2015"	"1st month"	"01"	28521
+	"Texas"	"48"	"2015"	"2015"	"2nd month"	"02"	125270
+	"Texas"	"48"	"2015"	"2015"	"3rd month"	"03"	112668
+	"Texas"	"48"	"2015"	"2015"	"4th month"	"04"	48202
+	"Texas"	"48"	"2015"	"2015"	"5th month"	"05"	25793
+	"Texas"	"48"	"2015"	"2015"	"6th month"	"06"	15562
+	"Texas"	"48"	"2015"	"2015"	"7th month"	"07"	11842
+	"Texas"	"48"	"2015"	"2015"	"8th month"	"08"	9496
+	"Texas"	"48"	"2015"	"2015"	"9th month"	"09"	3812
+	"Texas"	"48"	"2015"	"2015"	"10th month"	"10"	50
+	"Texas"	"48"	"2015"	"2015"	"Unknown or Not Stated"	"99"	9538
+	"Texas"	"48"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Texas"	"48"	"2016"	"2016"	"No prenatal care"	"00"	13524
+	"Texas"	"48"	"2016"	"2016"	"1st month"	"01"	26824
+	"Texas"	"48"	"2016"	"2016"	"2nd month"	"02"	122630
+	"Texas"	"48"	"2016"	"2016"	"3rd month"	"03"	112897
+	"Texas"	"48"	"2016"	"2016"	"4th month"	"04"	47016
+	"Texas"	"48"	"2016"	"2016"	"5th month"	"05"	25339
+	"Texas"	"48"	"2016"	"2016"	"6th month"	"06"	16095
+	"Texas"	"48"	"2016"	"2016"	"7th month"	"07"	13442
+	"Texas"	"48"	"2016"	"2016"	"8th month"	"08"	9764
+	"Texas"	"48"	"2016"	"2016"	"9th month"	"09"	3968
+	"Texas"	"48"	"2016"	"2016"	"10th month"	"10"	48
+	"Texas"	"48"	"2016"	"2016"	"Unknown or Not Stated"	"99"	6500
+	"Texas"	"48"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Texas"	"48"	"2017"	"2017"	"No prenatal care"	"00"	13482
+	"Texas"	"48"	"2017"	"2017"	"1st month"	"01"	26541
+	"Texas"	"48"	"2017"	"2017"	"2nd month"	"02"	120378
+	"Texas"	"48"	"2017"	"2017"	"3rd month"	"03"	109706
+	"Texas"	"48"	"2017"	"2017"	"4th month"	"04"	43746
+	"Texas"	"48"	"2017"	"2017"	"5th month"	"05"	23330
+	"Texas"	"48"	"2017"	"2017"	"6th month"	"06"	14119
+	"Texas"	"48"	"2017"	"2017"	"7th month"	"07"	12188
+	"Texas"	"48"	"2017"	"2017"	"8th month"	"08"	8881
+	"Texas"	"48"	"2017"	"2017"	"9th month"	"09"	3899
+	"Texas"	"48"	"2017"	"2017"	"10th month"	"10"	49
+	"Texas"	"48"	"2017"	"2017"	"Unknown or Not Stated"	"99"	5731
+	"Texas"	"48"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Texas"	"48"	"2018"	"2018"	"No prenatal care"	"00"	12073
+	"Texas"	"48"	"2018"	"2018"	"1st month"	"01"	27390
+	"Texas"	"48"	"2018"	"2018"	"2nd month"	"02"	121511
+	"Texas"	"48"	"2018"	"2018"	"3rd month"	"03"	108843
+	"Texas"	"48"	"2018"	"2018"	"4th month"	"04"	43196
+	"Texas"	"48"	"2018"	"2018"	"5th month"	"05"	22024
+	"Texas"	"48"	"2018"	"2018"	"6th month"	"06"	13585
+	"Texas"	"48"	"2018"	"2018"	"7th month"	"07"	10766
+	"Texas"	"48"	"2018"	"2018"	"8th month"	"08"	8726
+	"Texas"	"48"	"2018"	"2018"	"9th month"	"09"	3938
+	"Texas"	"48"	"2018"	"2018"	"10th month"	"10"	70
+	"Texas"	"48"	"2018"	"2018"	"Unknown or Not Stated"	"99"	6502
+	"Texas"	"48"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Texas"	"48"	"2019"	"2019"	"No prenatal care"	"00"	13083
+	"Texas"	"48"	"2019"	"2019"	"1st month"	"01"	28416
+	"Texas"	"48"	"2019"	"2019"	"2nd month"	"02"	120476
+	"Texas"	"48"	"2019"	"2019"	"3rd month"	"03"	107216
+	"Texas"	"48"	"2019"	"2019"	"4th month"	"04"	42263
+	"Texas"	"48"	"2019"	"2019"	"5th month"	"05"	22323
+	"Texas"	"48"	"2019"	"2019"	"6th month"	"06"	13694
+	"Texas"	"48"	"2019"	"2019"	"7th month"	"07"	10604
+	"Texas"	"48"	"2019"	"2019"	"8th month"	"08"	8076
+	"Texas"	"48"	"2019"	"2019"	"9th month"	"09"	4346
+	"Texas"	"48"	"2019"	"2019"	"10th month"	"10"	76
+	"Texas"	"48"	"2019"	"2019"	"Unknown or Not Stated"	"99"	7026
+	"Texas"	"48"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Texas"	"48"	"2020"	"2020"	"No prenatal care"	"00"	14411
+	"Texas"	"48"	"2020"	"2020"	"1st month"	"01"	26619
+	"Texas"	"48"	"2020"	"2020"	"2nd month"	"02"	118173
+	"Texas"	"48"	"2020"	"2020"	"3rd month"	"03"	105750
+	"Texas"	"48"	"2020"	"2020"	"4th month"	"04"	40335
+	"Texas"	"48"	"2020"	"2020"	"5th month"	"05"	20761
+	"Texas"	"48"	"2020"	"2020"	"6th month"	"06"	12650
+	"Texas"	"48"	"2020"	"2020"	"7th month"	"07"	9700
+	"Texas"	"48"	"2020"	"2020"	"8th month"	"08"	7028
+	"Texas"	"48"	"2020"	"2020"	"9th month"	"09"	4525
+	"Texas"	"48"	"2020"	"2020"	"10th month"	"10"	81
+	"Texas"	"48"	"2020"	"2020"	"Unknown or Not Stated"	"99"	8157
+	"Texas"	"48"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Texas"	"48"	"2021"	"2021"	"No prenatal care"	"00"	14824
+	"Texas"	"48"	"2021"	"2021"	"1st month"	"01"	27964
+	"Texas"	"48"	"2021"	"2021"	"2nd month"	"02"	121022
+	"Texas"	"48"	"2021"	"2021"	"3rd month"	"03"	108008
+	"Texas"	"48"	"2021"	"2021"	"4th month"	"04"	39283
+	"Texas"	"48"	"2021"	"2021"	"5th month"	"05"	19324
+	"Texas"	"48"	"2021"	"2021"	"6th month"	"06"	11960
+	"Texas"	"48"	"2021"	"2021"	"7th month"	"07"	9530
+	"Texas"	"48"	"2021"	"2021"	"8th month"	"08"	7293
+	"Texas"	"48"	"2021"	"2021"	"9th month"	"09"	4086
+	"Texas"	"48"	"2021"	"2021"	"10th month"	"10"	80
+	"Texas"	"48"	"2021"	"2021"	"Unknown or Not Stated"	"99"	10220
+	"Texas"	"48"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Texas"	"48"	"2022"	"2022"	"No prenatal care"	"00"	15352
+	"Texas"	"48"	"2022"	"2022"	"1st month"	"01"	26152
+	"Texas"	"48"	"2022"	"2022"	"2nd month"	"02"	120913
+	"Texas"	"48"	"2022"	"2022"	"3rd month"	"03"	110178
+	"Texas"	"48"	"2022"	"2022"	"4th month"	"04"	42165
+	"Texas"	"48"	"2022"	"2022"	"5th month"	"05"	21531
+	"Texas"	"48"	"2022"	"2022"	"6th month"	"06"	13216
+	"Texas"	"48"	"2022"	"2022"	"7th month"	"07"	11715
+	"Texas"	"48"	"2022"	"2022"	"8th month"	"08"	8443
+	"Texas"	"48"	"2022"	"2022"	"9th month"	"09"	4299
+	"Texas"	"48"	"2022"	"2022"	"10th month"	"10"	73
+	"Texas"	"48"	"2022"	"2022"	"Unknown or Not Stated"	"99"	15704
+	"Texas"	"48"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Texas"	"48"	"2023"	"2023"	"No prenatal care"	"00"	15259
+	"Texas"	"48"	"2023"	"2023"	"1st month"	"01"	24634
+	"Texas"	"48"	"2023"	"2023"	"2nd month"	"02"	117392
+	"Texas"	"48"	"2023"	"2023"	"3rd month"	"03"	111252
+	"Texas"	"48"	"2023"	"2023"	"4th month"	"04"	45189
+	"Texas"	"48"	"2023"	"2023"	"5th month"	"05"	22644
+	"Texas"	"48"	"2023"	"2023"	"6th month"	"06"	13847
+	"Texas"	"48"	"2023"	"2023"	"7th month"	"07"	11976
+	"Texas"	"48"	"2023"	"2023"	"8th month"	"08"	9299
+	"Texas"	"48"	"2023"	"2023"	"9th month"	"09"	4119
+	"Texas"	"48"	"2023"	"2023"	"10th month"	"10"	113
+	"Texas"	"48"	"2023"	"2023"	"Unknown or Not Stated"	"99"	12221
+	"Texas"	"48"	"2023"	"2023"	"Not Reported"	"98"	0
+	"Washington"	"53"	"2010"	"2010"	"No prenatal care"	"00"	971
+	"Washington"	"53"	"2010"	"2010"	"1st month"	"01"	2904
+	"Washington"	"53"	"2010"	"2010"	"2nd month"	"02"	24588
+	"Washington"	"53"	"2010"	"2010"	"3rd month"	"03"	31724
+	"Washington"	"53"	"2010"	"2010"	"4th month"	"04"	10419
+	"Washington"	"53"	"2010"	"2010"	"5th month"	"05"	4643
+	"Washington"	"53"	"2010"	"2010"	"6th month"	"06"	2678
+	"Washington"	"53"	"2010"	"2010"	"7th month"	"07"	1845
+	"Washington"	"53"	"2010"	"2010"	"8th month"	"08"	1396
+	"Washington"	"53"	"2010"	"2010"	"9th month"	"09"	593
+	"Washington"	"53"	"2010"	"2010"	"10th month"	"10"	77
+	"Washington"	"53"	"2010"	"2010"	"Unknown or Not Stated"	"99"	4701
+	"Washington"	"53"	"2010"	"2010"	"Not Reported"	"98"	0
+	"Washington"	"53"	"2011"	"2011"	"No prenatal care"	"00"	1103
+	"Washington"	"53"	"2011"	"2011"	"1st month"	"01"	3065
+	"Washington"	"53"	"2011"	"2011"	"2nd month"	"02"	25186
+	"Washington"	"53"	"2011"	"2011"	"3rd month"	"03"	31234
+	"Washington"	"53"	"2011"	"2011"	"4th month"	"04"	9989
+	"Washington"	"53"	"2011"	"2011"	"5th month"	"05"	4549
+	"Washington"	"53"	"2011"	"2011"	"6th month"	"06"	2761
+	"Washington"	"53"	"2011"	"2011"	"7th month"	"07"	1955
+	"Washington"	"53"	"2011"	"2011"	"8th month"	"08"	1405
+	"Washington"	"53"	"2011"	"2011"	"9th month"	"09"	710
+	"Washington"	"53"	"2011"	"2011"	"10th month"	"10"	73
+	"Washington"	"53"	"2011"	"2011"	"Unknown or Not Stated"	"99"	4946
+	"Washington"	"53"	"2011"	"2011"	"Not Reported"	"98"	0
+	"Washington"	"53"	"2012"	"2012"	"No prenatal care"	"00"	754
+	"Washington"	"53"	"2012"	"2012"	"1st month"	"01"	3003
+	"Washington"	"53"	"2012"	"2012"	"2nd month"	"02"	26398
+	"Washington"	"53"	"2012"	"2012"	"3rd month"	"03"	31354
+	"Washington"	"53"	"2012"	"2012"	"4th month"	"04"	9838
+	"Washington"	"53"	"2012"	"2012"	"5th month"	"05"	4607
+	"Washington"	"53"	"2012"	"2012"	"6th month"	"06"	2620
+	"Washington"	"53"	"2012"	"2012"	"7th month"	"07"	1856
+	"Washington"	"53"	"2012"	"2012"	"8th month"	"08"	1452
+	"Washington"	"53"	"2012"	"2012"	"9th month"	"09"	656
+	"Washington"	"53"	"2012"	"2012"	"10th month"	"10"	87
+	"Washington"	"53"	"2012"	"2012"	"Unknown or Not Stated"	"99"	4838
+	"Washington"	"53"	"2012"	"2012"	"Not Reported"	"98"	0
+	"Washington"	"53"	"2013"	"2013"	"No prenatal care"	"00"	745
+	"Washington"	"53"	"2013"	"2013"	"1st month"	"01"	2626
+	"Washington"	"53"	"2013"	"2013"	"2nd month"	"02"	26511
+	"Washington"	"53"	"2013"	"2013"	"3rd month"	"03"	31205
+	"Washington"	"53"	"2013"	"2013"	"4th month"	"04"	9440
+	"Washington"	"53"	"2013"	"2013"	"5th month"	"05"	4335
+	"Washington"	"53"	"2013"	"2013"	"6th month"	"06"	2520
+	"Washington"	"53"	"2013"	"2013"	"7th month"	"07"	1847
+	"Washington"	"53"	"2013"	"2013"	"8th month"	"08"	1409
+	"Washington"	"53"	"2013"	"2013"	"9th month"	"09"	681
+	"Washington"	"53"	"2013"	"2013"	"10th month"	"10"	87
+	"Washington"	"53"	"2013"	"2013"	"Unknown or Not Stated"	"99"	5171
+	"Washington"	"53"	"2013"	"2013"	"Not Reported"	"98"	0
+	"Washington"	"53"	"2014"	"2014"	"No prenatal care"	"00"	796
+	"Washington"	"53"	"2014"	"2014"	"1st month"	"01"	3407
+	"Washington"	"53"	"2014"	"2014"	"2nd month"	"02"	33892
+	"Washington"	"53"	"2014"	"2014"	"3rd month"	"03"	26864
+	"Washington"	"53"	"2014"	"2014"	"4th month"	"04"	7977
+	"Washington"	"53"	"2014"	"2014"	"5th month"	"05"	4116
+	"Washington"	"53"	"2014"	"2014"	"6th month"	"06"	2589
+	"Washington"	"53"	"2014"	"2014"	"7th month"	"07"	1999
+	"Washington"	"53"	"2014"	"2014"	"8th month"	"08"	1505
+	"Washington"	"53"	"2014"	"2014"	"9th month"	"09"	551
+	"Washington"	"53"	"2014"	"2014"	"Unknown or Not Stated"	"99"	4880
+	"Washington"	"53"	"2014"	"2014"	"Not Reported"	"98"	0
+	"Washington"	"53"	"2015"	"2015"	"No prenatal care"	"00"	831
+	"Washington"	"53"	"2015"	"2015"	"1st month"	"01"	2849
+	"Washington"	"53"	"2015"	"2015"	"2nd month"	"02"	34917
+	"Washington"	"53"	"2015"	"2015"	"3rd month"	"03"	27886
+	"Washington"	"53"	"2015"	"2015"	"4th month"	"04"	7466
+	"Washington"	"53"	"2015"	"2015"	"5th month"	"05"	3901
+	"Washington"	"53"	"2015"	"2015"	"6th month"	"06"	2523
+	"Washington"	"53"	"2015"	"2015"	"7th month"	"07"	2041
+	"Washington"	"53"	"2015"	"2015"	"8th month"	"08"	1649
+	"Washington"	"53"	"2015"	"2015"	"9th month"	"09"	611
+	"Washington"	"53"	"2015"	"2015"	"10th month"	"10"	17
+	"Washington"	"53"	"2015"	"2015"	"Unknown or Not Stated"	"99"	4299
+	"Washington"	"53"	"2015"	"2015"	"Not Reported"	"98"	0
+	"Washington"	"53"	"2016"	"2016"	"No prenatal care"	"00"	921
+	"Washington"	"53"	"2016"	"2016"	"1st month"	"01"	2558
+	"Washington"	"53"	"2016"	"2016"	"2nd month"	"02"	35125
+	"Washington"	"53"	"2016"	"2016"	"3rd month"	"03"	29080
+	"Washington"	"53"	"2016"	"2016"	"4th month"	"04"	7689
+	"Washington"	"53"	"2016"	"2016"	"5th month"	"05"	3850
+	"Washington"	"53"	"2016"	"2016"	"6th month"	"06"	2390
+	"Washington"	"53"	"2016"	"2016"	"7th month"	"07"	2139
+	"Washington"	"53"	"2016"	"2016"	"8th month"	"08"	1717
+	"Washington"	"53"	"2016"	"2016"	"9th month"	"09"	642
+	"Washington"	"53"	"2016"	"2016"	"10th month"	"10"	12
+	"Washington"	"53"	"2016"	"2016"	"Unknown or Not Stated"	"99"	4382
+	"Washington"	"53"	"2016"	"2016"	"Not Reported"	"98"	0
+	"Washington"	"53"	"2017"	"2017"	"No prenatal care"	"00"	918
+	"Washington"	"53"	"2017"	"2017"	"1st month"	"01"	2334
+	"Washington"	"53"	"2017"	"2017"	"2nd month"	"02"	34860
+	"Washington"	"53"	"2017"	"2017"	"3rd month"	"03"	27504
+	"Washington"	"53"	"2017"	"2017"	"4th month"	"04"	6967
+	"Washington"	"53"	"2017"	"2017"	"5th month"	"05"	3496
+	"Washington"	"53"	"2017"	"2017"	"6th month"	"06"	2266
+	"Washington"	"53"	"2017"	"2017"	"7th month"	"07"	1985
+	"Washington"	"53"	"2017"	"2017"	"8th month"	"08"	1550
+	"Washington"	"53"	"2017"	"2017"	"9th month"	"09"	558
+	"Washington"	"53"	"2017"	"2017"	"10th month"	"10"	14
+	"Washington"	"53"	"2017"	"2017"	"Unknown or Not Stated"	"99"	5110
+	"Washington"	"53"	"2017"	"2017"	"Not Reported"	"98"	0
+	"Washington"	"53"	"2018"	"2018"	"No prenatal care"	"00"	712
+	"Washington"	"53"	"2018"	"2018"	"1st month"	"01"	2124
+	"Washington"	"53"	"2018"	"2018"	"2nd month"	"02"	32469
+	"Washington"	"53"	"2018"	"2018"	"3rd month"	"03"	27734
+	"Washington"	"53"	"2018"	"2018"	"4th month"	"04"	6902
+	"Washington"	"53"	"2018"	"2018"	"5th month"	"05"	3369
+	"Washington"	"53"	"2018"	"2018"	"6th month"	"06"	2169
+	"Washington"	"53"	"2018"	"2018"	"7th month"	"07"	1931
+	"Washington"	"53"	"2018"	"2018"	"8th month"	"08"	1427
+	"Washington"	"53"	"2018"	"2018"	"9th month"	"09"	540
+	"Washington"	"53"	"2018"	"2018"	"10th month"	"10"	17
+	"Washington"	"53"	"2018"	"2018"	"Unknown or Not Stated"	"99"	6691
+	"Washington"	"53"	"2018"	"2018"	"Not Reported"	"98"	0
+	"Washington"	"53"	"2019"	"2019"	"No prenatal care"	"00"	697
+	"Washington"	"53"	"2019"	"2019"	"1st month"	"01"	2386
+	"Washington"	"53"	"2019"	"2019"	"2nd month"	"02"	32071
+	"Washington"	"53"	"2019"	"2019"	"3rd month"	"03"	26572
+	"Washington"	"53"	"2019"	"2019"	"4th month"	"04"	6642
+	"Washington"	"53"	"2019"	"2019"	"5th month"	"05"	3269
+	"Washington"	"53"	"2019"	"2019"	"6th month"	"06"	2159
+	"Washington"	"53"	"2019"	"2019"	"7th month"	"07"	1874
+	"Washington"	"53"	"2019"	"2019"	"8th month"	"08"	1479
+	"Washington"	"53"	"2019"	"2019"	"9th month"	"09"	572
+	"Washington"	"53"	"2019"	"2019"	"10th month"	"10"	17
+	"Washington"	"53"	"2019"	"2019"	"Unknown or Not Stated"	"99"	7157
+	"Washington"	"53"	"2019"	"2019"	"Not Reported"	"98"	0
+	"Washington"	"53"	"2020"	"2020"	"No prenatal care"	"00"	870
+	"Washington"	"53"	"2020"	"2020"	"1st month"	"01"	2555
+	"Washington"	"53"	"2020"	"2020"	"2nd month"	"02"	31488
+	"Washington"	"53"	"2020"	"2020"	"3rd month"	"03"	25383
+	"Washington"	"53"	"2020"	"2020"	"4th month"	"04"	6428
+	"Washington"	"53"	"2020"	"2020"	"5th month"	"05"	3114
+	"Washington"	"53"	"2020"	"2020"	"6th month"	"06"	1933
+	"Washington"	"53"	"2020"	"2020"	"7th month"	"07"	1832
+	"Washington"	"53"	"2020"	"2020"	"8th month"	"08"	1349
+	"Washington"	"53"	"2020"	"2020"	"9th month"	"09"	459
+	"Washington"	"53"	"2020"	"2020"	"Unknown or Not Stated"	"99"	7669
+	"Washington"	"53"	"2020"	"2020"	"Not Reported"	"98"	0
+	"Washington"	"53"	"2021"	"2021"	"No prenatal care"	"00"	998
+	"Washington"	"53"	"2021"	"2021"	"1st month"	"01"	2217
+	"Washington"	"53"	"2021"	"2021"	"2nd month"	"02"	29883
+	"Washington"	"53"	"2021"	"2021"	"3rd month"	"03"	26326
+	"Washington"	"53"	"2021"	"2021"	"4th month"	"04"	6551
+	"Washington"	"53"	"2021"	"2021"	"5th month"	"05"	2930
+	"Washington"	"53"	"2021"	"2021"	"6th month"	"06"	2035
+	"Washington"	"53"	"2021"	"2021"	"7th month"	"07"	1924
+	"Washington"	"53"	"2021"	"2021"	"8th month"	"08"	1339
+	"Washington"	"53"	"2021"	"2021"	"9th month"	"09"	508
+	"Washington"	"53"	"2021"	"2021"	"10th month"	"10"	10
+	"Washington"	"53"	"2021"	"2021"	"Unknown or Not Stated"	"99"	9190
+	"Washington"	"53"	"2021"	"2021"	"Not Reported"	"98"	0
+	"Washington"	"53"	"2022"	"2022"	"No prenatal care"	"00"	1059
+	"Washington"	"53"	"2022"	"2022"	"1st month"	"01"	1985
+	"Washington"	"53"	"2022"	"2022"	"2nd month"	"02"	27635
+	"Washington"	"53"	"2022"	"2022"	"3rd month"	"03"	28277
+	"Washington"	"53"	"2022"	"2022"	"4th month"	"04"	7288
+	"Washington"	"53"	"2022"	"2022"	"5th month"	"05"	3355
+	"Washington"	"53"	"2022"	"2022"	"6th month"	"06"	2216
+	"Washington"	"53"	"2022"	"2022"	"7th month"	"07"	2040
+	"Washington"	"53"	"2022"	"2022"	"8th month"	"08"	1554
+	"Washington"	"53"	"2022"	"2022"	"9th month"	"09"	641
+	"Washington"	"53"	"2022"	"2022"	"10th month"	"10"	15
+	"Washington"	"53"	"2022"	"2022"	"Unknown or Not Stated"	"99"	7268
+	"Washington"	"53"	"2022"	"2022"	"Not Reported"	"98"	0
+	"Washington"	"53"	"2023"	"2023"	"No prenatal care"	"00"	1097
+	"Washington"	"53"	"2023"	"2023"	"1st month"	"01"	1783
+	"Washington"	"53"	"2023"	"2023"	"2nd month"	"02"	26063
+	"Washington"	"53"	"2023"	"2023"	"3rd month"	"03"	28394
+	"Washington"	"53"	"2023"	"2023"	"4th month"	"04"	7638
+	"Washington"	"53"	"2023"	"2023"	"5th month"	"05"	3579
+	"Washington"	"53"	"2023"	"2023"	"6th month"	"06"	2316
+	"Washington"	"53"	"2023"	"2023"	"7th month"	"07"	2034
+	"Washington"	"53"	"2023"	"2023"	"8th month"	"08"	1527
+	"Washington"	"53"	"2023"	"2023"	"9th month"	"09"	617
+	"Washington"	"53"	"2023"	"2023"	"10th month"	"10"	12
+	"Washington"	"53"	"2023"	"2023"	"Unknown or Not Stated"	"99"	5872
+	"Washington"	"53"	"2023"	"2023"	"Not Reported"	"98"	0
+"---"
+"Dataset: Natality, 2007-2023"
+"Query Parameters:"
+"States: Arizona (04); Arkansas (05); California (06); Florida (12); Georgia (13); Illinois (17); Indiana (18); Maryland (24);"
+"Michigan (26); Missouri (29); New Jersey (34); New York (36); North Carolina (37); Ohio (39); Oklahoma (40); Pennsylvania (42);"
+"South Carolina (45); Texas (48); Washington (53)"
+"Year: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020; 2021; 2022; 2023"
+"Group By: State; Year; Month Prenatal Care Began"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
+"---"
+"Query Date: Mar 25, 2025 1:20:50 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-current.html on Mar 25, 2025 1:20:50 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/natality.html#Assurance of Confidentiality."
+"2. Each birth record represents one liveborn infant."
+"3. <p> About Education and Prenatal Care data: Education and Prenatal Care data have been recoded to ""Excluded"" for births to"
+"mothers residing in a reporting area that used the 1989 U.S. Standard Certificate of Live Birth in the specified data year. All"
+"reporting areas collect information on Education and Prenatal care, but information from the 2003 revision of the birth"
+"certificate is not comparable to the information based on the earlier certificate. The following reporting areas have Education"
+"and Prenatal Care data coded to ""Excluded"": Alabama, 2007-2013; Alaska 2007-2012; Arizona 2007-2013; Arkansas 2007-2013;"
+"Connecticut 2007-2015; District of Columbia 2007-2009; Georgia 2007; Hawaii 2007-2013; Illinois 2007-2009; Louisiana 2007-2010;"
+"Maine 2007-2013; Maryland 2007-2009; Massachusetts 2007-2011; Michigan 2007; Minnesota 2007-2011; Mississippi 2007-2012;"
+"Missouri 2007-2009; Montana 2007; Nevada 2007-2009; New Jersey 2007-2015; New Mexico 2007; New York (only counties comprising"
+"New York City) 2007; North Carolina 2007-2010; Oklahoma 2007-2009; Oregon 2007; Rhode Island 2007-2014; Utah 2007-2008; Virginia"
+"2007-2012; West Virginia 2007-2013; Wisconsin 2007-2010. </p> <p> Note the change from preceding years: Natality data for years"
+"2003-2006 in CDC WONDER excluded Education and Prenatal Care data for the reporting areas that had adopted the 2003 U.S."
+"Standard Certificate of Live Birth. </p>"
+"4. Beginning in 2014, month prenatal care began is calculated using gestational age based on the obstetric estimate. For years"
+"2013 and earlier, month prenatal care began was based on gestational age calculated using the date of the last normal menses."
+"This change may lead to a slight discontinuity in prenatal care results between years 2013 and 2014."

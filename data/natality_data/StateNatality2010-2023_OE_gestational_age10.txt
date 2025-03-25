@@ -1,0 +1,2687 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"OE Gestational Age 10"	"OE Gestational Age 10 Code"	Births
+	"Arizona"	"04"	"2010"	"2010"	"Under 20 weeks"	"01"	42
+	"Arizona"	"04"	"2010"	"2010"	"20 - 27 weeks"	"02"	465
+	"Arizona"	"04"	"2010"	"2010"	"28 - 31 weeks"	"03"	667
+	"Arizona"	"04"	"2010"	"2010"	"32 - 35 weeks"	"04"	3579
+	"Arizona"	"04"	"2010"	"2010"	"36 weeks"	"05"	3697
+	"Arizona"	"04"	"2010"	"2010"	"37 - 39 weeks"	"06"	55528
+	"Arizona"	"04"	"2010"	"2010"	"40 weeks"	"07"	18468
+	"Arizona"	"04"	"2010"	"2010"	"41 weeks"	"08"	4671
+	"Arizona"	"04"	"2010"	"2010"	"42 weeks or more"	"09"	337
+	"Arizona"	"04"	"2010"	"2010"	"Unknown or Not Stated"	"10"	23
+	"Arizona"	"04"	"2011"	"2011"	"Under 20 weeks"	"01"	41
+	"Arizona"	"04"	"2011"	"2011"	"20 - 27 weeks"	"02"	546
+	"Arizona"	"04"	"2011"	"2011"	"28 - 31 weeks"	"03"	618
+	"Arizona"	"04"	"2011"	"2011"	"32 - 35 weeks"	"04"	3421
+	"Arizona"	"04"	"2011"	"2011"	"36 weeks"	"05"	3354
+	"Arizona"	"04"	"2011"	"2011"	"37 - 39 weeks"	"06"	54646
+	"Arizona"	"04"	"2011"	"2011"	"40 weeks"	"07"	18076
+	"Arizona"	"04"	"2011"	"2011"	"41 weeks"	"08"	4482
+	"Arizona"	"04"	"2011"	"2011"	"42 weeks or more"	"09"	321
+	"Arizona"	"04"	"2011"	"2011"	"Unknown or Not Stated"	"10"	38
+	"Arizona"	"04"	"2012"	"2012"	"Under 20 weeks"	"01"	54
+	"Arizona"	"04"	"2012"	"2012"	"20 - 27 weeks"	"02"	480
+	"Arizona"	"04"	"2012"	"2012"	"28 - 31 weeks"	"03"	688
+	"Arizona"	"04"	"2012"	"2012"	"32 - 35 weeks"	"04"	3476
+	"Arizona"	"04"	"2012"	"2012"	"36 weeks"	"05"	3290
+	"Arizona"	"04"	"2012"	"2012"	"37 - 39 weeks"	"06"	55425
+	"Arizona"	"04"	"2012"	"2012"	"40 weeks"	"07"	18265
+	"Arizona"	"04"	"2012"	"2012"	"41 weeks"	"08"	4441
+	"Arizona"	"04"	"2012"	"2012"	"42 weeks or more"	"09"	271
+	"Arizona"	"04"	"2012"	"2012"	"Unknown or Not Stated"	"10"	51
+	"Arizona"	"04"	"2013"	"2013"	"Under 20 weeks"	"01"	49
+	"Arizona"	"04"	"2013"	"2013"	"20 - 27 weeks"	"02"	437
+	"Arizona"	"04"	"2013"	"2013"	"28 - 31 weeks"	"03"	641
+	"Arizona"	"04"	"2013"	"2013"	"32 - 35 weeks"	"04"	3430
+	"Arizona"	"04"	"2013"	"2013"	"36 weeks"	"05"	3218
+	"Arizona"	"04"	"2013"	"2013"	"37 - 39 weeks"	"06"	54667
+	"Arizona"	"04"	"2013"	"2013"	"40 weeks"	"07"	18067
+	"Arizona"	"04"	"2013"	"2013"	"41 weeks"	"08"	4787
+	"Arizona"	"04"	"2013"	"2013"	"42 weeks or more"	"09"	261
+	"Arizona"	"04"	"2013"	"2013"	"Unknown or Not Stated"	"10"	43
+	"Arizona"	"04"	"2014"	"2014"	"Under 20 weeks"	"01"	35
+	"Arizona"	"04"	"2014"	"2014"	"20 - 27 weeks"	"02"	474
+	"Arizona"	"04"	"2014"	"2014"	"28 - 31 weeks"	"03"	664
+	"Arizona"	"04"	"2014"	"2014"	"32 - 35 weeks"	"04"	3440
+	"Arizona"	"04"	"2014"	"2014"	"36 weeks"	"05"	3206
+	"Arizona"	"04"	"2014"	"2014"	"37 - 39 weeks"	"06"	55382
+	"Arizona"	"04"	"2014"	"2014"	"40 weeks"	"07"	17920
+	"Arizona"	"04"	"2014"	"2014"	"41 weeks"	"08"	5388
+	"Arizona"	"04"	"2014"	"2014"	"42 weeks or more"	"09"	290
+	"Arizona"	"04"	"2014"	"2014"	"Unknown or Not Stated"	"10"	88
+	"Arizona"	"04"	"2015"	"2015"	"Under 20 weeks"	"01"	34
+	"Arizona"	"04"	"2015"	"2015"	"20 - 27 weeks"	"02"	416
+	"Arizona"	"04"	"2015"	"2015"	"28 - 31 weeks"	"03"	671
+	"Arizona"	"04"	"2015"	"2015"	"32 - 35 weeks"	"04"	3389
+	"Arizona"	"04"	"2015"	"2015"	"36 weeks"	"05"	3214
+	"Arizona"	"04"	"2015"	"2015"	"37 - 39 weeks"	"06"	54675
+	"Arizona"	"04"	"2015"	"2015"	"40 weeks"	"07"	17381
+	"Arizona"	"04"	"2015"	"2015"	"41 weeks"	"08"	5197
+	"Arizona"	"04"	"2015"	"2015"	"42 weeks or more"	"09"	286
+	"Arizona"	"04"	"2015"	"2015"	"Unknown or Not Stated"	"10"	88
+	"Arizona"	"04"	"2016"	"2016"	"Under 20 weeks"	"01"	30
+	"Arizona"	"04"	"2016"	"2016"	"20 - 27 weeks"	"02"	452
+	"Arizona"	"04"	"2016"	"2016"	"28 - 31 weeks"	"03"	637
+	"Arizona"	"04"	"2016"	"2016"	"32 - 35 weeks"	"04"	3331
+	"Arizona"	"04"	"2016"	"2016"	"36 weeks"	"05"	3204
+	"Arizona"	"04"	"2016"	"2016"	"37 - 39 weeks"	"06"	54292
+	"Arizona"	"04"	"2016"	"2016"	"40 weeks"	"07"	17118
+	"Arizona"	"04"	"2016"	"2016"	"41 weeks"	"08"	5133
+	"Arizona"	"04"	"2016"	"2016"	"42 weeks or more"	"09"	231
+	"Arizona"	"04"	"2016"	"2016"	"Unknown or Not Stated"	"10"	92
+	"Arizona"	"04"	"2017"	"2017"	"Under 20 weeks"	"01"	25
+	"Arizona"	"04"	"2017"	"2017"	"20 - 27 weeks"	"02"	437
+	"Arizona"	"04"	"2017"	"2017"	"28 - 31 weeks"	"03"	628
+	"Arizona"	"04"	"2017"	"2017"	"32 - 35 weeks"	"04"	3342
+	"Arizona"	"04"	"2017"	"2017"	"36 weeks"	"05"	3146
+	"Arizona"	"04"	"2017"	"2017"	"37 - 39 weeks"	"06"	52693
+	"Arizona"	"04"	"2017"	"2017"	"40 weeks"	"07"	16335
+	"Arizona"	"04"	"2017"	"2017"	"41 weeks"	"08"	4930
+	"Arizona"	"04"	"2017"	"2017"	"42 weeks or more"	"09"	213
+	"Arizona"	"04"	"2017"	"2017"	"Unknown or Not Stated"	"10"	123
+	"Arizona"	"04"	"2018"	"2018"	"Under 20 weeks"	"01"	18
+	"Arizona"	"04"	"2018"	"2018"	"20 - 27 weeks"	"02"	446
+	"Arizona"	"04"	"2018"	"2018"	"28 - 31 weeks"	"03"	663
+	"Arizona"	"04"	"2018"	"2018"	"32 - 35 weeks"	"04"	3394
+	"Arizona"	"04"	"2018"	"2018"	"36 weeks"	"05"	3152
+	"Arizona"	"04"	"2018"	"2018"	"37 - 39 weeks"	"06"	52934
+	"Arizona"	"04"	"2018"	"2018"	"40 weeks"	"07"	15417
+	"Arizona"	"04"	"2018"	"2018"	"41 weeks"	"08"	4413
+	"Arizona"	"04"	"2018"	"2018"	"42 weeks or more"	"09"	190
+	"Arizona"	"04"	"2018"	"2018"	"Unknown or Not Stated"	"10"	96
+	"Arizona"	"04"	"2019"	"2019"	"Under 20 weeks"	"01"	23
+	"Arizona"	"04"	"2019"	"2019"	"20 - 27 weeks"	"02"	394
+	"Arizona"	"04"	"2019"	"2019"	"28 - 31 weeks"	"03"	648
+	"Arizona"	"04"	"2019"	"2019"	"32 - 35 weeks"	"04"	3279
+	"Arizona"	"04"	"2019"	"2019"	"36 weeks"	"05"	3091
+	"Arizona"	"04"	"2019"	"2019"	"37 - 39 weeks"	"06"	52862
+	"Arizona"	"04"	"2019"	"2019"	"40 weeks"	"07"	14868
+	"Arizona"	"04"	"2019"	"2019"	"41 weeks"	"08"	3998
+	"Arizona"	"04"	"2019"	"2019"	"42 weeks or more"	"09"	160
+	"Arizona"	"04"	"2019"	"2019"	"Unknown or Not Stated"	"10"	52
+	"Arizona"	"04"	"2020"	"2020"	"Under 20 weeks"	"01"	24
+	"Arizona"	"04"	"2020"	"2020"	"20 - 27 weeks"	"02"	405
+	"Arizona"	"04"	"2020"	"2020"	"28 - 31 weeks"	"03"	554
+	"Arizona"	"04"	"2020"	"2020"	"32 - 35 weeks"	"04"	3234
+	"Arizona"	"04"	"2020"	"2020"	"36 weeks"	"05"	3072
+	"Arizona"	"04"	"2020"	"2020"	"37 - 39 weeks"	"06"	50904
+	"Arizona"	"04"	"2020"	"2020"	"40 weeks"	"07"	14328
+	"Arizona"	"04"	"2020"	"2020"	"41 weeks"	"08"	4171
+	"Arizona"	"04"	"2020"	"2020"	"42 weeks or more"	"09"	159
+	"Arizona"	"04"	"2020"	"2020"	"Unknown or Not Stated"	"10"	96
+	"Arizona"	"04"	"2021"	"2021"	"Under 20 weeks"	"01"	32
+	"Arizona"	"04"	"2021"	"2021"	"20 - 27 weeks"	"02"	438
+	"Arizona"	"04"	"2021"	"2021"	"28 - 31 weeks"	"03"	650
+	"Arizona"	"04"	"2021"	"2021"	"32 - 35 weeks"	"04"	3475
+	"Arizona"	"04"	"2021"	"2021"	"36 weeks"	"05"	3200
+	"Arizona"	"04"	"2021"	"2021"	"37 - 39 weeks"	"06"	51526
+	"Arizona"	"04"	"2021"	"2021"	"40 weeks"	"07"	14318
+	"Arizona"	"04"	"2021"	"2021"	"41 weeks"	"08"	4066
+	"Arizona"	"04"	"2021"	"2021"	"42 weeks or more"	"09"	153
+	"Arizona"	"04"	"2021"	"2021"	"Unknown or Not Stated"	"10"	58
+	"Arizona"	"04"	"2022"	"2022"	"Under 20 weeks"	"01"	34
+	"Arizona"	"04"	"2022"	"2022"	"20 - 27 weeks"	"02"	404
+	"Arizona"	"04"	"2022"	"2022"	"28 - 31 weeks"	"03"	627
+	"Arizona"	"04"	"2022"	"2022"	"32 - 35 weeks"	"04"	3424
+	"Arizona"	"04"	"2022"	"2022"	"36 weeks"	"05"	3240
+	"Arizona"	"04"	"2022"	"2022"	"37 - 39 weeks"	"06"	51750
+	"Arizona"	"04"	"2022"	"2022"	"40 weeks"	"07"	14481
+	"Arizona"	"04"	"2022"	"2022"	"41 weeks"	"08"	4352
+	"Arizona"	"04"	"2022"	"2022"	"42 weeks or more"	"09"	160
+	"Arizona"	"04"	"2022"	"2022"	"Unknown or Not Stated"	"10"	75
+	"Arizona"	"04"	"2023"	"2023"	"Under 20 weeks"	"01"	22
+	"Arizona"	"04"	"2023"	"2023"	"20 - 27 weeks"	"02"	457
+	"Arizona"	"04"	"2023"	"2023"	"28 - 31 weeks"	"03"	619
+	"Arizona"	"04"	"2023"	"2023"	"32 - 35 weeks"	"04"	3488
+	"Arizona"	"04"	"2023"	"2023"	"36 weeks"	"05"	3115
+	"Arizona"	"04"	"2023"	"2023"	"37 - 39 weeks"	"06"	51682
+	"Arizona"	"04"	"2023"	"2023"	"40 weeks"	"07"	14147
+	"Arizona"	"04"	"2023"	"2023"	"41 weeks"	"08"	4321
+	"Arizona"	"04"	"2023"	"2023"	"42 weeks or more"	"09"	168
+	"Arizona"	"04"	"2023"	"2023"	"Unknown or Not Stated"	"10"	77
+	"Arkansas"	"05"	"2010"	"2010"	"Under 20 weeks"	"01"	13
+	"Arkansas"	"05"	"2010"	"2010"	"20 - 27 weeks"	"02"	265
+	"Arkansas"	"05"	"2010"	"2010"	"28 - 31 weeks"	"03"	375
+	"Arkansas"	"05"	"2010"	"2010"	"32 - 35 weeks"	"04"	1782
+	"Arkansas"	"05"	"2010"	"2010"	"36 weeks"	"05"	1701
+	"Arkansas"	"05"	"2010"	"2010"	"37 - 39 weeks"	"06"	25719
+	"Arkansas"	"05"	"2010"	"2010"	"40 weeks"	"07"	6930
+	"Arkansas"	"05"	"2010"	"2010"	"41 weeks"	"08"	1488
+	"Arkansas"	"05"	"2010"	"2010"	"42 weeks or more"	"09"	152
+	"Arkansas"	"05"	"2010"	"2010"	"Unknown or Not Stated"	"10"	115
+	"Arkansas"	"05"	"2011"	"2011"	"Under 20 weeks"	"01"	17
+	"Arkansas"	"05"	"2011"	"2011"	"20 - 27 weeks"	"02"	298
+	"Arkansas"	"05"	"2011"	"2011"	"28 - 31 weeks"	"03"	421
+	"Arkansas"	"05"	"2011"	"2011"	"32 - 35 weeks"	"04"	1798
+	"Arkansas"	"05"	"2011"	"2011"	"36 weeks"	"05"	1628
+	"Arkansas"	"05"	"2011"	"2011"	"37 - 39 weeks"	"06"	25691
+	"Arkansas"	"05"	"2011"	"2011"	"40 weeks"	"07"	6923
+	"Arkansas"	"05"	"2011"	"2011"	"41 weeks"	"08"	1648
+	"Arkansas"	"05"	"2011"	"2011"	"42 weeks or more"	"09"	150
+	"Arkansas"	"05"	"2011"	"2011"	"Unknown or Not Stated"	"10"	141
+	"Arkansas"	"05"	"2012"	"2012"	"Under 20 weeks"	"01"	13
+	"Arkansas"	"05"	"2012"	"2012"	"20 - 27 weeks"	"02"	303
+	"Arkansas"	"05"	"2012"	"2012"	"28 - 31 weeks"	"03"	380
+	"Arkansas"	"05"	"2012"	"2012"	"32 - 35 weeks"	"04"	1802
+	"Arkansas"	"05"	"2012"	"2012"	"36 weeks"	"05"	1492
+	"Arkansas"	"05"	"2012"	"2012"	"37 - 39 weeks"	"06"	25922
+	"Arkansas"	"05"	"2012"	"2012"	"40 weeks"	"07"	6600
+	"Arkansas"	"05"	"2012"	"2012"	"41 weeks"	"08"	1592
+	"Arkansas"	"05"	"2012"	"2012"	"42 weeks or more"	"09"	115
+	"Arkansas"	"05"	"2012"	"2012"	"Unknown or Not Stated"	"10"	128
+	"Arkansas"	"05"	"2013"	"2013"	"Under 20 weeks"	"01"	11
+	"Arkansas"	"05"	"2013"	"2013"	"20 - 27 weeks"	"02"	286
+	"Arkansas"	"05"	"2013"	"2013"	"28 - 31 weeks"	"03"	376
+	"Arkansas"	"05"	"2013"	"2013"	"32 - 35 weeks"	"04"	1682
+	"Arkansas"	"05"	"2013"	"2013"	"36 weeks"	"05"	1470
+	"Arkansas"	"05"	"2013"	"2013"	"37 - 39 weeks"	"06"	25333
+	"Arkansas"	"05"	"2013"	"2013"	"40 weeks"	"07"	6625
+	"Arkansas"	"05"	"2013"	"2013"	"41 weeks"	"08"	1738
+	"Arkansas"	"05"	"2013"	"2013"	"42 weeks or more"	"09"	132
+	"Arkansas"	"05"	"2013"	"2013"	"Unknown or Not Stated"	"10"	179
+	"Arkansas"	"05"	"2014"	"2014"	"20 - 27 weeks"	"02"	261
+	"Arkansas"	"05"	"2014"	"2014"	"28 - 31 weeks"	"03"	353
+	"Arkansas"	"05"	"2014"	"2014"	"32 - 35 weeks"	"04"	1775
+	"Arkansas"	"05"	"2014"	"2014"	"36 weeks"	"05"	1449
+	"Arkansas"	"05"	"2014"	"2014"	"37 - 39 weeks"	"06"	25945
+	"Arkansas"	"05"	"2014"	"2014"	"40 weeks"	"07"	7023
+	"Arkansas"	"05"	"2014"	"2014"	"41 weeks"	"08"	1562
+	"Arkansas"	"05"	"2014"	"2014"	"42 weeks or more"	"09"	105
+	"Arkansas"	"05"	"2014"	"2014"	"Unknown or Not Stated"	"10"	31
+	"Arkansas"	"05"	"2015"	"2015"	"20 - 27 weeks"	"02"	283
+	"Arkansas"	"05"	"2015"	"2015"	"28 - 31 weeks"	"03"	400
+	"Arkansas"	"05"	"2015"	"2015"	"32 - 35 weeks"	"04"	1891
+	"Arkansas"	"05"	"2015"	"2015"	"36 weeks"	"05"	1627
+	"Arkansas"	"05"	"2015"	"2015"	"37 - 39 weeks"	"06"	26373
+	"Arkansas"	"05"	"2015"	"2015"	"40 weeks"	"07"	6648
+	"Arkansas"	"05"	"2015"	"2015"	"41 weeks"	"08"	1527
+	"Arkansas"	"05"	"2015"	"2015"	"42 weeks or more"	"09"	109
+	"Arkansas"	"05"	"2015"	"2015"	"Unknown or Not Stated"	"10"	22
+	"Arkansas"	"05"	"2016"	"2016"	"20 - 27 weeks"	"02"	276
+	"Arkansas"	"05"	"2016"	"2016"	"28 - 31 weeks"	"03"	422
+	"Arkansas"	"05"	"2016"	"2016"	"32 - 35 weeks"	"04"	1763
+	"Arkansas"	"05"	"2016"	"2016"	"36 weeks"	"05"	1687
+	"Arkansas"	"05"	"2016"	"2016"	"37 - 39 weeks"	"06"	25821
+	"Arkansas"	"05"	"2016"	"2016"	"40 weeks"	"07"	6806
+	"Arkansas"	"05"	"2016"	"2016"	"41 weeks"	"08"	1397
+	"Arkansas"	"05"	"2016"	"2016"	"42 weeks or more"	"09"	70
+	"Arkansas"	"05"	"2016"	"2016"	"Unknown or Not Stated"	"10"	23
+	"Arkansas"	"05"	"2017"	"2017"	"Under 20 weeks"	"01"	17
+	"Arkansas"	"05"	"2017"	"2017"	"20 - 27 weeks"	"02"	270
+	"Arkansas"	"05"	"2017"	"2017"	"28 - 31 weeks"	"03"	386
+	"Arkansas"	"05"	"2017"	"2017"	"32 - 35 weeks"	"04"	1886
+	"Arkansas"	"05"	"2017"	"2017"	"36 weeks"	"05"	1709
+	"Arkansas"	"05"	"2017"	"2017"	"37 - 39 weeks"	"06"	25585
+	"Arkansas"	"05"	"2017"	"2017"	"40 weeks"	"07"	6271
+	"Arkansas"	"05"	"2017"	"2017"	"41 weeks"	"08"	1315
+	"Arkansas"	"05"	"2017"	"2017"	"42 weeks or more"	"09"	65
+	"Arkansas"	"05"	"2017"	"2017"	"Unknown or Not Stated"	"10"	16
+	"Arkansas"	"05"	"2018"	"2018"	"Under 20 weeks"	"01"	10
+	"Arkansas"	"05"	"2018"	"2018"	"20 - 27 weeks"	"02"	256
+	"Arkansas"	"05"	"2018"	"2018"	"28 - 31 weeks"	"03"	378
+	"Arkansas"	"05"	"2018"	"2018"	"32 - 35 weeks"	"04"	1929
+	"Arkansas"	"05"	"2018"	"2018"	"36 weeks"	"05"	1726
+	"Arkansas"	"05"	"2018"	"2018"	"37 - 39 weeks"	"06"	25498
+	"Arkansas"	"05"	"2018"	"2018"	"40 weeks"	"07"	5943
+	"Arkansas"	"05"	"2018"	"2018"	"41 weeks"	"08"	1163
+	"Arkansas"	"05"	"2018"	"2018"	"42 weeks or more"	"09"	89
+	"Arkansas"	"05"	"2018"	"2018"	"Unknown or Not Stated"	"10"	26
+	"Arkansas"	"05"	"2019"	"2019"	"Under 20 weeks"	"01"	18
+	"Arkansas"	"05"	"2019"	"2019"	"20 - 27 weeks"	"02"	270
+	"Arkansas"	"05"	"2019"	"2019"	"28 - 31 weeks"	"03"	405
+	"Arkansas"	"05"	"2019"	"2019"	"32 - 35 weeks"	"04"	1885
+	"Arkansas"	"05"	"2019"	"2019"	"36 weeks"	"05"	1784
+	"Arkansas"	"05"	"2019"	"2019"	"37 - 39 weeks"	"06"	25723
+	"Arkansas"	"05"	"2019"	"2019"	"40 weeks"	"07"	5487
+	"Arkansas"	"05"	"2019"	"2019"	"41 weeks"	"08"	923
+	"Arkansas"	"05"	"2019"	"2019"	"42 weeks or more"	"09"	62
+	"Arkansas"	"05"	"2020"	"2020"	"Under 20 weeks"	"01"	15
+	"Arkansas"	"05"	"2020"	"2020"	"20 - 27 weeks"	"02"	238
+	"Arkansas"	"05"	"2020"	"2020"	"28 - 31 weeks"	"03"	352
+	"Arkansas"	"05"	"2020"	"2020"	"32 - 35 weeks"	"04"	1922
+	"Arkansas"	"05"	"2020"	"2020"	"36 weeks"	"05"	1615
+	"Arkansas"	"05"	"2020"	"2020"	"37 - 39 weeks"	"06"	25282
+	"Arkansas"	"05"	"2020"	"2020"	"40 weeks"	"07"	4904
+	"Arkansas"	"05"	"2020"	"2020"	"41 weeks"	"08"	835
+	"Arkansas"	"05"	"2020"	"2020"	"42 weeks or more"	"09"	62
+	"Arkansas"	"05"	"2020"	"2020"	"Unknown or Not Stated"	"10"	26
+	"Arkansas"	"05"	"2021"	"2021"	"Under 20 weeks"	"01"	19
+	"Arkansas"	"05"	"2021"	"2021"	"20 - 27 weeks"	"02"	263
+	"Arkansas"	"05"	"2021"	"2021"	"28 - 31 weeks"	"03"	422
+	"Arkansas"	"05"	"2021"	"2021"	"32 - 35 weeks"	"04"	1910
+	"Arkansas"	"05"	"2021"	"2021"	"36 weeks"	"05"	1714
+	"Arkansas"	"05"	"2021"	"2021"	"37 - 39 weeks"	"06"	25787
+	"Arkansas"	"05"	"2021"	"2021"	"40 weeks"	"07"	4907
+	"Arkansas"	"05"	"2021"	"2021"	"41 weeks"	"08"	864
+	"Arkansas"	"05"	"2021"	"2021"	"42 weeks or more"	"09"	54
+	"Arkansas"	"05"	"2021"	"2021"	"Unknown or Not Stated"	"10"	25
+	"Arkansas"	"05"	"2022"	"2022"	"Under 20 weeks"	"01"	19
+	"Arkansas"	"05"	"2022"	"2022"	"20 - 27 weeks"	"02"	242
+	"Arkansas"	"05"	"2022"	"2022"	"28 - 31 weeks"	"03"	365
+	"Arkansas"	"05"	"2022"	"2022"	"32 - 35 weeks"	"04"	1831
+	"Arkansas"	"05"	"2022"	"2022"	"36 weeks"	"05"	1717
+	"Arkansas"	"05"	"2022"	"2022"	"37 - 39 weeks"	"06"	25503
+	"Arkansas"	"05"	"2022"	"2022"	"40 weeks"	"07"	4842
+	"Arkansas"	"05"	"2022"	"2022"	"41 weeks"	"08"	876
+	"Arkansas"	"05"	"2022"	"2022"	"42 weeks or more"	"09"	49
+	"Arkansas"	"05"	"2022"	"2022"	"Unknown or Not Stated"	"10"	27
+	"Arkansas"	"05"	"2023"	"2023"	"Under 20 weeks"	"01"	18
+	"Arkansas"	"05"	"2023"	"2023"	"20 - 27 weeks"	"02"	283
+	"Arkansas"	"05"	"2023"	"2023"	"28 - 31 weeks"	"03"	340
+	"Arkansas"	"05"	"2023"	"2023"	"32 - 35 weeks"	"04"	1841
+	"Arkansas"	"05"	"2023"	"2023"	"36 weeks"	"05"	1777
+	"Arkansas"	"05"	"2023"	"2023"	"37 - 39 weeks"	"06"	25372
+	"Arkansas"	"05"	"2023"	"2023"	"40 weeks"	"07"	4699
+	"Arkansas"	"05"	"2023"	"2023"	"41 weeks"	"08"	846
+	"Arkansas"	"05"	"2023"	"2023"	"42 weeks or more"	"09"	55
+	"Arkansas"	"05"	"2023"	"2023"	"Unknown or Not Stated"	"10"	33
+	"California"	"06"	"2010"	"2010"	"Under 20 weeks"	"01"	111
+	"California"	"06"	"2010"	"2010"	"20 - 27 weeks"	"02"	2673
+	"California"	"06"	"2010"	"2010"	"28 - 31 weeks"	"03"	3828
+	"California"	"06"	"2010"	"2010"	"32 - 35 weeks"	"04"	19433
+	"California"	"06"	"2010"	"2010"	"36 weeks"	"05"	17534
+	"California"	"06"	"2010"	"2010"	"37 - 39 weeks"	"06"	304381
+	"California"	"06"	"2010"	"2010"	"40 weeks"	"07"	122422
+	"California"	"06"	"2010"	"2010"	"41 weeks"	"08"	35686
+	"California"	"06"	"2010"	"2010"	"42 weeks or more"	"09"	2934
+	"California"	"06"	"2010"	"2010"	"Unknown or Not Stated"	"10"	1196
+	"California"	"06"	"2011"	"2011"	"Under 20 weeks"	"01"	78
+	"California"	"06"	"2011"	"2011"	"20 - 27 weeks"	"02"	2593
+	"California"	"06"	"2011"	"2011"	"28 - 31 weeks"	"03"	3894
+	"California"	"06"	"2011"	"2011"	"32 - 35 weeks"	"04"	19099
+	"California"	"06"	"2011"	"2011"	"36 weeks"	"05"	16970
+	"California"	"06"	"2011"	"2011"	"37 - 39 weeks"	"06"	301519
+	"California"	"06"	"2011"	"2011"	"40 weeks"	"07"	118645
+	"California"	"06"	"2011"	"2011"	"41 weeks"	"08"	35496
+	"California"	"06"	"2011"	"2011"	"42 weeks or more"	"09"	2726
+	"California"	"06"	"2011"	"2011"	"Unknown or Not Stated"	"10"	1100
+	"California"	"06"	"2012"	"2012"	"Under 20 weeks"	"01"	90
+	"California"	"06"	"2012"	"2012"	"20 - 27 weeks"	"02"	2553
+	"California"	"06"	"2012"	"2012"	"28 - 31 weeks"	"03"	3900
+	"California"	"06"	"2012"	"2012"	"32 - 35 weeks"	"04"	18915
+	"California"	"06"	"2012"	"2012"	"36 weeks"	"05"	16981
+	"California"	"06"	"2012"	"2012"	"37 - 39 weeks"	"06"	304652
+	"California"	"06"	"2012"	"2012"	"40 weeks"	"07"	118145
+	"California"	"06"	"2012"	"2012"	"41 weeks"	"08"	34951
+	"California"	"06"	"2012"	"2012"	"42 weeks or more"	"09"	2517
+	"California"	"06"	"2012"	"2012"	"Unknown or Not Stated"	"10"	1051
+	"California"	"06"	"2013"	"2013"	"Under 20 weeks"	"01"	107
+	"California"	"06"	"2013"	"2013"	"20 - 27 weeks"	"02"	2710
+	"California"	"06"	"2013"	"2013"	"28 - 31 weeks"	"03"	3679
+	"California"	"06"	"2013"	"2013"	"32 - 35 weeks"	"04"	18725
+	"California"	"06"	"2013"	"2013"	"36 weeks"	"05"	16368
+	"California"	"06"	"2013"	"2013"	"37 - 39 weeks"	"06"	298880
+	"California"	"06"	"2013"	"2013"	"40 weeks"	"07"	115057
+	"California"	"06"	"2013"	"2013"	"41 weeks"	"08"	35828
+	"California"	"06"	"2013"	"2013"	"42 weeks or more"	"09"	2546
+	"California"	"06"	"2013"	"2013"	"Unknown or Not Stated"	"10"	805
+	"California"	"06"	"2014"	"2014"	"Under 20 weeks"	"01"	92
+	"California"	"06"	"2014"	"2014"	"20 - 27 weeks"	"02"	2645
+	"California"	"06"	"2014"	"2014"	"28 - 31 weeks"	"03"	3855
+	"California"	"06"	"2014"	"2014"	"32 - 35 weeks"	"04"	18703
+	"California"	"06"	"2014"	"2014"	"36 weeks"	"05"	16299
+	"California"	"06"	"2014"	"2014"	"37 - 39 weeks"	"06"	305140
+	"California"	"06"	"2014"	"2014"	"40 weeks"	"07"	116306
+	"California"	"06"	"2014"	"2014"	"41 weeks"	"08"	36729
+	"California"	"06"	"2014"	"2014"	"42 weeks or more"	"09"	2416
+	"California"	"06"	"2014"	"2014"	"Unknown or Not Stated"	"10"	694
+	"California"	"06"	"2015"	"2015"	"Under 20 weeks"	"01"	104
+	"California"	"06"	"2015"	"2015"	"20 - 27 weeks"	"02"	2493
+	"California"	"06"	"2015"	"2015"	"28 - 31 weeks"	"03"	3789
+	"California"	"06"	"2015"	"2015"	"32 - 35 weeks"	"04"	18825
+	"California"	"06"	"2015"	"2015"	"36 weeks"	"05"	16389
+	"California"	"06"	"2015"	"2015"	"37 - 39 weeks"	"06"	297611
+	"California"	"06"	"2015"	"2015"	"40 weeks"	"07"	113653
+	"California"	"06"	"2015"	"2015"	"41 weeks"	"08"	36237
+	"California"	"06"	"2015"	"2015"	"42 weeks or more"	"09"	2116
+	"California"	"06"	"2015"	"2015"	"Unknown or Not Stated"	"10"	531
+	"California"	"06"	"2016"	"2016"	"Under 20 weeks"	"01"	73
+	"California"	"06"	"2016"	"2016"	"20 - 27 weeks"	"02"	2405
+	"California"	"06"	"2016"	"2016"	"28 - 31 weeks"	"03"	3725
+	"California"	"06"	"2016"	"2016"	"32 - 35 weeks"	"04"	19064
+	"California"	"06"	"2016"	"2016"	"36 weeks"	"05"	16807
+	"California"	"06"	"2016"	"2016"	"37 - 39 weeks"	"06"	297339
+	"California"	"06"	"2016"	"2016"	"40 weeks"	"07"	111602
+	"California"	"06"	"2016"	"2016"	"41 weeks"	"08"	35499
+	"California"	"06"	"2016"	"2016"	"42 weeks or more"	"09"	1881
+	"California"	"06"	"2016"	"2016"	"Unknown or Not Stated"	"10"	432
+	"California"	"06"	"2017"	"2017"	"Under 20 weeks"	"01"	90
+	"California"	"06"	"2017"	"2017"	"20 - 27 weeks"	"02"	2308
+	"California"	"06"	"2017"	"2017"	"28 - 31 weeks"	"03"	3601
+	"California"	"06"	"2017"	"2017"	"32 - 35 weeks"	"04"	18172
+	"California"	"06"	"2017"	"2017"	"36 weeks"	"05"	16736
+	"California"	"06"	"2017"	"2017"	"37 - 39 weeks"	"06"	287098
+	"California"	"06"	"2017"	"2017"	"40 weeks"	"07"	106574
+	"California"	"06"	"2017"	"2017"	"41 weeks"	"08"	35042
+	"California"	"06"	"2017"	"2017"	"42 weeks or more"	"09"	1716
+	"California"	"06"	"2017"	"2017"	"Unknown or Not Stated"	"10"	321
+	"California"	"06"	"2018"	"2018"	"Under 20 weeks"	"01"	80
+	"California"	"06"	"2018"	"2018"	"20 - 27 weeks"	"02"	2298
+	"California"	"06"	"2018"	"2018"	"28 - 31 weeks"	"03"	3510
+	"California"	"06"	"2018"	"2018"	"32 - 35 weeks"	"04"	18019
+	"California"	"06"	"2018"	"2018"	"36 weeks"	"05"	16057
+	"California"	"06"	"2018"	"2018"	"37 - 39 weeks"	"06"	278659
+	"California"	"06"	"2018"	"2018"	"40 weeks"	"07"	101541
+	"California"	"06"	"2018"	"2018"	"41 weeks"	"08"	33103
+	"California"	"06"	"2018"	"2018"	"42 weeks or more"	"09"	1404
+	"California"	"06"	"2018"	"2018"	"Unknown or Not Stated"	"10"	249
+	"California"	"06"	"2019"	"2019"	"Under 20 weeks"	"01"	96
+	"California"	"06"	"2019"	"2019"	"20 - 27 weeks"	"02"	2225
+	"California"	"06"	"2019"	"2019"	"28 - 31 weeks"	"03"	3823
+	"California"	"06"	"2019"	"2019"	"32 - 35 weeks"	"04"	17426
+	"California"	"06"	"2019"	"2019"	"36 weeks"	"05"	16388
+	"California"	"06"	"2019"	"2019"	"37 - 39 weeks"	"06"	277906
+	"California"	"06"	"2019"	"2019"	"40 weeks"	"07"	97216
+	"California"	"06"	"2019"	"2019"	"41 weeks"	"08"	30007
+	"California"	"06"	"2019"	"2019"	"42 weeks or more"	"09"	1187
+	"California"	"06"	"2019"	"2019"	"Unknown or Not Stated"	"10"	205
+	"California"	"06"	"2020"	"2020"	"Under 20 weeks"	"01"	77
+	"California"	"06"	"2020"	"2020"	"20 - 27 weeks"	"02"	2048
+	"California"	"06"	"2020"	"2020"	"28 - 31 weeks"	"03"	3573
+	"California"	"06"	"2020"	"2020"	"32 - 35 weeks"	"04"	15933
+	"California"	"06"	"2020"	"2020"	"36 weeks"	"05"	15138
+	"California"	"06"	"2020"	"2020"	"37 - 39 weeks"	"06"	266177
+	"California"	"06"	"2020"	"2020"	"40 weeks"	"07"	89460
+	"California"	"06"	"2020"	"2020"	"41 weeks"	"08"	26640
+	"California"	"06"	"2020"	"2020"	"42 weeks or more"	"09"	1038
+	"California"	"06"	"2020"	"2020"	"Unknown or Not Stated"	"10"	175
+	"California"	"06"	"2021"	"2021"	"Under 20 weeks"	"01"	70
+	"California"	"06"	"2021"	"2021"	"20 - 27 weeks"	"02"	2146
+	"California"	"06"	"2021"	"2021"	"28 - 31 weeks"	"03"	3909
+	"California"	"06"	"2021"	"2021"	"32 - 35 weeks"	"04"	16720
+	"California"	"06"	"2021"	"2021"	"36 weeks"	"05"	15598
+	"California"	"06"	"2021"	"2021"	"37 - 39 weeks"	"06"	268862
+	"California"	"06"	"2021"	"2021"	"40 weeks"	"07"	86176
+	"California"	"06"	"2021"	"2021"	"41 weeks"	"08"	25968
+	"California"	"06"	"2021"	"2021"	"42 weeks or more"	"09"	977
+	"California"	"06"	"2021"	"2021"	"Unknown or Not Stated"	"10"	182
+	"California"	"06"	"2022"	"2022"	"Under 20 weeks"	"01"	68
+	"California"	"06"	"2022"	"2022"	"20 - 27 weeks"	"02"	2034
+	"California"	"06"	"2022"	"2022"	"28 - 31 weeks"	"03"	3847
+	"California"	"06"	"2022"	"2022"	"32 - 35 weeks"	"04"	16583
+	"California"	"06"	"2022"	"2022"	"36 weeks"	"05"	15488
+	"California"	"06"	"2022"	"2022"	"37 - 39 weeks"	"06"	267476
+	"California"	"06"	"2022"	"2022"	"40 weeks"	"07"	86036
+	"California"	"06"	"2022"	"2022"	"41 weeks"	"08"	26362
+	"California"	"06"	"2022"	"2022"	"42 weeks or more"	"09"	1003
+	"California"	"06"	"2022"	"2022"	"Unknown or Not Stated"	"10"	207
+	"California"	"06"	"2023"	"2023"	"Under 20 weeks"	"01"	65
+	"California"	"06"	"2023"	"2023"	"20 - 27 weeks"	"02"	2004
+	"California"	"06"	"2023"	"2023"	"28 - 31 weeks"	"03"	4026
+	"California"	"06"	"2023"	"2023"	"32 - 35 weeks"	"04"	15732
+	"California"	"06"	"2023"	"2023"	"36 weeks"	"05"	14815
+	"California"	"06"	"2023"	"2023"	"37 - 39 weeks"	"06"	257942
+	"California"	"06"	"2023"	"2023"	"40 weeks"	"07"	80591
+	"California"	"06"	"2023"	"2023"	"41 weeks"	"08"	23718
+	"California"	"06"	"2023"	"2023"	"42 weeks or more"	"09"	940
+	"California"	"06"	"2023"	"2023"	"Unknown or Not Stated"	"10"	275
+	"Florida"	"12"	"2010"	"2010"	"Under 20 weeks"	"01"	93
+	"Florida"	"12"	"2010"	"2010"	"20 - 27 weeks"	"02"	1655
+	"Florida"	"12"	"2010"	"2010"	"28 - 31 weeks"	"03"	2102
+	"Florida"	"12"	"2010"	"2010"	"32 - 35 weeks"	"04"	9896
+	"Florida"	"12"	"2010"	"2010"	"36 weeks"	"05"	8690
+	"Florida"	"12"	"2010"	"2010"	"37 - 39 weeks"	"06"	140574
+	"Florida"	"12"	"2010"	"2010"	"40 weeks"	"07"	41897
+	"Florida"	"12"	"2010"	"2010"	"41 weeks"	"08"	8925
+	"Florida"	"12"	"2010"	"2010"	"42 weeks or more"	"09"	469
+	"Florida"	"12"	"2010"	"2010"	"Unknown or Not Stated"	"10"	289
+	"Florida"	"12"	"2011"	"2011"	"Under 20 weeks"	"01"	80
+	"Florida"	"12"	"2011"	"2011"	"20 - 27 weeks"	"02"	1665
+	"Florida"	"12"	"2011"	"2011"	"28 - 31 weeks"	"03"	2085
+	"Florida"	"12"	"2011"	"2011"	"32 - 35 weeks"	"04"	9784
+	"Florida"	"12"	"2011"	"2011"	"36 weeks"	"05"	8404
+	"Florida"	"12"	"2011"	"2011"	"37 - 39 weeks"	"06"	140112
+	"Florida"	"12"	"2011"	"2011"	"40 weeks"	"07"	41575
+	"Florida"	"12"	"2011"	"2011"	"41 weeks"	"08"	8927
+	"Florida"	"12"	"2011"	"2011"	"42 weeks or more"	"09"	422
+	"Florida"	"12"	"2011"	"2011"	"Unknown or Not Stated"	"10"	360
+	"Florida"	"12"	"2012"	"2012"	"Under 20 weeks"	"01"	78
+	"Florida"	"12"	"2012"	"2012"	"20 - 27 weeks"	"02"	1616
+	"Florida"	"12"	"2012"	"2012"	"28 - 31 weeks"	"03"	2111
+	"Florida"	"12"	"2012"	"2012"	"32 - 35 weeks"	"04"	9613
+	"Florida"	"12"	"2012"	"2012"	"36 weeks"	"05"	8392
+	"Florida"	"12"	"2012"	"2012"	"37 - 39 weeks"	"06"	140284
+	"Florida"	"12"	"2012"	"2012"	"40 weeks"	"07"	41397
+	"Florida"	"12"	"2012"	"2012"	"41 weeks"	"08"	9024
+	"Florida"	"12"	"2012"	"2012"	"42 weeks or more"	"09"	410
+	"Florida"	"12"	"2012"	"2012"	"Unknown or Not Stated"	"10"	223
+	"Florida"	"12"	"2013"	"2013"	"Under 20 weeks"	"01"	87
+	"Florida"	"12"	"2013"	"2013"	"20 - 27 weeks"	"02"	1578
+	"Florida"	"12"	"2013"	"2013"	"28 - 31 weeks"	"03"	2089
+	"Florida"	"12"	"2013"	"2013"	"32 - 35 weeks"	"04"	9565
+	"Florida"	"12"	"2013"	"2013"	"36 weeks"	"05"	8275
+	"Florida"	"12"	"2013"	"2013"	"37 - 39 weeks"	"06"	141088
+	"Florida"	"12"	"2013"	"2013"	"40 weeks"	"07"	42608
+	"Florida"	"12"	"2013"	"2013"	"41 weeks"	"08"	9444
+	"Florida"	"12"	"2013"	"2013"	"42 weeks or more"	"09"	434
+	"Florida"	"12"	"2013"	"2013"	"Unknown or Not Stated"	"10"	239
+	"Florida"	"12"	"2014"	"2014"	"Under 20 weeks"	"01"	71
+	"Florida"	"12"	"2014"	"2014"	"20 - 27 weeks"	"02"	1664
+	"Florida"	"12"	"2014"	"2014"	"28 - 31 weeks"	"03"	2273
+	"Florida"	"12"	"2014"	"2014"	"32 - 35 weeks"	"04"	9589
+	"Florida"	"12"	"2014"	"2014"	"36 weeks"	"05"	8249
+	"Florida"	"12"	"2014"	"2014"	"37 - 39 weeks"	"06"	142589
+	"Florida"	"12"	"2014"	"2014"	"40 weeks"	"07"	44358
+	"Florida"	"12"	"2014"	"2014"	"41 weeks"	"08"	10628
+	"Florida"	"12"	"2014"	"2014"	"42 weeks or more"	"09"	488
+	"Florida"	"12"	"2014"	"2014"	"Unknown or Not Stated"	"10"	82
+	"Florida"	"12"	"2015"	"2015"	"Under 20 weeks"	"01"	93
+	"Florida"	"12"	"2015"	"2015"	"20 - 27 weeks"	"02"	1686
+	"Florida"	"12"	"2015"	"2015"	"28 - 31 weeks"	"03"	2205
+	"Florida"	"12"	"2015"	"2015"	"32 - 35 weeks"	"04"	10024
+	"Florida"	"12"	"2015"	"2015"	"36 weeks"	"05"	8399
+	"Florida"	"12"	"2015"	"2015"	"37 - 39 weeks"	"06"	145483
+	"Florida"	"12"	"2015"	"2015"	"40 weeks"	"07"	44421
+	"Florida"	"12"	"2015"	"2015"	"41 weeks"	"08"	11331
+	"Florida"	"12"	"2015"	"2015"	"42 weeks or more"	"09"	531
+	"Florida"	"12"	"2015"	"2015"	"Unknown or Not Stated"	"10"	96
+	"Florida"	"12"	"2016"	"2016"	"Under 20 weeks"	"01"	90
+	"Florida"	"12"	"2016"	"2016"	"20 - 27 weeks"	"02"	1623
+	"Florida"	"12"	"2016"	"2016"	"28 - 31 weeks"	"03"	2174
+	"Florida"	"12"	"2016"	"2016"	"32 - 35 weeks"	"04"	10216
+	"Florida"	"12"	"2016"	"2016"	"36 weeks"	"05"	8719
+	"Florida"	"12"	"2016"	"2016"	"37 - 39 weeks"	"06"	146847
+	"Florida"	"12"	"2016"	"2016"	"40 weeks"	"07"	43586
+	"Florida"	"12"	"2016"	"2016"	"41 weeks"	"08"	11186
+	"Florida"	"12"	"2016"	"2016"	"42 weeks or more"	"09"	480
+	"Florida"	"12"	"2016"	"2016"	"Unknown or Not Stated"	"10"	101
+	"Florida"	"12"	"2017"	"2017"	"Under 20 weeks"	"01"	69
+	"Florida"	"12"	"2017"	"2017"	"20 - 27 weeks"	"02"	1566
+	"Florida"	"12"	"2017"	"2017"	"28 - 31 weeks"	"03"	2291
+	"Florida"	"12"	"2017"	"2017"	"32 - 35 weeks"	"04"	10127
+	"Florida"	"12"	"2017"	"2017"	"36 weeks"	"05"	8798
+	"Florida"	"12"	"2017"	"2017"	"37 - 39 weeks"	"06"	145979
+	"Florida"	"12"	"2017"	"2017"	"40 weeks"	"07"	43019
+	"Florida"	"12"	"2017"	"2017"	"41 weeks"	"08"	11206
+	"Florida"	"12"	"2017"	"2017"	"42 weeks or more"	"09"	456
+	"Florida"	"12"	"2017"	"2017"	"Unknown or Not Stated"	"10"	119
+	"Florida"	"12"	"2018"	"2018"	"Under 20 weeks"	"01"	62
+	"Florida"	"12"	"2018"	"2018"	"20 - 27 weeks"	"02"	1623
+	"Florida"	"12"	"2018"	"2018"	"28 - 31 weeks"	"03"	2119
+	"Florida"	"12"	"2018"	"2018"	"32 - 35 weeks"	"04"	10109
+	"Florida"	"12"	"2018"	"2018"	"36 weeks"	"05"	8788
+	"Florida"	"12"	"2018"	"2018"	"37 - 39 weeks"	"06"	146251
+	"Florida"	"12"	"2018"	"2018"	"40 weeks"	"07"	41014
+	"Florida"	"12"	"2018"	"2018"	"41 weeks"	"08"	11028
+	"Florida"	"12"	"2018"	"2018"	"42 weeks or more"	"09"	443
+	"Florida"	"12"	"2018"	"2018"	"Unknown or Not Stated"	"10"	105
+	"Florida"	"12"	"2019"	"2019"	"Under 20 weeks"	"01"	90
+	"Florida"	"12"	"2019"	"2019"	"20 - 27 weeks"	"02"	1608
+	"Florida"	"12"	"2019"	"2019"	"28 - 31 weeks"	"03"	2154
+	"Florida"	"12"	"2019"	"2019"	"32 - 35 weeks"	"04"	10347
+	"Florida"	"12"	"2019"	"2019"	"36 weeks"	"05"	9162
+	"Florida"	"12"	"2019"	"2019"	"37 - 39 weeks"	"06"	146842
+	"Florida"	"12"	"2019"	"2019"	"40 weeks"	"07"	39571
+	"Florida"	"12"	"2019"	"2019"	"41 weeks"	"08"	9774
+	"Florida"	"12"	"2019"	"2019"	"42 weeks or more"	"09"	368
+	"Florida"	"12"	"2019"	"2019"	"Unknown or Not Stated"	"10"	86
+	"Florida"	"12"	"2020"	"2020"	"Under 20 weeks"	"01"	85
+	"Florida"	"12"	"2020"	"2020"	"20 - 27 weeks"	"02"	1497
+	"Florida"	"12"	"2020"	"2020"	"28 - 31 weeks"	"03"	1941
+	"Florida"	"12"	"2020"	"2020"	"32 - 35 weeks"	"04"	9603
+	"Florida"	"12"	"2020"	"2020"	"36 weeks"	"05"	8812
+	"Florida"	"12"	"2020"	"2020"	"37 - 39 weeks"	"06"	141144
+	"Florida"	"12"	"2020"	"2020"	"40 weeks"	"07"	37016
+	"Florida"	"12"	"2020"	"2020"	"41 weeks"	"08"	9115
+	"Florida"	"12"	"2020"	"2020"	"42 weeks or more"	"09"	361
+	"Florida"	"12"	"2020"	"2020"	"Unknown or Not Stated"	"10"	97
+	"Florida"	"12"	"2021"	"2021"	"Under 20 weeks"	"01"	80
+	"Florida"	"12"	"2021"	"2021"	"20 - 27 weeks"	"02"	1581
+	"Florida"	"12"	"2021"	"2021"	"28 - 31 weeks"	"03"	2124
+	"Florida"	"12"	"2021"	"2021"	"32 - 35 weeks"	"04"	10517
+	"Florida"	"12"	"2021"	"2021"	"36 weeks"	"05"	9212
+	"Florida"	"12"	"2021"	"2021"	"37 - 39 weeks"	"06"	146033
+	"Florida"	"12"	"2021"	"2021"	"40 weeks"	"07"	37103
+	"Florida"	"12"	"2021"	"2021"	"41 weeks"	"08"	8959
+	"Florida"	"12"	"2021"	"2021"	"42 weeks or more"	"09"	410
+	"Florida"	"12"	"2021"	"2021"	"Unknown or Not Stated"	"10"	241
+	"Florida"	"12"	"2022"	"2022"	"Under 20 weeks"	"01"	71
+	"Florida"	"12"	"2022"	"2022"	"20 - 27 weeks"	"02"	1644
+	"Florida"	"12"	"2022"	"2022"	"28 - 31 weeks"	"03"	2176
+	"Florida"	"12"	"2022"	"2022"	"32 - 35 weeks"	"04"	10695
+	"Florida"	"12"	"2022"	"2022"	"36 weeks"	"05"	9116
+	"Florida"	"12"	"2022"	"2022"	"37 - 39 weeks"	"06"	149977
+	"Florida"	"12"	"2022"	"2022"	"40 weeks"	"07"	40353
+	"Florida"	"12"	"2022"	"2022"	"41 weeks"	"08"	9787
+	"Florida"	"12"	"2022"	"2022"	"42 weeks or more"	"09"	509
+	"Florida"	"12"	"2022"	"2022"	"Unknown or Not Stated"	"10"	105
+	"Florida"	"12"	"2023"	"2023"	"Under 20 weeks"	"01"	74
+	"Florida"	"12"	"2023"	"2023"	"20 - 27 weeks"	"02"	1743
+	"Florida"	"12"	"2023"	"2023"	"28 - 31 weeks"	"03"	2086
+	"Florida"	"12"	"2023"	"2023"	"32 - 35 weeks"	"04"	10509
+	"Florida"	"12"	"2023"	"2023"	"36 weeks"	"05"	9320
+	"Florida"	"12"	"2023"	"2023"	"37 - 39 weeks"	"06"	148734
+	"Florida"	"12"	"2023"	"2023"	"40 weeks"	"07"	38746
+	"Florida"	"12"	"2023"	"2023"	"41 weeks"	"08"	9629
+	"Florida"	"12"	"2023"	"2023"	"42 weeks or more"	"09"	470
+	"Florida"	"12"	"2023"	"2023"	"Unknown or Not Stated"	"10"	99
+	"Georgia"	"13"	"2010"	"2010"	"Under 20 weeks"	"01"	96
+	"Georgia"	"13"	"2010"	"2010"	"20 - 27 weeks"	"02"	1093
+	"Georgia"	"13"	"2010"	"2010"	"28 - 31 weeks"	"03"	1486
+	"Georgia"	"13"	"2010"	"2010"	"32 - 35 weeks"	"04"	6543
+	"Georgia"	"13"	"2010"	"2010"	"36 weeks"	"05"	5875
+	"Georgia"	"13"	"2010"	"2010"	"37 - 39 weeks"	"06"	87059
+	"Georgia"	"13"	"2010"	"2010"	"40 weeks"	"07"	24611
+	"Georgia"	"13"	"2010"	"2010"	"41 weeks"	"08"	5896
+	"Georgia"	"13"	"2010"	"2010"	"42 weeks or more"	"09"	341
+	"Georgia"	"13"	"2010"	"2010"	"Unknown or Not Stated"	"10"	947
+	"Georgia"	"13"	"2011"	"2011"	"Under 20 weeks"	"01"	63
+	"Georgia"	"13"	"2011"	"2011"	"20 - 27 weeks"	"02"	1086
+	"Georgia"	"13"	"2011"	"2011"	"28 - 31 weeks"	"03"	1438
+	"Georgia"	"13"	"2011"	"2011"	"32 - 35 weeks"	"04"	6227
+	"Georgia"	"13"	"2011"	"2011"	"36 weeks"	"05"	5659
+	"Georgia"	"13"	"2011"	"2011"	"37 - 39 weeks"	"06"	86357
+	"Georgia"	"13"	"2011"	"2011"	"40 weeks"	"07"	25007
+	"Georgia"	"13"	"2011"	"2011"	"41 weeks"	"08"	5739
+	"Georgia"	"13"	"2011"	"2011"	"42 weeks or more"	"09"	289
+	"Georgia"	"13"	"2011"	"2011"	"Unknown or Not Stated"	"10"	544
+	"Georgia"	"13"	"2012"	"2012"	"Under 20 weeks"	"01"	59
+	"Georgia"	"13"	"2012"	"2012"	"20 - 27 weeks"	"02"	1061
+	"Georgia"	"13"	"2012"	"2012"	"28 - 31 weeks"	"03"	1308
+	"Georgia"	"13"	"2012"	"2012"	"32 - 35 weeks"	"04"	6185
+	"Georgia"	"13"	"2012"	"2012"	"36 weeks"	"05"	5526
+	"Georgia"	"13"	"2012"	"2012"	"37 - 39 weeks"	"06"	85172
+	"Georgia"	"13"	"2012"	"2012"	"40 weeks"	"07"	24473
+	"Georgia"	"13"	"2012"	"2012"	"41 weeks"	"08"	5650
+	"Georgia"	"13"	"2012"	"2012"	"42 weeks or more"	"09"	271
+	"Georgia"	"13"	"2012"	"2012"	"Unknown or Not Stated"	"10"	575
+	"Georgia"	"13"	"2013"	"2013"	"Under 20 weeks"	"01"	65
+	"Georgia"	"13"	"2013"	"2013"	"20 - 27 weeks"	"02"	1113
+	"Georgia"	"13"	"2013"	"2013"	"28 - 31 weeks"	"03"	1445
+	"Georgia"	"13"	"2013"	"2013"	"32 - 35 weeks"	"04"	5985
+	"Georgia"	"13"	"2013"	"2013"	"36 weeks"	"05"	5057
+	"Georgia"	"13"	"2013"	"2013"	"37 - 39 weeks"	"06"	83734
+	"Georgia"	"13"	"2013"	"2013"	"40 weeks"	"07"	24583
+	"Georgia"	"13"	"2013"	"2013"	"41 weeks"	"08"	5857
+	"Georgia"	"13"	"2013"	"2013"	"42 weeks or more"	"09"	325
+	"Georgia"	"13"	"2013"	"2013"	"Unknown or Not Stated"	"10"	584
+	"Georgia"	"13"	"2014"	"2014"	"Under 20 weeks"	"01"	67
+	"Georgia"	"13"	"2014"	"2014"	"20 - 27 weeks"	"02"	1086
+	"Georgia"	"13"	"2014"	"2014"	"28 - 31 weeks"	"03"	1422
+	"Georgia"	"13"	"2014"	"2014"	"32 - 35 weeks"	"04"	6298
+	"Georgia"	"13"	"2014"	"2014"	"36 weeks"	"05"	5185
+	"Georgia"	"13"	"2014"	"2014"	"37 - 39 weeks"	"06"	85387
+	"Georgia"	"13"	"2014"	"2014"	"40 weeks"	"07"	24927
+	"Georgia"	"13"	"2014"	"2014"	"41 weeks"	"08"	6041
+	"Georgia"	"13"	"2014"	"2014"	"42 weeks or more"	"09"	351
+	"Georgia"	"13"	"2014"	"2014"	"Unknown or Not Stated"	"10"	182
+	"Georgia"	"13"	"2015"	"2015"	"Under 20 weeks"	"01"	58
+	"Georgia"	"13"	"2015"	"2015"	"20 - 27 weeks"	"02"	1178
+	"Georgia"	"13"	"2015"	"2015"	"28 - 31 weeks"	"03"	1331
+	"Georgia"	"13"	"2015"	"2015"	"32 - 35 weeks"	"04"	6207
+	"Georgia"	"13"	"2015"	"2015"	"36 weeks"	"05"	5359
+	"Georgia"	"13"	"2015"	"2015"	"37 - 39 weeks"	"06"	85987
+	"Georgia"	"13"	"2015"	"2015"	"40 weeks"	"07"	24994
+	"Georgia"	"13"	"2015"	"2015"	"41 weeks"	"08"	5941
+	"Georgia"	"13"	"2015"	"2015"	"42 weeks or more"	"09"	294
+	"Georgia"	"13"	"2015"	"2015"	"Unknown or Not Stated"	"10"	55
+	"Georgia"	"13"	"2016"	"2016"	"Under 20 weeks"	"01"	57
+	"Georgia"	"13"	"2016"	"2016"	"20 - 27 weeks"	"02"	1163
+	"Georgia"	"13"	"2016"	"2016"	"28 - 31 weeks"	"03"	1439
+	"Georgia"	"13"	"2016"	"2016"	"32 - 35 weeks"	"04"	6214
+	"Georgia"	"13"	"2016"	"2016"	"36 weeks"	"05"	5704
+	"Georgia"	"13"	"2016"	"2016"	"37 - 39 weeks"	"06"	85167
+	"Georgia"	"13"	"2016"	"2016"	"40 weeks"	"07"	24135
+	"Georgia"	"13"	"2016"	"2016"	"41 weeks"	"08"	5778
+	"Georgia"	"13"	"2016"	"2016"	"42 weeks or more"	"09"	316
+	"Georgia"	"13"	"2016"	"2016"	"Unknown or Not Stated"	"10"	69
+	"Georgia"	"13"	"2017"	"2017"	"Under 20 weeks"	"01"	58
+	"Georgia"	"13"	"2017"	"2017"	"20 - 27 weeks"	"02"	1112
+	"Georgia"	"13"	"2017"	"2017"	"28 - 31 weeks"	"03"	1463
+	"Georgia"	"13"	"2017"	"2017"	"32 - 35 weeks"	"04"	6387
+	"Georgia"	"13"	"2017"	"2017"	"36 weeks"	"05"	5736
+	"Georgia"	"13"	"2017"	"2017"	"37 - 39 weeks"	"06"	84819
+	"Georgia"	"13"	"2017"	"2017"	"40 weeks"	"07"	23780
+	"Georgia"	"13"	"2017"	"2017"	"41 weeks"	"08"	5571
+	"Georgia"	"13"	"2017"	"2017"	"42 weeks or more"	"09"	258
+	"Georgia"	"13"	"2017"	"2017"	"Unknown or Not Stated"	"10"	59
+	"Georgia"	"13"	"2018"	"2018"	"Under 20 weeks"	"01"	59
+	"Georgia"	"13"	"2018"	"2018"	"20 - 27 weeks"	"02"	1085
+	"Georgia"	"13"	"2018"	"2018"	"28 - 31 weeks"	"03"	1395
+	"Georgia"	"13"	"2018"	"2018"	"32 - 35 weeks"	"04"	6434
+	"Georgia"	"13"	"2018"	"2018"	"36 weeks"	"05"	5536
+	"Georgia"	"13"	"2018"	"2018"	"37 - 39 weeks"	"06"	83338
+	"Georgia"	"13"	"2018"	"2018"	"40 weeks"	"07"	22841
+	"Georgia"	"13"	"2018"	"2018"	"41 weeks"	"08"	5196
+	"Georgia"	"13"	"2018"	"2018"	"42 weeks or more"	"09"	251
+	"Georgia"	"13"	"2018"	"2018"	"Unknown or Not Stated"	"10"	37
+	"Georgia"	"13"	"2019"	"2019"	"Under 20 weeks"	"01"	62
+	"Georgia"	"13"	"2019"	"2019"	"20 - 27 weeks"	"02"	1058
+	"Georgia"	"13"	"2019"	"2019"	"28 - 31 weeks"	"03"	1375
+	"Georgia"	"13"	"2019"	"2019"	"32 - 35 weeks"	"04"	6427
+	"Georgia"	"13"	"2019"	"2019"	"36 weeks"	"05"	5841
+	"Georgia"	"13"	"2019"	"2019"	"37 - 39 weeks"	"06"	84934
+	"Georgia"	"13"	"2019"	"2019"	"40 weeks"	"07"	21705
+	"Georgia"	"13"	"2019"	"2019"	"41 weeks"	"08"	4702
+	"Georgia"	"13"	"2019"	"2019"	"42 weeks or more"	"09"	231
+	"Georgia"	"13"	"2019"	"2019"	"Unknown or Not Stated"	"10"	36
+	"Georgia"	"13"	"2020"	"2020"	"Under 20 weeks"	"01"	45
+	"Georgia"	"13"	"2020"	"2020"	"20 - 27 weeks"	"02"	985
+	"Georgia"	"13"	"2020"	"2020"	"28 - 31 weeks"	"03"	1307
+	"Georgia"	"13"	"2020"	"2020"	"32 - 35 weeks"	"04"	6172
+	"Georgia"	"13"	"2020"	"2020"	"36 weeks"	"05"	5471
+	"Georgia"	"13"	"2020"	"2020"	"37 - 39 weeks"	"06"	82838
+	"Georgia"	"13"	"2020"	"2020"	"40 weeks"	"07"	21111
+	"Georgia"	"13"	"2020"	"2020"	"41 weeks"	"08"	4284
+	"Georgia"	"13"	"2020"	"2020"	"42 weeks or more"	"09"	215
+	"Georgia"	"13"	"2020"	"2020"	"Unknown or Not Stated"	"10"	45
+	"Georgia"	"13"	"2021"	"2021"	"Under 20 weeks"	"01"	46
+	"Georgia"	"13"	"2021"	"2021"	"20 - 27 weeks"	"02"	1037
+	"Georgia"	"13"	"2021"	"2021"	"28 - 31 weeks"	"03"	1410
+	"Georgia"	"13"	"2021"	"2021"	"32 - 35 weeks"	"04"	6503
+	"Georgia"	"13"	"2021"	"2021"	"36 weeks"	"05"	5744
+	"Georgia"	"13"	"2021"	"2021"	"37 - 39 weeks"	"06"	84677
+	"Georgia"	"13"	"2021"	"2021"	"40 weeks"	"07"	20017
+	"Georgia"	"13"	"2021"	"2021"	"41 weeks"	"08"	4383
+	"Georgia"	"13"	"2021"	"2021"	"42 weeks or more"	"09"	203
+	"Georgia"	"13"	"2021"	"2021"	"Unknown or Not Stated"	"10"	53
+	"Georgia"	"13"	"2022"	"2022"	"Under 20 weeks"	"01"	35
+	"Georgia"	"13"	"2022"	"2022"	"20 - 27 weeks"	"02"	1094
+	"Georgia"	"13"	"2022"	"2022"	"28 - 31 weeks"	"03"	1324
+	"Georgia"	"13"	"2022"	"2022"	"32 - 35 weeks"	"04"	6638
+	"Georgia"	"13"	"2022"	"2022"	"36 weeks"	"05"	5869
+	"Georgia"	"13"	"2022"	"2022"	"37 - 39 weeks"	"06"	85624
+	"Georgia"	"13"	"2022"	"2022"	"40 weeks"	"07"	20661
+	"Georgia"	"13"	"2022"	"2022"	"41 weeks"	"08"	4569
+	"Georgia"	"13"	"2022"	"2022"	"42 weeks or more"	"09"	268
+	"Georgia"	"13"	"2022"	"2022"	"Unknown or Not Stated"	"10"	48
+	"Georgia"	"13"	"2023"	"2023"	"Under 20 weeks"	"01"	35
+	"Georgia"	"13"	"2023"	"2023"	"20 - 27 weeks"	"02"	1015
+	"Georgia"	"13"	"2023"	"2023"	"28 - 31 weeks"	"03"	1253
+	"Georgia"	"13"	"2023"	"2023"	"32 - 35 weeks"	"04"	6529
+	"Georgia"	"13"	"2023"	"2023"	"36 weeks"	"05"	5953
+	"Georgia"	"13"	"2023"	"2023"	"37 - 39 weeks"	"06"	85333
+	"Georgia"	"13"	"2023"	"2023"	"40 weeks"	"07"	20368
+	"Georgia"	"13"	"2023"	"2023"	"41 weeks"	"08"	4346
+	"Georgia"	"13"	"2023"	"2023"	"42 weeks or more"	"09"	239
+	"Georgia"	"13"	"2023"	"2023"	"Unknown or Not Stated"	"10"	49
+	"Illinois"	"17"	"2010"	"2010"	"Under 20 weeks"	"01"	91
+	"Illinois"	"17"	"2010"	"2010"	"20 - 27 weeks"	"02"	1294
+	"Illinois"	"17"	"2010"	"2010"	"28 - 31 weeks"	"03"	1599
+	"Illinois"	"17"	"2010"	"2010"	"32 - 35 weeks"	"04"	7535
+	"Illinois"	"17"	"2010"	"2010"	"36 weeks"	"05"	6440
+	"Illinois"	"17"	"2010"	"2010"	"37 - 39 weeks"	"06"	103015
+	"Illinois"	"17"	"2010"	"2010"	"40 weeks"	"07"	35192
+	"Illinois"	"17"	"2010"	"2010"	"41 weeks"	"08"	8341
+	"Illinois"	"17"	"2010"	"2010"	"42 weeks or more"	"09"	380
+	"Illinois"	"17"	"2010"	"2010"	"Unknown or Not Stated"	"10"	1313
+	"Illinois"	"17"	"2011"	"2011"	"Under 20 weeks"	"01"	86
+	"Illinois"	"17"	"2011"	"2011"	"20 - 27 weeks"	"02"	1234
+	"Illinois"	"17"	"2011"	"2011"	"28 - 31 weeks"	"03"	1560
+	"Illinois"	"17"	"2011"	"2011"	"32 - 35 weeks"	"04"	7418
+	"Illinois"	"17"	"2011"	"2011"	"36 weeks"	"05"	6028
+	"Illinois"	"17"	"2011"	"2011"	"37 - 39 weeks"	"06"	100151
+	"Illinois"	"17"	"2011"	"2011"	"40 weeks"	"07"	35974
+	"Illinois"	"17"	"2011"	"2011"	"41 weeks"	"08"	8309
+	"Illinois"	"17"	"2011"	"2011"	"42 weeks or more"	"09"	337
+	"Illinois"	"17"	"2011"	"2011"	"Unknown or Not Stated"	"10"	215
+	"Illinois"	"17"	"2012"	"2012"	"Under 20 weeks"	"01"	99
+	"Illinois"	"17"	"2012"	"2012"	"20 - 27 weeks"	"02"	1154
+	"Illinois"	"17"	"2012"	"2012"	"28 - 31 weeks"	"03"	1536
+	"Illinois"	"17"	"2012"	"2012"	"32 - 35 weeks"	"04"	6999
+	"Illinois"	"17"	"2012"	"2012"	"36 weeks"	"05"	6103
+	"Illinois"	"17"	"2012"	"2012"	"37 - 39 weeks"	"06"	99525
+	"Illinois"	"17"	"2012"	"2012"	"40 weeks"	"07"	34501
+	"Illinois"	"17"	"2012"	"2012"	"41 weeks"	"08"	8073
+	"Illinois"	"17"	"2012"	"2012"	"42 weeks or more"	"09"	331
+	"Illinois"	"17"	"2012"	"2012"	"Unknown or Not Stated"	"10"	839
+	"Illinois"	"17"	"2013"	"2013"	"Under 20 weeks"	"01"	73
+	"Illinois"	"17"	"2013"	"2013"	"20 - 27 weeks"	"02"	1109
+	"Illinois"	"17"	"2013"	"2013"	"28 - 31 weeks"	"03"	1510
+	"Illinois"	"17"	"2013"	"2013"	"32 - 35 weeks"	"04"	7059
+	"Illinois"	"17"	"2013"	"2013"	"36 weeks"	"05"	5864
+	"Illinois"	"17"	"2013"	"2013"	"37 - 39 weeks"	"06"	98757
+	"Illinois"	"17"	"2013"	"2013"	"40 weeks"	"07"	33723
+	"Illinois"	"17"	"2013"	"2013"	"41 weeks"	"08"	8332
+	"Illinois"	"17"	"2013"	"2013"	"42 weeks or more"	"09"	323
+	"Illinois"	"17"	"2013"	"2013"	"Unknown or Not Stated"	"10"	181
+	"Illinois"	"17"	"2014"	"2014"	"Under 20 weeks"	"01"	78
+	"Illinois"	"17"	"2014"	"2014"	"20 - 27 weeks"	"02"	1215
+	"Illinois"	"17"	"2014"	"2014"	"28 - 31 weeks"	"03"	1528
+	"Illinois"	"17"	"2014"	"2014"	"32 - 35 weeks"	"04"	7174
+	"Illinois"	"17"	"2014"	"2014"	"36 weeks"	"05"	6021
+	"Illinois"	"17"	"2014"	"2014"	"37 - 39 weeks"	"06"	99577
+	"Illinois"	"17"	"2014"	"2014"	"40 weeks"	"07"	33387
+	"Illinois"	"17"	"2014"	"2014"	"41 weeks"	"08"	9130
+	"Illinois"	"17"	"2014"	"2014"	"42 weeks or more"	"09"	375
+	"Illinois"	"17"	"2014"	"2014"	"Unknown or Not Stated"	"10"	71
+	"Illinois"	"17"	"2015"	"2015"	"Under 20 weeks"	"01"	96
+	"Illinois"	"17"	"2015"	"2015"	"20 - 27 weeks"	"02"	1108
+	"Illinois"	"17"	"2015"	"2015"	"28 - 31 weeks"	"03"	1580
+	"Illinois"	"17"	"2015"	"2015"	"32 - 35 weeks"	"04"	7084
+	"Illinois"	"17"	"2015"	"2015"	"36 weeks"	"05"	6180
+	"Illinois"	"17"	"2015"	"2015"	"37 - 39 weeks"	"06"	100073
+	"Illinois"	"17"	"2015"	"2015"	"40 weeks"	"07"	32801
+	"Illinois"	"17"	"2015"	"2015"	"41 weeks"	"08"	8740
+	"Illinois"	"17"	"2015"	"2015"	"42 weeks or more"	"09"	361
+	"Illinois"	"17"	"2015"	"2015"	"Unknown or Not Stated"	"10"	93
+	"Illinois"	"17"	"2016"	"2016"	"Under 20 weeks"	"01"	92
+	"Illinois"	"17"	"2016"	"2016"	"20 - 27 weeks"	"02"	1110
+	"Illinois"	"17"	"2016"	"2016"	"28 - 31 weeks"	"03"	1563
+	"Illinois"	"17"	"2016"	"2016"	"32 - 35 weeks"	"04"	7105
+	"Illinois"	"17"	"2016"	"2016"	"36 weeks"	"05"	6082
+	"Illinois"	"17"	"2016"	"2016"	"37 - 39 weeks"	"06"	98911
+	"Illinois"	"17"	"2016"	"2016"	"40 weeks"	"07"	31036
+	"Illinois"	"17"	"2016"	"2016"	"41 weeks"	"08"	8160
+	"Illinois"	"17"	"2016"	"2016"	"42 weeks or more"	"09"	298
+	"Illinois"	"17"	"2016"	"2016"	"Unknown or Not Stated"	"10"	88
+	"Illinois"	"17"	"2017"	"2017"	"Under 20 weeks"	"01"	90
+	"Illinois"	"17"	"2017"	"2017"	"20 - 27 weeks"	"02"	978
+	"Illinois"	"17"	"2017"	"2017"	"28 - 31 weeks"	"03"	1408
+	"Illinois"	"17"	"2017"	"2017"	"32 - 35 weeks"	"04"	6995
+	"Illinois"	"17"	"2017"	"2017"	"36 weeks"	"05"	6080
+	"Illinois"	"17"	"2017"	"2017"	"37 - 39 weeks"	"06"	96191
+	"Illinois"	"17"	"2017"	"2017"	"40 weeks"	"07"	29496
+	"Illinois"	"17"	"2017"	"2017"	"41 weeks"	"08"	7796
+	"Illinois"	"17"	"2017"	"2017"	"42 weeks or more"	"09"	278
+	"Illinois"	"17"	"2017"	"2017"	"Unknown or Not Stated"	"10"	78
+	"Illinois"	"17"	"2018"	"2018"	"Under 20 weeks"	"01"	90
+	"Illinois"	"17"	"2018"	"2018"	"20 - 27 weeks"	"02"	985
+	"Illinois"	"17"	"2018"	"2018"	"28 - 31 weeks"	"03"	1326
+	"Illinois"	"17"	"2018"	"2018"	"32 - 35 weeks"	"04"	7001
+	"Illinois"	"17"	"2018"	"2018"	"36 weeks"	"05"	6043
+	"Illinois"	"17"	"2018"	"2018"	"37 - 39 weeks"	"06"	95103
+	"Illinois"	"17"	"2018"	"2018"	"40 weeks"	"07"	27391
+	"Illinois"	"17"	"2018"	"2018"	"41 weeks"	"08"	6561
+	"Illinois"	"17"	"2018"	"2018"	"42 weeks or more"	"09"	236
+	"Illinois"	"17"	"2018"	"2018"	"Unknown or Not Stated"	"10"	79
+	"Illinois"	"17"	"2019"	"2019"	"Under 20 weeks"	"01"	70
+	"Illinois"	"17"	"2019"	"2019"	"20 - 27 weeks"	"02"	876
+	"Illinois"	"17"	"2019"	"2019"	"28 - 31 weeks"	"03"	1323
+	"Illinois"	"17"	"2019"	"2019"	"32 - 35 weeks"	"04"	6629
+	"Illinois"	"17"	"2019"	"2019"	"36 weeks"	"05"	6088
+	"Illinois"	"17"	"2019"	"2019"	"37 - 39 weeks"	"06"	95281
+	"Illinois"	"17"	"2019"	"2019"	"40 weeks"	"07"	24505
+	"Illinois"	"17"	"2019"	"2019"	"41 weeks"	"08"	5107
+	"Illinois"	"17"	"2019"	"2019"	"42 weeks or more"	"09"	197
+	"Illinois"	"17"	"2019"	"2019"	"Unknown or Not Stated"	"10"	52
+	"Illinois"	"17"	"2020"	"2020"	"Under 20 weeks"	"01"	67
+	"Illinois"	"17"	"2020"	"2020"	"20 - 27 weeks"	"02"	810
+	"Illinois"	"17"	"2020"	"2020"	"28 - 31 weeks"	"03"	1167
+	"Illinois"	"17"	"2020"	"2020"	"32 - 35 weeks"	"04"	6040
+	"Illinois"	"17"	"2020"	"2020"	"36 weeks"	"05"	5657
+	"Illinois"	"17"	"2020"	"2020"	"37 - 39 weeks"	"06"	92980
+	"Illinois"	"17"	"2020"	"2020"	"40 weeks"	"07"	21887
+	"Illinois"	"17"	"2020"	"2020"	"41 weeks"	"08"	4444
+	"Illinois"	"17"	"2020"	"2020"	"42 weeks or more"	"09"	176
+	"Illinois"	"17"	"2020"	"2020"	"Unknown or Not Stated"	"10"	70
+	"Illinois"	"17"	"2021"	"2021"	"Under 20 weeks"	"01"	57
+	"Illinois"	"17"	"2021"	"2021"	"20 - 27 weeks"	"02"	744
+	"Illinois"	"17"	"2021"	"2021"	"28 - 31 weeks"	"03"	1238
+	"Illinois"	"17"	"2021"	"2021"	"32 - 35 weeks"	"04"	6406
+	"Illinois"	"17"	"2021"	"2021"	"36 weeks"	"05"	5745
+	"Illinois"	"17"	"2021"	"2021"	"37 - 39 weeks"	"06"	93205
+	"Illinois"	"17"	"2021"	"2021"	"40 weeks"	"07"	20567
+	"Illinois"	"17"	"2021"	"2021"	"41 weeks"	"08"	4017
+	"Illinois"	"17"	"2021"	"2021"	"42 weeks or more"	"09"	154
+	"Illinois"	"17"	"2021"	"2021"	"Unknown or Not Stated"	"10"	56
+	"Illinois"	"17"	"2022"	"2022"	"Under 20 weeks"	"01"	61
+	"Illinois"	"17"	"2022"	"2022"	"20 - 27 weeks"	"02"	779
+	"Illinois"	"17"	"2022"	"2022"	"28 - 31 weeks"	"03"	1119
+	"Illinois"	"17"	"2022"	"2022"	"32 - 35 weeks"	"04"	6163
+	"Illinois"	"17"	"2022"	"2022"	"36 weeks"	"05"	5442
+	"Illinois"	"17"	"2022"	"2022"	"37 - 39 weeks"	"06"	90281
+	"Illinois"	"17"	"2022"	"2022"	"40 weeks"	"07"	20339
+	"Illinois"	"17"	"2022"	"2022"	"41 weeks"	"08"	3954
+	"Illinois"	"17"	"2022"	"2022"	"42 weeks or more"	"09"	153
+	"Illinois"	"17"	"2022"	"2022"	"Unknown or Not Stated"	"10"	59
+	"Illinois"	"17"	"2023"	"2023"	"Under 20 weeks"	"01"	59
+	"Illinois"	"17"	"2023"	"2023"	"20 - 27 weeks"	"02"	772
+	"Illinois"	"17"	"2023"	"2023"	"28 - 31 weeks"	"03"	1149
+	"Illinois"	"17"	"2023"	"2023"	"32 - 35 weeks"	"04"	6086
+	"Illinois"	"17"	"2023"	"2023"	"36 weeks"	"05"	5356
+	"Illinois"	"17"	"2023"	"2023"	"37 - 39 weeks"	"06"	87820
+	"Illinois"	"17"	"2023"	"2023"	"40 weeks"	"07"	19593
+	"Illinois"	"17"	"2023"	"2023"	"41 weeks"	"08"	3760
+	"Illinois"	"17"	"2023"	"2023"	"42 weeks or more"	"09"	162
+	"Illinois"	"17"	"2023"	"2023"	"Unknown or Not Stated"	"10"	63
+	"Indiana"	"18"	"2010"	"2010"	"Under 20 weeks"	"01"	49
+	"Indiana"	"18"	"2010"	"2010"	"20 - 27 weeks"	"02"	551
+	"Indiana"	"18"	"2010"	"2010"	"28 - 31 weeks"	"03"	800
+	"Indiana"	"18"	"2010"	"2010"	"32 - 35 weeks"	"04"	3707
+	"Indiana"	"18"	"2010"	"2010"	"36 weeks"	"05"	3337
+	"Indiana"	"18"	"2010"	"2010"	"37 - 39 weeks"	"06"	51293
+	"Indiana"	"18"	"2010"	"2010"	"40 weeks"	"07"	18596
+	"Indiana"	"18"	"2010"	"2010"	"41 weeks"	"08"	4938
+	"Indiana"	"18"	"2010"	"2010"	"42 weeks or more"	"09"	581
+	"Indiana"	"18"	"2010"	"2010"	"Unknown or Not Stated"	"10"	88
+	"Indiana"	"18"	"2011"	"2011"	"Under 20 weeks"	"01"	49
+	"Indiana"	"18"	"2011"	"2011"	"20 - 27 weeks"	"02"	550
+	"Indiana"	"18"	"2011"	"2011"	"28 - 31 weeks"	"03"	788
+	"Indiana"	"18"	"2011"	"2011"	"32 - 35 weeks"	"04"	3710
+	"Indiana"	"18"	"2011"	"2011"	"36 weeks"	"05"	3245
+	"Indiana"	"18"	"2011"	"2011"	"37 - 39 weeks"	"06"	51053
+	"Indiana"	"18"	"2011"	"2011"	"40 weeks"	"07"	18668
+	"Indiana"	"18"	"2011"	"2011"	"41 weeks"	"08"	4965
+	"Indiana"	"18"	"2011"	"2011"	"42 weeks or more"	"09"	581
+	"Indiana"	"18"	"2011"	"2011"	"Unknown or Not Stated"	"10"	92
+	"Indiana"	"18"	"2012"	"2012"	"Under 20 weeks"	"01"	45
+	"Indiana"	"18"	"2012"	"2012"	"20 - 27 weeks"	"02"	489
+	"Indiana"	"18"	"2012"	"2012"	"28 - 31 weeks"	"03"	710
+	"Indiana"	"18"	"2012"	"2012"	"32 - 35 weeks"	"04"	3641
+	"Indiana"	"18"	"2012"	"2012"	"36 weeks"	"05"	3110
+	"Indiana"	"18"	"2012"	"2012"	"37 - 39 weeks"	"06"	51374
+	"Indiana"	"18"	"2012"	"2012"	"40 weeks"	"07"	18298
+	"Indiana"	"18"	"2012"	"2012"	"41 weeks"	"08"	4942
+	"Indiana"	"18"	"2012"	"2012"	"42 weeks or more"	"09"	536
+	"Indiana"	"18"	"2012"	"2012"	"Unknown or Not Stated"	"10"	82
+	"Indiana"	"18"	"2013"	"2013"	"Under 20 weeks"	"01"	45
+	"Indiana"	"18"	"2013"	"2013"	"20 - 27 weeks"	"02"	551
+	"Indiana"	"18"	"2013"	"2013"	"28 - 31 weeks"	"03"	750
+	"Indiana"	"18"	"2013"	"2013"	"32 - 35 weeks"	"04"	3493
+	"Indiana"	"18"	"2013"	"2013"	"36 weeks"	"05"	3149
+	"Indiana"	"18"	"2013"	"2013"	"37 - 39 weeks"	"06"	51295
+	"Indiana"	"18"	"2013"	"2013"	"40 weeks"	"07"	18230
+	"Indiana"	"18"	"2013"	"2013"	"41 weeks"	"08"	4884
+	"Indiana"	"18"	"2013"	"2013"	"42 weeks or more"	"09"	653
+	"Indiana"	"18"	"2013"	"2013"	"Unknown or Not Stated"	"10"	52
+	"Indiana"	"18"	"2014"	"2014"	"Under 20 weeks"	"01"	38
+	"Indiana"	"18"	"2014"	"2014"	"20 - 27 weeks"	"02"	504
+	"Indiana"	"18"	"2014"	"2014"	"28 - 31 weeks"	"03"	769
+	"Indiana"	"18"	"2014"	"2014"	"32 - 35 weeks"	"04"	3655
+	"Indiana"	"18"	"2014"	"2014"	"36 weeks"	"05"	3176
+	"Indiana"	"18"	"2014"	"2014"	"37 - 39 weeks"	"06"	51695
+	"Indiana"	"18"	"2014"	"2014"	"40 weeks"	"07"	18197
+	"Indiana"	"18"	"2014"	"2014"	"41 weeks"	"08"	5348
+	"Indiana"	"18"	"2014"	"2014"	"42 weeks or more"	"09"	674
+	"Indiana"	"18"	"2014"	"2014"	"Unknown or Not Stated"	"10"	24
+	"Indiana"	"18"	"2015"	"2015"	"Under 20 weeks"	"01"	41
+	"Indiana"	"18"	"2015"	"2015"	"20 - 27 weeks"	"02"	516
+	"Indiana"	"18"	"2015"	"2015"	"28 - 31 weeks"	"03"	792
+	"Indiana"	"18"	"2015"	"2015"	"32 - 35 weeks"	"04"	3532
+	"Indiana"	"18"	"2015"	"2015"	"36 weeks"	"05"	3180
+	"Indiana"	"18"	"2015"	"2015"	"37 - 39 weeks"	"06"	52018
+	"Indiana"	"18"	"2015"	"2015"	"40 weeks"	"07"	18151
+	"Indiana"	"18"	"2015"	"2015"	"41 weeks"	"08"	5258
+	"Indiana"	"18"	"2015"	"2015"	"42 weeks or more"	"09"	534
+	"Indiana"	"18"	"2015"	"2015"	"Unknown or Not Stated"	"10"	18
+	"Indiana"	"18"	"2016"	"2016"	"Under 20 weeks"	"01"	38
+	"Indiana"	"18"	"2016"	"2016"	"20 - 27 weeks"	"02"	572
+	"Indiana"	"18"	"2016"	"2016"	"28 - 31 weeks"	"03"	795
+	"Indiana"	"18"	"2016"	"2016"	"32 - 35 weeks"	"04"	3592
+	"Indiana"	"18"	"2016"	"2016"	"36 weeks"	"05"	3290
+	"Indiana"	"18"	"2016"	"2016"	"37 - 39 weeks"	"06"	51504
+	"Indiana"	"18"	"2016"	"2016"	"40 weeks"	"07"	17559
+	"Indiana"	"18"	"2016"	"2016"	"41 weeks"	"08"	5196
+	"Indiana"	"18"	"2016"	"2016"	"42 weeks or more"	"09"	525
+	"Indiana"	"18"	"2016"	"2016"	"Unknown or Not Stated"	"10"	20
+	"Indiana"	"18"	"2017"	"2017"	"Under 20 weeks"	"01"	35
+	"Indiana"	"18"	"2017"	"2017"	"20 - 27 weeks"	"02"	504
+	"Indiana"	"18"	"2017"	"2017"	"28 - 31 weeks"	"03"	746
+	"Indiana"	"18"	"2017"	"2017"	"32 - 35 weeks"	"04"	3555
+	"Indiana"	"18"	"2017"	"2017"	"36 weeks"	"05"	3247
+	"Indiana"	"18"	"2017"	"2017"	"37 - 39 weeks"	"06"	51863
+	"Indiana"	"18"	"2017"	"2017"	"40 weeks"	"07"	16929
+	"Indiana"	"18"	"2017"	"2017"	"41 weeks"	"08"	4788
+	"Indiana"	"18"	"2017"	"2017"	"42 weeks or more"	"09"	483
+	"Indiana"	"18"	"2017"	"2017"	"Unknown or Not Stated"	"10"	20
+	"Indiana"	"18"	"2018"	"2018"	"Under 20 weeks"	"01"	41
+	"Indiana"	"18"	"2018"	"2018"	"20 - 27 weeks"	"02"	538
+	"Indiana"	"18"	"2018"	"2018"	"28 - 31 weeks"	"03"	728
+	"Indiana"	"18"	"2018"	"2018"	"32 - 35 weeks"	"04"	3701
+	"Indiana"	"18"	"2018"	"2018"	"36 weeks"	"05"	3343
+	"Indiana"	"18"	"2018"	"2018"	"37 - 39 weeks"	"06"	52092
+	"Indiana"	"18"	"2018"	"2018"	"40 weeks"	"07"	16520
+	"Indiana"	"18"	"2018"	"2018"	"41 weeks"	"08"	4271
+	"Indiana"	"18"	"2018"	"2018"	"42 weeks or more"	"09"	389
+	"Indiana"	"18"	"2018"	"2018"	"Unknown or Not Stated"	"10"	23
+	"Indiana"	"18"	"2019"	"2019"	"Under 20 weeks"	"01"	35
+	"Indiana"	"18"	"2019"	"2019"	"20 - 27 weeks"	"02"	477
+	"Indiana"	"18"	"2019"	"2019"	"28 - 31 weeks"	"03"	709
+	"Indiana"	"18"	"2019"	"2019"	"32 - 35 weeks"	"04"	3783
+	"Indiana"	"18"	"2019"	"2019"	"36 weeks"	"05"	3203
+	"Indiana"	"18"	"2019"	"2019"	"37 - 39 weeks"	"06"	53888
+	"Indiana"	"18"	"2019"	"2019"	"40 weeks"	"07"	14983
+	"Indiana"	"18"	"2019"	"2019"	"41 weeks"	"08"	3451
+	"Indiana"	"18"	"2019"	"2019"	"42 weeks or more"	"09"	307
+	"Indiana"	"18"	"2019"	"2019"	"Unknown or Not Stated"	"10"	23
+	"Indiana"	"18"	"2020"	"2020"	"Under 20 weeks"	"01"	30
+	"Indiana"	"18"	"2020"	"2020"	"20 - 27 weeks"	"02"	507
+	"Indiana"	"18"	"2020"	"2020"	"28 - 31 weeks"	"03"	755
+	"Indiana"	"18"	"2020"	"2020"	"32 - 35 weeks"	"04"	3624
+	"Indiana"	"18"	"2020"	"2020"	"36 weeks"	"05"	3287
+	"Indiana"	"18"	"2020"	"2020"	"37 - 39 weeks"	"06"	53096
+	"Indiana"	"18"	"2020"	"2020"	"40 weeks"	"07"	14041
+	"Indiana"	"18"	"2020"	"2020"	"41 weeks"	"08"	3035
+	"Indiana"	"18"	"2020"	"2020"	"42 weeks or more"	"09"	228
+	"Indiana"	"18"	"2020"	"2020"	"Unknown or Not Stated"	"10"	13
+	"Indiana"	"18"	"2021"	"2021"	"Under 20 weeks"	"01"	28
+	"Indiana"	"18"	"2021"	"2021"	"20 - 27 weeks"	"02"	476
+	"Indiana"	"18"	"2021"	"2021"	"28 - 31 weeks"	"03"	702
+	"Indiana"	"18"	"2021"	"2021"	"32 - 35 weeks"	"04"	4005
+	"Indiana"	"18"	"2021"	"2021"	"36 weeks"	"05"	3468
+	"Indiana"	"18"	"2021"	"2021"	"37 - 39 weeks"	"06"	55606
+	"Indiana"	"18"	"2021"	"2021"	"40 weeks"	"07"	12929
+	"Indiana"	"18"	"2021"	"2021"	"41 weeks"	"08"	2525
+	"Indiana"	"18"	"2021"	"2021"	"42 weeks or more"	"09"	190
+	"Indiana"	"18"	"2021"	"2021"	"Unknown or Not Stated"	"10"	17
+	"Indiana"	"18"	"2022"	"2022"	"Under 20 weeks"	"01"	38
+	"Indiana"	"18"	"2022"	"2022"	"20 - 27 weeks"	"02"	483
+	"Indiana"	"18"	"2022"	"2022"	"28 - 31 weeks"	"03"	759
+	"Indiana"	"18"	"2022"	"2022"	"32 - 35 weeks"	"04"	3897
+	"Indiana"	"18"	"2022"	"2022"	"36 weeks"	"05"	3515
+	"Indiana"	"18"	"2022"	"2022"	"37 - 39 weeks"	"06"	55365
+	"Indiana"	"18"	"2022"	"2022"	"40 weeks"	"07"	12619
+	"Indiana"	"18"	"2022"	"2022"	"41 weeks"	"08"	2788
+	"Indiana"	"18"	"2022"	"2022"	"42 weeks or more"	"09"	157
+	"Indiana"	"18"	"2022"	"2022"	"Unknown or Not Stated"	"10"	28
+	"Indiana"	"18"	"2023"	"2023"	"Under 20 weeks"	"01"	33
+	"Indiana"	"18"	"2023"	"2023"	"20 - 27 weeks"	"02"	474
+	"Indiana"	"18"	"2023"	"2023"	"28 - 31 weeks"	"03"	719
+	"Indiana"	"18"	"2023"	"2023"	"32 - 35 weeks"	"04"	3943
+	"Indiana"	"18"	"2023"	"2023"	"36 weeks"	"05"	3545
+	"Indiana"	"18"	"2023"	"2023"	"37 - 39 weeks"	"06"	54716
+	"Indiana"	"18"	"2023"	"2023"	"40 weeks"	"07"	12636
+	"Indiana"	"18"	"2023"	"2023"	"41 weeks"	"08"	2679
+	"Indiana"	"18"	"2023"	"2023"	"42 weeks or more"	"09"	219
+	"Indiana"	"18"	"2023"	"2023"	"Unknown or Not Stated"	"10"	36
+	"Maryland"	"24"	"2010"	"2010"	"Under 20 weeks"	"01"	42
+	"Maryland"	"24"	"2010"	"2010"	"20 - 27 weeks"	"02"	659
+	"Maryland"	"24"	"2010"	"2010"	"28 - 31 weeks"	"03"	712
+	"Maryland"	"24"	"2010"	"2010"	"32 - 35 weeks"	"04"	3342
+	"Maryland"	"24"	"2010"	"2010"	"36 weeks"	"05"	2907
+	"Maryland"	"24"	"2010"	"2010"	"37 - 39 weeks"	"06"	43864
+	"Maryland"	"24"	"2010"	"2010"	"40 weeks"	"07"	16817
+	"Maryland"	"24"	"2010"	"2010"	"41 weeks"	"08"	5012
+	"Maryland"	"24"	"2010"	"2010"	"42 weeks or more"	"09"	258
+	"Maryland"	"24"	"2010"	"2010"	"Unknown or Not Stated"	"10"	188
+	"Maryland"	"24"	"2011"	"2011"	"Under 20 weeks"	"01"	40
+	"Maryland"	"24"	"2011"	"2011"	"20 - 27 weeks"	"02"	663
+	"Maryland"	"24"	"2011"	"2011"	"28 - 31 weeks"	"03"	751
+	"Maryland"	"24"	"2011"	"2011"	"32 - 35 weeks"	"04"	3233
+	"Maryland"	"24"	"2011"	"2011"	"36 weeks"	"05"	2782
+	"Maryland"	"24"	"2011"	"2011"	"37 - 39 weeks"	"06"	43467
+	"Maryland"	"24"	"2011"	"2011"	"40 weeks"	"07"	16509
+	"Maryland"	"24"	"2011"	"2011"	"41 weeks"	"08"	5152
+	"Maryland"	"24"	"2011"	"2011"	"42 weeks or more"	"09"	278
+	"Maryland"	"24"	"2011"	"2011"	"Unknown or Not Stated"	"10"	218
+	"Maryland"	"24"	"2012"	"2012"	"Under 20 weeks"	"01"	41
+	"Maryland"	"24"	"2012"	"2012"	"20 - 27 weeks"	"02"	587
+	"Maryland"	"24"	"2012"	"2012"	"28 - 31 weeks"	"03"	800
+	"Maryland"	"24"	"2012"	"2012"	"32 - 35 weeks"	"04"	3213
+	"Maryland"	"24"	"2012"	"2012"	"36 weeks"	"05"	2820
+	"Maryland"	"24"	"2012"	"2012"	"37 - 39 weeks"	"06"	43936
+	"Maryland"	"24"	"2012"	"2012"	"40 weeks"	"07"	16031
+	"Maryland"	"24"	"2012"	"2012"	"41 weeks"	"08"	5042
+	"Maryland"	"24"	"2012"	"2012"	"42 weeks or more"	"09"	228
+	"Maryland"	"24"	"2012"	"2012"	"Unknown or Not Stated"	"10"	185
+	"Maryland"	"24"	"2013"	"2013"	"Under 20 weeks"	"01"	43
+	"Maryland"	"24"	"2013"	"2013"	"20 - 27 weeks"	"02"	585
+	"Maryland"	"24"	"2013"	"2013"	"28 - 31 weeks"	"03"	696
+	"Maryland"	"24"	"2013"	"2013"	"32 - 35 weeks"	"04"	3098
+	"Maryland"	"24"	"2013"	"2013"	"36 weeks"	"05"	2631
+	"Maryland"	"24"	"2013"	"2013"	"37 - 39 weeks"	"06"	43667
+	"Maryland"	"24"	"2013"	"2013"	"40 weeks"	"07"	15821
+	"Maryland"	"24"	"2013"	"2013"	"41 weeks"	"08"	4992
+	"Maryland"	"24"	"2013"	"2013"	"42 weeks or more"	"09"	225
+	"Maryland"	"24"	"2013"	"2013"	"Unknown or Not Stated"	"10"	195
+	"Maryland"	"24"	"2014"	"2014"	"Under 20 weeks"	"01"	39
+	"Maryland"	"24"	"2014"	"2014"	"20 - 27 weeks"	"02"	572
+	"Maryland"	"24"	"2014"	"2014"	"28 - 31 weeks"	"03"	731
+	"Maryland"	"24"	"2014"	"2014"	"32 - 35 weeks"	"04"	3323
+	"Maryland"	"24"	"2014"	"2014"	"36 weeks"	"05"	2790
+	"Maryland"	"24"	"2014"	"2014"	"37 - 39 weeks"	"06"	44272
+	"Maryland"	"24"	"2014"	"2014"	"40 weeks"	"07"	16517
+	"Maryland"	"24"	"2014"	"2014"	"41 weeks"	"08"	5418
+	"Maryland"	"24"	"2014"	"2014"	"42 weeks or more"	"09"	209
+	"Maryland"	"24"	"2014"	"2014"	"Unknown or Not Stated"	"10"	50
+	"Maryland"	"24"	"2015"	"2015"	"Under 20 weeks"	"01"	47
+	"Maryland"	"24"	"2015"	"2015"	"20 - 27 weeks"	"02"	578
+	"Maryland"	"24"	"2015"	"2015"	"28 - 31 weeks"	"03"	730
+	"Maryland"	"24"	"2015"	"2015"	"32 - 35 weeks"	"04"	3204
+	"Maryland"	"24"	"2015"	"2015"	"36 weeks"	"05"	2821
+	"Maryland"	"24"	"2015"	"2015"	"37 - 39 weeks"	"06"	44396
+	"Maryland"	"24"	"2015"	"2015"	"40 weeks"	"07"	16233
+	"Maryland"	"24"	"2015"	"2015"	"41 weeks"	"08"	5321
+	"Maryland"	"24"	"2015"	"2015"	"42 weeks or more"	"09"	237
+	"Maryland"	"24"	"2015"	"2015"	"Unknown or Not Stated"	"10"	49
+	"Maryland"	"24"	"2016"	"2016"	"Under 20 weeks"	"01"	45
+	"Maryland"	"24"	"2016"	"2016"	"20 - 27 weeks"	"02"	550
+	"Maryland"	"24"	"2016"	"2016"	"28 - 31 weeks"	"03"	751
+	"Maryland"	"24"	"2016"	"2016"	"32 - 35 weeks"	"04"	3167
+	"Maryland"	"24"	"2016"	"2016"	"36 weeks"	"05"	2895
+	"Maryland"	"24"	"2016"	"2016"	"37 - 39 weeks"	"06"	44322
+	"Maryland"	"24"	"2016"	"2016"	"40 weeks"	"07"	15889
+	"Maryland"	"24"	"2016"	"2016"	"41 weeks"	"08"	5289
+	"Maryland"	"24"	"2016"	"2016"	"42 weeks or more"	"09"	180
+	"Maryland"	"24"	"2016"	"2016"	"Unknown or Not Stated"	"10"	48
+	"Maryland"	"24"	"2017"	"2017"	"Under 20 weeks"	"01"	50
+	"Maryland"	"24"	"2017"	"2017"	"20 - 27 weeks"	"02"	581
+	"Maryland"	"24"	"2017"	"2017"	"28 - 31 weeks"	"03"	767
+	"Maryland"	"24"	"2017"	"2017"	"32 - 35 weeks"	"04"	3213
+	"Maryland"	"24"	"2017"	"2017"	"36 weeks"	"05"	2880
+	"Maryland"	"24"	"2017"	"2017"	"37 - 39 weeks"	"06"	43661
+	"Maryland"	"24"	"2017"	"2017"	"40 weeks"	"07"	14924
+	"Maryland"	"24"	"2017"	"2017"	"41 weeks"	"08"	5335
+	"Maryland"	"24"	"2017"	"2017"	"42 weeks or more"	"09"	181
+	"Maryland"	"24"	"2017"	"2017"	"Unknown or Not Stated"	"10"	49
+	"Maryland"	"24"	"2018"	"2018"	"Under 20 weeks"	"01"	38
+	"Maryland"	"24"	"2018"	"2018"	"20 - 27 weeks"	"02"	549
+	"Maryland"	"24"	"2018"	"2018"	"28 - 31 weeks"	"03"	721
+	"Maryland"	"24"	"2018"	"2018"	"32 - 35 weeks"	"04"	3194
+	"Maryland"	"24"	"2018"	"2018"	"36 weeks"	"05"	2729
+	"Maryland"	"24"	"2018"	"2018"	"37 - 39 weeks"	"06"	43627
+	"Maryland"	"24"	"2018"	"2018"	"40 weeks"	"07"	14888
+	"Maryland"	"24"	"2018"	"2018"	"41 weeks"	"08"	5128
+	"Maryland"	"24"	"2018"	"2018"	"42 weeks or more"	"09"	160
+	"Maryland"	"24"	"2018"	"2018"	"Unknown or Not Stated"	"10"	46
+	"Maryland"	"24"	"2019"	"2019"	"Under 20 weeks"	"01"	33
+	"Maryland"	"24"	"2019"	"2019"	"20 - 27 weeks"	"02"	488
+	"Maryland"	"24"	"2019"	"2019"	"28 - 31 weeks"	"03"	704
+	"Maryland"	"24"	"2019"	"2019"	"32 - 35 weeks"	"04"	3193
+	"Maryland"	"24"	"2019"	"2019"	"36 weeks"	"05"	2793
+	"Maryland"	"24"	"2019"	"2019"	"37 - 39 weeks"	"06"	44232
+	"Maryland"	"24"	"2019"	"2019"	"40 weeks"	"07"	14044
+	"Maryland"	"24"	"2019"	"2019"	"41 weeks"	"08"	4483
+	"Maryland"	"24"	"2019"	"2019"	"42 weeks or more"	"09"	160
+	"Maryland"	"24"	"2019"	"2019"	"Unknown or Not Stated"	"10"	48
+	"Maryland"	"24"	"2020"	"2020"	"Under 20 weeks"	"01"	32
+	"Maryland"	"24"	"2020"	"2020"	"20 - 27 weeks"	"02"	507
+	"Maryland"	"24"	"2020"	"2020"	"28 - 31 weeks"	"03"	611
+	"Maryland"	"24"	"2020"	"2020"	"32 - 35 weeks"	"04"	3027
+	"Maryland"	"24"	"2020"	"2020"	"36 weeks"	"05"	2764
+	"Maryland"	"24"	"2020"	"2020"	"37 - 39 weeks"	"06"	43470
+	"Maryland"	"24"	"2020"	"2020"	"40 weeks"	"07"	13616
+	"Maryland"	"24"	"2020"	"2020"	"41 weeks"	"08"	4349
+	"Maryland"	"24"	"2020"	"2020"	"42 weeks or more"	"09"	148
+	"Maryland"	"24"	"2020"	"2020"	"Unknown or Not Stated"	"10"	30
+	"Maryland"	"24"	"2021"	"2021"	"Under 20 weeks"	"01"	31
+	"Maryland"	"24"	"2021"	"2021"	"20 - 27 weeks"	"02"	445
+	"Maryland"	"24"	"2021"	"2021"	"28 - 31 weeks"	"03"	682
+	"Maryland"	"24"	"2021"	"2021"	"32 - 35 weeks"	"04"	3281
+	"Maryland"	"24"	"2021"	"2021"	"36 weeks"	"05"	2857
+	"Maryland"	"24"	"2021"	"2021"	"37 - 39 weeks"	"06"	43801
+	"Maryland"	"24"	"2021"	"2021"	"40 weeks"	"07"	13139
+	"Maryland"	"24"	"2021"	"2021"	"41 weeks"	"08"	3856
+	"Maryland"	"24"	"2021"	"2021"	"42 weeks or more"	"09"	150
+	"Maryland"	"24"	"2021"	"2021"	"Unknown or Not Stated"	"10"	43
+	"Maryland"	"24"	"2022"	"2022"	"Under 20 weeks"	"01"	22
+	"Maryland"	"24"	"2022"	"2022"	"20 - 27 weeks"	"02"	488
+	"Maryland"	"24"	"2022"	"2022"	"28 - 31 weeks"	"03"	599
+	"Maryland"	"24"	"2022"	"2022"	"32 - 35 weeks"	"04"	3201
+	"Maryland"	"24"	"2022"	"2022"	"36 weeks"	"05"	2765
+	"Maryland"	"24"	"2022"	"2022"	"37 - 39 weeks"	"06"	44013
+	"Maryland"	"24"	"2022"	"2022"	"40 weeks"	"07"	13378
+	"Maryland"	"24"	"2022"	"2022"	"41 weeks"	"08"	4121
+	"Maryland"	"24"	"2022"	"2022"	"42 weeks or more"	"09"	150
+	"Maryland"	"24"	"2022"	"2022"	"Unknown or Not Stated"	"10"	45
+	"Maryland"	"24"	"2023"	"2023"	"Under 20 weeks"	"01"	28
+	"Maryland"	"24"	"2023"	"2023"	"20 - 27 weeks"	"02"	434
+	"Maryland"	"24"	"2023"	"2023"	"28 - 31 weeks"	"03"	711
+	"Maryland"	"24"	"2023"	"2023"	"32 - 35 weeks"	"04"	2926
+	"Maryland"	"24"	"2023"	"2023"	"36 weeks"	"05"	2615
+	"Maryland"	"24"	"2023"	"2023"	"37 - 39 weeks"	"06"	42461
+	"Maryland"	"24"	"2023"	"2023"	"40 weeks"	"07"	12549
+	"Maryland"	"24"	"2023"	"2023"	"41 weeks"	"08"	3675
+	"Maryland"	"24"	"2023"	"2023"	"42 weeks or more"	"09"	144
+	"Maryland"	"24"	"2023"	"2023"	"Unknown or Not Stated"	"10"	51
+	"Michigan"	"26"	"2010"	"2010"	"Under 20 weeks"	"01"	103
+	"Michigan"	"26"	"2010"	"2010"	"20 - 27 weeks"	"02"	806
+	"Michigan"	"26"	"2010"	"2010"	"28 - 31 weeks"	"03"	1156
+	"Michigan"	"26"	"2010"	"2010"	"32 - 35 weeks"	"04"	5108
+	"Michigan"	"26"	"2010"	"2010"	"36 weeks"	"05"	4537
+	"Michigan"	"26"	"2010"	"2010"	"37 - 39 weeks"	"06"	66883
+	"Michigan"	"26"	"2010"	"2010"	"40 weeks"	"07"	26837
+	"Michigan"	"26"	"2010"	"2010"	"41 weeks"	"08"	8461
+	"Michigan"	"26"	"2010"	"2010"	"42 weeks or more"	"09"	543
+	"Michigan"	"26"	"2010"	"2010"	"Unknown or Not Stated"	"10"	97
+	"Michigan"	"26"	"2011"	"2011"	"Under 20 weeks"	"01"	74
+	"Michigan"	"26"	"2011"	"2011"	"20 - 27 weeks"	"02"	811
+	"Michigan"	"26"	"2011"	"2011"	"28 - 31 weeks"	"03"	1118
+	"Michigan"	"26"	"2011"	"2011"	"32 - 35 weeks"	"04"	5097
+	"Michigan"	"26"	"2011"	"2011"	"36 weeks"	"05"	4265
+	"Michigan"	"26"	"2011"	"2011"	"37 - 39 weeks"	"06"	66581
+	"Michigan"	"26"	"2011"	"2011"	"40 weeks"	"07"	26976
+	"Michigan"	"26"	"2011"	"2011"	"41 weeks"	"08"	8459
+	"Michigan"	"26"	"2011"	"2011"	"42 weeks or more"	"09"	520
+	"Michigan"	"26"	"2011"	"2011"	"Unknown or Not Stated"	"10"	107
+	"Michigan"	"26"	"2012"	"2012"	"Under 20 weeks"	"01"	67
+	"Michigan"	"26"	"2012"	"2012"	"20 - 27 weeks"	"02"	853
+	"Michigan"	"26"	"2012"	"2012"	"28 - 31 weeks"	"03"	1125
+	"Michigan"	"26"	"2012"	"2012"	"32 - 35 weeks"	"04"	5093
+	"Michigan"	"26"	"2012"	"2012"	"36 weeks"	"05"	4271
+	"Michigan"	"26"	"2012"	"2012"	"37 - 39 weeks"	"06"	66905
+	"Michigan"	"26"	"2012"	"2012"	"40 weeks"	"07"	25721
+	"Michigan"	"26"	"2012"	"2012"	"41 weeks"	"08"	8405
+	"Michigan"	"26"	"2012"	"2012"	"42 weeks or more"	"09"	536
+	"Michigan"	"26"	"2012"	"2012"	"Unknown or Not Stated"	"10"	115
+	"Michigan"	"26"	"2013"	"2013"	"Under 20 weeks"	"01"	75
+	"Michigan"	"26"	"2013"	"2013"	"20 - 27 weeks"	"02"	866
+	"Michigan"	"26"	"2013"	"2013"	"28 - 31 weeks"	"03"	1165
+	"Michigan"	"26"	"2013"	"2013"	"32 - 35 weeks"	"04"	4912
+	"Michigan"	"26"	"2013"	"2013"	"36 weeks"	"05"	4032
+	"Michigan"	"26"	"2013"	"2013"	"37 - 39 weeks"	"06"	67231
+	"Michigan"	"26"	"2013"	"2013"	"40 weeks"	"07"	25804
+	"Michigan"	"26"	"2013"	"2013"	"41 weeks"	"08"	8842
+	"Michigan"	"26"	"2013"	"2013"	"42 weeks or more"	"09"	463
+	"Michigan"	"26"	"2013"	"2013"	"Unknown or Not Stated"	"10"	99
+	"Michigan"	"26"	"2014"	"2014"	"Under 20 weeks"	"01"	67
+	"Michigan"	"26"	"2014"	"2014"	"20 - 27 weeks"	"02"	793
+	"Michigan"	"26"	"2014"	"2014"	"28 - 31 weeks"	"03"	1088
+	"Michigan"	"26"	"2014"	"2014"	"32 - 35 weeks"	"04"	5130
+	"Michigan"	"26"	"2014"	"2014"	"36 weeks"	"05"	4076
+	"Michigan"	"26"	"2014"	"2014"	"37 - 39 weeks"	"06"	67101
+	"Michigan"	"26"	"2014"	"2014"	"40 weeks"	"07"	26401
+	"Michigan"	"26"	"2014"	"2014"	"41 weeks"	"08"	9180
+	"Michigan"	"26"	"2014"	"2014"	"42 weeks or more"	"09"	499
+	"Michigan"	"26"	"2014"	"2014"	"Unknown or Not Stated"	"10"	40
+	"Michigan"	"26"	"2015"	"2015"	"Under 20 weeks"	"01"	65
+	"Michigan"	"26"	"2015"	"2015"	"20 - 27 weeks"	"02"	803
+	"Michigan"	"26"	"2015"	"2015"	"28 - 31 weeks"	"03"	1095
+	"Michigan"	"26"	"2015"	"2015"	"32 - 35 weeks"	"04"	5048
+	"Michigan"	"26"	"2015"	"2015"	"36 weeks"	"05"	4189
+	"Michigan"	"26"	"2015"	"2015"	"37 - 39 weeks"	"06"	66719
+	"Michigan"	"26"	"2015"	"2015"	"40 weeks"	"07"	25655
+	"Michigan"	"26"	"2015"	"2015"	"41 weeks"	"08"	9195
+	"Michigan"	"26"	"2015"	"2015"	"42 weeks or more"	"09"	498
+	"Michigan"	"26"	"2015"	"2015"	"Unknown or Not Stated"	"10"	45
+	"Michigan"	"26"	"2016"	"2016"	"Under 20 weeks"	"01"	59
+	"Michigan"	"26"	"2016"	"2016"	"20 - 27 weeks"	"02"	788
+	"Michigan"	"26"	"2016"	"2016"	"28 - 31 weeks"	"03"	1092
+	"Michigan"	"26"	"2016"	"2016"	"32 - 35 weeks"	"04"	5124
+	"Michigan"	"26"	"2016"	"2016"	"36 weeks"	"05"	4427
+	"Michigan"	"26"	"2016"	"2016"	"37 - 39 weeks"	"06"	67267
+	"Michigan"	"26"	"2016"	"2016"	"40 weeks"	"07"	25028
+	"Michigan"	"26"	"2016"	"2016"	"41 weeks"	"08"	9034
+	"Michigan"	"26"	"2016"	"2016"	"42 weeks or more"	"09"	457
+	"Michigan"	"26"	"2016"	"2016"	"Unknown or Not Stated"	"10"	39
+	"Michigan"	"26"	"2017"	"2017"	"Under 20 weeks"	"01"	65
+	"Michigan"	"26"	"2017"	"2017"	"20 - 27 weeks"	"02"	798
+	"Michigan"	"26"	"2017"	"2017"	"28 - 31 weeks"	"03"	1040
+	"Michigan"	"26"	"2017"	"2017"	"32 - 35 weeks"	"04"	5110
+	"Michigan"	"26"	"2017"	"2017"	"36 weeks"	"05"	4393
+	"Michigan"	"26"	"2017"	"2017"	"37 - 39 weeks"	"06"	66799
+	"Michigan"	"26"	"2017"	"2017"	"40 weeks"	"07"	24226
+	"Michigan"	"26"	"2017"	"2017"	"41 weeks"	"08"	8529
+	"Michigan"	"26"	"2017"	"2017"	"42 weeks or more"	"09"	426
+	"Michigan"	"26"	"2017"	"2017"	"Unknown or Not Stated"	"10"	40
+	"Michigan"	"26"	"2018"	"2018"	"Under 20 weeks"	"01"	63
+	"Michigan"	"26"	"2018"	"2018"	"20 - 27 weeks"	"02"	671
+	"Michigan"	"26"	"2018"	"2018"	"28 - 31 weeks"	"03"	952
+	"Michigan"	"26"	"2018"	"2018"	"32 - 35 weeks"	"04"	5069
+	"Michigan"	"26"	"2018"	"2018"	"36 weeks"	"05"	4284
+	"Michigan"	"26"	"2018"	"2018"	"37 - 39 weeks"	"06"	67027
+	"Michigan"	"26"	"2018"	"2018"	"40 weeks"	"07"	23295
+	"Michigan"	"26"	"2018"	"2018"	"41 weeks"	"08"	8227
+	"Michigan"	"26"	"2018"	"2018"	"42 weeks or more"	"09"	395
+	"Michigan"	"26"	"2018"	"2018"	"Unknown or Not Stated"	"10"	49
+	"Michigan"	"26"	"2019"	"2019"	"Under 20 weeks"	"01"	58
+	"Michigan"	"26"	"2019"	"2019"	"20 - 27 weeks"	"02"	749
+	"Michigan"	"26"	"2019"	"2019"	"28 - 31 weeks"	"03"	990
+	"Michigan"	"26"	"2019"	"2019"	"32 - 35 weeks"	"04"	5064
+	"Michigan"	"26"	"2019"	"2019"	"36 weeks"	"05"	4209
+	"Michigan"	"26"	"2019"	"2019"	"37 - 39 weeks"	"06"	67445
+	"Michigan"	"26"	"2019"	"2019"	"40 weeks"	"07"	22092
+	"Michigan"	"26"	"2019"	"2019"	"41 weeks"	"08"	6904
+	"Michigan"	"26"	"2019"	"2019"	"42 weeks or more"	"09"	326
+	"Michigan"	"26"	"2019"	"2019"	"Unknown or Not Stated"	"10"	49
+	"Michigan"	"26"	"2020"	"2020"	"Under 20 weeks"	"01"	61
+	"Michigan"	"26"	"2020"	"2020"	"20 - 27 weeks"	"02"	674
+	"Michigan"	"26"	"2020"	"2020"	"28 - 31 weeks"	"03"	969
+	"Michigan"	"26"	"2020"	"2020"	"32 - 35 weeks"	"04"	4805
+	"Michigan"	"26"	"2020"	"2020"	"36 weeks"	"05"	4130
+	"Michigan"	"26"	"2020"	"2020"	"37 - 39 weeks"	"06"	66253
+	"Michigan"	"26"	"2020"	"2020"	"40 weeks"	"07"	20739
+	"Michigan"	"26"	"2020"	"2020"	"41 weeks"	"08"	6073
+	"Michigan"	"26"	"2020"	"2020"	"42 weeks or more"	"09"	329
+	"Michigan"	"26"	"2020"	"2020"	"Unknown or Not Stated"	"10"	41
+	"Michigan"	"26"	"2021"	"2021"	"Under 20 weeks"	"01"	66
+	"Michigan"	"26"	"2021"	"2021"	"20 - 27 weeks"	"02"	702
+	"Michigan"	"26"	"2021"	"2021"	"28 - 31 weeks"	"03"	993
+	"Michigan"	"26"	"2021"	"2021"	"32 - 35 weeks"	"04"	5126
+	"Michigan"	"26"	"2021"	"2021"	"36 weeks"	"05"	4233
+	"Michigan"	"26"	"2021"	"2021"	"37 - 39 weeks"	"06"	68403
+	"Michigan"	"26"	"2021"	"2021"	"40 weeks"	"07"	19682
+	"Michigan"	"26"	"2021"	"2021"	"41 weeks"	"08"	5355
+	"Michigan"	"26"	"2021"	"2021"	"42 weeks or more"	"09"	337
+	"Michigan"	"26"	"2021"	"2021"	"Unknown or Not Stated"	"10"	83
+	"Michigan"	"26"	"2022"	"2022"	"Under 20 weeks"	"01"	50
+	"Michigan"	"26"	"2022"	"2022"	"20 - 27 weeks"	"02"	629
+	"Michigan"	"26"	"2022"	"2022"	"28 - 31 weeks"	"03"	969
+	"Michigan"	"26"	"2022"	"2022"	"32 - 35 weeks"	"04"	4839
+	"Michigan"	"26"	"2022"	"2022"	"36 weeks"	"05"	4177
+	"Michigan"	"26"	"2022"	"2022"	"37 - 39 weeks"	"06"	66610
+	"Michigan"	"26"	"2022"	"2022"	"40 weeks"	"07"	19280
+	"Michigan"	"26"	"2022"	"2022"	"41 weeks"	"08"	5378
+	"Michigan"	"26"	"2022"	"2022"	"42 weeks or more"	"09"	337
+	"Michigan"	"26"	"2022"	"2022"	"Unknown or Not Stated"	"10"	52
+	"Michigan"	"26"	"2023"	"2023"	"Under 20 weeks"	"01"	33
+	"Michigan"	"26"	"2023"	"2023"	"20 - 27 weeks"	"02"	622
+	"Michigan"	"26"	"2023"	"2023"	"28 - 31 weeks"	"03"	859
+	"Michigan"	"26"	"2023"	"2023"	"32 - 35 weeks"	"04"	4675
+	"Michigan"	"26"	"2023"	"2023"	"36 weeks"	"05"	4023
+	"Michigan"	"26"	"2023"	"2023"	"37 - 39 weeks"	"06"	65130
+	"Michigan"	"26"	"2023"	"2023"	"40 weeks"	"07"	18403
+	"Michigan"	"26"	"2023"	"2023"	"41 weeks"	"08"	5016
+	"Michigan"	"26"	"2023"	"2023"	"42 weeks or more"	"09"	321
+	"Michigan"	"26"	"2023"	"2023"	"Unknown or Not Stated"	"10"	42
+	"Missouri"	"29"	"2010"	"2010"	"Under 20 weeks"	"01"	46
+	"Missouri"	"29"	"2010"	"2010"	"20 - 27 weeks"	"02"	475
+	"Missouri"	"29"	"2010"	"2010"	"28 - 31 weeks"	"03"	731
+	"Missouri"	"29"	"2010"	"2010"	"32 - 35 weeks"	"04"	3397
+	"Missouri"	"29"	"2010"	"2010"	"36 weeks"	"05"	3006
+	"Missouri"	"29"	"2010"	"2010"	"37 - 39 weeks"	"06"	48544
+	"Missouri"	"29"	"2010"	"2010"	"40 weeks"	"07"	16148
+	"Missouri"	"29"	"2010"	"2010"	"41 weeks"	"08"	3763
+	"Missouri"	"29"	"2010"	"2010"	"42 weeks or more"	"09"	292
+	"Missouri"	"29"	"2010"	"2010"	"Unknown or Not Stated"	"10"	357
+	"Missouri"	"29"	"2011"	"2011"	"Under 20 weeks"	"01"	40
+	"Missouri"	"29"	"2011"	"2011"	"20 - 27 weeks"	"02"	447
+	"Missouri"	"29"	"2011"	"2011"	"28 - 31 weeks"	"03"	707
+	"Missouri"	"29"	"2011"	"2011"	"32 - 35 weeks"	"04"	3161
+	"Missouri"	"29"	"2011"	"2011"	"36 weeks"	"05"	2914
+	"Missouri"	"29"	"2011"	"2011"	"37 - 39 weeks"	"06"	48323
+	"Missouri"	"29"	"2011"	"2011"	"40 weeks"	"07"	15916
+	"Missouri"	"29"	"2011"	"2011"	"41 weeks"	"08"	3805
+	"Missouri"	"29"	"2011"	"2011"	"42 weeks or more"	"09"	275
+	"Missouri"	"29"	"2011"	"2011"	"Unknown or Not Stated"	"10"	529
+	"Missouri"	"29"	"2012"	"2012"	"Under 20 weeks"	"01"	38
+	"Missouri"	"29"	"2012"	"2012"	"20 - 27 weeks"	"02"	494
+	"Missouri"	"29"	"2012"	"2012"	"28 - 31 weeks"	"03"	710
+	"Missouri"	"29"	"2012"	"2012"	"32 - 35 weeks"	"04"	3175
+	"Missouri"	"29"	"2012"	"2012"	"36 weeks"	"05"	3006
+	"Missouri"	"29"	"2012"	"2012"	"37 - 39 weeks"	"06"	48108
+	"Missouri"	"29"	"2012"	"2012"	"40 weeks"	"07"	15577
+	"Missouri"	"29"	"2012"	"2012"	"41 weeks"	"08"	3676
+	"Missouri"	"29"	"2012"	"2012"	"42 weeks or more"	"09"	289
+	"Missouri"	"29"	"2012"	"2012"	"Unknown or Not Stated"	"10"	373
+	"Missouri"	"29"	"2013"	"2013"	"Under 20 weeks"	"01"	31
+	"Missouri"	"29"	"2013"	"2013"	"20 - 27 weeks"	"02"	471
+	"Missouri"	"29"	"2013"	"2013"	"28 - 31 weeks"	"03"	656
+	"Missouri"	"29"	"2013"	"2013"	"32 - 35 weeks"	"04"	3258
+	"Missouri"	"29"	"2013"	"2013"	"36 weeks"	"05"	2779
+	"Missouri"	"29"	"2013"	"2013"	"37 - 39 weeks"	"06"	47576
+	"Missouri"	"29"	"2013"	"2013"	"40 weeks"	"07"	16019
+	"Missouri"	"29"	"2013"	"2013"	"41 weeks"	"08"	3811
+	"Missouri"	"29"	"2013"	"2013"	"42 weeks or more"	"09"	301
+	"Missouri"	"29"	"2013"	"2013"	"Unknown or Not Stated"	"10"	394
+	"Missouri"	"29"	"2014"	"2014"	"Under 20 weeks"	"01"	34
+	"Missouri"	"29"	"2014"	"2014"	"20 - 27 weeks"	"02"	464
+	"Missouri"	"29"	"2014"	"2014"	"28 - 31 weeks"	"03"	659
+	"Missouri"	"29"	"2014"	"2014"	"32 - 35 weeks"	"04"	3357
+	"Missouri"	"29"	"2014"	"2014"	"36 weeks"	"05"	2832
+	"Missouri"	"29"	"2014"	"2014"	"37 - 39 weeks"	"06"	47708
+	"Missouri"	"29"	"2014"	"2014"	"40 weeks"	"07"	15878
+	"Missouri"	"29"	"2014"	"2014"	"41 weeks"	"08"	4040
+	"Missouri"	"29"	"2014"	"2014"	"42 weeks or more"	"09"	297
+	"Missouri"	"29"	"2014"	"2014"	"Unknown or Not Stated"	"10"	91
+	"Missouri"	"29"	"2015"	"2015"	"Under 20 weeks"	"01"	30
+	"Missouri"	"29"	"2015"	"2015"	"20 - 27 weeks"	"02"	491
+	"Missouri"	"29"	"2015"	"2015"	"28 - 31 weeks"	"03"	725
+	"Missouri"	"29"	"2015"	"2015"	"32 - 35 weeks"	"04"	3346
+	"Missouri"	"29"	"2015"	"2015"	"36 weeks"	"05"	2912
+	"Missouri"	"29"	"2015"	"2015"	"37 - 39 weeks"	"06"	47489
+	"Missouri"	"29"	"2015"	"2015"	"40 weeks"	"07"	15789
+	"Missouri"	"29"	"2015"	"2015"	"41 weeks"	"08"	3898
+	"Missouri"	"29"	"2015"	"2015"	"42 weeks or more"	"09"	282
+	"Missouri"	"29"	"2015"	"2015"	"Unknown or Not Stated"	"10"	99
+	"Missouri"	"29"	"2016"	"2016"	"Under 20 weeks"	"01"	33
+	"Missouri"	"29"	"2016"	"2016"	"20 - 27 weeks"	"02"	488
+	"Missouri"	"29"	"2016"	"2016"	"28 - 31 weeks"	"03"	684
+	"Missouri"	"29"	"2016"	"2016"	"32 - 35 weeks"	"04"	3412
+	"Missouri"	"29"	"2016"	"2016"	"36 weeks"	"05"	2967
+	"Missouri"	"29"	"2016"	"2016"	"37 - 39 weeks"	"06"	47514
+	"Missouri"	"29"	"2016"	"2016"	"40 weeks"	"07"	15397
+	"Missouri"	"29"	"2016"	"2016"	"41 weeks"	"08"	3814
+	"Missouri"	"29"	"2016"	"2016"	"42 weeks or more"	"09"	277
+	"Missouri"	"29"	"2016"	"2016"	"Unknown or Not Stated"	"10"	119
+	"Missouri"	"29"	"2017"	"2017"	"Under 20 weeks"	"01"	24
+	"Missouri"	"29"	"2017"	"2017"	"20 - 27 weeks"	"02"	486
+	"Missouri"	"29"	"2017"	"2017"	"28 - 31 weeks"	"03"	703
+	"Missouri"	"29"	"2017"	"2017"	"32 - 35 weeks"	"04"	3424
+	"Missouri"	"29"	"2017"	"2017"	"36 weeks"	"05"	3065
+	"Missouri"	"29"	"2017"	"2017"	"37 - 39 weeks"	"06"	46761
+	"Missouri"	"29"	"2017"	"2017"	"40 weeks"	"07"	14653
+	"Missouri"	"29"	"2017"	"2017"	"41 weeks"	"08"	3570
+	"Missouri"	"29"	"2017"	"2017"	"42 weeks or more"	"09"	262
+	"Missouri"	"29"	"2017"	"2017"	"Unknown or Not Stated"	"10"	86
+	"Missouri"	"29"	"2018"	"2018"	"Under 20 weeks"	"01"	27
+	"Missouri"	"29"	"2018"	"2018"	"20 - 27 weeks"	"02"	437
+	"Missouri"	"29"	"2018"	"2018"	"28 - 31 weeks"	"03"	720
+	"Missouri"	"29"	"2018"	"2018"	"32 - 35 weeks"	"04"	3546
+	"Missouri"	"29"	"2018"	"2018"	"36 weeks"	"05"	3119
+	"Missouri"	"29"	"2018"	"2018"	"37 - 39 weeks"	"06"	48395
+	"Missouri"	"29"	"2018"	"2018"	"40 weeks"	"07"	13688
+	"Missouri"	"29"	"2018"	"2018"	"41 weeks"	"08"	3031
+	"Missouri"	"29"	"2018"	"2018"	"42 weeks or more"	"09"	235
+	"Missouri"	"29"	"2018"	"2018"	"Unknown or Not Stated"	"10"	71
+	"Missouri"	"29"	"2019"	"2019"	"Under 20 weeks"	"01"	23
+	"Missouri"	"29"	"2019"	"2019"	"20 - 27 weeks"	"02"	466
+	"Missouri"	"29"	"2019"	"2019"	"28 - 31 weeks"	"03"	700
+	"Missouri"	"29"	"2019"	"2019"	"32 - 35 weeks"	"04"	3484
+	"Missouri"	"29"	"2019"	"2019"	"36 weeks"	"05"	3159
+	"Missouri"	"29"	"2019"	"2019"	"37 - 39 weeks"	"06"	48994
+	"Missouri"	"29"	"2019"	"2019"	"40 weeks"	"07"	12430
+	"Missouri"	"29"	"2019"	"2019"	"41 weeks"	"08"	2553
+	"Missouri"	"29"	"2019"	"2019"	"42 weeks or more"	"09"	223
+	"Missouri"	"29"	"2019"	"2019"	"Unknown or Not Stated"	"10"	95
+	"Missouri"	"29"	"2020"	"2020"	"Under 20 weeks"	"01"	33
+	"Missouri"	"29"	"2020"	"2020"	"20 - 27 weeks"	"02"	430
+	"Missouri"	"29"	"2020"	"2020"	"28 - 31 weeks"	"03"	598
+	"Missouri"	"29"	"2020"	"2020"	"32 - 35 weeks"	"04"	3381
+	"Missouri"	"29"	"2020"	"2020"	"36 weeks"	"05"	3157
+	"Missouri"	"29"	"2020"	"2020"	"37 - 39 weeks"	"06"	48598
+	"Missouri"	"29"	"2020"	"2020"	"40 weeks"	"07"	10789
+	"Missouri"	"29"	"2020"	"2020"	"41 weeks"	"08"	2016
+	"Missouri"	"29"	"2020"	"2020"	"42 weeks or more"	"09"	205
+	"Missouri"	"29"	"2020"	"2020"	"Unknown or Not Stated"	"10"	78
+	"Missouri"	"29"	"2021"	"2021"	"Under 20 weeks"	"01"	20
+	"Missouri"	"29"	"2021"	"2021"	"20 - 27 weeks"	"02"	425
+	"Missouri"	"29"	"2021"	"2021"	"28 - 31 weeks"	"03"	625
+	"Missouri"	"29"	"2021"	"2021"	"32 - 35 weeks"	"04"	3527
+	"Missouri"	"29"	"2021"	"2021"	"36 weeks"	"05"	3224
+	"Missouri"	"29"	"2021"	"2021"	"37 - 39 weeks"	"06"	49058
+	"Missouri"	"29"	"2021"	"2021"	"40 weeks"	"07"	10372
+	"Missouri"	"29"	"2021"	"2021"	"41 weeks"	"08"	1904
+	"Missouri"	"29"	"2021"	"2021"	"42 weeks or more"	"09"	207
+	"Missouri"	"29"	"2021"	"2021"	"Unknown or Not Stated"	"10"	91
+	"Missouri"	"29"	"2022"	"2022"	"Under 20 weeks"	"01"	20
+	"Missouri"	"29"	"2022"	"2022"	"20 - 27 weeks"	"02"	447
+	"Missouri"	"29"	"2022"	"2022"	"28 - 31 weeks"	"03"	645
+	"Missouri"	"29"	"2022"	"2022"	"32 - 35 weeks"	"04"	3506
+	"Missouri"	"29"	"2022"	"2022"	"36 weeks"	"05"	3174
+	"Missouri"	"29"	"2022"	"2022"	"37 - 39 weeks"	"06"	48273
+	"Missouri"	"29"	"2022"	"2022"	"40 weeks"	"07"	10555
+	"Missouri"	"29"	"2022"	"2022"	"41 weeks"	"08"	2058
+	"Missouri"	"29"	"2022"	"2022"	"42 weeks or more"	"09"	236
+	"Missouri"	"29"	"2022"	"2022"	"Unknown or Not Stated"	"10"	71
+	"Missouri"	"29"	"2023"	"2023"	"Under 20 weeks"	"01"	23
+	"Missouri"	"29"	"2023"	"2023"	"20 - 27 weeks"	"02"	356
+	"Missouri"	"29"	"2023"	"2023"	"28 - 31 weeks"	"03"	638
+	"Missouri"	"29"	"2023"	"2023"	"32 - 35 weeks"	"04"	3402
+	"Missouri"	"29"	"2023"	"2023"	"36 weeks"	"05"	2983
+	"Missouri"	"29"	"2023"	"2023"	"37 - 39 weeks"	"06"	47188
+	"Missouri"	"29"	"2023"	"2023"	"40 weeks"	"07"	10113
+	"Missouri"	"29"	"2023"	"2023"	"41 weeks"	"08"	2124
+	"Missouri"	"29"	"2023"	"2023"	"42 weeks or more"	"09"	234
+	"Missouri"	"29"	"2023"	"2023"	"Unknown or Not Stated"	"10"	62
+	"New Jersey"	"34"	"2010"	"2010"	"Under 20 weeks"	"01"	21
+	"New Jersey"	"34"	"2010"	"2010"	"20 - 27 weeks"	"02"	738
+	"New Jersey"	"34"	"2010"	"2010"	"28 - 31 weeks"	"03"	1013
+	"New Jersey"	"34"	"2010"	"2010"	"32 - 35 weeks"	"04"	4677
+	"New Jersey"	"34"	"2010"	"2010"	"36 weeks"	"05"	3913
+	"New Jersey"	"34"	"2010"	"2010"	"37 - 39 weeks"	"06"	63553
+	"New Jersey"	"34"	"2010"	"2010"	"40 weeks"	"07"	25940
+	"New Jersey"	"34"	"2010"	"2010"	"41 weeks"	"08"	6661
+	"New Jersey"	"34"	"2010"	"2010"	"42 weeks or more"	"09"	358
+	"New Jersey"	"34"	"2010"	"2010"	"Unknown or Not Stated"	"10"	48
+	"New Jersey"	"34"	"2011"	"2011"	"Under 20 weeks"	"01"	21
+	"New Jersey"	"34"	"2011"	"2011"	"20 - 27 weeks"	"02"	785
+	"New Jersey"	"34"	"2011"	"2011"	"28 - 31 weeks"	"03"	1042
+	"New Jersey"	"34"	"2011"	"2011"	"32 - 35 weeks"	"04"	4760
+	"New Jersey"	"34"	"2011"	"2011"	"36 weeks"	"05"	3870
+	"New Jersey"	"34"	"2011"	"2011"	"37 - 39 weeks"	"06"	63088
+	"New Jersey"	"34"	"2011"	"2011"	"40 weeks"	"07"	25044
+	"New Jersey"	"34"	"2011"	"2011"	"41 weeks"	"08"	6865
+	"New Jersey"	"34"	"2011"	"2011"	"42 weeks or more"	"09"	369
+	"New Jersey"	"34"	"2011"	"2011"	"Unknown or Not Stated"	"10"	39
+	"New Jersey"	"34"	"2012"	"2012"	"Under 20 weeks"	"01"	22
+	"New Jersey"	"34"	"2012"	"2012"	"20 - 27 weeks"	"02"	743
+	"New Jersey"	"34"	"2012"	"2012"	"28 - 31 weeks"	"03"	974
+	"New Jersey"	"34"	"2012"	"2012"	"32 - 35 weeks"	"04"	4508
+	"New Jersey"	"34"	"2012"	"2012"	"36 weeks"	"05"	3866
+	"New Jersey"	"34"	"2012"	"2012"	"37 - 39 weeks"	"06"	62970
+	"New Jersey"	"34"	"2012"	"2012"	"40 weeks"	"07"	24243
+	"New Jersey"	"34"	"2012"	"2012"	"41 weeks"	"08"	6532
+	"New Jersey"	"34"	"2012"	"2012"	"42 weeks or more"	"09"	323
+	"New Jersey"	"34"	"2012"	"2012"	"Unknown or Not Stated"	"10"	49
+	"New Jersey"	"34"	"2013"	"2013"	"Under 20 weeks"	"01"	29
+	"New Jersey"	"34"	"2013"	"2013"	"20 - 27 weeks"	"02"	687
+	"New Jersey"	"34"	"2013"	"2013"	"28 - 31 weeks"	"03"	974
+	"New Jersey"	"34"	"2013"	"2013"	"32 - 35 weeks"	"04"	4561
+	"New Jersey"	"34"	"2013"	"2013"	"36 weeks"	"05"	3689
+	"New Jersey"	"34"	"2013"	"2013"	"37 - 39 weeks"	"06"	61540
+	"New Jersey"	"34"	"2013"	"2013"	"40 weeks"	"07"	23905
+	"New Jersey"	"34"	"2013"	"2013"	"41 weeks"	"08"	6826
+	"New Jersey"	"34"	"2013"	"2013"	"42 weeks or more"	"09"	316
+	"New Jersey"	"34"	"2013"	"2013"	"Unknown or Not Stated"	"10"	48
+	"New Jersey"	"34"	"2014"	"2014"	"Under 20 weeks"	"01"	25
+	"New Jersey"	"34"	"2014"	"2014"	"20 - 27 weeks"	"02"	662
+	"New Jersey"	"34"	"2014"	"2014"	"28 - 31 weeks"	"03"	974
+	"New Jersey"	"34"	"2014"	"2014"	"32 - 35 weeks"	"04"	4496
+	"New Jersey"	"34"	"2014"	"2014"	"36 weeks"	"05"	3728
+	"New Jersey"	"34"	"2014"	"2014"	"37 - 39 weeks"	"06"	61724
+	"New Jersey"	"34"	"2014"	"2014"	"40 weeks"	"07"	24096
+	"New Jersey"	"34"	"2014"	"2014"	"41 weeks"	"08"	7256
+	"New Jersey"	"34"	"2014"	"2014"	"42 weeks or more"	"09"	318
+	"New Jersey"	"34"	"2014"	"2014"	"Unknown or Not Stated"	"10"	26
+	"New Jersey"	"34"	"2015"	"2015"	"Under 20 weeks"	"01"	25
+	"New Jersey"	"34"	"2015"	"2015"	"20 - 27 weeks"	"02"	650
+	"New Jersey"	"34"	"2015"	"2015"	"28 - 31 weeks"	"03"	955
+	"New Jersey"	"34"	"2015"	"2015"	"32 - 35 weeks"	"04"	4660
+	"New Jersey"	"34"	"2015"	"2015"	"36 weeks"	"05"	3774
+	"New Jersey"	"34"	"2015"	"2015"	"37 - 39 weeks"	"06"	62249
+	"New Jersey"	"34"	"2015"	"2015"	"40 weeks"	"07"	23275
+	"New Jersey"	"34"	"2015"	"2015"	"41 weeks"	"08"	7182
+	"New Jersey"	"34"	"2015"	"2015"	"42 weeks or more"	"09"	322
+	"New Jersey"	"34"	"2015"	"2015"	"Unknown or Not Stated"	"10"	35
+	"New Jersey"	"34"	"2016"	"2016"	"Under 20 weeks"	"01"	24
+	"New Jersey"	"34"	"2016"	"2016"	"20 - 27 weeks"	"02"	616
+	"New Jersey"	"34"	"2016"	"2016"	"28 - 31 weeks"	"03"	955
+	"New Jersey"	"34"	"2016"	"2016"	"32 - 35 weeks"	"04"	4526
+	"New Jersey"	"34"	"2016"	"2016"	"36 weeks"	"05"	4005
+	"New Jersey"	"34"	"2016"	"2016"	"37 - 39 weeks"	"06"	62927
+	"New Jersey"	"34"	"2016"	"2016"	"40 weeks"	"07"	22414
+	"New Jersey"	"34"	"2016"	"2016"	"41 weeks"	"08"	6853
+	"New Jersey"	"34"	"2016"	"2016"	"42 weeks or more"	"09"	287
+	"New Jersey"	"34"	"2016"	"2016"	"Unknown or Not Stated"	"10"	40
+	"New Jersey"	"34"	"2017"	"2017"	"Under 20 weeks"	"01"	25
+	"New Jersey"	"34"	"2017"	"2017"	"20 - 27 weeks"	"02"	618
+	"New Jersey"	"34"	"2017"	"2017"	"28 - 31 weeks"	"03"	858
+	"New Jersey"	"34"	"2017"	"2017"	"32 - 35 weeks"	"04"	4356
+	"New Jersey"	"34"	"2017"	"2017"	"36 weeks"	"05"	3756
+	"New Jersey"	"34"	"2017"	"2017"	"37 - 39 weeks"	"06"	62386
+	"New Jersey"	"34"	"2017"	"2017"	"40 weeks"	"07"	21987
+	"New Jersey"	"34"	"2017"	"2017"	"41 weeks"	"08"	6993
+	"New Jersey"	"34"	"2017"	"2017"	"42 weeks or more"	"09"	251
+	"New Jersey"	"34"	"2017"	"2017"	"Unknown or Not Stated"	"10"	20
+	"New Jersey"	"34"	"2018"	"2018"	"Under 20 weeks"	"01"	12
+	"New Jersey"	"34"	"2018"	"2018"	"20 - 27 weeks"	"02"	580
+	"New Jersey"	"34"	"2018"	"2018"	"28 - 31 weeks"	"03"	926
+	"New Jersey"	"34"	"2018"	"2018"	"32 - 35 weeks"	"04"	4375
+	"New Jersey"	"34"	"2018"	"2018"	"36 weeks"	"05"	3725
+	"New Jersey"	"34"	"2018"	"2018"	"37 - 39 weeks"	"06"	62557
+	"New Jersey"	"34"	"2018"	"2018"	"40 weeks"	"07"	21847
+	"New Jersey"	"34"	"2018"	"2018"	"41 weeks"	"08"	6963
+	"New Jersey"	"34"	"2018"	"2018"	"42 weeks or more"	"09"	215
+	"New Jersey"	"34"	"2018"	"2018"	"Unknown or Not Stated"	"10"	23
+	"New Jersey"	"34"	"2019"	"2019"	"Under 20 weeks"	"01"	18
+	"New Jersey"	"34"	"2019"	"2019"	"20 - 27 weeks"	"02"	577
+	"New Jersey"	"34"	"2019"	"2019"	"28 - 31 weeks"	"03"	886
+	"New Jersey"	"34"	"2019"	"2019"	"32 - 35 weeks"	"04"	4231
+	"New Jersey"	"34"	"2019"	"2019"	"36 weeks"	"05"	3798
+	"New Jersey"	"34"	"2019"	"2019"	"37 - 39 weeks"	"06"	62478
+	"New Jersey"	"34"	"2019"	"2019"	"40 weeks"	"07"	20755
+	"New Jersey"	"34"	"2019"	"2019"	"41 weeks"	"08"	6473
+	"New Jersey"	"34"	"2019"	"2019"	"42 weeks or more"	"09"	231
+	"New Jersey"	"34"	"2019"	"2019"	"Unknown or Not Stated"	"10"	138
+	"New Jersey"	"34"	"2020"	"2020"	"Under 20 weeks"	"01"	17
+	"New Jersey"	"34"	"2020"	"2020"	"20 - 27 weeks"	"02"	516
+	"New Jersey"	"34"	"2020"	"2020"	"28 - 31 weeks"	"03"	816
+	"New Jersey"	"34"	"2020"	"2020"	"32 - 35 weeks"	"04"	4126
+	"New Jersey"	"34"	"2020"	"2020"	"36 weeks"	"05"	3666
+	"New Jersey"	"34"	"2020"	"2020"	"37 - 39 weeks"	"06"	61770
+	"New Jersey"	"34"	"2020"	"2020"	"40 weeks"	"07"	20525
+	"New Jersey"	"34"	"2020"	"2020"	"41 weeks"	"08"	6292
+	"New Jersey"	"34"	"2020"	"2020"	"42 weeks or more"	"09"	198
+	"New Jersey"	"34"	"2020"	"2020"	"Unknown or Not Stated"	"10"	28
+	"New Jersey"	"34"	"2021"	"2021"	"Under 20 weeks"	"01"	11
+	"New Jersey"	"34"	"2021"	"2021"	"20 - 27 weeks"	"02"	501
+	"New Jersey"	"34"	"2021"	"2021"	"28 - 31 weeks"	"03"	839
+	"New Jersey"	"34"	"2021"	"2021"	"32 - 35 weeks"	"04"	4241
+	"New Jersey"	"34"	"2021"	"2021"	"36 weeks"	"05"	3721
+	"New Jersey"	"34"	"2021"	"2021"	"37 - 39 weeks"	"06"	65195
+	"New Jersey"	"34"	"2021"	"2021"	"40 weeks"	"07"	20860
+	"New Jersey"	"34"	"2021"	"2021"	"41 weeks"	"08"	5901
+	"New Jersey"	"34"	"2021"	"2021"	"42 weeks or more"	"09"	201
+	"New Jersey"	"34"	"2021"	"2021"	"Unknown or Not Stated"	"10"	27
+	"New Jersey"	"34"	"2022"	"2022"	"Under 20 weeks"	"01"	22
+	"New Jersey"	"34"	"2022"	"2022"	"20 - 27 weeks"	"02"	543
+	"New Jersey"	"34"	"2022"	"2022"	"28 - 31 weeks"	"03"	784
+	"New Jersey"	"34"	"2022"	"2022"	"32 - 35 weeks"	"04"	4362
+	"New Jersey"	"34"	"2022"	"2022"	"36 weeks"	"05"	3836
+	"New Jersey"	"34"	"2022"	"2022"	"37 - 39 weeks"	"06"	65811
+	"New Jersey"	"34"	"2022"	"2022"	"40 weeks"	"07"	21169
+	"New Jersey"	"34"	"2022"	"2022"	"41 weeks"	"08"	6164
+	"New Jersey"	"34"	"2022"	"2022"	"42 weeks or more"	"09"	194
+	"New Jersey"	"34"	"2023"	"2023"	"Under 20 weeks"	"01"	15
+	"New Jersey"	"34"	"2023"	"2023"	"20 - 27 weeks"	"02"	500
+	"New Jersey"	"34"	"2023"	"2023"	"28 - 31 weeks"	"03"	739
+	"New Jersey"	"34"	"2023"	"2023"	"32 - 35 weeks"	"04"	4289
+	"New Jersey"	"34"	"2023"	"2023"	"36 weeks"	"05"	3825
+	"New Jersey"	"34"	"2023"	"2023"	"37 - 39 weeks"	"06"	65115
+	"New Jersey"	"34"	"2023"	"2023"	"40 weeks"	"07"	20451
+	"New Jersey"	"34"	"2023"	"2023"	"41 weeks"	"08"	5854
+	"New Jersey"	"34"	"2023"	"2023"	"42 weeks or more"	"09"	201
+	"New Jersey"	"34"	"2023"	"2023"	"Unknown or Not Stated"	"10"	12
+	"New York"	"36"	"2010"	"2010"	"Under 20 weeks"	"01"	79
+	"New York"	"36"	"2010"	"2010"	"20 - 27 weeks"	"02"	1667
+	"New York"	"36"	"2010"	"2010"	"28 - 31 weeks"	"03"	2344
+	"New York"	"36"	"2010"	"2010"	"32 - 35 weeks"	"04"	10309
+	"New York"	"36"	"2010"	"2010"	"36 weeks"	"05"	8505
+	"New York"	"36"	"2010"	"2010"	"37 - 39 weeks"	"06"	138529
+	"New York"	"36"	"2010"	"2010"	"40 weeks"	"07"	61704
+	"New York"	"36"	"2010"	"2010"	"41 weeks"	"08"	19528
+	"New York"	"36"	"2010"	"2010"	"42 weeks or more"	"09"	1351
+	"New York"	"36"	"2010"	"2010"	"Unknown or Not Stated"	"10"	359
+	"New York"	"36"	"2011"	"2011"	"Under 20 weeks"	"01"	50
+	"New York"	"36"	"2011"	"2011"	"20 - 27 weeks"	"02"	1584
+	"New York"	"36"	"2011"	"2011"	"28 - 31 weeks"	"03"	2209
+	"New York"	"36"	"2011"	"2011"	"32 - 35 weeks"	"04"	9962
+	"New York"	"36"	"2011"	"2011"	"36 weeks"	"05"	8312
+	"New York"	"36"	"2011"	"2011"	"37 - 39 weeks"	"06"	137677
+	"New York"	"36"	"2011"	"2011"	"40 weeks"	"07"	60345
+	"New York"	"36"	"2011"	"2011"	"41 weeks"	"08"	19551
+	"New York"	"36"	"2011"	"2011"	"42 weeks or more"	"09"	1242
+	"New York"	"36"	"2011"	"2011"	"Unknown or Not Stated"	"10"	380
+	"New York"	"36"	"2012"	"2012"	"Under 20 weeks"	"01"	58
+	"New York"	"36"	"2012"	"2012"	"20 - 27 weeks"	"02"	1608
+	"New York"	"36"	"2012"	"2012"	"28 - 31 weeks"	"03"	2179
+	"New York"	"36"	"2012"	"2012"	"32 - 35 weeks"	"04"	9862
+	"New York"	"36"	"2012"	"2012"	"36 weeks"	"05"	8177
+	"New York"	"36"	"2012"	"2012"	"37 - 39 weeks"	"06"	139765
+	"New York"	"36"	"2012"	"2012"	"40 weeks"	"07"	58446
+	"New York"	"36"	"2012"	"2012"	"41 weeks"	"08"	19348
+	"New York"	"36"	"2012"	"2012"	"42 weeks or more"	"09"	1061
+	"New York"	"36"	"2012"	"2012"	"Unknown or Not Stated"	"10"	412
+	"New York"	"36"	"2013"	"2013"	"Under 20 weeks"	"01"	59
+	"New York"	"36"	"2013"	"2013"	"20 - 27 weeks"	"02"	1485
+	"New York"	"36"	"2013"	"2013"	"28 - 31 weeks"	"03"	2011
+	"New York"	"36"	"2013"	"2013"	"32 - 35 weeks"	"04"	9571
+	"New York"	"36"	"2013"	"2013"	"36 weeks"	"05"	7926
+	"New York"	"36"	"2013"	"2013"	"37 - 39 weeks"	"06"	135650
+	"New York"	"36"	"2013"	"2013"	"40 weeks"	"07"	58620
+	"New York"	"36"	"2013"	"2013"	"41 weeks"	"08"	20097
+	"New York"	"36"	"2013"	"2013"	"42 weeks or more"	"09"	1139
+	"New York"	"36"	"2013"	"2013"	"Unknown or Not Stated"	"10"	422
+	"New York"	"36"	"2014"	"2014"	"Under 20 weeks"	"01"	68
+	"New York"	"36"	"2014"	"2014"	"20 - 27 weeks"	"02"	1419
+	"New York"	"36"	"2014"	"2014"	"28 - 31 weeks"	"03"	2055
+	"New York"	"36"	"2014"	"2014"	"32 - 35 weeks"	"04"	9659
+	"New York"	"36"	"2014"	"2014"	"36 weeks"	"05"	7913
+	"New York"	"36"	"2014"	"2014"	"37 - 39 weeks"	"06"	136658
+	"New York"	"36"	"2014"	"2014"	"40 weeks"	"07"	58852
+	"New York"	"36"	"2014"	"2014"	"41 weeks"	"08"	20685
+	"New York"	"36"	"2014"	"2014"	"42 weeks or more"	"09"	1166
+	"New York"	"36"	"2014"	"2014"	"Unknown or Not Stated"	"10"	298
+	"New York"	"36"	"2015"	"2015"	"Under 20 weeks"	"01"	51
+	"New York"	"36"	"2015"	"2015"	"20 - 27 weeks"	"02"	1425
+	"New York"	"36"	"2015"	"2015"	"28 - 31 weeks"	"03"	2060
+	"New York"	"36"	"2015"	"2015"	"32 - 35 weeks"	"04"	9139
+	"New York"	"36"	"2015"	"2015"	"36 weeks"	"05"	7856
+	"New York"	"36"	"2015"	"2015"	"37 - 39 weeks"	"06"	136118
+	"New York"	"36"	"2015"	"2015"	"40 weeks"	"07"	58480
+	"New York"	"36"	"2015"	"2015"	"41 weeks"	"08"	20765
+	"New York"	"36"	"2015"	"2015"	"42 weeks or more"	"09"	1104
+	"New York"	"36"	"2015"	"2015"	"Unknown or Not Stated"	"10"	276
+	"New York"	"36"	"2016"	"2016"	"Under 20 weeks"	"01"	50
+	"New York"	"36"	"2016"	"2016"	"20 - 27 weeks"	"02"	1324
+	"New York"	"36"	"2016"	"2016"	"28 - 31 weeks"	"03"	2014
+	"New York"	"36"	"2016"	"2016"	"32 - 35 weeks"	"04"	9522
+	"New York"	"36"	"2016"	"2016"	"36 weeks"	"05"	8046
+	"New York"	"36"	"2016"	"2016"	"37 - 39 weeks"	"06"	135834
+	"New York"	"36"	"2016"	"2016"	"40 weeks"	"07"	56139
+	"New York"	"36"	"2016"	"2016"	"41 weeks"	"08"	20054
+	"New York"	"36"	"2016"	"2016"	"42 weeks or more"	"09"	1008
+	"New York"	"36"	"2016"	"2016"	"Unknown or Not Stated"	"10"	292
+	"New York"	"36"	"2017"	"2017"	"Under 20 weeks"	"01"	64
+	"New York"	"36"	"2017"	"2017"	"20 - 27 weeks"	"02"	1356
+	"New York"	"36"	"2017"	"2017"	"28 - 31 weeks"	"03"	1995
+	"New York"	"36"	"2017"	"2017"	"32 - 35 weeks"	"04"	9467
+	"New York"	"36"	"2017"	"2017"	"36 weeks"	"05"	7725
+	"New York"	"36"	"2017"	"2017"	"37 - 39 weeks"	"06"	133305
+	"New York"	"36"	"2017"	"2017"	"40 weeks"	"07"	54802
+	"New York"	"36"	"2017"	"2017"	"41 weeks"	"08"	19656
+	"New York"	"36"	"2017"	"2017"	"42 weeks or more"	"09"	1012
+	"New York"	"36"	"2017"	"2017"	"Unknown or Not Stated"	"10"	355
+	"New York"	"36"	"2018"	"2018"	"Under 20 weeks"	"01"	58
+	"New York"	"36"	"2018"	"2018"	"20 - 27 weeks"	"02"	1247
+	"New York"	"36"	"2018"	"2018"	"28 - 31 weeks"	"03"	1961
+	"New York"	"36"	"2018"	"2018"	"32 - 35 weeks"	"04"	9185
+	"New York"	"36"	"2018"	"2018"	"36 weeks"	"05"	7830
+	"New York"	"36"	"2018"	"2018"	"37 - 39 weeks"	"06"	132054
+	"New York"	"36"	"2018"	"2018"	"40 weeks"	"07"	54291
+	"New York"	"36"	"2018"	"2018"	"41 weeks"	"08"	18336
+	"New York"	"36"	"2018"	"2018"	"42 weeks or more"	"09"	942
+	"New York"	"36"	"2018"	"2018"	"Unknown or Not Stated"	"10"	334
+	"New York"	"36"	"2019"	"2019"	"Under 20 weeks"	"01"	55
+	"New York"	"36"	"2019"	"2019"	"20 - 27 weeks"	"02"	1249
+	"New York"	"36"	"2019"	"2019"	"28 - 31 weeks"	"03"	1908
+	"New York"	"36"	"2019"	"2019"	"32 - 35 weeks"	"04"	9226
+	"New York"	"36"	"2019"	"2019"	"36 weeks"	"05"	7874
+	"New York"	"36"	"2019"	"2019"	"37 - 39 weeks"	"06"	133051
+	"New York"	"36"	"2019"	"2019"	"40 weeks"	"07"	50924
+	"New York"	"36"	"2019"	"2019"	"41 weeks"	"08"	16149
+	"New York"	"36"	"2019"	"2019"	"42 weeks or more"	"09"	775
+	"New York"	"36"	"2019"	"2019"	"Unknown or Not Stated"	"10"	328
+	"New York"	"36"	"2020"	"2020"	"Under 20 weeks"	"01"	36
+	"New York"	"36"	"2020"	"2020"	"20 - 27 weeks"	"02"	1189
+	"New York"	"36"	"2020"	"2020"	"28 - 31 weeks"	"03"	1850
+	"New York"	"36"	"2020"	"2020"	"32 - 35 weeks"	"04"	8727
+	"New York"	"36"	"2020"	"2020"	"36 weeks"	"05"	7477
+	"New York"	"36"	"2020"	"2020"	"37 - 39 weeks"	"06"	128494
+	"New York"	"36"	"2020"	"2020"	"40 weeks"	"07"	46543
+	"New York"	"36"	"2020"	"2020"	"41 weeks"	"08"	13970
+	"New York"	"36"	"2020"	"2020"	"42 weeks or more"	"09"	711
+	"New York"	"36"	"2020"	"2020"	"Unknown or Not Stated"	"10"	341
+	"New York"	"36"	"2021"	"2021"	"Under 20 weeks"	"01"	39
+	"New York"	"36"	"2021"	"2021"	"20 - 27 weeks"	"02"	1181
+	"New York"	"36"	"2021"	"2021"	"28 - 31 weeks"	"03"	1852
+	"New York"	"36"	"2021"	"2021"	"32 - 35 weeks"	"04"	9270
+	"New York"	"36"	"2021"	"2021"	"36 weeks"	"05"	8048
+	"New York"	"36"	"2021"	"2021"	"37 - 39 weeks"	"06"	132177
+	"New York"	"36"	"2021"	"2021"	"40 weeks"	"07"	43955
+	"New York"	"36"	"2021"	"2021"	"41 weeks"	"08"	13188
+	"New York"	"36"	"2021"	"2021"	"42 weeks or more"	"09"	686
+	"New York"	"36"	"2021"	"2021"	"Unknown or Not Stated"	"10"	346
+	"New York"	"36"	"2022"	"2022"	"Under 20 weeks"	"01"	43
+	"New York"	"36"	"2022"	"2022"	"20 - 27 weeks"	"02"	1124
+	"New York"	"36"	"2022"	"2022"	"28 - 31 weeks"	"03"	1748
+	"New York"	"36"	"2022"	"2022"	"32 - 35 weeks"	"04"	9016
+	"New York"	"36"	"2022"	"2022"	"36 weeks"	"05"	7678
+	"New York"	"36"	"2022"	"2022"	"37 - 39 weeks"	"06"	131297
+	"New York"	"36"	"2022"	"2022"	"40 weeks"	"07"	43360
+	"New York"	"36"	"2022"	"2022"	"41 weeks"	"08"	12418
+	"New York"	"36"	"2022"	"2022"	"42 weeks or more"	"09"	687
+	"New York"	"36"	"2022"	"2022"	"Unknown or Not Stated"	"10"	403
+	"New York"	"36"	"2023"	"2023"	"Under 20 weeks"	"01"	33
+	"New York"	"36"	"2023"	"2023"	"20 - 27 weeks"	"02"	1010
+	"New York"	"36"	"2023"	"2023"	"28 - 31 weeks"	"03"	1707
+	"New York"	"36"	"2023"	"2023"	"32 - 35 weeks"	"04"	8940
+	"New York"	"36"	"2023"	"2023"	"36 weeks"	"05"	7854
+	"New York"	"36"	"2023"	"2023"	"37 - 39 weeks"	"06"	129896
+	"New York"	"36"	"2023"	"2023"	"40 weeks"	"07"	41673
+	"New York"	"36"	"2023"	"2023"	"41 weeks"	"08"	11437
+	"New York"	"36"	"2023"	"2023"	"42 weeks or more"	"09"	629
+	"New York"	"36"	"2023"	"2023"	"Unknown or Not Stated"	"10"	433
+	"North Carolina"	"37"	"2010"	"2010"	"Under 20 weeks"	"01"	49
+	"North Carolina"	"37"	"2010"	"2010"	"20 - 27 weeks"	"02"	1004
+	"North Carolina"	"37"	"2010"	"2010"	"28 - 31 weeks"	"03"	1267
+	"North Carolina"	"37"	"2010"	"2010"	"32 - 35 weeks"	"04"	5609
+	"North Carolina"	"37"	"2010"	"2010"	"36 weeks"	"05"	4829
+	"North Carolina"	"37"	"2010"	"2010"	"37 - 39 weeks"	"06"	71710
+	"North Carolina"	"37"	"2010"	"2010"	"40 weeks"	"07"	27413
+	"North Carolina"	"37"	"2010"	"2010"	"41 weeks"	"08"	9940
+	"North Carolina"	"37"	"2010"	"2010"	"42 weeks or more"	"09"	481
+	"North Carolina"	"37"	"2010"	"2010"	"Unknown or Not Stated"	"10"	48
+	"North Carolina"	"37"	"2011"	"2011"	"Under 20 weeks"	"01"	70
+	"North Carolina"	"37"	"2011"	"2011"	"20 - 27 weeks"	"02"	1024
+	"North Carolina"	"37"	"2011"	"2011"	"28 - 31 weeks"	"03"	1245
+	"North Carolina"	"37"	"2011"	"2011"	"32 - 35 weeks"	"04"	5427
+	"North Carolina"	"37"	"2011"	"2011"	"36 weeks"	"05"	4512
+	"North Carolina"	"37"	"2011"	"2011"	"37 - 39 weeks"	"06"	71557
+	"North Carolina"	"37"	"2011"	"2011"	"40 weeks"	"07"	26302
+	"North Carolina"	"37"	"2011"	"2011"	"41 weeks"	"08"	9668
+	"North Carolina"	"37"	"2011"	"2011"	"42 weeks or more"	"09"	459
+	"North Carolina"	"37"	"2011"	"2011"	"Unknown or Not Stated"	"10"	125
+	"North Carolina"	"37"	"2012"	"2012"	"Under 20 weeks"	"01"	57
+	"North Carolina"	"37"	"2012"	"2012"	"20 - 27 weeks"	"02"	1001
+	"North Carolina"	"37"	"2012"	"2012"	"28 - 31 weeks"	"03"	1201
+	"North Carolina"	"37"	"2012"	"2012"	"32 - 35 weeks"	"04"	5376
+	"North Carolina"	"37"	"2012"	"2012"	"36 weeks"	"05"	4421
+	"North Carolina"	"37"	"2012"	"2012"	"37 - 39 weeks"	"06"	71635
+	"North Carolina"	"37"	"2012"	"2012"	"40 weeks"	"07"	26118
+	"North Carolina"	"37"	"2012"	"2012"	"41 weeks"	"08"	9479
+	"North Carolina"	"37"	"2012"	"2012"	"42 weeks or more"	"09"	435
+	"North Carolina"	"37"	"2012"	"2012"	"Unknown or Not Stated"	"10"	108
+	"North Carolina"	"37"	"2013"	"2013"	"Under 20 weeks"	"01"	73
+	"North Carolina"	"37"	"2013"	"2013"	"20 - 27 weeks"	"02"	1042
+	"North Carolina"	"37"	"2013"	"2013"	"28 - 31 weeks"	"03"	1243
+	"North Carolina"	"37"	"2013"	"2013"	"32 - 35 weeks"	"04"	5168
+	"North Carolina"	"37"	"2013"	"2013"	"36 weeks"	"05"	4274
+	"North Carolina"	"37"	"2013"	"2013"	"37 - 39 weeks"	"06"	70455
+	"North Carolina"	"37"	"2013"	"2013"	"40 weeks"	"07"	26390
+	"North Carolina"	"37"	"2013"	"2013"	"41 weeks"	"08"	9845
+	"North Carolina"	"37"	"2013"	"2013"	"42 weeks or more"	"09"	406
+	"North Carolina"	"37"	"2013"	"2013"	"Unknown or Not Stated"	"10"	106
+	"North Carolina"	"37"	"2014"	"2014"	"Under 20 weeks"	"01"	62
+	"North Carolina"	"37"	"2014"	"2014"	"20 - 27 weeks"	"02"	965
+	"North Carolina"	"37"	"2014"	"2014"	"28 - 31 weeks"	"03"	1201
+	"North Carolina"	"37"	"2014"	"2014"	"32 - 35 weeks"	"04"	5192
+	"North Carolina"	"37"	"2014"	"2014"	"36 weeks"	"05"	4361
+	"North Carolina"	"37"	"2014"	"2014"	"37 - 39 weeks"	"06"	71365
+	"North Carolina"	"37"	"2014"	"2014"	"40 weeks"	"07"	26822
+	"North Carolina"	"37"	"2014"	"2014"	"41 weeks"	"08"	10401
+	"North Carolina"	"37"	"2014"	"2014"	"42 weeks or more"	"09"	538
+	"North Carolina"	"37"	"2014"	"2014"	"Unknown or Not Stated"	"10"	68
+	"North Carolina"	"37"	"2015"	"2015"	"Under 20 weeks"	"01"	45
+	"North Carolina"	"37"	"2015"	"2015"	"20 - 27 weeks"	"02"	1053
+	"North Carolina"	"37"	"2015"	"2015"	"28 - 31 weeks"	"03"	1253
+	"North Carolina"	"37"	"2015"	"2015"	"32 - 35 weeks"	"04"	5395
+	"North Carolina"	"37"	"2015"	"2015"	"36 weeks"	"05"	4551
+	"North Carolina"	"37"	"2015"	"2015"	"37 - 39 weeks"	"06"	71421
+	"North Carolina"	"37"	"2015"	"2015"	"40 weeks"	"07"	26237
+	"North Carolina"	"37"	"2015"	"2015"	"41 weeks"	"08"	10346
+	"North Carolina"	"37"	"2015"	"2015"	"42 weeks or more"	"09"	488
+	"North Carolina"	"37"	"2015"	"2015"	"Unknown or Not Stated"	"10"	54
+	"North Carolina"	"37"	"2016"	"2016"	"Under 20 weeks"	"01"	58
+	"North Carolina"	"37"	"2016"	"2016"	"20 - 27 weeks"	"02"	969
+	"North Carolina"	"37"	"2016"	"2016"	"28 - 31 weeks"	"03"	1210
+	"North Carolina"	"37"	"2016"	"2016"	"32 - 35 weeks"	"04"	5749
+	"North Carolina"	"37"	"2016"	"2016"	"36 weeks"	"05"	4556
+	"North Carolina"	"37"	"2016"	"2016"	"37 - 39 weeks"	"06"	71805
+	"North Carolina"	"37"	"2016"	"2016"	"40 weeks"	"07"	26160
+	"North Carolina"	"37"	"2016"	"2016"	"41 weeks"	"08"	9803
+	"North Carolina"	"37"	"2016"	"2016"	"42 weeks or more"	"09"	419
+	"North Carolina"	"37"	"2016"	"2016"	"Unknown or Not Stated"	"10"	50
+	"North Carolina"	"37"	"2017"	"2017"	"Under 20 weeks"	"01"	66
+	"North Carolina"	"37"	"2017"	"2017"	"20 - 27 weeks"	"02"	933
+	"North Carolina"	"37"	"2017"	"2017"	"28 - 31 weeks"	"03"	1339
+	"North Carolina"	"37"	"2017"	"2017"	"32 - 35 weeks"	"04"	5607
+	"North Carolina"	"37"	"2017"	"2017"	"36 weeks"	"05"	4646
+	"North Carolina"	"37"	"2017"	"2017"	"37 - 39 weeks"	"06"	72838
+	"North Carolina"	"37"	"2017"	"2017"	"40 weeks"	"07"	25015
+	"North Carolina"	"37"	"2017"	"2017"	"41 weeks"	"08"	9292
+	"North Carolina"	"37"	"2017"	"2017"	"42 weeks or more"	"09"	334
+	"North Carolina"	"37"	"2017"	"2017"	"Unknown or Not Stated"	"10"	55
+	"North Carolina"	"37"	"2018"	"2018"	"Under 20 weeks"	"01"	37
+	"North Carolina"	"37"	"2018"	"2018"	"20 - 27 weeks"	"02"	868
+	"North Carolina"	"37"	"2018"	"2018"	"28 - 31 weeks"	"03"	1190
+	"North Carolina"	"37"	"2018"	"2018"	"32 - 35 weeks"	"04"	5660
+	"North Carolina"	"37"	"2018"	"2018"	"36 weeks"	"05"	4585
+	"North Carolina"	"37"	"2018"	"2018"	"37 - 39 weeks"	"06"	73229
+	"North Carolina"	"37"	"2018"	"2018"	"40 weeks"	"07"	24630
+	"North Carolina"	"37"	"2018"	"2018"	"41 weeks"	"08"	8415
+	"North Carolina"	"37"	"2018"	"2018"	"42 weeks or more"	"09"	274
+	"North Carolina"	"37"	"2018"	"2018"	"Unknown or Not Stated"	"10"	66
+	"North Carolina"	"37"	"2019"	"2019"	"Under 20 weeks"	"01"	48
+	"North Carolina"	"37"	"2019"	"2019"	"20 - 27 weeks"	"02"	938
+	"North Carolina"	"37"	"2019"	"2019"	"28 - 31 weeks"	"03"	1229
+	"North Carolina"	"37"	"2019"	"2019"	"32 - 35 weeks"	"04"	5596
+	"North Carolina"	"37"	"2019"	"2019"	"36 weeks"	"05"	4835
+	"North Carolina"	"37"	"2019"	"2019"	"37 - 39 weeks"	"06"	75511
+	"North Carolina"	"37"	"2019"	"2019"	"40 weeks"	"07"	23277
+	"North Carolina"	"37"	"2019"	"2019"	"41 weeks"	"08"	7049
+	"North Carolina"	"37"	"2019"	"2019"	"42 weeks or more"	"09"	205
+	"North Carolina"	"37"	"2019"	"2019"	"Unknown or Not Stated"	"10"	37
+	"North Carolina"	"37"	"2020"	"2020"	"Under 20 weeks"	"01"	61
+	"North Carolina"	"37"	"2020"	"2020"	"20 - 27 weeks"	"02"	863
+	"North Carolina"	"37"	"2020"	"2020"	"28 - 31 weeks"	"03"	1204
+	"North Carolina"	"37"	"2020"	"2020"	"32 - 35 weeks"	"04"	5767
+	"North Carolina"	"37"	"2020"	"2020"	"36 weeks"	"05"	4706
+	"North Carolina"	"37"	"2020"	"2020"	"37 - 39 weeks"	"06"	75425
+	"North Carolina"	"37"	"2020"	"2020"	"40 weeks"	"07"	22221
+	"North Carolina"	"37"	"2020"	"2020"	"41 weeks"	"08"	6213
+	"North Carolina"	"37"	"2020"	"2020"	"42 weeks or more"	"09"	231
+	"North Carolina"	"37"	"2020"	"2020"	"Unknown or Not Stated"	"10"	39
+	"North Carolina"	"37"	"2021"	"2021"	"Under 20 weeks"	"01"	36
+	"North Carolina"	"37"	"2021"	"2021"	"20 - 27 weeks"	"02"	857
+	"North Carolina"	"37"	"2021"	"2021"	"28 - 31 weeks"	"03"	1289
+	"North Carolina"	"37"	"2021"	"2021"	"32 - 35 weeks"	"04"	5809
+	"North Carolina"	"37"	"2021"	"2021"	"36 weeks"	"05"	5041
+	"North Carolina"	"37"	"2021"	"2021"	"37 - 39 weeks"	"06"	79334
+	"North Carolina"	"37"	"2021"	"2021"	"40 weeks"	"07"	22000
+	"North Carolina"	"37"	"2021"	"2021"	"41 weeks"	"08"	5799
+	"North Carolina"	"37"	"2021"	"2021"	"42 weeks or more"	"09"	253
+	"North Carolina"	"37"	"2021"	"2021"	"Unknown or Not Stated"	"10"	48
+	"North Carolina"	"37"	"2022"	"2022"	"Under 20 weeks"	"01"	53
+	"North Carolina"	"37"	"2022"	"2022"	"20 - 27 weeks"	"02"	885
+	"North Carolina"	"37"	"2022"	"2022"	"28 - 31 weeks"	"03"	1200
+	"North Carolina"	"37"	"2022"	"2022"	"32 - 35 weeks"	"04"	5978
+	"North Carolina"	"37"	"2022"	"2022"	"36 weeks"	"05"	4890
+	"North Carolina"	"37"	"2022"	"2022"	"37 - 39 weeks"	"06"	79241
+	"North Carolina"	"37"	"2022"	"2022"	"40 weeks"	"07"	22396
+	"North Carolina"	"37"	"2022"	"2022"	"41 weeks"	"08"	6586
+	"North Carolina"	"37"	"2022"	"2022"	"42 weeks or more"	"09"	274
+	"North Carolina"	"37"	"2022"	"2022"	"Unknown or Not Stated"	"10"	59
+	"North Carolina"	"37"	"2023"	"2023"	"Under 20 weeks"	"01"	47
+	"North Carolina"	"37"	"2023"	"2023"	"20 - 27 weeks"	"02"	889
+	"North Carolina"	"37"	"2023"	"2023"	"28 - 31 weeks"	"03"	1182
+	"North Carolina"	"37"	"2023"	"2023"	"32 - 35 weeks"	"04"	5888
+	"North Carolina"	"37"	"2023"	"2023"	"36 weeks"	"05"	4884
+	"North Carolina"	"37"	"2023"	"2023"	"37 - 39 weeks"	"06"	79301
+	"North Carolina"	"37"	"2023"	"2023"	"40 weeks"	"07"	21780
+	"North Carolina"	"37"	"2023"	"2023"	"41 weeks"	"08"	5817
+	"North Carolina"	"37"	"2023"	"2023"	"42 weeks or more"	"09"	239
+	"North Carolina"	"37"	"2023"	"2023"	"Unknown or Not Stated"	"10"	55
+	"Ohio"	"39"	"2010"	"2010"	"Under 20 weeks"	"01"	89
+	"Ohio"	"39"	"2010"	"2010"	"20 - 27 weeks"	"02"	1014
+	"Ohio"	"39"	"2010"	"2010"	"28 - 31 weeks"	"03"	1474
+	"Ohio"	"39"	"2010"	"2010"	"32 - 35 weeks"	"04"	6241
+	"Ohio"	"39"	"2010"	"2010"	"36 weeks"	"05"	5490
+	"Ohio"	"39"	"2010"	"2010"	"37 - 39 weeks"	"06"	87071
+	"Ohio"	"39"	"2010"	"2010"	"40 weeks"	"07"	29327
+	"Ohio"	"39"	"2010"	"2010"	"41 weeks"	"08"	7527
+	"Ohio"	"39"	"2010"	"2010"	"42 weeks or more"	"09"	486
+	"Ohio"	"39"	"2010"	"2010"	"Unknown or Not Stated"	"10"	409
+	"Ohio"	"39"	"2011"	"2011"	"Under 20 weeks"	"01"	92
+	"Ohio"	"39"	"2011"	"2011"	"20 - 27 weeks"	"02"	1081
+	"Ohio"	"39"	"2011"	"2011"	"28 - 31 weeks"	"03"	1386
+	"Ohio"	"39"	"2011"	"2011"	"32 - 35 weeks"	"04"	6248
+	"Ohio"	"39"	"2011"	"2011"	"36 weeks"	"05"	5276
+	"Ohio"	"39"	"2011"	"2011"	"37 - 39 weeks"	"06"	87156
+	"Ohio"	"39"	"2011"	"2011"	"40 weeks"	"07"	28569
+	"Ohio"	"39"	"2011"	"2011"	"41 weeks"	"08"	7354
+	"Ohio"	"39"	"2011"	"2011"	"42 weeks or more"	"09"	453
+	"Ohio"	"39"	"2011"	"2011"	"Unknown or Not Stated"	"10"	303
+	"Ohio"	"39"	"2012"	"2012"	"Under 20 weeks"	"01"	86
+	"Ohio"	"39"	"2012"	"2012"	"20 - 27 weeks"	"02"	1101
+	"Ohio"	"39"	"2012"	"2012"	"28 - 31 weeks"	"03"	1549
+	"Ohio"	"39"	"2012"	"2012"	"32 - 35 weeks"	"04"	6304
+	"Ohio"	"39"	"2012"	"2012"	"36 weeks"	"05"	5398
+	"Ohio"	"39"	"2012"	"2012"	"37 - 39 weeks"	"06"	87376
+	"Ohio"	"39"	"2012"	"2012"	"40 weeks"	"07"	28576
+	"Ohio"	"39"	"2012"	"2012"	"41 weeks"	"08"	7273
+	"Ohio"	"39"	"2012"	"2012"	"42 weeks or more"	"09"	412
+	"Ohio"	"39"	"2012"	"2012"	"Unknown or Not Stated"	"10"	408
+	"Ohio"	"39"	"2013"	"2013"	"Under 20 weeks"	"01"	104
+	"Ohio"	"39"	"2013"	"2013"	"20 - 27 weeks"	"02"	1085
+	"Ohio"	"39"	"2013"	"2013"	"28 - 31 weeks"	"03"	1348
+	"Ohio"	"39"	"2013"	"2013"	"32 - 35 weeks"	"04"	6353
+	"Ohio"	"39"	"2013"	"2013"	"36 weeks"	"05"	5369
+	"Ohio"	"39"	"2013"	"2013"	"37 - 39 weeks"	"06"	88211
+	"Ohio"	"39"	"2013"	"2013"	"40 weeks"	"07"	28048
+	"Ohio"	"39"	"2013"	"2013"	"41 weeks"	"08"	7345
+	"Ohio"	"39"	"2013"	"2013"	"42 weeks or more"	"09"	492
+	"Ohio"	"39"	"2013"	"2013"	"Unknown or Not Stated"	"10"	581
+	"Ohio"	"39"	"2014"	"2014"	"Under 20 weeks"	"01"	83
+	"Ohio"	"39"	"2014"	"2014"	"20 - 27 weeks"	"02"	970
+	"Ohio"	"39"	"2014"	"2014"	"28 - 31 weeks"	"03"	1467
+	"Ohio"	"39"	"2014"	"2014"	"32 - 35 weeks"	"04"	6445
+	"Ohio"	"39"	"2014"	"2014"	"36 weeks"	"05"	5337
+	"Ohio"	"39"	"2014"	"2014"	"37 - 39 weeks"	"06"	89191
+	"Ohio"	"39"	"2014"	"2014"	"40 weeks"	"07"	27775
+	"Ohio"	"39"	"2014"	"2014"	"41 weeks"	"08"	7684
+	"Ohio"	"39"	"2014"	"2014"	"42 weeks or more"	"09"	410
+	"Ohio"	"39"	"2014"	"2014"	"Unknown or Not Stated"	"10"	105
+	"Ohio"	"39"	"2015"	"2015"	"Under 20 weeks"	"01"	73
+	"Ohio"	"39"	"2015"	"2015"	"20 - 27 weeks"	"02"	944
+	"Ohio"	"39"	"2015"	"2015"	"28 - 31 weeks"	"03"	1376
+	"Ohio"	"39"	"2015"	"2015"	"32 - 35 weeks"	"04"	6377
+	"Ohio"	"39"	"2015"	"2015"	"36 weeks"	"05"	5530
+	"Ohio"	"39"	"2015"	"2015"	"37 - 39 weeks"	"06"	88722
+	"Ohio"	"39"	"2015"	"2015"	"40 weeks"	"07"	27989
+	"Ohio"	"39"	"2015"	"2015"	"41 weeks"	"08"	7735
+	"Ohio"	"39"	"2015"	"2015"	"42 weeks or more"	"09"	423
+	"Ohio"	"39"	"2015"	"2015"	"Unknown or Not Stated"	"10"	95
+	"Ohio"	"39"	"2016"	"2016"	"Under 20 weeks"	"01"	78
+	"Ohio"	"39"	"2016"	"2016"	"20 - 27 weeks"	"02"	1044
+	"Ohio"	"39"	"2016"	"2016"	"28 - 31 weeks"	"03"	1363
+	"Ohio"	"39"	"2016"	"2016"	"32 - 35 weeks"	"04"	6338
+	"Ohio"	"39"	"2016"	"2016"	"36 weeks"	"05"	5565
+	"Ohio"	"39"	"2016"	"2016"	"37 - 39 weeks"	"06"	88256
+	"Ohio"	"39"	"2016"	"2016"	"40 weeks"	"07"	27246
+	"Ohio"	"39"	"2016"	"2016"	"41 weeks"	"08"	7689
+	"Ohio"	"39"	"2016"	"2016"	"42 weeks or more"	"09"	388
+	"Ohio"	"39"	"2016"	"2016"	"Unknown or Not Stated"	"10"	118
+	"Ohio"	"39"	"2017"	"2017"	"Under 20 weeks"	"01"	80
+	"Ohio"	"39"	"2017"	"2017"	"20 - 27 weeks"	"02"	969
+	"Ohio"	"39"	"2017"	"2017"	"28 - 31 weeks"	"03"	1400
+	"Ohio"	"39"	"2017"	"2017"	"32 - 35 weeks"	"04"	6217
+	"Ohio"	"39"	"2017"	"2017"	"36 weeks"	"05"	5502
+	"Ohio"	"39"	"2017"	"2017"	"37 - 39 weeks"	"06"	88166
+	"Ohio"	"39"	"2017"	"2017"	"40 weeks"	"07"	26735
+	"Ohio"	"39"	"2017"	"2017"	"41 weeks"	"08"	7351
+	"Ohio"	"39"	"2017"	"2017"	"42 weeks or more"	"09"	324
+	"Ohio"	"39"	"2017"	"2017"	"Unknown or Not Stated"	"10"	88
+	"Ohio"	"39"	"2018"	"2018"	"Under 20 weeks"	"01"	74
+	"Ohio"	"39"	"2018"	"2018"	"20 - 27 weeks"	"02"	881
+	"Ohio"	"39"	"2018"	"2018"	"28 - 31 weeks"	"03"	1307
+	"Ohio"	"39"	"2018"	"2018"	"32 - 35 weeks"	"04"	6117
+	"Ohio"	"39"	"2018"	"2018"	"36 weeks"	"05"	5466
+	"Ohio"	"39"	"2018"	"2018"	"37 - 39 weeks"	"06"	88193
+	"Ohio"	"39"	"2018"	"2018"	"40 weeks"	"07"	25893
+	"Ohio"	"39"	"2018"	"2018"	"41 weeks"	"08"	6780
+	"Ohio"	"39"	"2018"	"2018"	"42 weeks or more"	"09"	337
+	"Ohio"	"39"	"2018"	"2018"	"Unknown or Not Stated"	"10"	86
+	"Ohio"	"39"	"2019"	"2019"	"Under 20 weeks"	"01"	85
+	"Ohio"	"39"	"2019"	"2019"	"20 - 27 weeks"	"02"	924
+	"Ohio"	"39"	"2019"	"2019"	"28 - 31 weeks"	"03"	1404
+	"Ohio"	"39"	"2019"	"2019"	"32 - 35 weeks"	"04"	6383
+	"Ohio"	"39"	"2019"	"2019"	"36 weeks"	"05"	5324
+	"Ohio"	"39"	"2019"	"2019"	"37 - 39 weeks"	"06"	90037
+	"Ohio"	"39"	"2019"	"2019"	"40 weeks"	"07"	24414
+	"Ohio"	"39"	"2019"	"2019"	"41 weeks"	"08"	5478
+	"Ohio"	"39"	"2019"	"2019"	"42 weeks or more"	"09"	309
+	"Ohio"	"39"	"2019"	"2019"	"Unknown or Not Stated"	"10"	103
+	"Ohio"	"39"	"2020"	"2020"	"Under 20 weeks"	"01"	70
+	"Ohio"	"39"	"2020"	"2020"	"20 - 27 weeks"	"02"	807
+	"Ohio"	"39"	"2020"	"2020"	"28 - 31 weeks"	"03"	1187
+	"Ohio"	"39"	"2020"	"2020"	"32 - 35 weeks"	"04"	5992
+	"Ohio"	"39"	"2020"	"2020"	"36 weeks"	"05"	5255
+	"Ohio"	"39"	"2020"	"2020"	"37 - 39 weeks"	"06"	88122
+	"Ohio"	"39"	"2020"	"2020"	"40 weeks"	"07"	22330
+	"Ohio"	"39"	"2020"	"2020"	"41 weeks"	"08"	5038
+	"Ohio"	"39"	"2020"	"2020"	"42 weeks or more"	"09"	296
+	"Ohio"	"39"	"2020"	"2020"	"Unknown or Not Stated"	"10"	94
+	"Ohio"	"39"	"2021"	"2021"	"Under 20 weeks"	"01"	74
+	"Ohio"	"39"	"2021"	"2021"	"20 - 27 weeks"	"02"	847
+	"Ohio"	"39"	"2021"	"2021"	"28 - 31 weeks"	"03"	1327
+	"Ohio"	"39"	"2021"	"2021"	"32 - 35 weeks"	"04"	6191
+	"Ohio"	"39"	"2021"	"2021"	"36 weeks"	"05"	5298
+	"Ohio"	"39"	"2021"	"2021"	"37 - 39 weeks"	"06"	89613
+	"Ohio"	"39"	"2021"	"2021"	"40 weeks"	"07"	21379
+	"Ohio"	"39"	"2021"	"2021"	"41 weeks"	"08"	4627
+	"Ohio"	"39"	"2021"	"2021"	"42 weeks or more"	"09"	334
+	"Ohio"	"39"	"2021"	"2021"	"Unknown or Not Stated"	"10"	101
+	"Ohio"	"39"	"2022"	"2022"	"Under 20 weeks"	"01"	69
+	"Ohio"	"39"	"2022"	"2022"	"20 - 27 weeks"	"02"	833
+	"Ohio"	"39"	"2022"	"2022"	"28 - 31 weeks"	"03"	1256
+	"Ohio"	"39"	"2022"	"2022"	"32 - 35 weeks"	"04"	6332
+	"Ohio"	"39"	"2022"	"2022"	"36 weeks"	"05"	5396
+	"Ohio"	"39"	"2022"	"2022"	"37 - 39 weeks"	"06"	88155
+	"Ohio"	"39"	"2022"	"2022"	"40 weeks"	"07"	21098
+	"Ohio"	"39"	"2022"	"2022"	"41 weeks"	"08"	4677
+	"Ohio"	"39"	"2022"	"2022"	"42 weeks or more"	"09"	323
+	"Ohio"	"39"	"2022"	"2022"	"Unknown or Not Stated"	"10"	92
+	"Ohio"	"39"	"2023"	"2023"	"Under 20 weeks"	"01"	79
+	"Ohio"	"39"	"2023"	"2023"	"20 - 27 weeks"	"02"	866
+	"Ohio"	"39"	"2023"	"2023"	"28 - 31 weeks"	"03"	1252
+	"Ohio"	"39"	"2023"	"2023"	"32 - 35 weeks"	"04"	6065
+	"Ohio"	"39"	"2023"	"2023"	"36 weeks"	"05"	5303
+	"Ohio"	"39"	"2023"	"2023"	"37 - 39 weeks"	"06"	88079
+	"Ohio"	"39"	"2023"	"2023"	"40 weeks"	"07"	20284
+	"Ohio"	"39"	"2023"	"2023"	"41 weeks"	"08"	4542
+	"Ohio"	"39"	"2023"	"2023"	"42 weeks or more"	"09"	348
+	"Ohio"	"39"	"2023"	"2023"	"Unknown or Not Stated"	"10"	78
+	"Oklahoma"	"40"	"2010"	"2010"	"Under 20 weeks"	"01"	32
+	"Oklahoma"	"40"	"2010"	"2010"	"20 - 27 weeks"	"02"	365
+	"Oklahoma"	"40"	"2010"	"2010"	"28 - 31 weeks"	"03"	513
+	"Oklahoma"	"40"	"2010"	"2010"	"32 - 35 weeks"	"04"	2544
+	"Oklahoma"	"40"	"2010"	"2010"	"36 weeks"	"05"	2465
+	"Oklahoma"	"40"	"2010"	"2010"	"37 - 39 weeks"	"06"	36521
+	"Oklahoma"	"40"	"2010"	"2010"	"40 weeks"	"07"	8845
+	"Oklahoma"	"40"	"2010"	"2010"	"41 weeks"	"08"	1580
+	"Oklahoma"	"40"	"2010"	"2010"	"42 weeks or more"	"09"	152
+	"Oklahoma"	"40"	"2010"	"2010"	"Unknown or Not Stated"	"10"	221
+	"Oklahoma"	"40"	"2011"	"2011"	"Under 20 weeks"	"01"	14
+	"Oklahoma"	"40"	"2011"	"2011"	"20 - 27 weeks"	"02"	355
+	"Oklahoma"	"40"	"2011"	"2011"	"28 - 31 weeks"	"03"	499
+	"Oklahoma"	"40"	"2011"	"2011"	"32 - 35 weeks"	"04"	2511
+	"Oklahoma"	"40"	"2011"	"2011"	"36 weeks"	"05"	2260
+	"Oklahoma"	"40"	"2011"	"2011"	"37 - 39 weeks"	"06"	35640
+	"Oklahoma"	"40"	"2011"	"2011"	"40 weeks"	"07"	9077
+	"Oklahoma"	"40"	"2011"	"2011"	"41 weeks"	"08"	1623
+	"Oklahoma"	"40"	"2011"	"2011"	"42 weeks or more"	"09"	142
+	"Oklahoma"	"40"	"2011"	"2011"	"Unknown or Not Stated"	"10"	151
+	"Oklahoma"	"40"	"2012"	"2012"	"Under 20 weeks"	"01"	26
+	"Oklahoma"	"40"	"2012"	"2012"	"20 - 27 weeks"	"02"	395
+	"Oklahoma"	"40"	"2012"	"2012"	"28 - 31 weeks"	"03"	432
+	"Oklahoma"	"40"	"2012"	"2012"	"32 - 35 weeks"	"04"	2427
+	"Oklahoma"	"40"	"2012"	"2012"	"36 weeks"	"05"	2430
+	"Oklahoma"	"40"	"2012"	"2012"	"37 - 39 weeks"	"06"	36112
+	"Oklahoma"	"40"	"2012"	"2012"	"40 weeks"	"07"	8932
+	"Oklahoma"	"40"	"2012"	"2012"	"41 weeks"	"08"	1655
+	"Oklahoma"	"40"	"2012"	"2012"	"42 weeks or more"	"09"	146
+	"Oklahoma"	"40"	"2012"	"2012"	"Unknown or Not Stated"	"10"	196
+	"Oklahoma"	"40"	"2013"	"2013"	"Under 20 weeks"	"01"	30
+	"Oklahoma"	"40"	"2013"	"2013"	"20 - 27 weeks"	"02"	316
+	"Oklahoma"	"40"	"2013"	"2013"	"28 - 31 weeks"	"03"	492
+	"Oklahoma"	"40"	"2013"	"2013"	"32 - 35 weeks"	"04"	2544
+	"Oklahoma"	"40"	"2013"	"2013"	"36 weeks"	"05"	2243
+	"Oklahoma"	"40"	"2013"	"2013"	"37 - 39 weeks"	"06"	36589
+	"Oklahoma"	"40"	"2013"	"2013"	"40 weeks"	"07"	9197
+	"Oklahoma"	"40"	"2013"	"2013"	"41 weeks"	"08"	1745
+	"Oklahoma"	"40"	"2013"	"2013"	"42 weeks or more"	"09"	128
+	"Oklahoma"	"40"	"2013"	"2013"	"Unknown or Not Stated"	"10"	85
+	"Oklahoma"	"40"	"2014"	"2014"	"Under 20 weeks"	"01"	21
+	"Oklahoma"	"40"	"2014"	"2014"	"20 - 27 weeks"	"02"	373
+	"Oklahoma"	"40"	"2014"	"2014"	"28 - 31 weeks"	"03"	490
+	"Oklahoma"	"40"	"2014"	"2014"	"32 - 35 weeks"	"04"	2398
+	"Oklahoma"	"40"	"2014"	"2014"	"36 weeks"	"05"	2210
+	"Oklahoma"	"40"	"2014"	"2014"	"37 - 39 weeks"	"06"	36546
+	"Oklahoma"	"40"	"2014"	"2014"	"40 weeks"	"07"	9213
+	"Oklahoma"	"40"	"2014"	"2014"	"41 weeks"	"08"	1893
+	"Oklahoma"	"40"	"2014"	"2014"	"42 weeks or more"	"09"	140
+	"Oklahoma"	"40"	"2014"	"2014"	"Unknown or Not Stated"	"10"	55
+	"Oklahoma"	"40"	"2015"	"2015"	"Under 20 weeks"	"01"	24
+	"Oklahoma"	"40"	"2015"	"2015"	"20 - 27 weeks"	"02"	315
+	"Oklahoma"	"40"	"2015"	"2015"	"28 - 31 weeks"	"03"	481
+	"Oklahoma"	"40"	"2015"	"2015"	"32 - 35 weeks"	"04"	2400
+	"Oklahoma"	"40"	"2015"	"2015"	"36 weeks"	"05"	2265
+	"Oklahoma"	"40"	"2015"	"2015"	"37 - 39 weeks"	"06"	36598
+	"Oklahoma"	"40"	"2015"	"2015"	"40 weeks"	"07"	9043
+	"Oklahoma"	"40"	"2015"	"2015"	"41 weeks"	"08"	1821
+	"Oklahoma"	"40"	"2015"	"2015"	"42 weeks or more"	"09"	135
+	"Oklahoma"	"40"	"2015"	"2015"	"Unknown or Not Stated"	"10"	40
+	"Oklahoma"	"40"	"2016"	"2016"	"Under 20 weeks"	"01"	20
+	"Oklahoma"	"40"	"2016"	"2016"	"20 - 27 weeks"	"02"	330
+	"Oklahoma"	"40"	"2016"	"2016"	"28 - 31 weeks"	"03"	446
+	"Oklahoma"	"40"	"2016"	"2016"	"32 - 35 weeks"	"04"	2472
+	"Oklahoma"	"40"	"2016"	"2016"	"36 weeks"	"05"	2329
+	"Oklahoma"	"40"	"2016"	"2016"	"37 - 39 weeks"	"06"	36423
+	"Oklahoma"	"40"	"2016"	"2016"	"40 weeks"	"07"	8626
+	"Oklahoma"	"40"	"2016"	"2016"	"41 weeks"	"08"	1764
+	"Oklahoma"	"40"	"2016"	"2016"	"42 weeks or more"	"09"	145
+	"Oklahoma"	"40"	"2016"	"2016"	"Unknown or Not Stated"	"10"	37
+	"Oklahoma"	"40"	"2017"	"2017"	"Under 20 weeks"	"01"	25
+	"Oklahoma"	"40"	"2017"	"2017"	"20 - 27 weeks"	"02"	342
+	"Oklahoma"	"40"	"2017"	"2017"	"28 - 31 weeks"	"03"	503
+	"Oklahoma"	"40"	"2017"	"2017"	"32 - 35 weeks"	"04"	2417
+	"Oklahoma"	"40"	"2017"	"2017"	"36 weeks"	"05"	2305
+	"Oklahoma"	"40"	"2017"	"2017"	"37 - 39 weeks"	"06"	35000
+	"Oklahoma"	"40"	"2017"	"2017"	"40 weeks"	"07"	7883
+	"Oklahoma"	"40"	"2017"	"2017"	"41 weeks"	"08"	1610
+	"Oklahoma"	"40"	"2017"	"2017"	"42 weeks or more"	"09"	102
+	"Oklahoma"	"40"	"2017"	"2017"	"Unknown or Not Stated"	"10"	27
+	"Oklahoma"	"40"	"2018"	"2018"	"Under 20 weeks"	"01"	17
+	"Oklahoma"	"40"	"2018"	"2018"	"20 - 27 weeks"	"02"	328
+	"Oklahoma"	"40"	"2018"	"2018"	"28 - 31 weeks"	"03"	478
+	"Oklahoma"	"40"	"2018"	"2018"	"32 - 35 weeks"	"04"	2537
+	"Oklahoma"	"40"	"2018"	"2018"	"36 weeks"	"05"	2310
+	"Oklahoma"	"40"	"2018"	"2018"	"37 - 39 weeks"	"06"	35379
+	"Oklahoma"	"40"	"2018"	"2018"	"40 weeks"	"07"	7327
+	"Oklahoma"	"40"	"2018"	"2018"	"41 weeks"	"08"	1306
+	"Oklahoma"	"40"	"2018"	"2018"	"42 weeks or more"	"09"	92
+	"Oklahoma"	"40"	"2018"	"2018"	"Unknown or Not Stated"	"10"	26
+	"Oklahoma"	"40"	"2019"	"2019"	"Under 20 weeks"	"01"	21
+	"Oklahoma"	"40"	"2019"	"2019"	"20 - 27 weeks"	"02"	307
+	"Oklahoma"	"40"	"2019"	"2019"	"28 - 31 weeks"	"03"	457
+	"Oklahoma"	"40"	"2019"	"2019"	"32 - 35 weeks"	"04"	2474
+	"Oklahoma"	"40"	"2019"	"2019"	"36 weeks"	"05"	2387
+	"Oklahoma"	"40"	"2019"	"2019"	"37 - 39 weeks"	"06"	35523
+	"Oklahoma"	"40"	"2019"	"2019"	"40 weeks"	"07"	6736
+	"Oklahoma"	"40"	"2019"	"2019"	"41 weeks"	"08"	1140
+	"Oklahoma"	"40"	"2019"	"2019"	"42 weeks or more"	"09"	76
+	"Oklahoma"	"40"	"2019"	"2019"	"Unknown or Not Stated"	"10"	22
+	"Oklahoma"	"40"	"2020"	"2020"	"Under 20 weeks"	"01"	16
+	"Oklahoma"	"40"	"2020"	"2020"	"20 - 27 weeks"	"02"	259
+	"Oklahoma"	"40"	"2020"	"2020"	"28 - 31 weeks"	"03"	443
+	"Oklahoma"	"40"	"2020"	"2020"	"32 - 35 weeks"	"04"	2338
+	"Oklahoma"	"40"	"2020"	"2020"	"36 weeks"	"05"	2260
+	"Oklahoma"	"40"	"2020"	"2020"	"37 - 39 weeks"	"06"	34807
+	"Oklahoma"	"40"	"2020"	"2020"	"40 weeks"	"07"	6245
+	"Oklahoma"	"40"	"2020"	"2020"	"41 weeks"	"08"	1119
+	"Oklahoma"	"40"	"2020"	"2020"	"42 weeks or more"	"09"	101
+	"Oklahoma"	"40"	"2020"	"2020"	"Unknown or Not Stated"	"10"	35
+	"Oklahoma"	"40"	"2021"	"2021"	"Under 20 weeks"	"01"	13
+	"Oklahoma"	"40"	"2021"	"2021"	"20 - 27 weeks"	"02"	327
+	"Oklahoma"	"40"	"2021"	"2021"	"28 - 31 weeks"	"03"	513
+	"Oklahoma"	"40"	"2021"	"2021"	"32 - 35 weeks"	"04"	2550
+	"Oklahoma"	"40"	"2021"	"2021"	"36 weeks"	"05"	2369
+	"Oklahoma"	"40"	"2021"	"2021"	"37 - 39 weeks"	"06"	35309
+	"Oklahoma"	"40"	"2021"	"2021"	"40 weeks"	"07"	6185
+	"Oklahoma"	"40"	"2021"	"2021"	"41 weeks"	"08"	1021
+	"Oklahoma"	"40"	"2021"	"2021"	"42 weeks or more"	"09"	72
+	"Oklahoma"	"40"	"2021"	"2021"	"Unknown or Not Stated"	"10"	51
+	"Oklahoma"	"40"	"2022"	"2022"	"Under 20 weeks"	"01"	31
+	"Oklahoma"	"40"	"2022"	"2022"	"20 - 27 weeks"	"02"	286
+	"Oklahoma"	"40"	"2022"	"2022"	"28 - 31 weeks"	"03"	478
+	"Oklahoma"	"40"	"2022"	"2022"	"32 - 35 weeks"	"04"	2463
+	"Oklahoma"	"40"	"2022"	"2022"	"36 weeks"	"05"	2204
+	"Oklahoma"	"40"	"2022"	"2022"	"37 - 39 weeks"	"06"	35041
+	"Oklahoma"	"40"	"2022"	"2022"	"40 weeks"	"07"	6576
+	"Oklahoma"	"40"	"2022"	"2022"	"41 weeks"	"08"	1111
+	"Oklahoma"	"40"	"2022"	"2022"	"42 weeks or more"	"09"	85
+	"Oklahoma"	"40"	"2022"	"2022"	"Unknown or Not Stated"	"10"	57
+	"Oklahoma"	"40"	"2023"	"2023"	"Under 20 weeks"	"01"	29
+	"Oklahoma"	"40"	"2023"	"2023"	"20 - 27 weeks"	"02"	282
+	"Oklahoma"	"40"	"2023"	"2023"	"28 - 31 weeks"	"03"	452
+	"Oklahoma"	"40"	"2023"	"2023"	"32 - 35 weeks"	"04"	2353
+	"Oklahoma"	"40"	"2023"	"2023"	"36 weeks"	"05"	2163
+	"Oklahoma"	"40"	"2023"	"2023"	"37 - 39 weeks"	"06"	34940
+	"Oklahoma"	"40"	"2023"	"2023"	"40 weeks"	"07"	6376
+	"Oklahoma"	"40"	"2023"	"2023"	"41 weeks"	"08"	1177
+	"Oklahoma"	"40"	"2023"	"2023"	"42 weeks or more"	"09"	83
+	"Oklahoma"	"40"	"2023"	"2023"	"Unknown or Not Stated"	"10"	54
+	"Pennsylvania"	"42"	"2010"	"2010"	"Under 20 weeks"	"01"	82
+	"Pennsylvania"	"42"	"2010"	"2010"	"20 - 27 weeks"	"02"	1015
+	"Pennsylvania"	"42"	"2010"	"2010"	"28 - 31 weeks"	"03"	1452
+	"Pennsylvania"	"42"	"2010"	"2010"	"32 - 35 weeks"	"04"	6292
+	"Pennsylvania"	"42"	"2010"	"2010"	"36 weeks"	"05"	5219
+	"Pennsylvania"	"42"	"2010"	"2010"	"37 - 39 weeks"	"06"	82069
+	"Pennsylvania"	"42"	"2010"	"2010"	"40 weeks"	"07"	34151
+	"Pennsylvania"	"42"	"2010"	"2010"	"41 weeks"	"08"	11289
+	"Pennsylvania"	"42"	"2010"	"2010"	"42 weeks or more"	"09"	605
+	"Pennsylvania"	"42"	"2010"	"2010"	"Unknown or Not Stated"	"10"	1147
+	"Pennsylvania"	"42"	"2011"	"2011"	"Under 20 weeks"	"01"	72
+	"Pennsylvania"	"42"	"2011"	"2011"	"20 - 27 weeks"	"02"	977
+	"Pennsylvania"	"42"	"2011"	"2011"	"28 - 31 weeks"	"03"	1411
+	"Pennsylvania"	"42"	"2011"	"2011"	"32 - 35 weeks"	"04"	6106
+	"Pennsylvania"	"42"	"2011"	"2011"	"36 weeks"	"05"	5009
+	"Pennsylvania"	"42"	"2011"	"2011"	"37 - 39 weeks"	"06"	82428
+	"Pennsylvania"	"42"	"2011"	"2011"	"40 weeks"	"07"	34143
+	"Pennsylvania"	"42"	"2011"	"2011"	"41 weeks"	"08"	11280
+	"Pennsylvania"	"42"	"2011"	"2011"	"42 weeks or more"	"09"	627
+	"Pennsylvania"	"42"	"2011"	"2011"	"Unknown or Not Stated"	"10"	1125
+	"Pennsylvania"	"42"	"2012"	"2012"	"Under 20 weeks"	"01"	85
+	"Pennsylvania"	"42"	"2012"	"2012"	"20 - 27 weeks"	"02"	1056
+	"Pennsylvania"	"42"	"2012"	"2012"	"28 - 31 weeks"	"03"	1401
+	"Pennsylvania"	"42"	"2012"	"2012"	"32 - 35 weeks"	"04"	5981
+	"Pennsylvania"	"42"	"2012"	"2012"	"36 weeks"	"05"	4884
+	"Pennsylvania"	"42"	"2012"	"2012"	"37 - 39 weeks"	"06"	82837
+	"Pennsylvania"	"42"	"2012"	"2012"	"40 weeks"	"07"	33287
+	"Pennsylvania"	"42"	"2012"	"2012"	"41 weeks"	"08"	11215
+	"Pennsylvania"	"42"	"2012"	"2012"	"42 weeks or more"	"09"	595
+	"Pennsylvania"	"42"	"2012"	"2012"	"Unknown or Not Stated"	"10"	1173
+	"Pennsylvania"	"42"	"2013"	"2013"	"Under 20 weeks"	"01"	76
+	"Pennsylvania"	"42"	"2013"	"2013"	"20 - 27 weeks"	"02"	944
+	"Pennsylvania"	"42"	"2013"	"2013"	"28 - 31 weeks"	"03"	1375
+	"Pennsylvania"	"42"	"2013"	"2013"	"32 - 35 weeks"	"04"	5874
+	"Pennsylvania"	"42"	"2013"	"2013"	"36 weeks"	"05"	4797
+	"Pennsylvania"	"42"	"2013"	"2013"	"37 - 39 weeks"	"06"	81194
+	"Pennsylvania"	"42"	"2013"	"2013"	"40 weeks"	"07"	33297
+	"Pennsylvania"	"42"	"2013"	"2013"	"41 weeks"	"08"	11624
+	"Pennsylvania"	"42"	"2013"	"2013"	"42 weeks or more"	"09"	594
+	"Pennsylvania"	"42"	"2013"	"2013"	"Unknown or Not Stated"	"10"	1146
+	"Pennsylvania"	"42"	"2014"	"2014"	"Under 20 weeks"	"01"	80
+	"Pennsylvania"	"42"	"2014"	"2014"	"20 - 27 weeks"	"02"	908
+	"Pennsylvania"	"42"	"2014"	"2014"	"28 - 31 weeks"	"03"	1299
+	"Pennsylvania"	"42"	"2014"	"2014"	"32 - 35 weeks"	"04"	6094
+	"Pennsylvania"	"42"	"2014"	"2014"	"36 weeks"	"05"	4910
+	"Pennsylvania"	"42"	"2014"	"2014"	"37 - 39 weeks"	"06"	83033
+	"Pennsylvania"	"42"	"2014"	"2014"	"40 weeks"	"07"	32917
+	"Pennsylvania"	"42"	"2014"	"2014"	"41 weeks"	"08"	12228
+	"Pennsylvania"	"42"	"2014"	"2014"	"42 weeks or more"	"09"	582
+	"Pennsylvania"	"42"	"2014"	"2014"	"Unknown or Not Stated"	"10"	217
+	"Pennsylvania"	"42"	"2015"	"2015"	"Under 20 weeks"	"01"	89
+	"Pennsylvania"	"42"	"2015"	"2015"	"20 - 27 weeks"	"02"	877
+	"Pennsylvania"	"42"	"2015"	"2015"	"28 - 31 weeks"	"03"	1291
+	"Pennsylvania"	"42"	"2015"	"2015"	"32 - 35 weeks"	"04"	6167
+	"Pennsylvania"	"42"	"2015"	"2015"	"36 weeks"	"05"	4800
+	"Pennsylvania"	"42"	"2015"	"2015"	"37 - 39 weeks"	"06"	82733
+	"Pennsylvania"	"42"	"2015"	"2015"	"40 weeks"	"07"	32325
+	"Pennsylvania"	"42"	"2015"	"2015"	"41 weeks"	"08"	11915
+	"Pennsylvania"	"42"	"2015"	"2015"	"42 weeks or more"	"09"	603
+	"Pennsylvania"	"42"	"2015"	"2015"	"Unknown or Not Stated"	"10"	247
+	"Pennsylvania"	"42"	"2016"	"2016"	"Under 20 weeks"	"01"	70
+	"Pennsylvania"	"42"	"2016"	"2016"	"20 - 27 weeks"	"02"	904
+	"Pennsylvania"	"42"	"2016"	"2016"	"28 - 31 weeks"	"03"	1258
+	"Pennsylvania"	"42"	"2016"	"2016"	"32 - 35 weeks"	"04"	5761
+	"Pennsylvania"	"42"	"2016"	"2016"	"36 weeks"	"05"	4969
+	"Pennsylvania"	"42"	"2016"	"2016"	"37 - 39 weeks"	"06"	82654
+	"Pennsylvania"	"42"	"2016"	"2016"	"40 weeks"	"07"	31310
+	"Pennsylvania"	"42"	"2016"	"2016"	"41 weeks"	"08"	11740
+	"Pennsylvania"	"42"	"2016"	"2016"	"42 weeks or more"	"09"	509
+	"Pennsylvania"	"42"	"2016"	"2016"	"Unknown or Not Stated"	"10"	234
+	"Pennsylvania"	"42"	"2017"	"2017"	"Under 20 weeks"	"01"	73
+	"Pennsylvania"	"42"	"2017"	"2017"	"20 - 27 weeks"	"02"	911
+	"Pennsylvania"	"42"	"2017"	"2017"	"28 - 31 weeks"	"03"	1315
+	"Pennsylvania"	"42"	"2017"	"2017"	"32 - 35 weeks"	"04"	5759
+	"Pennsylvania"	"42"	"2017"	"2017"	"36 weeks"	"05"	4911
+	"Pennsylvania"	"42"	"2017"	"2017"	"37 - 39 weeks"	"06"	82271
+	"Pennsylvania"	"42"	"2017"	"2017"	"40 weeks"	"07"	30319
+	"Pennsylvania"	"42"	"2017"	"2017"	"41 weeks"	"08"	11495
+	"Pennsylvania"	"42"	"2017"	"2017"	"42 weeks or more"	"09"	473
+	"Pennsylvania"	"42"	"2017"	"2017"	"Unknown or Not Stated"	"10"	218
+	"Pennsylvania"	"42"	"2018"	"2018"	"Under 20 weeks"	"01"	65
+	"Pennsylvania"	"42"	"2018"	"2018"	"20 - 27 weeks"	"02"	830
+	"Pennsylvania"	"42"	"2018"	"2018"	"28 - 31 weeks"	"03"	1229
+	"Pennsylvania"	"42"	"2018"	"2018"	"32 - 35 weeks"	"04"	5678
+	"Pennsylvania"	"42"	"2018"	"2018"	"36 weeks"	"05"	5113
+	"Pennsylvania"	"42"	"2018"	"2018"	"37 - 39 weeks"	"06"	82059
+	"Pennsylvania"	"42"	"2018"	"2018"	"40 weeks"	"07"	29252
+	"Pennsylvania"	"42"	"2018"	"2018"	"41 weeks"	"08"	10770
+	"Pennsylvania"	"42"	"2018"	"2018"	"42 weeks or more"	"09"	446
+	"Pennsylvania"	"42"	"2018"	"2018"	"Unknown or Not Stated"	"10"	231
+	"Pennsylvania"	"42"	"2019"	"2019"	"Under 20 weeks"	"01"	77
+	"Pennsylvania"	"42"	"2019"	"2019"	"20 - 27 weeks"	"02"	855
+	"Pennsylvania"	"42"	"2019"	"2019"	"28 - 31 weeks"	"03"	1233
+	"Pennsylvania"	"42"	"2019"	"2019"	"32 - 35 weeks"	"04"	5961
+	"Pennsylvania"	"42"	"2019"	"2019"	"36 weeks"	"05"	5193
+	"Pennsylvania"	"42"	"2019"	"2019"	"37 - 39 weeks"	"06"	83566
+	"Pennsylvania"	"42"	"2019"	"2019"	"40 weeks"	"07"	27467
+	"Pennsylvania"	"42"	"2019"	"2019"	"41 weeks"	"08"	9278
+	"Pennsylvania"	"42"	"2019"	"2019"	"42 weeks or more"	"09"	389
+	"Pennsylvania"	"42"	"2019"	"2019"	"Unknown or Not Stated"	"10"	211
+	"Pennsylvania"	"42"	"2020"	"2020"	"Under 20 weeks"	"01"	68
+	"Pennsylvania"	"42"	"2020"	"2020"	"20 - 27 weeks"	"02"	767
+	"Pennsylvania"	"42"	"2020"	"2020"	"28 - 31 weeks"	"03"	1056
+	"Pennsylvania"	"42"	"2020"	"2020"	"32 - 35 weeks"	"04"	5546
+	"Pennsylvania"	"42"	"2020"	"2020"	"36 weeks"	"05"	5049
+	"Pennsylvania"	"42"	"2020"	"2020"	"37 - 39 weeks"	"06"	83547
+	"Pennsylvania"	"42"	"2020"	"2020"	"40 weeks"	"07"	26117
+	"Pennsylvania"	"42"	"2020"	"2020"	"41 weeks"	"08"	7976
+	"Pennsylvania"	"42"	"2020"	"2020"	"42 weeks or more"	"09"	331
+	"Pennsylvania"	"42"	"2020"	"2020"	"Unknown or Not Stated"	"10"	236
+	"Pennsylvania"	"42"	"2021"	"2021"	"Under 20 weeks"	"01"	47
+	"Pennsylvania"	"42"	"2021"	"2021"	"20 - 27 weeks"	"02"	765
+	"Pennsylvania"	"42"	"2021"	"2021"	"28 - 31 weeks"	"03"	1151
+	"Pennsylvania"	"42"	"2021"	"2021"	"32 - 35 weeks"	"04"	5878
+	"Pennsylvania"	"42"	"2021"	"2021"	"36 weeks"	"05"	5165
+	"Pennsylvania"	"42"	"2021"	"2021"	"37 - 39 weeks"	"06"	85538
+	"Pennsylvania"	"42"	"2021"	"2021"	"40 weeks"	"07"	25945
+	"Pennsylvania"	"42"	"2021"	"2021"	"41 weeks"	"08"	7589
+	"Pennsylvania"	"42"	"2021"	"2021"	"42 weeks or more"	"09"	341
+	"Pennsylvania"	"42"	"2021"	"2021"	"Unknown or Not Stated"	"10"	203
+	"Pennsylvania"	"42"	"2022"	"2022"	"Under 20 weeks"	"01"	72
+	"Pennsylvania"	"42"	"2022"	"2022"	"20 - 27 weeks"	"02"	771
+	"Pennsylvania"	"42"	"2022"	"2022"	"28 - 31 weeks"	"03"	1122
+	"Pennsylvania"	"42"	"2022"	"2022"	"32 - 35 weeks"	"04"	5735
+	"Pennsylvania"	"42"	"2022"	"2022"	"36 weeks"	"05"	4813
+	"Pennsylvania"	"42"	"2022"	"2022"	"37 - 39 weeks"	"06"	84061
+	"Pennsylvania"	"42"	"2022"	"2022"	"40 weeks"	"07"	25906
+	"Pennsylvania"	"42"	"2022"	"2022"	"41 weeks"	"08"	7144
+	"Pennsylvania"	"42"	"2022"	"2022"	"42 weeks or more"	"09"	416
+	"Pennsylvania"	"42"	"2022"	"2022"	"Unknown or Not Stated"	"10"	212
+	"Pennsylvania"	"42"	"2023"	"2023"	"Under 20 weeks"	"01"	60
+	"Pennsylvania"	"42"	"2023"	"2023"	"20 - 27 weeks"	"02"	714
+	"Pennsylvania"	"42"	"2023"	"2023"	"28 - 31 weeks"	"03"	1087
+	"Pennsylvania"	"42"	"2023"	"2023"	"32 - 35 weeks"	"04"	5844
+	"Pennsylvania"	"42"	"2023"	"2023"	"36 weeks"	"05"	4606
+	"Pennsylvania"	"42"	"2023"	"2023"	"37 - 39 weeks"	"06"	81835
+	"Pennsylvania"	"42"	"2023"	"2023"	"40 weeks"	"07"	25200
+	"Pennsylvania"	"42"	"2023"	"2023"	"41 weeks"	"08"	7024
+	"Pennsylvania"	"42"	"2023"	"2023"	"42 weeks or more"	"09"	391
+	"Pennsylvania"	"42"	"2023"	"2023"	"Unknown or Not Stated"	"10"	190
+	"South Carolina"	"45"	"2010"	"2010"	"Under 20 weeks"	"01"	14
+	"South Carolina"	"45"	"2010"	"2010"	"20 - 27 weeks"	"02"	477
+	"South Carolina"	"45"	"2010"	"2010"	"28 - 31 weeks"	"03"	689
+	"South Carolina"	"45"	"2010"	"2010"	"32 - 35 weeks"	"04"	2875
+	"South Carolina"	"45"	"2010"	"2010"	"36 weeks"	"05"	2649
+	"South Carolina"	"45"	"2010"	"2010"	"37 - 39 weeks"	"06"	38641
+	"South Carolina"	"45"	"2010"	"2010"	"40 weeks"	"07"	10662
+	"South Carolina"	"45"	"2010"	"2010"	"41 weeks"	"08"	2190
+	"South Carolina"	"45"	"2010"	"2010"	"42 weeks or more"	"09"	105
+	"South Carolina"	"45"	"2010"	"2010"	"Unknown or Not Stated"	"10"	40
+	"South Carolina"	"45"	"2011"	"2011"	"Under 20 weeks"	"01"	19
+	"South Carolina"	"45"	"2011"	"2011"	"20 - 27 weeks"	"02"	463
+	"South Carolina"	"45"	"2011"	"2011"	"28 - 31 weeks"	"03"	683
+	"South Carolina"	"45"	"2011"	"2011"	"32 - 35 weeks"	"04"	2852
+	"South Carolina"	"45"	"2011"	"2011"	"36 weeks"	"05"	2581
+	"South Carolina"	"45"	"2011"	"2011"	"37 - 39 weeks"	"06"	38161
+	"South Carolina"	"45"	"2011"	"2011"	"40 weeks"	"07"	10376
+	"South Carolina"	"45"	"2011"	"2011"	"41 weeks"	"08"	2121
+	"South Carolina"	"45"	"2011"	"2011"	"42 weeks or more"	"09"	102
+	"South Carolina"	"45"	"2011"	"2011"	"Unknown or Not Stated"	"10"	35
+	"South Carolina"	"45"	"2012"	"2012"	"Under 20 weeks"	"01"	17
+	"South Carolina"	"45"	"2012"	"2012"	"20 - 27 weeks"	"02"	459
+	"South Carolina"	"45"	"2012"	"2012"	"28 - 31 weeks"	"03"	665
+	"South Carolina"	"45"	"2012"	"2012"	"32 - 35 weeks"	"04"	2854
+	"South Carolina"	"45"	"2012"	"2012"	"36 weeks"	"05"	2447
+	"South Carolina"	"45"	"2012"	"2012"	"37 - 39 weeks"	"06"	38008
+	"South Carolina"	"45"	"2012"	"2012"	"40 weeks"	"07"	10383
+	"South Carolina"	"45"	"2012"	"2012"	"41 weeks"	"08"	2172
+	"South Carolina"	"45"	"2012"	"2012"	"42 weeks or more"	"09"	114
+	"South Carolina"	"45"	"2012"	"2012"	"Unknown or Not Stated"	"10"	36
+	"South Carolina"	"45"	"2013"	"2013"	"Under 20 weeks"	"01"	15
+	"South Carolina"	"45"	"2013"	"2013"	"20 - 27 weeks"	"02"	458
+	"South Carolina"	"45"	"2013"	"2013"	"28 - 31 weeks"	"03"	713
+	"South Carolina"	"45"	"2013"	"2013"	"32 - 35 weeks"	"04"	2818
+	"South Carolina"	"45"	"2013"	"2013"	"36 weeks"	"05"	2322
+	"South Carolina"	"45"	"2013"	"2013"	"37 - 39 weeks"	"06"	37540
+	"South Carolina"	"45"	"2013"	"2013"	"40 weeks"	"07"	10518
+	"South Carolina"	"45"	"2013"	"2013"	"41 weeks"	"08"	2280
+	"South Carolina"	"45"	"2013"	"2013"	"42 weeks or more"	"09"	103
+	"South Carolina"	"45"	"2013"	"2013"	"Unknown or Not Stated"	"10"	28
+	"South Carolina"	"45"	"2014"	"2014"	"Under 20 weeks"	"01"	17
+	"South Carolina"	"45"	"2014"	"2014"	"20 - 27 weeks"	"02"	428
+	"South Carolina"	"45"	"2014"	"2014"	"28 - 31 weeks"	"03"	677
+	"South Carolina"	"45"	"2014"	"2014"	"32 - 35 weeks"	"04"	2823
+	"South Carolina"	"45"	"2014"	"2014"	"36 weeks"	"05"	2267
+	"South Carolina"	"45"	"2014"	"2014"	"37 - 39 weeks"	"06"	37780
+	"South Carolina"	"45"	"2014"	"2014"	"40 weeks"	"07"	10805
+	"South Carolina"	"45"	"2014"	"2014"	"41 weeks"	"08"	2695
+	"South Carolina"	"45"	"2014"	"2014"	"42 weeks or more"	"09"	115
+	"South Carolina"	"45"	"2014"	"2014"	"Unknown or Not Stated"	"10"	20
+	"South Carolina"	"45"	"2015"	"2015"	"Under 20 weeks"	"01"	19
+	"South Carolina"	"45"	"2015"	"2015"	"20 - 27 weeks"	"02"	492
+	"South Carolina"	"45"	"2015"	"2015"	"28 - 31 weeks"	"03"	651
+	"South Carolina"	"45"	"2015"	"2015"	"32 - 35 weeks"	"04"	2888
+	"South Carolina"	"45"	"2015"	"2015"	"36 weeks"	"05"	2379
+	"South Carolina"	"45"	"2015"	"2015"	"37 - 39 weeks"	"06"	37619
+	"South Carolina"	"45"	"2015"	"2015"	"40 weeks"	"07"	11232
+	"South Carolina"	"45"	"2015"	"2015"	"41 weeks"	"08"	2720
+	"South Carolina"	"45"	"2015"	"2015"	"42 weeks or more"	"09"	111
+	"South Carolina"	"45"	"2015"	"2015"	"Unknown or Not Stated"	"10"	28
+	"South Carolina"	"45"	"2016"	"2016"	"Under 20 weeks"	"01"	13
+	"South Carolina"	"45"	"2016"	"2016"	"20 - 27 weeks"	"02"	464
+	"South Carolina"	"45"	"2016"	"2016"	"28 - 31 weeks"	"03"	659
+	"South Carolina"	"45"	"2016"	"2016"	"32 - 35 weeks"	"04"	2891
+	"South Carolina"	"45"	"2016"	"2016"	"36 weeks"	"05"	2368
+	"South Carolina"	"45"	"2016"	"2016"	"37 - 39 weeks"	"06"	37419
+	"South Carolina"	"45"	"2016"	"2016"	"40 weeks"	"07"	10764
+	"South Carolina"	"45"	"2016"	"2016"	"41 weeks"	"08"	2633
+	"South Carolina"	"45"	"2016"	"2016"	"42 weeks or more"	"09"	116
+	"South Carolina"	"45"	"2016"	"2016"	"Unknown or Not Stated"	"10"	15
+	"South Carolina"	"45"	"2017"	"2017"	"Under 20 weeks"	"01"	18
+	"South Carolina"	"45"	"2017"	"2017"	"20 - 27 weeks"	"02"	450
+	"South Carolina"	"45"	"2017"	"2017"	"28 - 31 weeks"	"03"	625
+	"South Carolina"	"45"	"2017"	"2017"	"32 - 35 weeks"	"04"	2917
+	"South Carolina"	"45"	"2017"	"2017"	"36 weeks"	"05"	2386
+	"South Carolina"	"45"	"2017"	"2017"	"37 - 39 weeks"	"06"	37877
+	"South Carolina"	"45"	"2017"	"2017"	"40 weeks"	"07"	10333
+	"South Carolina"	"45"	"2017"	"2017"	"41 weeks"	"08"	2314
+	"South Carolina"	"45"	"2017"	"2017"	"42 weeks or more"	"09"	83
+	"South Carolina"	"45"	"2017"	"2017"	"Unknown or Not Stated"	"10"	26
+	"South Carolina"	"45"	"2018"	"2018"	"Under 20 weeks"	"01"	19
+	"South Carolina"	"45"	"2018"	"2018"	"20 - 27 weeks"	"02"	447
+	"South Carolina"	"45"	"2018"	"2018"	"28 - 31 weeks"	"03"	617
+	"South Carolina"	"45"	"2018"	"2018"	"32 - 35 weeks"	"04"	2876
+	"South Carolina"	"45"	"2018"	"2018"	"36 weeks"	"05"	2467
+	"South Carolina"	"45"	"2018"	"2018"	"37 - 39 weeks"	"06"	38319
+	"South Carolina"	"45"	"2018"	"2018"	"40 weeks"	"07"	9706
+	"South Carolina"	"45"	"2018"	"2018"	"41 weeks"	"08"	2096
+	"South Carolina"	"45"	"2018"	"2018"	"42 weeks or more"	"09"	100
+	"South Carolina"	"45"	"2018"	"2018"	"Unknown or Not Stated"	"10"	22
+	"South Carolina"	"45"	"2019"	"2019"	"Under 20 weeks"	"01"	28
+	"South Carolina"	"45"	"2019"	"2019"	"20 - 27 weeks"	"02"	439
+	"South Carolina"	"45"	"2019"	"2019"	"28 - 31 weeks"	"03"	677
+	"South Carolina"	"45"	"2019"	"2019"	"32 - 35 weeks"	"04"	2969
+	"South Carolina"	"45"	"2019"	"2019"	"36 weeks"	"05"	2426
+	"South Carolina"	"45"	"2019"	"2019"	"37 - 39 weeks"	"06"	39799
+	"South Carolina"	"45"	"2019"	"2019"	"40 weeks"	"07"	8955
+	"South Carolina"	"45"	"2019"	"2019"	"41 weeks"	"08"	1655
+	"South Carolina"	"45"	"2019"	"2019"	"42 weeks or more"	"09"	73
+	"South Carolina"	"45"	"2019"	"2019"	"Unknown or Not Stated"	"10"	17
+	"South Carolina"	"45"	"2020"	"2020"	"Under 20 weeks"	"01"	19
+	"South Carolina"	"45"	"2020"	"2020"	"20 - 27 weeks"	"02"	427
+	"South Carolina"	"45"	"2020"	"2020"	"28 - 31 weeks"	"03"	585
+	"South Carolina"	"45"	"2020"	"2020"	"32 - 35 weeks"	"04"	2936
+	"South Carolina"	"45"	"2020"	"2020"	"36 weeks"	"05"	2609
+	"South Carolina"	"45"	"2020"	"2020"	"37 - 39 weeks"	"06"	39444
+	"South Carolina"	"45"	"2020"	"2020"	"40 weeks"	"07"	8083
+	"South Carolina"	"45"	"2020"	"2020"	"41 weeks"	"08"	1502
+	"South Carolina"	"45"	"2020"	"2020"	"42 weeks or more"	"09"	81
+	"South Carolina"	"45"	"2020"	"2020"	"Unknown or Not Stated"	"10"	18
+	"South Carolina"	"45"	"2021"	"2021"	"Under 20 weeks"	"01"	22
+	"South Carolina"	"45"	"2021"	"2021"	"20 - 27 weeks"	"02"	457
+	"South Carolina"	"45"	"2021"	"2021"	"28 - 31 weeks"	"03"	652
+	"South Carolina"	"45"	"2021"	"2021"	"32 - 35 weeks"	"04"	3066
+	"South Carolina"	"45"	"2021"	"2021"	"36 weeks"	"05"	2706
+	"South Carolina"	"45"	"2021"	"2021"	"37 - 39 weeks"	"06"	40418
+	"South Carolina"	"45"	"2021"	"2021"	"40 weeks"	"07"	8229
+	"South Carolina"	"45"	"2021"	"2021"	"41 weeks"	"08"	1515
+	"South Carolina"	"45"	"2021"	"2021"	"42 weeks or more"	"09"	96
+	"South Carolina"	"45"	"2021"	"2021"	"Unknown or Not Stated"	"10"	24
+	"South Carolina"	"45"	"2022"	"2022"	"Under 20 weeks"	"01"	24
+	"South Carolina"	"45"	"2022"	"2022"	"20 - 27 weeks"	"02"	470
+	"South Carolina"	"45"	"2022"	"2022"	"28 - 31 weeks"	"03"	593
+	"South Carolina"	"45"	"2022"	"2022"	"32 - 35 weeks"	"04"	2982
+	"South Carolina"	"45"	"2022"	"2022"	"36 weeks"	"05"	2644
+	"South Carolina"	"45"	"2022"	"2022"	"37 - 39 weeks"	"06"	40992
+	"South Carolina"	"45"	"2022"	"2022"	"40 weeks"	"07"	8426
+	"South Carolina"	"45"	"2022"	"2022"	"41 weeks"	"08"	1563
+	"South Carolina"	"45"	"2022"	"2022"	"42 weeks or more"	"09"	106
+	"South Carolina"	"45"	"2022"	"2022"	"Unknown or Not Stated"	"10"	20
+	"South Carolina"	"45"	"2023"	"2023"	"Under 20 weeks"	"01"	31
+	"South Carolina"	"45"	"2023"	"2023"	"20 - 27 weeks"	"02"	413
+	"South Carolina"	"45"	"2023"	"2023"	"28 - 31 weeks"	"03"	574
+	"South Carolina"	"45"	"2023"	"2023"	"32 - 35 weeks"	"04"	3092
+	"South Carolina"	"45"	"2023"	"2023"	"36 weeks"	"05"	2591
+	"South Carolina"	"45"	"2023"	"2023"	"37 - 39 weeks"	"06"	41301
+	"South Carolina"	"45"	"2023"	"2023"	"40 weeks"	"07"	8025
+	"South Carolina"	"45"	"2023"	"2023"	"41 weeks"	"08"	1576
+	"South Carolina"	"45"	"2023"	"2023"	"42 weeks or more"	"09"	113
+	"South Carolina"	"45"	"2023"	"2023"	"Unknown or Not Stated"	"10"	13
+	"Texas"	"48"	"2010"	"2010"	"Under 20 weeks"	"01"	183
+	"Texas"	"48"	"2010"	"2010"	"20 - 27 weeks"	"02"	2647
+	"Texas"	"48"	"2010"	"2010"	"28 - 31 weeks"	"03"	3720
+	"Texas"	"48"	"2010"	"2010"	"32 - 35 weeks"	"04"	18563
+	"Texas"	"48"	"2010"	"2010"	"36 weeks"	"05"	17004
+	"Texas"	"48"	"2010"	"2010"	"37 - 39 weeks"	"06"	258203
+	"Texas"	"48"	"2010"	"2010"	"40 weeks"	"07"	67483
+	"Texas"	"48"	"2010"	"2010"	"41 weeks"	"08"	16026
+	"Texas"	"48"	"2010"	"2010"	"42 weeks or more"	"09"	2156
+	"Texas"	"48"	"2010"	"2010"	"Unknown or Not Stated"	"10"	133
+	"Texas"	"48"	"2011"	"2011"	"Under 20 weeks"	"01"	139
+	"Texas"	"48"	"2011"	"2011"	"20 - 27 weeks"	"02"	2502
+	"Texas"	"48"	"2011"	"2011"	"28 - 31 weeks"	"03"	3579
+	"Texas"	"48"	"2011"	"2011"	"32 - 35 weeks"	"04"	18118
+	"Texas"	"48"	"2011"	"2011"	"36 weeks"	"05"	16040
+	"Texas"	"48"	"2011"	"2011"	"37 - 39 weeks"	"06"	253669
+	"Texas"	"48"	"2011"	"2011"	"40 weeks"	"07"	66259
+	"Texas"	"48"	"2011"	"2011"	"41 weeks"	"08"	15109
+	"Texas"	"48"	"2011"	"2011"	"42 weeks or more"	"09"	1884
+	"Texas"	"48"	"2011"	"2011"	"Unknown or Not Stated"	"10"	146
+	"Texas"	"48"	"2012"	"2012"	"Under 20 weeks"	"01"	150
+	"Texas"	"48"	"2012"	"2012"	"20 - 27 weeks"	"02"	2627
+	"Texas"	"48"	"2012"	"2012"	"28 - 31 weeks"	"03"	3799
+	"Texas"	"48"	"2012"	"2012"	"32 - 35 weeks"	"04"	17907
+	"Texas"	"48"	"2012"	"2012"	"36 weeks"	"05"	15696
+	"Texas"	"48"	"2012"	"2012"	"37 - 39 weeks"	"06"	259934
+	"Texas"	"48"	"2012"	"2012"	"40 weeks"	"07"	66167
+	"Texas"	"48"	"2012"	"2012"	"41 weeks"	"08"	14573
+	"Texas"	"48"	"2012"	"2012"	"42 weeks or more"	"09"	1731
+	"Texas"	"48"	"2012"	"2012"	"Unknown or Not Stated"	"10"	143
+	"Texas"	"48"	"2013"	"2013"	"Under 20 weeks"	"01"	153
+	"Texas"	"48"	"2013"	"2013"	"20 - 27 weeks"	"02"	2545
+	"Texas"	"48"	"2013"	"2013"	"28 - 31 weeks"	"03"	3608
+	"Texas"	"48"	"2013"	"2013"	"32 - 35 weeks"	"04"	17813
+	"Texas"	"48"	"2013"	"2013"	"36 weeks"	"05"	16221
+	"Texas"	"48"	"2013"	"2013"	"37 - 39 weeks"	"06"	261378
+	"Texas"	"48"	"2013"	"2013"	"40 weeks"	"07"	68909
+	"Texas"	"48"	"2013"	"2013"	"41 weeks"	"08"	15056
+	"Texas"	"48"	"2013"	"2013"	"42 weeks or more"	"09"	1509
+	"Texas"	"48"	"2013"	"2013"	"Unknown or Not Stated"	"10"	148
+	"Texas"	"48"	"2014"	"2014"	"Under 20 weeks"	"01"	126
+	"Texas"	"48"	"2014"	"2014"	"20 - 27 weeks"	"02"	2719
+	"Texas"	"48"	"2014"	"2014"	"28 - 31 weeks"	"03"	3773
+	"Texas"	"48"	"2014"	"2014"	"32 - 35 weeks"	"04"	18281
+	"Texas"	"48"	"2014"	"2014"	"36 weeks"	"05"	16446
+	"Texas"	"48"	"2014"	"2014"	"37 - 39 weeks"	"06"	268331
+	"Texas"	"48"	"2014"	"2014"	"40 weeks"	"07"	72128
+	"Texas"	"48"	"2014"	"2014"	"41 weeks"	"08"	16183
+	"Texas"	"48"	"2014"	"2014"	"42 weeks or more"	"09"	1620
+	"Texas"	"48"	"2014"	"2014"	"Unknown or Not Stated"	"10"	159
+	"Texas"	"48"	"2015"	"2015"	"Under 20 weeks"	"01"	109
+	"Texas"	"48"	"2015"	"2015"	"20 - 27 weeks"	"02"	2637
+	"Texas"	"48"	"2015"	"2015"	"28 - 31 weeks"	"03"	3724
+	"Texas"	"48"	"2015"	"2015"	"32 - 35 weeks"	"04"	18327
+	"Texas"	"48"	"2015"	"2015"	"36 weeks"	"05"	16222
+	"Texas"	"48"	"2015"	"2015"	"37 - 39 weeks"	"06"	271513
+	"Texas"	"48"	"2015"	"2015"	"40 weeks"	"07"	73093
+	"Texas"	"48"	"2015"	"2015"	"41 weeks"	"08"	16266
+	"Texas"	"48"	"2015"	"2015"	"42 weeks or more"	"09"	1552
+	"Texas"	"48"	"2015"	"2015"	"Unknown or Not Stated"	"10"	175
+	"Texas"	"48"	"2016"	"2016"	"Under 20 weeks"	"01"	117
+	"Texas"	"48"	"2016"	"2016"	"20 - 27 weeks"	"02"	2649
+	"Texas"	"48"	"2016"	"2016"	"28 - 31 weeks"	"03"	3827
+	"Texas"	"48"	"2016"	"2016"	"32 - 35 weeks"	"04"	18428
+	"Texas"	"48"	"2016"	"2016"	"36 weeks"	"05"	16367
+	"Texas"	"48"	"2016"	"2016"	"37 - 39 weeks"	"06"	270354
+	"Texas"	"48"	"2016"	"2016"	"40 weeks"	"07"	69228
+	"Texas"	"48"	"2016"	"2016"	"41 weeks"	"08"	15394
+	"Texas"	"48"	"2016"	"2016"	"42 weeks or more"	"09"	1308
+	"Texas"	"48"	"2016"	"2016"	"Unknown or Not Stated"	"10"	375
+	"Texas"	"48"	"2017"	"2017"	"Under 20 weeks"	"01"	157
+	"Texas"	"48"	"2017"	"2017"	"20 - 27 weeks"	"02"	2591
+	"Texas"	"48"	"2017"	"2017"	"28 - 31 weeks"	"03"	3647
+	"Texas"	"48"	"2017"	"2017"	"32 - 35 weeks"	"04"	17776
+	"Texas"	"48"	"2017"	"2017"	"36 weeks"	"05"	16232
+	"Texas"	"48"	"2017"	"2017"	"37 - 39 weeks"	"06"	261014
+	"Texas"	"48"	"2017"	"2017"	"40 weeks"	"07"	64967
+	"Texas"	"48"	"2017"	"2017"	"41 weeks"	"08"	14226
+	"Texas"	"48"	"2017"	"2017"	"42 weeks or more"	"09"	1193
+	"Texas"	"48"	"2017"	"2017"	"Unknown or Not Stated"	"10"	247
+	"Texas"	"48"	"2018"	"2018"	"Under 20 weeks"	"01"	144
+	"Texas"	"48"	"2018"	"2018"	"20 - 27 weeks"	"02"	2500
+	"Texas"	"48"	"2018"	"2018"	"28 - 31 weeks"	"03"	3538
+	"Texas"	"48"	"2018"	"2018"	"32 - 35 weeks"	"04"	18137
+	"Texas"	"48"	"2018"	"2018"	"36 weeks"	"05"	16480
+	"Texas"	"48"	"2018"	"2018"	"37 - 39 weeks"	"06"	262598
+	"Texas"	"48"	"2018"	"2018"	"40 weeks"	"07"	60681
+	"Texas"	"48"	"2018"	"2018"	"41 weeks"	"08"	13376
+	"Texas"	"48"	"2018"	"2018"	"42 weeks or more"	"09"	1075
+	"Texas"	"48"	"2018"	"2018"	"Unknown or Not Stated"	"10"	95
+	"Texas"	"48"	"2019"	"2019"	"Under 20 weeks"	"01"	140
+	"Texas"	"48"	"2019"	"2019"	"20 - 27 weeks"	"02"	2517
+	"Texas"	"48"	"2019"	"2019"	"28 - 31 weeks"	"03"	3550
+	"Texas"	"48"	"2019"	"2019"	"32 - 35 weeks"	"04"	18384
+	"Texas"	"48"	"2019"	"2019"	"36 weeks"	"05"	17043
+	"Texas"	"48"	"2019"	"2019"	"37 - 39 weeks"	"06"	267212
+	"Texas"	"48"	"2019"	"2019"	"40 weeks"	"07"	56123
+	"Texas"	"48"	"2019"	"2019"	"41 weeks"	"08"	11835
+	"Texas"	"48"	"2019"	"2019"	"42 weeks or more"	"09"	750
+	"Texas"	"48"	"2019"	"2019"	"Unknown or Not Stated"	"10"	45
+	"Texas"	"48"	"2020"	"2020"	"Under 20 weeks"	"01"	174
+	"Texas"	"48"	"2020"	"2020"	"20 - 27 weeks"	"02"	2414
+	"Texas"	"48"	"2020"	"2020"	"28 - 31 weeks"	"03"	3490
+	"Texas"	"48"	"2020"	"2020"	"32 - 35 weeks"	"04"	17440
+	"Texas"	"48"	"2020"	"2020"	"36 weeks"	"05"	16193
+	"Texas"	"48"	"2020"	"2020"	"37 - 39 weeks"	"06"	262812
+	"Texas"	"48"	"2020"	"2020"	"40 weeks"	"07"	53985
+	"Texas"	"48"	"2020"	"2020"	"41 weeks"	"08"	10788
+	"Texas"	"48"	"2020"	"2020"	"42 weeks or more"	"09"	809
+	"Texas"	"48"	"2020"	"2020"	"Unknown or Not Stated"	"10"	85
+	"Texas"	"48"	"2021"	"2021"	"Under 20 weeks"	"01"	139
+	"Texas"	"48"	"2021"	"2021"	"20 - 27 weeks"	"02"	2455
+	"Texas"	"48"	"2021"	"2021"	"28 - 31 weeks"	"03"	3733
+	"Texas"	"48"	"2021"	"2021"	"32 - 35 weeks"	"04"	19049
+	"Texas"	"48"	"2021"	"2021"	"36 weeks"	"05"	17142
+	"Texas"	"48"	"2021"	"2021"	"37 - 39 weeks"	"06"	265413
+	"Texas"	"48"	"2021"	"2021"	"40 weeks"	"07"	53645
+	"Texas"	"48"	"2021"	"2021"	"41 weeks"	"08"	11103
+	"Texas"	"48"	"2021"	"2021"	"42 weeks or more"	"09"	813
+	"Texas"	"48"	"2021"	"2021"	"Unknown or Not Stated"	"10"	102
+	"Texas"	"48"	"2022"	"2022"	"Under 20 weeks"	"01"	130
+	"Texas"	"48"	"2022"	"2022"	"20 - 27 weeks"	"02"	2535
+	"Texas"	"48"	"2022"	"2022"	"28 - 31 weeks"	"03"	3861
+	"Texas"	"48"	"2022"	"2022"	"32 - 35 weeks"	"04"	19649
+	"Texas"	"48"	"2022"	"2022"	"36 weeks"	"05"	17693
+	"Texas"	"48"	"2022"	"2022"	"37 - 39 weeks"	"06"	273894
+	"Texas"	"48"	"2022"	"2022"	"40 weeks"	"07"	58177
+	"Texas"	"48"	"2022"	"2022"	"41 weeks"	"08"	12737
+	"Texas"	"48"	"2022"	"2022"	"42 weeks or more"	"09"	963
+	"Texas"	"48"	"2022"	"2022"	"Unknown or Not Stated"	"10"	102
+	"Texas"	"48"	"2023"	"2023"	"Under 20 weeks"	"01"	169
+	"Texas"	"48"	"2023"	"2023"	"20 - 27 weeks"	"02"	2552
+	"Texas"	"48"	"2023"	"2023"	"28 - 31 weeks"	"03"	3614
+	"Texas"	"48"	"2023"	"2023"	"32 - 35 weeks"	"04"	19351
+	"Texas"	"48"	"2023"	"2023"	"36 weeks"	"05"	17486
+	"Texas"	"48"	"2023"	"2023"	"37 - 39 weeks"	"06"	274937
+	"Texas"	"48"	"2023"	"2023"	"40 weeks"	"07"	56729
+	"Texas"	"48"	"2023"	"2023"	"41 weeks"	"08"	12086
+	"Texas"	"48"	"2023"	"2023"	"42 weeks or more"	"09"	958
+	"Texas"	"48"	"2023"	"2023"	"Unknown or Not Stated"	"10"	63
+	"Washington"	"53"	"2010"	"2010"	"Under 20 weeks"	"01"	21
+	"Washington"	"53"	"2010"	"2010"	"20 - 27 weeks"	"02"	391
+	"Washington"	"53"	"2010"	"2010"	"28 - 31 weeks"	"03"	602
+	"Washington"	"53"	"2010"	"2010"	"32 - 35 weeks"	"04"	3336
+	"Washington"	"53"	"2010"	"2010"	"36 weeks"	"05"	2954
+	"Washington"	"53"	"2010"	"2010"	"37 - 39 weeks"	"06"	48658
+	"Washington"	"53"	"2010"	"2010"	"40 weeks"	"07"	21569
+	"Washington"	"53"	"2010"	"2010"	"41 weeks"	"08"	8115
+	"Washington"	"53"	"2010"	"2010"	"42 weeks or more"	"09"	640
+	"Washington"	"53"	"2010"	"2010"	"Unknown or Not Stated"	"10"	253
+	"Washington"	"53"	"2011"	"2011"	"Under 20 weeks"	"01"	15
+	"Washington"	"53"	"2011"	"2011"	"20 - 27 weeks"	"02"	335
+	"Washington"	"53"	"2011"	"2011"	"28 - 31 weeks"	"03"	663
+	"Washington"	"53"	"2011"	"2011"	"32 - 35 weeks"	"04"	3300
+	"Washington"	"53"	"2011"	"2011"	"36 weeks"	"05"	2794
+	"Washington"	"53"	"2011"	"2011"	"37 - 39 weeks"	"06"	48543
+	"Washington"	"53"	"2011"	"2011"	"40 weeks"	"07"	21851
+	"Washington"	"53"	"2011"	"2011"	"41 weeks"	"08"	8504
+	"Washington"	"53"	"2011"	"2011"	"42 weeks or more"	"09"	597
+	"Washington"	"53"	"2011"	"2011"	"Unknown or Not Stated"	"10"	374
+	"Washington"	"53"	"2012"	"2012"	"Under 20 weeks"	"01"	28
+	"Washington"	"53"	"2012"	"2012"	"20 - 27 weeks"	"02"	438
+	"Washington"	"53"	"2012"	"2012"	"28 - 31 weeks"	"03"	616
+	"Washington"	"53"	"2012"	"2012"	"32 - 35 weeks"	"04"	3233
+	"Washington"	"53"	"2012"	"2012"	"36 weeks"	"05"	2947
+	"Washington"	"53"	"2012"	"2012"	"37 - 39 weeks"	"06"	49800
+	"Washington"	"53"	"2012"	"2012"	"40 weeks"	"07"	21554
+	"Washington"	"53"	"2012"	"2012"	"41 weeks"	"08"	7960
+	"Washington"	"53"	"2012"	"2012"	"42 weeks or more"	"09"	588
+	"Washington"	"53"	"2012"	"2012"	"Unknown or Not Stated"	"10"	299
+	"Washington"	"53"	"2013"	"2013"	"Under 20 weeks"	"01"	25
+	"Washington"	"53"	"2013"	"2013"	"20 - 27 weeks"	"02"	400
+	"Washington"	"53"	"2013"	"2013"	"28 - 31 weeks"	"03"	655
+	"Washington"	"53"	"2013"	"2013"	"32 - 35 weeks"	"04"	3283
+	"Washington"	"53"	"2013"	"2013"	"36 weeks"	"05"	2660
+	"Washington"	"53"	"2013"	"2013"	"37 - 39 weeks"	"06"	48849
+	"Washington"	"53"	"2013"	"2013"	"40 weeks"	"07"	21217
+	"Washington"	"53"	"2013"	"2013"	"41 weeks"	"08"	8572
+	"Washington"	"53"	"2013"	"2013"	"42 weeks or more"	"09"	660
+	"Washington"	"53"	"2013"	"2013"	"Unknown or Not Stated"	"10"	256
+	"Washington"	"53"	"2014"	"2014"	"Under 20 weeks"	"01"	18
+	"Washington"	"53"	"2014"	"2014"	"20 - 27 weeks"	"02"	424
+	"Washington"	"53"	"2014"	"2014"	"28 - 31 weeks"	"03"	627
+	"Washington"	"53"	"2014"	"2014"	"32 - 35 weeks"	"04"	3307
+	"Washington"	"53"	"2014"	"2014"	"36 weeks"	"05"	2749
+	"Washington"	"53"	"2014"	"2014"	"37 - 39 weeks"	"06"	49674
+	"Washington"	"53"	"2014"	"2014"	"40 weeks"	"07"	21473
+	"Washington"	"53"	"2014"	"2014"	"41 weeks"	"08"	9452
+	"Washington"	"53"	"2014"	"2014"	"42 weeks or more"	"09"	766
+	"Washington"	"53"	"2014"	"2014"	"Unknown or Not Stated"	"10"	95
+	"Washington"	"53"	"2015"	"2015"	"Under 20 weeks"	"01"	28
+	"Washington"	"53"	"2015"	"2015"	"20 - 27 weeks"	"02"	444
+	"Washington"	"53"	"2015"	"2015"	"28 - 31 weeks"	"03"	683
+	"Washington"	"53"	"2015"	"2015"	"32 - 35 weeks"	"04"	3284
+	"Washington"	"53"	"2015"	"2015"	"36 weeks"	"05"	2777
+	"Washington"	"53"	"2015"	"2015"	"37 - 39 weeks"	"06"	49910
+	"Washington"	"53"	"2015"	"2015"	"40 weeks"	"07"	21534
+	"Washington"	"53"	"2015"	"2015"	"41 weeks"	"08"	9569
+	"Washington"	"53"	"2015"	"2015"	"42 weeks or more"	"09"	694
+	"Washington"	"53"	"2015"	"2015"	"Unknown or Not Stated"	"10"	67
+	"Washington"	"53"	"2016"	"2016"	"20 - 27 weeks"	"02"	366
+	"Washington"	"53"	"2016"	"2016"	"28 - 31 weeks"	"03"	659
+	"Washington"	"53"	"2016"	"2016"	"32 - 35 weeks"	"04"	3360
+	"Washington"	"53"	"2016"	"2016"	"36 weeks"	"05"	2970
+	"Washington"	"53"	"2016"	"2016"	"37 - 39 weeks"	"06"	51316
+	"Washington"	"53"	"2016"	"2016"	"40 weeks"	"07"	21464
+	"Washington"	"53"	"2016"	"2016"	"41 weeks"	"08"	9608
+	"Washington"	"53"	"2016"	"2016"	"42 weeks or more"	"09"	678
+	"Washington"	"53"	"2016"	"2016"	"Unknown or Not Stated"	"10"	75
+	"Washington"	"53"	"2017"	"2017"	"Under 20 weeks"	"01"	15
+	"Washington"	"53"	"2017"	"2017"	"20 - 27 weeks"	"02"	361
+	"Washington"	"53"	"2017"	"2017"	"28 - 31 weeks"	"03"	606
+	"Washington"	"53"	"2017"	"2017"	"32 - 35 weeks"	"04"	3338
+	"Washington"	"53"	"2017"	"2017"	"36 weeks"	"05"	3014
+	"Washington"	"53"	"2017"	"2017"	"37 - 39 weeks"	"06"	50882
+	"Washington"	"53"	"2017"	"2017"	"40 weeks"	"07"	19792
+	"Washington"	"53"	"2017"	"2017"	"41 weeks"	"08"	8886
+	"Washington"	"53"	"2017"	"2017"	"42 weeks or more"	"09"	560
+	"Washington"	"53"	"2017"	"2017"	"Unknown or Not Stated"	"10"	108
+	"Washington"	"53"	"2018"	"2018"	"Under 20 weeks"	"01"	26
+	"Washington"	"53"	"2018"	"2018"	"20 - 27 weeks"	"02"	407
+	"Washington"	"53"	"2018"	"2018"	"28 - 31 weeks"	"03"	587
+	"Washington"	"53"	"2018"	"2018"	"32 - 35 weeks"	"04"	3183
+	"Washington"	"53"	"2018"	"2018"	"36 weeks"	"05"	2944
+	"Washington"	"53"	"2018"	"2018"	"37 - 39 weeks"	"06"	50702
+	"Washington"	"53"	"2018"	"2018"	"40 weeks"	"07"	19368
+	"Washington"	"53"	"2018"	"2018"	"41 weeks"	"08"	8270
+	"Washington"	"53"	"2018"	"2018"	"42 weeks or more"	"09"	472
+	"Washington"	"53"	"2018"	"2018"	"Unknown or Not Stated"	"10"	126
+	"Washington"	"53"	"2019"	"2019"	"Under 20 weeks"	"01"	19
+	"Washington"	"53"	"2019"	"2019"	"20 - 27 weeks"	"02"	348
+	"Washington"	"53"	"2019"	"2019"	"28 - 31 weeks"	"03"	572
+	"Washington"	"53"	"2019"	"2019"	"32 - 35 weeks"	"04"	3181
+	"Washington"	"53"	"2019"	"2019"	"36 weeks"	"05"	3052
+	"Washington"	"53"	"2019"	"2019"	"37 - 39 weeks"	"06"	51301
+	"Washington"	"53"	"2019"	"2019"	"40 weeks"	"07"	18407
+	"Washington"	"53"	"2019"	"2019"	"41 weeks"	"08"	7455
+	"Washington"	"53"	"2019"	"2019"	"42 weeks or more"	"09"	384
+	"Washington"	"53"	"2019"	"2019"	"Unknown or Not Stated"	"10"	176
+	"Washington"	"53"	"2020"	"2020"	"Under 20 weeks"	"01"	25
+	"Washington"	"53"	"2020"	"2020"	"20 - 27 weeks"	"02"	388
+	"Washington"	"53"	"2020"	"2020"	"28 - 31 weeks"	"03"	627
+	"Washington"	"53"	"2020"	"2020"	"32 - 35 weeks"	"04"	3182
+	"Washington"	"53"	"2020"	"2020"	"36 weeks"	"05"	2945
+	"Washington"	"53"	"2020"	"2020"	"37 - 39 weeks"	"06"	50741
+	"Washington"	"53"	"2020"	"2020"	"40 weeks"	"07"	17425
+	"Washington"	"53"	"2020"	"2020"	"41 weeks"	"08"	7196
+	"Washington"	"53"	"2020"	"2020"	"42 weeks or more"	"09"	417
+	"Washington"	"53"	"2020"	"2020"	"Unknown or Not Stated"	"10"	140
+	"Washington"	"53"	"2021"	"2021"	"Under 20 weeks"	"01"	19
+	"Washington"	"53"	"2021"	"2021"	"20 - 27 weeks"	"02"	368
+	"Washington"	"53"	"2021"	"2021"	"28 - 31 weeks"	"03"	676
+	"Washington"	"53"	"2021"	"2021"	"32 - 35 weeks"	"04"	3308
+	"Washington"	"53"	"2021"	"2021"	"36 weeks"	"05"	3051
+	"Washington"	"53"	"2021"	"2021"	"37 - 39 weeks"	"06"	51926
+	"Washington"	"53"	"2021"	"2021"	"40 weeks"	"07"	17139
+	"Washington"	"53"	"2021"	"2021"	"41 weeks"	"08"	6848
+	"Washington"	"53"	"2021"	"2021"	"42 weeks or more"	"09"	403
+	"Washington"	"53"	"2021"	"2021"	"Unknown or Not Stated"	"10"	173
+	"Washington"	"53"	"2022"	"2022"	"Under 20 weeks"	"01"	18
+	"Washington"	"53"	"2022"	"2022"	"20 - 27 weeks"	"02"	371
+	"Washington"	"53"	"2022"	"2022"	"28 - 31 weeks"	"03"	620
+	"Washington"	"53"	"2022"	"2022"	"32 - 35 weeks"	"04"	3313
+	"Washington"	"53"	"2022"	"2022"	"36 weeks"	"05"	2965
+	"Washington"	"53"	"2022"	"2022"	"37 - 39 weeks"	"06"	50874
+	"Washington"	"53"	"2022"	"2022"	"40 weeks"	"07"	17287
+	"Washington"	"53"	"2022"	"2022"	"41 weeks"	"08"	7222
+	"Washington"	"53"	"2022"	"2022"	"42 weeks or more"	"09"	444
+	"Washington"	"53"	"2022"	"2022"	"Unknown or Not Stated"	"10"	219
+	"Washington"	"53"	"2023"	"2023"	"Under 20 weeks"	"01"	16
+	"Washington"	"53"	"2023"	"2023"	"20 - 27 weeks"	"02"	365
+	"Washington"	"53"	"2023"	"2023"	"28 - 31 weeks"	"03"	603
+	"Washington"	"53"	"2023"	"2023"	"32 - 35 weeks"	"04"	3117
+	"Washington"	"53"	"2023"	"2023"	"36 weeks"	"05"	2925
+	"Washington"	"53"	"2023"	"2023"	"37 - 39 weeks"	"06"	49946
+	"Washington"	"53"	"2023"	"2023"	"40 weeks"	"07"	16590
+	"Washington"	"53"	"2023"	"2023"	"41 weeks"	"08"	6808
+	"Washington"	"53"	"2023"	"2023"	"42 weeks or more"	"09"	366
+	"Washington"	"53"	"2023"	"2023"	"Unknown or Not Stated"	"10"	196
+"---"
+"Dataset: Natality, 2007-2023"
+"Query Parameters:"
+"States: Arizona (04); Arkansas (05); California (06); Florida (12); Georgia (13); Illinois (17); Indiana (18); Maryland (24);"
+"Michigan (26); Missouri (29); New Jersey (34); New York (36); North Carolina (37); Ohio (39); Oklahoma (40); Pennsylvania (42);"
+"South Carolina (45); Texas (48); Washington (53)"
+"Year: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020; 2021; 2022; 2023"
+"Group By: State; Year; OE Gestational Age 10"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
+"---"
+"Query Date: Mar 25, 2025 1:19:57 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-current.html on Mar 25, 2025 1:19:57 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/natality.html#Assurance of Confidentiality."
+"2. Each birth record represents one liveborn infant."

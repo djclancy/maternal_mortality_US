@@ -1,0 +1,1647 @@
+S"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Mother's Bridged Race"	"Mother's Bridged Race Code"	Births
+	"Arizona"	"04"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	5999
+	"Arizona"	"04"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	3341
+	"Arizona"	"04"	"2010"	"2010"	"Black or African American"	"2054-5"	4447
+	"Arizona"	"04"	"2010"	"2010"	"White"	"2106-3"	73690
+	"Arizona"	"04"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"Arizona"	"04"	"2010"	"2010"			87477
+	"Arizona"	"04"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	5989
+	"Arizona"	"04"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	3553
+	"Arizona"	"04"	"2011"	"2011"	"Black or African American"	"2054-5"	4475
+	"Arizona"	"04"	"2011"	"2011"	"White"	"2106-3"	71526
+	"Arizona"	"04"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"Arizona"	"04"	"2011"	"2011"			85543
+	"Arizona"	"04"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	5857
+	"Arizona"	"04"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	3667
+	"Arizona"	"04"	"2012"	"2012"	"Black or African American"	"2054-5"	4857
+	"Arizona"	"04"	"2012"	"2012"	"White"	"2106-3"	72060
+	"Arizona"	"04"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"Arizona"	"04"	"2012"	"2012"			86441
+	"Arizona"	"04"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	5746
+	"Arizona"	"04"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	3514
+	"Arizona"	"04"	"2013"	"2013"	"Black or African American"	"2054-5"	4870
+	"Arizona"	"04"	"2013"	"2013"	"White"	"2106-3"	71470
+	"Arizona"	"04"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"Arizona"	"04"	"2013"	"2013"			85600
+	"Arizona"	"04"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	5473
+	"Arizona"	"04"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	3519
+	"Arizona"	"04"	"2014"	"2014"	"Black or African American"	"2054-5"	5208
+	"Arizona"	"04"	"2014"	"2014"	"White"	"2106-3"	72687
+	"Arizona"	"04"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"Arizona"	"04"	"2014"	"2014"			86887
+	"Arizona"	"04"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	5316
+	"Arizona"	"04"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	3518
+	"Arizona"	"04"	"2015"	"2015"	"Black or African American"	"2054-5"	5095
+	"Arizona"	"04"	"2015"	"2015"	"White"	"2106-3"	71422
+	"Arizona"	"04"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"Arizona"	"04"	"2015"	"2015"			85351
+	"Arizona"	"04"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	5310
+	"Arizona"	"04"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	3714
+	"Arizona"	"04"	"2016"	"2016"	"Black or African American"	"2054-5"	5222
+	"Arizona"	"04"	"2016"	"2016"	"White"	"2106-3"	70274
+	"Arizona"	"04"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"Arizona"	"04"	"2016"	"2016"			84520
+	"Arizona"	"04"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	5027
+	"Arizona"	"04"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	3647
+	"Arizona"	"04"	"2017"	"2017"	"Black or African American"	"2054-5"	5406
+	"Arizona"	"04"	"2017"	"2017"	"White"	"2106-3"	67792
+	"Arizona"	"04"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"Arizona"	"04"	"2017"	"2017"			81872
+	"Arizona"	"04"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	4868
+	"Arizona"	"04"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	3629
+	"Arizona"	"04"	"2018"	"2018"	"Black or African American"	"2054-5"	5502
+	"Arizona"	"04"	"2018"	"2018"	"White"	"2106-3"	66724
+	"Arizona"	"04"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"Arizona"	"04"	"2018"	"2018"			80723
+	"Arizona"	"04"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	4677
+	"Arizona"	"04"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	3524
+	"Arizona"	"04"	"2019"	"2019"	"Black or African American"	"2054-5"	5801
+	"Arizona"	"04"	"2019"	"2019"	"White"	"2106-3"	65373
+	"Arizona"	"04"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"Arizona"	"04"	"2019"	"2019"			79375
+	"Arizona"	"04"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Arizona"	"04"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Arizona"	"04"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"Arizona"	"04"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"Arizona"	"04"	"2020"	"2020"	"Not Reported"	"100"	76947
+"Total"	"Arizona"	"04"	"2020"	"2020"			76947
+	"Arizona"	"04"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Arizona"	"04"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Arizona"	"04"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"Arizona"	"04"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"Arizona"	"04"	"2021"	"2021"	"Not Reported"	"100"	77916
+"Total"	"Arizona"	"04"	"2021"	"2021"			77916
+	"Arizona"	"04"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Arizona"	"04"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Arizona"	"04"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"Arizona"	"04"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"Arizona"	"04"	"2022"	"2022"	"Not Reported"	"100"	78547
+"Total"	"Arizona"	"04"	"2022"	"2022"			78547
+	"Arizona"	"04"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Arizona"	"04"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Arizona"	"04"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"Arizona"	"04"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"Arizona"	"04"	"2023"	"2023"	"Not Reported"	"100"	78096
+"Total"	"Arizona"	"04"	"2023"	"2023"			78096
+"Total"	"Arizona"	"04"					1155295
+	"Arkansas"	"05"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	285
+	"Arkansas"	"05"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	636
+	"Arkansas"	"05"	"2010"	"2010"	"Black or African American"	"2054-5"	7447
+	"Arkansas"	"05"	"2010"	"2010"	"White"	"2106-3"	30172
+	"Arkansas"	"05"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"Arkansas"	"05"	"2010"	"2010"			38540
+	"Arkansas"	"05"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	280
+	"Arkansas"	"05"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	755
+	"Arkansas"	"05"	"2011"	"2011"	"Black or African American"	"2054-5"	7310
+	"Arkansas"	"05"	"2011"	"2011"	"White"	"2106-3"	30370
+	"Arkansas"	"05"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"Arkansas"	"05"	"2011"	"2011"			38715
+	"Arkansas"	"05"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	312
+	"Arkansas"	"05"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	911
+	"Arkansas"	"05"	"2012"	"2012"	"Black or African American"	"2054-5"	7371
+	"Arkansas"	"05"	"2012"	"2012"	"White"	"2106-3"	29753
+	"Arkansas"	"05"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"Arkansas"	"05"	"2012"	"2012"			38347
+	"Arkansas"	"05"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	291
+	"Arkansas"	"05"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	1094
+	"Arkansas"	"05"	"2013"	"2013"	"Black or African American"	"2054-5"	7354
+	"Arkansas"	"05"	"2013"	"2013"	"White"	"2106-3"	29093
+	"Arkansas"	"05"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"Arkansas"	"05"	"2013"	"2013"			37832
+	"Arkansas"	"05"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	301
+	"Arkansas"	"05"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	1202
+	"Arkansas"	"05"	"2014"	"2014"	"Black or African American"	"2054-5"	7376
+	"Arkansas"	"05"	"2014"	"2014"	"White"	"2106-3"	29632
+	"Arkansas"	"05"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"Arkansas"	"05"	"2014"	"2014"			38511
+	"Arkansas"	"05"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	353
+	"Arkansas"	"05"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	1234
+	"Arkansas"	"05"	"2015"	"2015"	"Black or African American"	"2054-5"	7767
+	"Arkansas"	"05"	"2015"	"2015"	"White"	"2106-3"	29532
+	"Arkansas"	"05"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"Arkansas"	"05"	"2015"	"2015"			38886
+	"Arkansas"	"05"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	302
+	"Arkansas"	"05"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	1380
+	"Arkansas"	"05"	"2016"	"2016"	"Black or African American"	"2054-5"	7670
+	"Arkansas"	"05"	"2016"	"2016"	"White"	"2106-3"	28922
+	"Arkansas"	"05"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"Arkansas"	"05"	"2016"	"2016"			38274
+	"Arkansas"	"05"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	331
+	"Arkansas"	"05"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	1466
+	"Arkansas"	"05"	"2017"	"2017"	"Black or African American"	"2054-5"	7760
+	"Arkansas"	"05"	"2017"	"2017"	"White"	"2106-3"	27963
+	"Arkansas"	"05"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"Arkansas"	"05"	"2017"	"2017"			37520
+	"Arkansas"	"05"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	294
+	"Arkansas"	"05"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	1426
+	"Arkansas"	"05"	"2018"	"2018"	"Black or African American"	"2054-5"	7497
+	"Arkansas"	"05"	"2018"	"2018"	"White"	"2106-3"	27801
+	"Arkansas"	"05"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"Arkansas"	"05"	"2018"	"2018"			37018
+	"Arkansas"	"05"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	292
+	"Arkansas"	"05"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	1418
+	"Arkansas"	"05"	"2019"	"2019"	"Black or African American"	"2054-5"	7585
+	"Arkansas"	"05"	"2019"	"2019"	"White"	"2106-3"	27269
+	"Arkansas"	"05"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"Arkansas"	"05"	"2019"	"2019"			36564
+	"Arkansas"	"05"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Arkansas"	"05"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Arkansas"	"05"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"Arkansas"	"05"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"Arkansas"	"05"	"2020"	"2020"	"Not Reported"	"100"	35251
+"Total"	"Arkansas"	"05"	"2020"	"2020"			35251
+	"Arkansas"	"05"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Arkansas"	"05"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Arkansas"	"05"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"Arkansas"	"05"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"Arkansas"	"05"	"2021"	"2021"	"Not Reported"	"100"	35965
+"Total"	"Arkansas"	"05"	"2021"	"2021"			35965
+	"Arkansas"	"05"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Arkansas"	"05"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Arkansas"	"05"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"Arkansas"	"05"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"Arkansas"	"05"	"2022"	"2022"	"Not Reported"	"100"	35471
+"Total"	"Arkansas"	"05"	"2022"	"2022"			35471
+	"Arkansas"	"05"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Arkansas"	"05"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Arkansas"	"05"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"Arkansas"	"05"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"Arkansas"	"05"	"2023"	"2023"	"Not Reported"	"100"	35264
+"Total"	"Arkansas"	"05"	"2023"	"2023"			35264
+"Total"	"Arkansas"	"05"					522158
+	"California"	"06"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	3652
+	"California"	"06"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	68925
+	"California"	"06"	"2010"	"2010"	"Black or African American"	"2054-5"	32930
+	"California"	"06"	"2010"	"2010"	"White"	"2106-3"	404691
+	"California"	"06"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"California"	"06"	"2010"	"2010"			510198
+	"California"	"06"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	3461
+	"California"	"06"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	70419
+	"California"	"06"	"2011"	"2011"	"Black or African American"	"2054-5"	32821
+	"California"	"06"	"2011"	"2011"	"White"	"2106-3"	395419
+	"California"	"06"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"California"	"06"	"2011"	"2011"			502120
+	"California"	"06"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	3462
+	"California"	"06"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	77919
+	"California"	"06"	"2012"	"2012"	"Black or African American"	"2054-5"	32608
+	"California"	"06"	"2012"	"2012"	"White"	"2106-3"	389766
+	"California"	"06"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"California"	"06"	"2012"	"2012"			503755
+	"California"	"06"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	3590
+	"California"	"06"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	76424
+	"California"	"06"	"2013"	"2013"	"Black or African American"	"2054-5"	31977
+	"California"	"06"	"2013"	"2013"	"White"	"2106-3"	382714
+	"California"	"06"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"California"	"06"	"2013"	"2013"			494705
+	"California"	"06"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	3509
+	"California"	"06"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	84224
+	"California"	"06"	"2014"	"2014"	"Black or African American"	"2054-5"	31654
+	"California"	"06"	"2014"	"2014"	"White"	"2106-3"	383492
+	"California"	"06"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"California"	"06"	"2014"	"2014"			502879
+	"California"	"06"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	3510
+	"California"	"06"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	80269
+	"California"	"06"	"2015"	"2015"	"Black or African American"	"2054-5"	30546
+	"California"	"06"	"2015"	"2015"	"White"	"2106-3"	377423
+	"California"	"06"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"California"	"06"	"2015"	"2015"			491748
+	"California"	"06"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	3436
+	"California"	"06"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	84062
+	"California"	"06"	"2016"	"2016"	"Black or African American"	"2054-5"	30808
+	"California"	"06"	"2016"	"2016"	"White"	"2106-3"	370521
+	"California"	"06"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"California"	"06"	"2016"	"2016"			488827
+	"California"	"06"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	3285
+	"California"	"06"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	82530
+	"California"	"06"	"2017"	"2017"	"Black or African American"	"2054-5"	30338
+	"California"	"06"	"2017"	"2017"	"White"	"2106-3"	355505
+	"California"	"06"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"California"	"06"	"2017"	"2017"			471658
+	"California"	"06"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	3280
+	"California"	"06"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	78994
+	"California"	"06"	"2018"	"2018"	"Black or African American"	"2054-5"	29000
+	"California"	"06"	"2018"	"2018"	"White"	"2106-3"	343646
+	"California"	"06"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"California"	"06"	"2018"	"2018"			454920
+	"California"	"06"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	3286
+	"California"	"06"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	79076
+	"California"	"06"	"2019"	"2019"	"Black or African American"	"2054-5"	29843
+	"California"	"06"	"2019"	"2019"	"White"	"2106-3"	334274
+	"California"	"06"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"California"	"06"	"2019"	"2019"			446479
+	"California"	"06"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"California"	"06"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"California"	"06"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"California"	"06"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"California"	"06"	"2020"	"2020"	"Not Reported"	"100"	420259
+"Total"	"California"	"06"	"2020"	"2020"			420259
+	"California"	"06"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"California"	"06"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"California"	"06"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"California"	"06"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"California"	"06"	"2021"	"2021"	"Not Reported"	"100"	420608
+"Total"	"California"	"06"	"2021"	"2021"			420608
+	"California"	"06"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"California"	"06"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"California"	"06"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"California"	"06"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"California"	"06"	"2022"	"2022"	"Not Reported"	"100"	419104
+"Total"	"California"	"06"	"2022"	"2022"			419104
+	"California"	"06"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"California"	"06"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"California"	"06"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"California"	"06"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"California"	"06"	"2023"	"2023"	"Not Reported"	"100"	400108
+"Total"	"California"	"06"	"2023"	"2023"			400108
+"Total"	"California"	"06"					6527368
+	"Florida"	"12"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	379
+	"Florida"	"12"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	7063
+	"Florida"	"12"	"2010"	"2010"	"Black or African American"	"2054-5"	53859
+	"Florida"	"12"	"2010"	"2010"	"White"	"2106-3"	153289
+	"Florida"	"12"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"Florida"	"12"	"2010"	"2010"			214590
+	"Florida"	"12"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	435
+	"Florida"	"12"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	7286
+	"Florida"	"12"	"2011"	"2011"	"Black or African American"	"2054-5"	52858
+	"Florida"	"12"	"2011"	"2011"	"White"	"2106-3"	152835
+	"Florida"	"12"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"Florida"	"12"	"2011"	"2011"			213414
+	"Florida"	"12"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	404
+	"Florida"	"12"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	7487
+	"Florida"	"12"	"2012"	"2012"	"Black or African American"	"2054-5"	53159
+	"Florida"	"12"	"2012"	"2012"	"White"	"2106-3"	152098
+	"Florida"	"12"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"Florida"	"12"	"2012"	"2012"			213148
+	"Florida"	"12"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	392
+	"Florida"	"12"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	7265
+	"Florida"	"12"	"2013"	"2013"	"Black or African American"	"2054-5"	52959
+	"Florida"	"12"	"2013"	"2013"	"White"	"2106-3"	154791
+	"Florida"	"12"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"Florida"	"12"	"2013"	"2013"			215407
+	"Florida"	"12"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	406
+	"Florida"	"12"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	7402
+	"Florida"	"12"	"2014"	"2014"	"Black or African American"	"2054-5"	53148
+	"Florida"	"12"	"2014"	"2014"	"White"	"2106-3"	159035
+	"Florida"	"12"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"Florida"	"12"	"2014"	"2014"			219991
+	"Florida"	"12"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	373
+	"Florida"	"12"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	7603
+	"Florida"	"12"	"2015"	"2015"	"Black or African American"	"2054-5"	53699
+	"Florida"	"12"	"2015"	"2015"	"White"	"2106-3"	162594
+	"Florida"	"12"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"Florida"	"12"	"2015"	"2015"			224269
+	"Florida"	"12"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	354
+	"Florida"	"12"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	8627
+	"Florida"	"12"	"2016"	"2016"	"Black or African American"	"2054-5"	57593
+	"Florida"	"12"	"2016"	"2016"	"White"	"2106-3"	158448
+	"Florida"	"12"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"Florida"	"12"	"2016"	"2016"			225022
+	"Florida"	"12"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	428
+	"Florida"	"12"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	8574
+	"Florida"	"12"	"2017"	"2017"	"Black or African American"	"2054-5"	58465
+	"Florida"	"12"	"2017"	"2017"	"White"	"2106-3"	156163
+	"Florida"	"12"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"Florida"	"12"	"2017"	"2017"			223630
+	"Florida"	"12"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	511
+	"Florida"	"12"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	7989
+	"Florida"	"12"	"2018"	"2018"	"Black or African American"	"2054-5"	53455
+	"Florida"	"12"	"2018"	"2018"	"White"	"2106-3"	159587
+	"Florida"	"12"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"Florida"	"12"	"2018"	"2018"			221542
+	"Florida"	"12"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	430
+	"Florida"	"12"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	8038
+	"Florida"	"12"	"2019"	"2019"	"Black or African American"	"2054-5"	53404
+	"Florida"	"12"	"2019"	"2019"	"White"	"2106-3"	158130
+	"Florida"	"12"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"Florida"	"12"	"2019"	"2019"			220002
+	"Florida"	"12"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Florida"	"12"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Florida"	"12"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"Florida"	"12"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"Florida"	"12"	"2020"	"2020"	"Not Reported"	"100"	209671
+"Total"	"Florida"	"12"	"2020"	"2020"			209671
+	"Florida"	"12"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Florida"	"12"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Florida"	"12"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"Florida"	"12"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"Florida"	"12"	"2021"	"2021"	"Not Reported"	"100"	216260
+"Total"	"Florida"	"12"	"2021"	"2021"			216260
+	"Florida"	"12"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Florida"	"12"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Florida"	"12"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"Florida"	"12"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"Florida"	"12"	"2022"	"2022"	"Not Reported"	"100"	224433
+"Total"	"Florida"	"12"	"2022"	"2022"			224433
+	"Florida"	"12"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Florida"	"12"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Florida"	"12"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"Florida"	"12"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"Florida"	"12"	"2023"	"2023"	"Not Reported"	"100"	221410
+"Total"	"Florida"	"12"	"2023"	"2023"			221410
+"Total"	"Florida"	"12"					3062789
+	"Georgia"	"13"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	335
+	"Georgia"	"13"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	5782
+	"Georgia"	"13"	"2010"	"2010"	"Black or African American"	"2054-5"	49201
+	"Georgia"	"13"	"2010"	"2010"	"White"	"2106-3"	78629
+	"Georgia"	"13"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"Georgia"	"13"	"2010"	"2010"			133947
+	"Georgia"	"13"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	336
+	"Georgia"	"13"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	6198
+	"Georgia"	"13"	"2011"	"2011"	"Black or African American"	"2054-5"	48459
+	"Georgia"	"13"	"2011"	"2011"	"White"	"2106-3"	77416
+	"Georgia"	"13"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"Georgia"	"13"	"2011"	"2011"			132409
+	"Georgia"	"13"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	265
+	"Georgia"	"13"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	6227
+	"Georgia"	"13"	"2012"	"2012"	"Black or African American"	"2054-5"	47372
+	"Georgia"	"13"	"2012"	"2012"	"White"	"2106-3"	76416
+	"Georgia"	"13"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"Georgia"	"13"	"2012"	"2012"			130280
+	"Georgia"	"13"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	325
+	"Georgia"	"13"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	5917
+	"Georgia"	"13"	"2013"	"2013"	"Black or African American"	"2054-5"	47392
+	"Georgia"	"13"	"2013"	"2013"	"White"	"2106-3"	75114
+	"Georgia"	"13"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"Georgia"	"13"	"2013"	"2013"			128748
+	"Georgia"	"13"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	292
+	"Georgia"	"13"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	6519
+	"Georgia"	"13"	"2014"	"2014"	"Black or African American"	"2054-5"	47909
+	"Georgia"	"13"	"2014"	"2014"	"White"	"2106-3"	76226
+	"Georgia"	"13"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"Georgia"	"13"	"2014"	"2014"			130946
+	"Georgia"	"13"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	298
+	"Georgia"	"13"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	6468
+	"Georgia"	"13"	"2015"	"2015"	"Black or African American"	"2054-5"	47734
+	"Georgia"	"13"	"2015"	"2015"	"White"	"2106-3"	76904
+	"Georgia"	"13"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"Georgia"	"13"	"2015"	"2015"			131404
+	"Georgia"	"13"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	261
+	"Georgia"	"13"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	6878
+	"Georgia"	"13"	"2016"	"2016"	"Black or African American"	"2054-5"	48904
+	"Georgia"	"13"	"2016"	"2016"	"White"	"2106-3"	73999
+	"Georgia"	"13"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"Georgia"	"13"	"2016"	"2016"			130042
+	"Georgia"	"13"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	239
+	"Georgia"	"13"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	6975
+	"Georgia"	"13"	"2017"	"2017"	"Black or African American"	"2054-5"	48573
+	"Georgia"	"13"	"2017"	"2017"	"White"	"2106-3"	73456
+	"Georgia"	"13"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"Georgia"	"13"	"2017"	"2017"			129243
+	"Georgia"	"13"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	211
+	"Georgia"	"13"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	6563
+	"Georgia"	"13"	"2018"	"2018"	"Black or African American"	"2054-5"	46488
+	"Georgia"	"13"	"2018"	"2018"	"White"	"2106-3"	72910
+	"Georgia"	"13"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"Georgia"	"13"	"2018"	"2018"			126172
+	"Georgia"	"13"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	201
+	"Georgia"	"13"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	6565
+	"Georgia"	"13"	"2019"	"2019"	"Black or African American"	"2054-5"	46583
+	"Georgia"	"13"	"2019"	"2019"	"White"	"2106-3"	73022
+	"Georgia"	"13"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"Georgia"	"13"	"2019"	"2019"			126371
+	"Georgia"	"13"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Georgia"	"13"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Georgia"	"13"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"Georgia"	"13"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"Georgia"	"13"	"2020"	"2020"	"Not Reported"	"100"	122473
+"Total"	"Georgia"	"13"	"2020"	"2020"			122473
+	"Georgia"	"13"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Georgia"	"13"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Georgia"	"13"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"Georgia"	"13"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"Georgia"	"13"	"2021"	"2021"	"Not Reported"	"100"	124073
+"Total"	"Georgia"	"13"	"2021"	"2021"			124073
+	"Georgia"	"13"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Georgia"	"13"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Georgia"	"13"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"Georgia"	"13"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"Georgia"	"13"	"2022"	"2022"	"Not Reported"	"100"	126130
+"Total"	"Georgia"	"13"	"2022"	"2022"			126130
+	"Georgia"	"13"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Georgia"	"13"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Georgia"	"13"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"Georgia"	"13"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"Georgia"	"13"	"2023"	"2023"	"Not Reported"	"100"	125120
+"Total"	"Georgia"	"13"	"2023"	"2023"			125120
+"Total"	"Georgia"	"13"					1797358
+	"Illinois"	"17"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	258
+	"Illinois"	"17"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	9653
+	"Illinois"	"17"	"2010"	"2010"	"Black or African American"	"2054-5"	29019
+	"Illinois"	"17"	"2010"	"2010"	"White"	"2106-3"	126270
+	"Illinois"	"17"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"Illinois"	"17"	"2010"	"2010"			165200
+	"Illinois"	"17"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	218
+	"Illinois"	"17"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	9727
+	"Illinois"	"17"	"2011"	"2011"	"Black or African American"	"2054-5"	27925
+	"Illinois"	"17"	"2011"	"2011"	"White"	"2106-3"	123442
+	"Illinois"	"17"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"Illinois"	"17"	"2011"	"2011"			161312
+	"Illinois"	"17"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	225
+	"Illinois"	"17"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	10080
+	"Illinois"	"17"	"2012"	"2012"	"Black or African American"	"2054-5"	28111
+	"Illinois"	"17"	"2012"	"2012"	"White"	"2106-3"	120744
+	"Illinois"	"17"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"Illinois"	"17"	"2012"	"2012"			159160
+	"Illinois"	"17"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	234
+	"Illinois"	"17"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	9848
+	"Illinois"	"17"	"2013"	"2013"	"Black or African American"	"2054-5"	27692
+	"Illinois"	"17"	"2013"	"2013"	"White"	"2106-3"	119157
+	"Illinois"	"17"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"Illinois"	"17"	"2013"	"2013"			156931
+	"Illinois"	"17"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	227
+	"Illinois"	"17"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	10174
+	"Illinois"	"17"	"2014"	"2014"	"Black or African American"	"2054-5"	28160
+	"Illinois"	"17"	"2014"	"2014"	"White"	"2106-3"	119995
+	"Illinois"	"17"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"Illinois"	"17"	"2014"	"2014"			158556
+	"Illinois"	"17"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	205
+	"Illinois"	"17"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	10222
+	"Illinois"	"17"	"2015"	"2015"	"Black or African American"	"2054-5"	28059
+	"Illinois"	"17"	"2015"	"2015"	"White"	"2106-3"	119630
+	"Illinois"	"17"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"Illinois"	"17"	"2015"	"2015"			158116
+	"Illinois"	"17"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	209
+	"Illinois"	"17"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	10749
+	"Illinois"	"17"	"2016"	"2016"	"Black or African American"	"2054-5"	27844
+	"Illinois"	"17"	"2016"	"2016"	"White"	"2106-3"	115643
+	"Illinois"	"17"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"Illinois"	"17"	"2016"	"2016"			154445
+	"Illinois"	"17"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	211
+	"Illinois"	"17"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	10309
+	"Illinois"	"17"	"2017"	"2017"	"Black or African American"	"2054-5"	27804
+	"Illinois"	"17"	"2017"	"2017"	"White"	"2106-3"	111066
+	"Illinois"	"17"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"Illinois"	"17"	"2017"	"2017"			149390
+	"Illinois"	"17"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	215
+	"Illinois"	"17"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	9960
+	"Illinois"	"17"	"2018"	"2018"	"Black or African American"	"2054-5"	26130
+	"Illinois"	"17"	"2018"	"2018"	"White"	"2106-3"	108510
+	"Illinois"	"17"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"Illinois"	"17"	"2018"	"2018"			144815
+	"Illinois"	"17"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	161
+	"Illinois"	"17"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	9687
+	"Illinois"	"17"	"2019"	"2019"	"Black or African American"	"2054-5"	24978
+	"Illinois"	"17"	"2019"	"2019"	"White"	"2106-3"	105302
+	"Illinois"	"17"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"Illinois"	"17"	"2019"	"2019"			140128
+	"Illinois"	"17"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Illinois"	"17"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Illinois"	"17"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"Illinois"	"17"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"Illinois"	"17"	"2020"	"2020"	"Not Reported"	"100"	133298
+"Total"	"Illinois"	"17"	"2020"	"2020"			133298
+	"Illinois"	"17"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Illinois"	"17"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Illinois"	"17"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"Illinois"	"17"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"Illinois"	"17"	"2021"	"2021"	"Not Reported"	"100"	132189
+"Total"	"Illinois"	"17"	"2021"	"2021"			132189
+	"Illinois"	"17"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Illinois"	"17"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Illinois"	"17"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"Illinois"	"17"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"Illinois"	"17"	"2022"	"2022"	"Not Reported"	"100"	128350
+"Total"	"Illinois"	"17"	"2022"	"2022"			128350
+	"Illinois"	"17"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Illinois"	"17"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Illinois"	"17"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"Illinois"	"17"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"Illinois"	"17"	"2023"	"2023"	"Not Reported"	"100"	124820
+"Total"	"Illinois"	"17"	"2023"	"2023"			124820
+"Total"	"Illinois"	"17"					2066710
+	"Indiana"	"18"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	127
+	"Indiana"	"18"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	1960
+	"Indiana"	"18"	"2010"	"2010"	"Black or African American"	"2054-5"	10224
+	"Indiana"	"18"	"2010"	"2010"	"White"	"2106-3"	71629
+	"Indiana"	"18"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"Indiana"	"18"	"2010"	"2010"			83940
+	"Indiana"	"18"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	157
+	"Indiana"	"18"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	2025
+	"Indiana"	"18"	"2011"	"2011"	"Black or African American"	"2054-5"	10227
+	"Indiana"	"18"	"2011"	"2011"	"White"	"2106-3"	71292
+	"Indiana"	"18"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"Indiana"	"18"	"2011"	"2011"			83701
+	"Indiana"	"18"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	153
+	"Indiana"	"18"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	2239
+	"Indiana"	"18"	"2012"	"2012"	"Black or African American"	"2054-5"	10419
+	"Indiana"	"18"	"2012"	"2012"	"White"	"2106-3"	70416
+	"Indiana"	"18"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"Indiana"	"18"	"2012"	"2012"			83227
+	"Indiana"	"18"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	127
+	"Indiana"	"18"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	2364
+	"Indiana"	"18"	"2013"	"2013"	"Black or African American"	"2054-5"	10445
+	"Indiana"	"18"	"2013"	"2013"	"White"	"2106-3"	70166
+	"Indiana"	"18"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"Indiana"	"18"	"2013"	"2013"			83102
+	"Indiana"	"18"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	125
+	"Indiana"	"18"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	2322
+	"Indiana"	"18"	"2014"	"2014"	"Black or African American"	"2054-5"	10666
+	"Indiana"	"18"	"2014"	"2014"	"White"	"2106-3"	70967
+	"Indiana"	"18"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"Indiana"	"18"	"2014"	"2014"			84080
+	"Indiana"	"18"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	120
+	"Indiana"	"18"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	2523
+	"Indiana"	"18"	"2015"	"2015"	"Black or African American"	"2054-5"	10656
+	"Indiana"	"18"	"2015"	"2015"	"White"	"2106-3"	70741
+	"Indiana"	"18"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"Indiana"	"18"	"2015"	"2015"			84040
+	"Indiana"	"18"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	134
+	"Indiana"	"18"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	2689
+	"Indiana"	"18"	"2016"	"2016"	"Black or African American"	"2054-5"	10860
+	"Indiana"	"18"	"2016"	"2016"	"White"	"2106-3"	69408
+	"Indiana"	"18"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"Indiana"	"18"	"2016"	"2016"			83091
+	"Indiana"	"18"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	121
+	"Indiana"	"18"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	2776
+	"Indiana"	"18"	"2017"	"2017"	"Black or African American"	"2054-5"	11130
+	"Indiana"	"18"	"2017"	"2017"	"White"	"2106-3"	68143
+	"Indiana"	"18"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"Indiana"	"18"	"2017"	"2017"			82170
+	"Indiana"	"18"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	134
+	"Indiana"	"18"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	2615
+	"Indiana"	"18"	"2018"	"2018"	"Black or African American"	"2054-5"	11454
+	"Indiana"	"18"	"2018"	"2018"	"White"	"2106-3"	67443
+	"Indiana"	"18"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"Indiana"	"18"	"2018"	"2018"			81646
+	"Indiana"	"18"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	129
+	"Indiana"	"18"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	2555
+	"Indiana"	"18"	"2019"	"2019"	"Black or African American"	"2054-5"	11472
+	"Indiana"	"18"	"2019"	"2019"	"White"	"2106-3"	66703
+	"Indiana"	"18"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"Indiana"	"18"	"2019"	"2019"			80859
+	"Indiana"	"18"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Indiana"	"18"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Indiana"	"18"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"Indiana"	"18"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"Indiana"	"18"	"2020"	"2020"	"Not Reported"	"100"	78616
+"Total"	"Indiana"	"18"	"2020"	"2020"			78616
+	"Indiana"	"18"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Indiana"	"18"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Indiana"	"18"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"Indiana"	"18"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"Indiana"	"18"	"2021"	"2021"	"Not Reported"	"100"	79946
+"Total"	"Indiana"	"18"	"2021"	"2021"			79946
+	"Indiana"	"18"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Indiana"	"18"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Indiana"	"18"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"Indiana"	"18"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"Indiana"	"18"	"2022"	"2022"	"Not Reported"	"100"	79649
+"Total"	"Indiana"	"18"	"2022"	"2022"			79649
+	"Indiana"	"18"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Indiana"	"18"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Indiana"	"18"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"Indiana"	"18"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"Indiana"	"18"	"2023"	"2023"	"Not Reported"	"100"	79000
+"Total"	"Indiana"	"18"	"2023"	"2023"			79000
+"Total"	"Indiana"	"18"					1147067
+	"Maryland"	"24"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	200
+	"Maryland"	"24"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	5588
+	"Maryland"	"24"	"2010"	"2010"	"Black or African American"	"2054-5"	25706
+	"Maryland"	"24"	"2010"	"2010"	"White"	"2106-3"	42307
+	"Maryland"	"24"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"Maryland"	"24"	"2010"	"2010"			73801
+	"Maryland"	"24"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	205
+	"Maryland"	"24"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	5716
+	"Maryland"	"24"	"2011"	"2011"	"Black or African American"	"2054-5"	25148
+	"Maryland"	"24"	"2011"	"2011"	"White"	"2106-3"	42024
+	"Maryland"	"24"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"Maryland"	"24"	"2011"	"2011"			73093
+	"Maryland"	"24"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	212
+	"Maryland"	"24"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	5723
+	"Maryland"	"24"	"2012"	"2012"	"Black or African American"	"2054-5"	25114
+	"Maryland"	"24"	"2012"	"2012"	"White"	"2106-3"	41834
+	"Maryland"	"24"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"Maryland"	"24"	"2012"	"2012"			72883
+	"Maryland"	"24"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	300
+	"Maryland"	"24"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	5415
+	"Maryland"	"24"	"2013"	"2013"	"Black or African American"	"2054-5"	24764
+	"Maryland"	"24"	"2013"	"2013"	"White"	"2106-3"	41474
+	"Maryland"	"24"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"Maryland"	"24"	"2013"	"2013"			71953
+	"Maryland"	"24"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	260
+	"Maryland"	"24"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	5797
+	"Maryland"	"24"	"2014"	"2014"	"Black or African American"	"2054-5"	25339
+	"Maryland"	"24"	"2014"	"2014"	"White"	"2106-3"	42525
+	"Maryland"	"24"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"Maryland"	"24"	"2014"	"2014"			73921
+	"Maryland"	"24"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	279
+	"Maryland"	"24"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	5849
+	"Maryland"	"24"	"2015"	"2015"	"Black or African American"	"2054-5"	25017
+	"Maryland"	"24"	"2015"	"2015"	"White"	"2106-3"	42471
+	"Maryland"	"24"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"Maryland"	"24"	"2015"	"2015"			73616
+	"Maryland"	"24"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	244
+	"Maryland"	"24"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	6170
+	"Maryland"	"24"	"2016"	"2016"	"Black or African American"	"2054-5"	26414
+	"Maryland"	"24"	"2016"	"2016"	"White"	"2106-3"	40308
+	"Maryland"	"24"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"Maryland"	"24"	"2016"	"2016"			73136
+	"Maryland"	"24"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	229
+	"Maryland"	"24"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	6247
+	"Maryland"	"24"	"2017"	"2017"	"Black or African American"	"2054-5"	26094
+	"Maryland"	"24"	"2017"	"2017"	"White"	"2106-3"	39071
+	"Maryland"	"24"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"Maryland"	"24"	"2017"	"2017"			71641
+	"Maryland"	"24"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	324
+	"Maryland"	"24"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	5624
+	"Maryland"	"24"	"2018"	"2018"	"Black or African American"	"2054-5"	24332
+	"Maryland"	"24"	"2018"	"2018"	"White"	"2106-3"	40800
+	"Maryland"	"24"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"Maryland"	"24"	"2018"	"2018"			71080
+	"Maryland"	"24"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	468
+	"Maryland"	"24"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	5457
+	"Maryland"	"24"	"2019"	"2019"	"Black or African American"	"2054-5"	24072
+	"Maryland"	"24"	"2019"	"2019"	"White"	"2106-3"	40181
+	"Maryland"	"24"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"Maryland"	"24"	"2019"	"2019"			70178
+	"Maryland"	"24"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Maryland"	"24"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Maryland"	"24"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"Maryland"	"24"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"Maryland"	"24"	"2020"	"2020"	"Not Reported"	"100"	68554
+"Total"	"Maryland"	"24"	"2020"	"2020"			68554
+	"Maryland"	"24"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Maryland"	"24"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Maryland"	"24"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"Maryland"	"24"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"Maryland"	"24"	"2021"	"2021"	"Not Reported"	"100"	68285
+"Total"	"Maryland"	"24"	"2021"	"2021"			68285
+	"Maryland"	"24"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Maryland"	"24"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Maryland"	"24"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"Maryland"	"24"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"Maryland"	"24"	"2022"	"2022"	"Not Reported"	"100"	68782
+"Total"	"Maryland"	"24"	"2022"	"2022"			68782
+	"Maryland"	"24"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Maryland"	"24"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Maryland"	"24"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"Maryland"	"24"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"Maryland"	"24"	"2023"	"2023"	"Not Reported"	"100"	65594
+"Total"	"Maryland"	"24"	"2023"	"2023"			65594
+"Total"	"Maryland"	"24"					996517
+	"Michigan"	"26"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	845
+	"Michigan"	"26"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	3864
+	"Michigan"	"26"	"2010"	"2010"	"Black or African American"	"2054-5"	22592
+	"Michigan"	"26"	"2010"	"2010"	"White"	"2106-3"	87230
+	"Michigan"	"26"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"Michigan"	"26"	"2010"	"2010"			114531
+	"Michigan"	"26"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	793
+	"Michigan"	"26"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	3991
+	"Michigan"	"26"	"2011"	"2011"	"Black or African American"	"2054-5"	22386
+	"Michigan"	"26"	"2011"	"2011"	"White"	"2106-3"	86838
+	"Michigan"	"26"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"Michigan"	"26"	"2011"	"2011"			114008
+	"Michigan"	"26"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	751
+	"Michigan"	"26"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	4140
+	"Michigan"	"26"	"2012"	"2012"	"Black or African American"	"2054-5"	22119
+	"Michigan"	"26"	"2012"	"2012"	"White"	"2106-3"	86081
+	"Michigan"	"26"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"Michigan"	"26"	"2012"	"2012"			113091
+	"Michigan"	"26"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	714
+	"Michigan"	"26"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	4136
+	"Michigan"	"26"	"2013"	"2013"	"Black or African American"	"2054-5"	22645
+	"Michigan"	"26"	"2013"	"2013"	"White"	"2106-3"	85994
+	"Michigan"	"26"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"Michigan"	"26"	"2013"	"2013"			113489
+	"Michigan"	"26"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	784
+	"Michigan"	"26"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	4284
+	"Michigan"	"26"	"2014"	"2014"	"Black or African American"	"2054-5"	22237
+	"Michigan"	"26"	"2014"	"2014"	"White"	"2106-3"	87070
+	"Michigan"	"26"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"Michigan"	"26"	"2014"	"2014"			114375
+	"Michigan"	"26"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	786
+	"Michigan"	"26"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	4294
+	"Michigan"	"26"	"2015"	"2015"	"Black or African American"	"2054-5"	22394
+	"Michigan"	"26"	"2015"	"2015"	"White"	"2106-3"	85838
+	"Michigan"	"26"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"Michigan"	"26"	"2015"	"2015"			113312
+	"Michigan"	"26"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	711
+	"Michigan"	"26"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	4671
+	"Michigan"	"26"	"2016"	"2016"	"Black or African American"	"2054-5"	22260
+	"Michigan"	"26"	"2016"	"2016"	"White"	"2106-3"	85673
+	"Michigan"	"26"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"Michigan"	"26"	"2016"	"2016"			113315
+	"Michigan"	"26"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	661
+	"Michigan"	"26"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	4839
+	"Michigan"	"26"	"2017"	"2017"	"Black or African American"	"2054-5"	22668
+	"Michigan"	"26"	"2017"	"2017"	"White"	"2106-3"	83258
+	"Michigan"	"26"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"Michigan"	"26"	"2017"	"2017"			111426
+	"Michigan"	"26"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	657
+	"Michigan"	"26"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	4650
+	"Michigan"	"26"	"2018"	"2018"	"Black or African American"	"2054-5"	22091
+	"Michigan"	"26"	"2018"	"2018"	"White"	"2106-3"	82634
+	"Michigan"	"26"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"Michigan"	"26"	"2018"	"2018"			110032
+	"Michigan"	"26"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	646
+	"Michigan"	"26"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	4594
+	"Michigan"	"26"	"2019"	"2019"	"Black or African American"	"2054-5"	21973
+	"Michigan"	"26"	"2019"	"2019"	"White"	"2106-3"	80673
+	"Michigan"	"26"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"Michigan"	"26"	"2019"	"2019"			107886
+	"Michigan"	"26"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Michigan"	"26"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Michigan"	"26"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"Michigan"	"26"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"Michigan"	"26"	"2020"	"2020"	"Not Reported"	"100"	104074
+"Total"	"Michigan"	"26"	"2020"	"2020"			104074
+	"Michigan"	"26"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Michigan"	"26"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Michigan"	"26"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"Michigan"	"26"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"Michigan"	"26"	"2021"	"2021"	"Not Reported"	"100"	104980
+"Total"	"Michigan"	"26"	"2021"	"2021"			104980
+	"Michigan"	"26"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Michigan"	"26"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Michigan"	"26"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"Michigan"	"26"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"Michigan"	"26"	"2022"	"2022"	"Not Reported"	"100"	102321
+"Total"	"Michigan"	"26"	"2022"	"2022"			102321
+	"Michigan"	"26"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Michigan"	"26"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Michigan"	"26"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"Michigan"	"26"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"Michigan"	"26"	"2023"	"2023"	"Not Reported"	"100"	99124
+"Total"	"Michigan"	"26"	"2023"	"2023"			99124
+"Total"	"Michigan"	"26"					1535964
+	"Missouri"	"29"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	407
+	"Missouri"	"29"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	1969
+	"Missouri"	"29"	"2010"	"2010"	"Black or African American"	"2054-5"	11741
+	"Missouri"	"29"	"2010"	"2010"	"White"	"2106-3"	62642
+	"Missouri"	"29"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"Missouri"	"29"	"2010"	"2010"			76759
+	"Missouri"	"29"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	395
+	"Missouri"	"29"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	2006
+	"Missouri"	"29"	"2011"	"2011"	"Black or African American"	"2054-5"	11821
+	"Missouri"	"29"	"2011"	"2011"	"White"	"2106-3"	61895
+	"Missouri"	"29"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"Missouri"	"29"	"2011"	"2011"			76117
+	"Missouri"	"29"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	400
+	"Missouri"	"29"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	2131
+	"Missouri"	"29"	"2012"	"2012"	"Black or African American"	"2054-5"	11713
+	"Missouri"	"29"	"2012"	"2012"	"White"	"2106-3"	61202
+	"Missouri"	"29"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"Missouri"	"29"	"2012"	"2012"			75446
+	"Missouri"	"29"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	402
+	"Missouri"	"29"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	2075
+	"Missouri"	"29"	"2013"	"2013"	"Black or African American"	"2054-5"	11722
+	"Missouri"	"29"	"2013"	"2013"	"White"	"2106-3"	61097
+	"Missouri"	"29"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"Missouri"	"29"	"2013"	"2013"			75296
+	"Missouri"	"29"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	423
+	"Missouri"	"29"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	2186
+	"Missouri"	"29"	"2014"	"2014"	"Black or African American"	"2054-5"	11783
+	"Missouri"	"29"	"2014"	"2014"	"White"	"2106-3"	60968
+	"Missouri"	"29"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"Missouri"	"29"	"2014"	"2014"			75360
+	"Missouri"	"29"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	359
+	"Missouri"	"29"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	2129
+	"Missouri"	"29"	"2015"	"2015"	"Black or African American"	"2054-5"	11660
+	"Missouri"	"29"	"2015"	"2015"	"White"	"2106-3"	60913
+	"Missouri"	"29"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"Missouri"	"29"	"2015"	"2015"			75061
+	"Missouri"	"29"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	368
+	"Missouri"	"29"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	2351
+	"Missouri"	"29"	"2016"	"2016"	"Black or African American"	"2054-5"	11751
+	"Missouri"	"29"	"2016"	"2016"	"White"	"2106-3"	60235
+	"Missouri"	"29"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"Missouri"	"29"	"2016"	"2016"			74705
+	"Missouri"	"29"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	405
+	"Missouri"	"29"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	2238
+	"Missouri"	"29"	"2017"	"2017"	"Black or African American"	"2054-5"	11919
+	"Missouri"	"29"	"2017"	"2017"	"White"	"2106-3"	58472
+	"Missouri"	"29"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"Missouri"	"29"	"2017"	"2017"			73034
+	"Missouri"	"29"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	416
+	"Missouri"	"29"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	2204
+	"Missouri"	"29"	"2018"	"2018"	"Black or African American"	"2054-5"	11942
+	"Missouri"	"29"	"2018"	"2018"	"White"	"2106-3"	58707
+	"Missouri"	"29"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"Missouri"	"29"	"2018"	"2018"			73269
+	"Missouri"	"29"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	355
+	"Missouri"	"29"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	2352
+	"Missouri"	"29"	"2019"	"2019"	"Black or African American"	"2054-5"	11886
+	"Missouri"	"29"	"2019"	"2019"	"White"	"2106-3"	57534
+	"Missouri"	"29"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"Missouri"	"29"	"2019"	"2019"			72127
+	"Missouri"	"29"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Missouri"	"29"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Missouri"	"29"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"Missouri"	"29"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"Missouri"	"29"	"2020"	"2020"	"Not Reported"	"100"	69285
+"Total"	"Missouri"	"29"	"2020"	"2020"			69285
+	"Missouri"	"29"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Missouri"	"29"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Missouri"	"29"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"Missouri"	"29"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"Missouri"	"29"	"2021"	"2021"	"Not Reported"	"100"	69453
+"Total"	"Missouri"	"29"	"2021"	"2021"			69453
+	"Missouri"	"29"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Missouri"	"29"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Missouri"	"29"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"Missouri"	"29"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"Missouri"	"29"	"2022"	"2022"	"Not Reported"	"100"	68985
+"Total"	"Missouri"	"29"	"2022"	"2022"			68985
+	"Missouri"	"29"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Missouri"	"29"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Missouri"	"29"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"Missouri"	"29"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"Missouri"	"29"	"2023"	"2023"	"Not Reported"	"100"	67123
+"Total"	"Missouri"	"29"	"2023"	"2023"			67123
+"Total"	"Missouri"	"29"					1022020
+	"New Jersey"	"34"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	236
+	"New Jersey"	"34"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	11714
+	"New Jersey"	"34"	"2010"	"2010"	"Black or African American"	"2054-5"	19443
+	"New Jersey"	"34"	"2010"	"2010"	"White"	"2106-3"	75529
+	"New Jersey"	"34"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"New Jersey"	"34"	"2010"	"2010"			106922
+	"New Jersey"	"34"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	182
+	"New Jersey"	"34"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	11852
+	"New Jersey"	"34"	"2011"	"2011"	"Black or African American"	"2054-5"	19353
+	"New Jersey"	"34"	"2011"	"2011"	"White"	"2106-3"	74496
+	"New Jersey"	"34"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"New Jersey"	"34"	"2011"	"2011"			105883
+	"New Jersey"	"34"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	182
+	"New Jersey"	"34"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	12253
+	"New Jersey"	"34"	"2012"	"2012"	"Black or African American"	"2054-5"	19440
+	"New Jersey"	"34"	"2012"	"2012"	"White"	"2106-3"	72355
+	"New Jersey"	"34"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"New Jersey"	"34"	"2012"	"2012"			104230
+	"New Jersey"	"34"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	196
+	"New Jersey"	"34"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	11511
+	"New Jersey"	"34"	"2013"	"2013"	"Black or African American"	"2054-5"	19139
+	"New Jersey"	"34"	"2013"	"2013"	"White"	"2106-3"	71729
+	"New Jersey"	"34"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"New Jersey"	"34"	"2013"	"2013"			102575
+	"New Jersey"	"34"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	193
+	"New Jersey"	"34"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	11977
+	"New Jersey"	"34"	"2014"	"2014"	"Black or African American"	"2054-5"	20102
+	"New Jersey"	"34"	"2014"	"2014"	"White"	"2106-3"	71033
+	"New Jersey"	"34"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"New Jersey"	"34"	"2014"	"2014"			103305
+	"New Jersey"	"34"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	172
+	"New Jersey"	"34"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	12192
+	"New Jersey"	"34"	"2015"	"2015"	"Black or African American"	"2054-5"	18363
+	"New Jersey"	"34"	"2015"	"2015"	"White"	"2106-3"	72400
+	"New Jersey"	"34"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"New Jersey"	"34"	"2015"	"2015"			103127
+	"New Jersey"	"34"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	177
+	"New Jersey"	"34"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	13656
+	"New Jersey"	"34"	"2016"	"2016"	"Black or African American"	"2054-5"	17772
+	"New Jersey"	"34"	"2016"	"2016"	"White"	"2106-3"	71042
+	"New Jersey"	"34"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"New Jersey"	"34"	"2016"	"2016"			102647
+	"New Jersey"	"34"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	165
+	"New Jersey"	"34"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	13418
+	"New Jersey"	"34"	"2017"	"2017"	"Black or African American"	"2054-5"	17793
+	"New Jersey"	"34"	"2017"	"2017"	"White"	"2106-3"	69874
+	"New Jersey"	"34"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"New Jersey"	"34"	"2017"	"2017"			101250
+	"New Jersey"	"34"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	221
+	"New Jersey"	"34"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	12257
+	"New Jersey"	"34"	"2018"	"2018"	"Black or African American"	"2054-5"	17552
+	"New Jersey"	"34"	"2018"	"2018"	"White"	"2106-3"	71193
+	"New Jersey"	"34"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"New Jersey"	"34"	"2018"	"2018"			101223
+	"New Jersey"	"34"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	264
+	"New Jersey"	"34"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	11871
+	"New Jersey"	"34"	"2019"	"2019"	"Black or African American"	"2054-5"	17215
+	"New Jersey"	"34"	"2019"	"2019"	"White"	"2106-3"	70235
+	"New Jersey"	"34"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"New Jersey"	"34"	"2019"	"2019"			99585
+	"New Jersey"	"34"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"New Jersey"	"34"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"New Jersey"	"34"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"New Jersey"	"34"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"New Jersey"	"34"	"2020"	"2020"	"Not Reported"	"100"	97954
+"Total"	"New Jersey"	"34"	"2020"	"2020"			97954
+	"New Jersey"	"34"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"New Jersey"	"34"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"New Jersey"	"34"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"New Jersey"	"34"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"New Jersey"	"34"	"2021"	"2021"	"Not Reported"	"100"	101497
+"Total"	"New Jersey"	"34"	"2021"	"2021"			101497
+	"New Jersey"	"34"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"New Jersey"	"34"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"New Jersey"	"34"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"New Jersey"	"34"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"New Jersey"	"34"	"2022"	"2022"	"Not Reported"	"100"	102893
+"Total"	"New Jersey"	"34"	"2022"	"2022"			102893
+	"New Jersey"	"34"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"New Jersey"	"34"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"New Jersey"	"34"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"New Jersey"	"34"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"New Jersey"	"34"	"2023"	"2023"	"Not Reported"	"100"	101001
+"Total"	"New Jersey"	"34"	"2023"	"2023"			101001
+"Total"	"New Jersey"	"34"					1434092
+	"New York"	"36"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	796
+	"New York"	"36"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	23308
+	"New York"	"36"	"2010"	"2010"	"Black or African American"	"2054-5"	47678
+	"New York"	"36"	"2010"	"2010"	"White"	"2106-3"	172593
+	"New York"	"36"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"New York"	"36"	"2010"	"2010"			244375
+	"New York"	"36"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	1182
+	"New York"	"36"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	24794
+	"New York"	"36"	"2011"	"2011"	"Black or African American"	"2054-5"	49738
+	"New York"	"36"	"2011"	"2011"	"White"	"2106-3"	165598
+	"New York"	"36"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"New York"	"36"	"2011"	"2011"			241312
+	"New York"	"36"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	1080
+	"New York"	"36"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	26937
+	"New York"	"36"	"2012"	"2012"	"Black or African American"	"2054-5"	49124
+	"New York"	"36"	"2012"	"2012"	"White"	"2106-3"	163775
+	"New York"	"36"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"New York"	"36"	"2012"	"2012"			240916
+	"New York"	"36"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	790
+	"New York"	"36"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	25394
+	"New York"	"36"	"2013"	"2013"	"Black or African American"	"2054-5"	47676
+	"New York"	"36"	"2013"	"2013"	"White"	"2106-3"	163120
+	"New York"	"36"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"New York"	"36"	"2013"	"2013"			236980
+	"New York"	"36"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	757
+	"New York"	"36"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	26786
+	"New York"	"36"	"2014"	"2014"	"Black or African American"	"2054-5"	46744
+	"New York"	"36"	"2014"	"2014"	"White"	"2106-3"	164486
+	"New York"	"36"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"New York"	"36"	"2014"	"2014"			238773
+	"New York"	"36"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	738
+	"New York"	"36"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	26556
+	"New York"	"36"	"2015"	"2015"	"Black or African American"	"2054-5"	46109
+	"New York"	"36"	"2015"	"2015"	"White"	"2106-3"	163871
+	"New York"	"36"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"New York"	"36"	"2015"	"2015"			237274
+	"New York"	"36"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	734
+	"New York"	"36"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	30159
+	"New York"	"36"	"2016"	"2016"	"Black or African American"	"2054-5"	45989
+	"New York"	"36"	"2016"	"2016"	"White"	"2106-3"	157401
+	"New York"	"36"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"New York"	"36"	"2016"	"2016"			234283
+	"New York"	"36"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	670
+	"New York"	"36"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	28798
+	"New York"	"36"	"2017"	"2017"	"Black or African American"	"2054-5"	45021
+	"New York"	"36"	"2017"	"2017"	"White"	"2106-3"	155248
+	"New York"	"36"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"New York"	"36"	"2017"	"2017"			229737
+	"New York"	"36"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	854
+	"New York"	"36"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	25574
+	"New York"	"36"	"2018"	"2018"	"Black or African American"	"2054-5"	43650
+	"New York"	"36"	"2018"	"2018"	"White"	"2106-3"	156160
+	"New York"	"36"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"New York"	"36"	"2018"	"2018"			226238
+	"New York"	"36"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	881
+	"New York"	"36"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	25468
+	"New York"	"36"	"2019"	"2019"	"Black or African American"	"2054-5"	43734
+	"New York"	"36"	"2019"	"2019"	"White"	"2106-3"	151456
+	"New York"	"36"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"New York"	"36"	"2019"	"2019"			221539
+	"New York"	"36"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"New York"	"36"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"New York"	"36"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"New York"	"36"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"New York"	"36"	"2020"	"2020"	"Not Reported"	"100"	209338
+"Total"	"New York"	"36"	"2020"	"2020"			209338
+	"New York"	"36"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"New York"	"36"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"New York"	"36"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"New York"	"36"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"New York"	"36"	"2021"	"2021"	"Not Reported"	"100"	210742
+"Total"	"New York"	"36"	"2021"	"2021"			210742
+	"New York"	"36"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"New York"	"36"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"New York"	"36"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"New York"	"36"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"New York"	"36"	"2022"	"2022"	"Not Reported"	"100"	207774
+"Total"	"New York"	"36"	"2022"	"2022"			207774
+	"New York"	"36"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"New York"	"36"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"New York"	"36"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"New York"	"36"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"New York"	"36"	"2023"	"2023"	"Not Reported"	"100"	203612
+"Total"	"New York"	"36"	"2023"	"2023"			203612
+"Total"	"New York"	"36"					3182893
+	"North Carolina"	"37"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	1821
+	"North Carolina"	"37"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	4412
+	"North Carolina"	"37"	"2010"	"2010"	"Black or African American"	"2054-5"	29883
+	"North Carolina"	"37"	"2010"	"2010"	"White"	"2106-3"	86234
+	"North Carolina"	"37"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"North Carolina"	"37"	"2010"	"2010"			122350
+	"North Carolina"	"37"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	1982
+	"North Carolina"	"37"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	5165
+	"North Carolina"	"37"	"2011"	"2011"	"Black or African American"	"2054-5"	31638
+	"North Carolina"	"37"	"2011"	"2011"	"White"	"2106-3"	81604
+	"North Carolina"	"37"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"North Carolina"	"37"	"2011"	"2011"			120389
+	"North Carolina"	"37"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	1931
+	"North Carolina"	"37"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	5521
+	"North Carolina"	"37"	"2012"	"2012"	"Black or African American"	"2054-5"	31484
+	"North Carolina"	"37"	"2012"	"2012"	"White"	"2106-3"	80895
+	"North Carolina"	"37"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"North Carolina"	"37"	"2012"	"2012"			119831
+	"North Carolina"	"37"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	1939
+	"North Carolina"	"37"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	5331
+	"North Carolina"	"37"	"2013"	"2013"	"Black or African American"	"2054-5"	32115
+	"North Carolina"	"37"	"2013"	"2013"	"White"	"2106-3"	79617
+	"North Carolina"	"37"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"North Carolina"	"37"	"2013"	"2013"			119002
+	"North Carolina"	"37"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	2025
+	"North Carolina"	"37"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	5730
+	"North Carolina"	"37"	"2014"	"2014"	"Black or African American"	"2054-5"	31963
+	"North Carolina"	"37"	"2014"	"2014"	"White"	"2106-3"	81257
+	"North Carolina"	"37"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"North Carolina"	"37"	"2014"	"2014"			120975
+	"North Carolina"	"37"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	1964
+	"North Carolina"	"37"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	5861
+	"North Carolina"	"37"	"2015"	"2015"	"Black or African American"	"2054-5"	31864
+	"North Carolina"	"37"	"2015"	"2015"	"White"	"2106-3"	81154
+	"North Carolina"	"37"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"North Carolina"	"37"	"2015"	"2015"			120843
+	"North Carolina"	"37"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	1886
+	"North Carolina"	"37"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	6180
+	"North Carolina"	"37"	"2016"	"2016"	"Black or African American"	"2054-5"	32966
+	"North Carolina"	"37"	"2016"	"2016"	"White"	"2106-3"	79747
+	"North Carolina"	"37"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"North Carolina"	"37"	"2016"	"2016"			120779
+	"North Carolina"	"37"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	1902
+	"North Carolina"	"37"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	6289
+	"North Carolina"	"37"	"2017"	"2017"	"Black or African American"	"2054-5"	33669
+	"North Carolina"	"37"	"2017"	"2017"	"White"	"2106-3"	78265
+	"North Carolina"	"37"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"North Carolina"	"37"	"2017"	"2017"			120125
+	"North Carolina"	"37"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	1975
+	"North Carolina"	"37"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	5884
+	"North Carolina"	"37"	"2018"	"2018"	"Black or African American"	"2054-5"	32062
+	"North Carolina"	"37"	"2018"	"2018"	"White"	"2106-3"	79033
+	"North Carolina"	"37"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"North Carolina"	"37"	"2018"	"2018"			118954
+	"North Carolina"	"37"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	1882
+	"North Carolina"	"37"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	5985
+	"North Carolina"	"37"	"2019"	"2019"	"Black or African American"	"2054-5"	32471
+	"North Carolina"	"37"	"2019"	"2019"	"White"	"2106-3"	78387
+	"North Carolina"	"37"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"North Carolina"	"37"	"2019"	"2019"			118725
+	"North Carolina"	"37"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"North Carolina"	"37"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"North Carolina"	"37"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"North Carolina"	"37"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"North Carolina"	"37"	"2020"	"2020"	"Not Reported"	"100"	116730
+"Total"	"North Carolina"	"37"	"2020"	"2020"			116730
+	"North Carolina"	"37"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"North Carolina"	"37"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"North Carolina"	"37"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"North Carolina"	"37"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"North Carolina"	"37"	"2021"	"2021"	"Not Reported"	"100"	120466
+"Total"	"North Carolina"	"37"	"2021"	"2021"			120466
+	"North Carolina"	"37"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"North Carolina"	"37"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"North Carolina"	"37"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"North Carolina"	"37"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"North Carolina"	"37"	"2022"	"2022"	"Not Reported"	"100"	121562
+"Total"	"North Carolina"	"37"	"2022"	"2022"			121562
+	"North Carolina"	"37"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"North Carolina"	"37"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"North Carolina"	"37"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"North Carolina"	"37"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"North Carolina"	"37"	"2023"	"2023"	"Not Reported"	"100"	120082
+"Total"	"North Carolina"	"37"	"2023"	"2023"			120082
+"Total"	"North Carolina"	"37"					1680813
+	"Ohio"	"39"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	285
+	"Ohio"	"39"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	3593
+	"Ohio"	"39"	"2010"	"2010"	"Black or African American"	"2054-5"	24355
+	"Ohio"	"39"	"2010"	"2010"	"White"	"2106-3"	110895
+	"Ohio"	"39"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"Ohio"	"39"	"2010"	"2010"			139128
+	"Ohio"	"39"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	273
+	"Ohio"	"39"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	3509
+	"Ohio"	"39"	"2011"	"2011"	"Black or African American"	"2054-5"	24135
+	"Ohio"	"39"	"2011"	"2011"	"White"	"2106-3"	110001
+	"Ohio"	"39"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"Ohio"	"39"	"2011"	"2011"			137918
+	"Ohio"	"39"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	297
+	"Ohio"	"39"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	3891
+	"Ohio"	"39"	"2012"	"2012"	"Black or African American"	"2054-5"	24526
+	"Ohio"	"39"	"2012"	"2012"	"White"	"2106-3"	109769
+	"Ohio"	"39"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"Ohio"	"39"	"2012"	"2012"			138483
+	"Ohio"	"39"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	320
+	"Ohio"	"39"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	3915
+	"Ohio"	"39"	"2013"	"2013"	"Black or African American"	"2054-5"	24952
+	"Ohio"	"39"	"2013"	"2013"	"White"	"2106-3"	109749
+	"Ohio"	"39"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"Ohio"	"39"	"2013"	"2013"			138936
+	"Ohio"	"39"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	301
+	"Ohio"	"39"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	4232
+	"Ohio"	"39"	"2014"	"2014"	"Black or African American"	"2054-5"	24931
+	"Ohio"	"39"	"2014"	"2014"	"White"	"2106-3"	110003
+	"Ohio"	"39"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"Ohio"	"39"	"2014"	"2014"			139467
+	"Ohio"	"39"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	253
+	"Ohio"	"39"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	4367
+	"Ohio"	"39"	"2015"	"2015"	"Black or African American"	"2054-5"	25078
+	"Ohio"	"39"	"2015"	"2015"	"White"	"2106-3"	109566
+	"Ohio"	"39"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"Ohio"	"39"	"2015"	"2015"			139264
+	"Ohio"	"39"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	271
+	"Ohio"	"39"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	4827
+	"Ohio"	"39"	"2016"	"2016"	"Black or African American"	"2054-5"	25161
+	"Ohio"	"39"	"2016"	"2016"	"White"	"2106-3"	107826
+	"Ohio"	"39"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"Ohio"	"39"	"2016"	"2016"			138085
+	"Ohio"	"39"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	270
+	"Ohio"	"39"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	4884
+	"Ohio"	"39"	"2017"	"2017"	"Black or African American"	"2054-5"	25268
+	"Ohio"	"39"	"2017"	"2017"	"White"	"2106-3"	106410
+	"Ohio"	"39"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"Ohio"	"39"	"2017"	"2017"			136832
+	"Ohio"	"39"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	253
+	"Ohio"	"39"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	4773
+	"Ohio"	"39"	"2018"	"2018"	"Black or African American"	"2054-5"	24916
+	"Ohio"	"39"	"2018"	"2018"	"White"	"2106-3"	105192
+	"Ohio"	"39"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"Ohio"	"39"	"2018"	"2018"			135134
+	"Ohio"	"39"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	286
+	"Ohio"	"39"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	4888
+	"Ohio"	"39"	"2019"	"2019"	"Black or African American"	"2054-5"	25515
+	"Ohio"	"39"	"2019"	"2019"	"White"	"2106-3"	103772
+	"Ohio"	"39"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"Ohio"	"39"	"2019"	"2019"			134461
+	"Ohio"	"39"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Ohio"	"39"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Ohio"	"39"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"Ohio"	"39"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"Ohio"	"39"	"2020"	"2020"	"Not Reported"	"100"	129191
+"Total"	"Ohio"	"39"	"2020"	"2020"			129191
+	"Ohio"	"39"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Ohio"	"39"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Ohio"	"39"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"Ohio"	"39"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"Ohio"	"39"	"2021"	"2021"	"Not Reported"	"100"	129791
+"Total"	"Ohio"	"39"	"2021"	"2021"			129791
+	"Ohio"	"39"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Ohio"	"39"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Ohio"	"39"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"Ohio"	"39"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"Ohio"	"39"	"2022"	"2022"	"Not Reported"	"100"	128231
+"Total"	"Ohio"	"39"	"2022"	"2022"			128231
+	"Ohio"	"39"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Ohio"	"39"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Ohio"	"39"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"Ohio"	"39"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"Ohio"	"39"	"2023"	"2023"	"Not Reported"	"100"	126896
+"Total"	"Ohio"	"39"	"2023"	"2023"			126896
+"Total"	"Ohio"	"39"					1891817
+	"Oklahoma"	"40"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	6341
+	"Oklahoma"	"40"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	1311
+	"Oklahoma"	"40"	"2010"	"2010"	"Black or African American"	"2054-5"	5008
+	"Oklahoma"	"40"	"2010"	"2010"	"White"	"2106-3"	40578
+	"Oklahoma"	"40"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"Oklahoma"	"40"	"2010"	"2010"			53238
+	"Oklahoma"	"40"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	6187
+	"Oklahoma"	"40"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	1474
+	"Oklahoma"	"40"	"2011"	"2011"	"Black or African American"	"2054-5"	5022
+	"Oklahoma"	"40"	"2011"	"2011"	"White"	"2106-3"	39589
+	"Oklahoma"	"40"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"Oklahoma"	"40"	"2011"	"2011"			52272
+	"Oklahoma"	"40"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	6076
+	"Oklahoma"	"40"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	1583
+	"Oklahoma"	"40"	"2012"	"2012"	"Black or African American"	"2054-5"	5169
+	"Oklahoma"	"40"	"2012"	"2012"	"White"	"2106-3"	39923
+	"Oklahoma"	"40"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"Oklahoma"	"40"	"2012"	"2012"			52751
+	"Oklahoma"	"40"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	6075
+	"Oklahoma"	"40"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	1583
+	"Oklahoma"	"40"	"2013"	"2013"	"Black or African American"	"2054-5"	5092
+	"Oklahoma"	"40"	"2013"	"2013"	"White"	"2106-3"	40619
+	"Oklahoma"	"40"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"Oklahoma"	"40"	"2013"	"2013"			53369
+	"Oklahoma"	"40"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	6051
+	"Oklahoma"	"40"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	1734
+	"Oklahoma"	"40"	"2014"	"2014"	"Black or African American"	"2054-5"	5296
+	"Oklahoma"	"40"	"2014"	"2014"	"White"	"2106-3"	40258
+	"Oklahoma"	"40"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"Oklahoma"	"40"	"2014"	"2014"			53339
+	"Oklahoma"	"40"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	5924
+	"Oklahoma"	"40"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	1762
+	"Oklahoma"	"40"	"2015"	"2015"	"Black or African American"	"2054-5"	5293
+	"Oklahoma"	"40"	"2015"	"2015"	"White"	"2106-3"	40143
+	"Oklahoma"	"40"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"Oklahoma"	"40"	"2015"	"2015"			53122
+	"Oklahoma"	"40"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	6149
+	"Oklahoma"	"40"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	1829
+	"Oklahoma"	"40"	"2016"	"2016"	"Black or African American"	"2054-5"	5561
+	"Oklahoma"	"40"	"2016"	"2016"	"White"	"2106-3"	39053
+	"Oklahoma"	"40"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"Oklahoma"	"40"	"2016"	"2016"			52592
+	"Oklahoma"	"40"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	5832
+	"Oklahoma"	"40"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	1790
+	"Oklahoma"	"40"	"2017"	"2017"	"Black or African American"	"2054-5"	5321
+	"Oklahoma"	"40"	"2017"	"2017"	"White"	"2106-3"	37271
+	"Oklahoma"	"40"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"Oklahoma"	"40"	"2017"	"2017"			50214
+	"Oklahoma"	"40"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	5708
+	"Oklahoma"	"40"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	1697
+	"Oklahoma"	"40"	"2018"	"2018"	"Black or African American"	"2054-5"	5349
+	"Oklahoma"	"40"	"2018"	"2018"	"White"	"2106-3"	37046
+	"Oklahoma"	"40"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"Oklahoma"	"40"	"2018"	"2018"			49800
+	"Oklahoma"	"40"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	5872
+	"Oklahoma"	"40"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	1668
+	"Oklahoma"	"40"	"2019"	"2019"	"Black or African American"	"2054-5"	5364
+	"Oklahoma"	"40"	"2019"	"2019"	"White"	"2106-3"	36239
+	"Oklahoma"	"40"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"Oklahoma"	"40"	"2019"	"2019"			49143
+	"Oklahoma"	"40"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Oklahoma"	"40"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Oklahoma"	"40"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"Oklahoma"	"40"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"Oklahoma"	"40"	"2020"	"2020"	"Not Reported"	"100"	47623
+"Total"	"Oklahoma"	"40"	"2020"	"2020"			47623
+	"Oklahoma"	"40"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Oklahoma"	"40"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Oklahoma"	"40"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"Oklahoma"	"40"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"Oklahoma"	"40"	"2021"	"2021"	"Not Reported"	"100"	48410
+"Total"	"Oklahoma"	"40"	"2021"	"2021"			48410
+	"Oklahoma"	"40"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Oklahoma"	"40"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Oklahoma"	"40"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"Oklahoma"	"40"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"Oklahoma"	"40"	"2022"	"2022"	"Not Reported"	"100"	48332
+"Total"	"Oklahoma"	"40"	"2022"	"2022"			48332
+	"Oklahoma"	"40"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Oklahoma"	"40"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Oklahoma"	"40"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"Oklahoma"	"40"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"Oklahoma"	"40"	"2023"	"2023"	"Not Reported"	"100"	47909
+"Total"	"Oklahoma"	"40"	"2023"	"2023"			47909
+"Total"	"Oklahoma"	"40"					712114
+	"Pennsylvania"	"42"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	415
+	"Pennsylvania"	"42"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	6276
+	"Pennsylvania"	"42"	"2010"	"2010"	"Black or African American"	"2054-5"	25752
+	"Pennsylvania"	"42"	"2010"	"2010"	"White"	"2106-3"	110878
+	"Pennsylvania"	"42"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"Pennsylvania"	"42"	"2010"	"2010"			143321
+	"Pennsylvania"	"42"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	383
+	"Pennsylvania"	"42"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	6289
+	"Pennsylvania"	"42"	"2011"	"2011"	"Black or African American"	"2054-5"	25453
+	"Pennsylvania"	"42"	"2011"	"2011"	"White"	"2106-3"	111053
+	"Pennsylvania"	"42"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"Pennsylvania"	"42"	"2011"	"2011"			143178
+	"Pennsylvania"	"42"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	385
+	"Pennsylvania"	"42"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	6909
+	"Pennsylvania"	"42"	"2012"	"2012"	"Black or African American"	"2054-5"	25701
+	"Pennsylvania"	"42"	"2012"	"2012"	"White"	"2106-3"	109519
+	"Pennsylvania"	"42"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"Pennsylvania"	"42"	"2012"	"2012"			142514
+	"Pennsylvania"	"42"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	423
+	"Pennsylvania"	"42"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	6721
+	"Pennsylvania"	"42"	"2013"	"2013"	"Black or African American"	"2054-5"	24770
+	"Pennsylvania"	"42"	"2013"	"2013"	"White"	"2106-3"	109007
+	"Pennsylvania"	"42"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"Pennsylvania"	"42"	"2013"	"2013"			140921
+	"Pennsylvania"	"42"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	368
+	"Pennsylvania"	"42"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	7067
+	"Pennsylvania"	"42"	"2014"	"2014"	"Black or African American"	"2054-5"	24024
+	"Pennsylvania"	"42"	"2014"	"2014"	"White"	"2106-3"	110809
+	"Pennsylvania"	"42"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"Pennsylvania"	"42"	"2014"	"2014"			142268
+	"Pennsylvania"	"42"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	391
+	"Pennsylvania"	"42"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	6961
+	"Pennsylvania"	"42"	"2015"	"2015"	"Black or African American"	"2054-5"	24100
+	"Pennsylvania"	"42"	"2015"	"2015"	"White"	"2106-3"	109595
+	"Pennsylvania"	"42"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"Pennsylvania"	"42"	"2015"	"2015"			141047
+	"Pennsylvania"	"42"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	334
+	"Pennsylvania"	"42"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	7512
+	"Pennsylvania"	"42"	"2016"	"2016"	"Black or African American"	"2054-5"	23150
+	"Pennsylvania"	"42"	"2016"	"2016"	"White"	"2106-3"	108413
+	"Pennsylvania"	"42"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"Pennsylvania"	"42"	"2016"	"2016"			139409
+	"Pennsylvania"	"42"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	342
+	"Pennsylvania"	"42"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	7474
+	"Pennsylvania"	"42"	"2017"	"2017"	"Black or African American"	"2054-5"	23464
+	"Pennsylvania"	"42"	"2017"	"2017"	"White"	"2106-3"	106465
+	"Pennsylvania"	"42"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"Pennsylvania"	"42"	"2017"	"2017"			137745
+	"Pennsylvania"	"42"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	446
+	"Pennsylvania"	"42"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	7131
+	"Pennsylvania"	"42"	"2018"	"2018"	"Black or African American"	"2054-5"	23511
+	"Pennsylvania"	"42"	"2018"	"2018"	"White"	"2106-3"	104585
+	"Pennsylvania"	"42"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"Pennsylvania"	"42"	"2018"	"2018"			135673
+	"Pennsylvania"	"42"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	428
+	"Pennsylvania"	"42"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	7083
+	"Pennsylvania"	"42"	"2019"	"2019"	"Black or African American"	"2054-5"	23732
+	"Pennsylvania"	"42"	"2019"	"2019"	"White"	"2106-3"	102987
+	"Pennsylvania"	"42"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"Pennsylvania"	"42"	"2019"	"2019"			134230
+	"Pennsylvania"	"42"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Pennsylvania"	"42"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Pennsylvania"	"42"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"Pennsylvania"	"42"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"Pennsylvania"	"42"	"2020"	"2020"	"Not Reported"	"100"	130693
+"Total"	"Pennsylvania"	"42"	"2020"	"2020"			130693
+	"Pennsylvania"	"42"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Pennsylvania"	"42"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Pennsylvania"	"42"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"Pennsylvania"	"42"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"Pennsylvania"	"42"	"2021"	"2021"	"Not Reported"	"100"	132622
+"Total"	"Pennsylvania"	"42"	"2021"	"2021"			132622
+	"Pennsylvania"	"42"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Pennsylvania"	"42"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Pennsylvania"	"42"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"Pennsylvania"	"42"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"Pennsylvania"	"42"	"2022"	"2022"	"Not Reported"	"100"	130252
+"Total"	"Pennsylvania"	"42"	"2022"	"2022"			130252
+	"Pennsylvania"	"42"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Pennsylvania"	"42"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Pennsylvania"	"42"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"Pennsylvania"	"42"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"Pennsylvania"	"42"	"2023"	"2023"	"Not Reported"	"100"	126951
+"Total"	"Pennsylvania"	"42"	"2023"	"2023"			126951
+"Total"	"Pennsylvania"	"42"					1920824
+	"South Carolina"	"45"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	208
+	"South Carolina"	"45"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	1199
+	"South Carolina"	"45"	"2010"	"2010"	"Black or African American"	"2054-5"	19523
+	"South Carolina"	"45"	"2010"	"2010"	"White"	"2106-3"	37412
+	"South Carolina"	"45"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"South Carolina"	"45"	"2010"	"2010"			58342
+	"South Carolina"	"45"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	241
+	"South Carolina"	"45"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	1206
+	"South Carolina"	"45"	"2011"	"2011"	"Black or African American"	"2054-5"	19030
+	"South Carolina"	"45"	"2011"	"2011"	"White"	"2106-3"	36916
+	"South Carolina"	"45"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"South Carolina"	"45"	"2011"	"2011"			57393
+	"South Carolina"	"45"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	227
+	"South Carolina"	"45"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	1271
+	"South Carolina"	"45"	"2012"	"2012"	"Black or African American"	"2054-5"	18900
+	"South Carolina"	"45"	"2012"	"2012"	"White"	"2106-3"	36757
+	"South Carolina"	"45"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"South Carolina"	"45"	"2012"	"2012"			57155
+	"South Carolina"	"45"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	201
+	"South Carolina"	"45"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	1235
+	"South Carolina"	"45"	"2013"	"2013"	"Black or African American"	"2054-5"	18591
+	"South Carolina"	"45"	"2013"	"2013"	"White"	"2106-3"	36768
+	"South Carolina"	"45"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"South Carolina"	"45"	"2013"	"2013"			56795
+	"South Carolina"	"45"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	193
+	"South Carolina"	"45"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	1293
+	"South Carolina"	"45"	"2014"	"2014"	"Black or African American"	"2054-5"	18598
+	"South Carolina"	"45"	"2014"	"2014"	"White"	"2106-3"	37543
+	"South Carolina"	"45"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"South Carolina"	"45"	"2014"	"2014"			57627
+	"South Carolina"	"45"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	217
+	"South Carolina"	"45"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	1289
+	"South Carolina"	"45"	"2015"	"2015"	"Black or African American"	"2054-5"	18577
+	"South Carolina"	"45"	"2015"	"2015"	"White"	"2106-3"	38056
+	"South Carolina"	"45"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"South Carolina"	"45"	"2015"	"2015"			58139
+	"South Carolina"	"45"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	220
+	"South Carolina"	"45"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	1397
+	"South Carolina"	"45"	"2016"	"2016"	"Black or African American"	"2054-5"	18343
+	"South Carolina"	"45"	"2016"	"2016"	"White"	"2106-3"	37382
+	"South Carolina"	"45"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"South Carolina"	"45"	"2016"	"2016"			57342
+	"South Carolina"	"45"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	212
+	"South Carolina"	"45"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	1400
+	"South Carolina"	"45"	"2017"	"2017"	"Black or African American"	"2054-5"	18737
+	"South Carolina"	"45"	"2017"	"2017"	"White"	"2106-3"	36680
+	"South Carolina"	"45"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"South Carolina"	"45"	"2017"	"2017"			57029
+	"South Carolina"	"45"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	201
+	"South Carolina"	"45"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	1457
+	"South Carolina"	"45"	"2018"	"2018"	"Black or African American"	"2054-5"	18077
+	"South Carolina"	"45"	"2018"	"2018"	"White"	"2106-3"	36934
+	"South Carolina"	"45"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"South Carolina"	"45"	"2018"	"2018"			56669
+	"South Carolina"	"45"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	213
+	"South Carolina"	"45"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	1434
+	"South Carolina"	"45"	"2019"	"2019"	"Black or African American"	"2054-5"	18367
+	"South Carolina"	"45"	"2019"	"2019"	"White"	"2106-3"	37024
+	"South Carolina"	"45"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"South Carolina"	"45"	"2019"	"2019"			57038
+	"South Carolina"	"45"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"South Carolina"	"45"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"South Carolina"	"45"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"South Carolina"	"45"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"South Carolina"	"45"	"2020"	"2020"	"Not Reported"	"100"	55704
+"Total"	"South Carolina"	"45"	"2020"	"2020"			55704
+	"South Carolina"	"45"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"South Carolina"	"45"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"South Carolina"	"45"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"South Carolina"	"45"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"South Carolina"	"45"	"2021"	"2021"	"Not Reported"	"100"	57185
+"Total"	"South Carolina"	"45"	"2021"	"2021"			57185
+	"South Carolina"	"45"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"South Carolina"	"45"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"South Carolina"	"45"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"South Carolina"	"45"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"South Carolina"	"45"	"2022"	"2022"	"Not Reported"	"100"	57820
+"Total"	"South Carolina"	"45"	"2022"	"2022"			57820
+	"South Carolina"	"45"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"South Carolina"	"45"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"South Carolina"	"45"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"South Carolina"	"45"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"South Carolina"	"45"	"2023"	"2023"	"Not Reported"	"100"	57729
+"Total"	"South Carolina"	"45"	"2023"	"2023"			57729
+"Total"	"South Carolina"	"45"					801967
+	"Texas"	"48"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	1181
+	"Texas"	"48"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	16818
+	"Texas"	"48"	"2010"	"2010"	"Black or African American"	"2054-5"	47482
+	"Texas"	"48"	"2010"	"2010"	"White"	"2106-3"	320637
+	"Texas"	"48"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"Texas"	"48"	"2010"	"2010"			386118
+	"Texas"	"48"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	1107
+	"Texas"	"48"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	17289
+	"Texas"	"48"	"2011"	"2011"	"Black or African American"	"2054-5"	46102
+	"Texas"	"48"	"2011"	"2011"	"White"	"2106-3"	312947
+	"Texas"	"48"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"Texas"	"48"	"2011"	"2011"			377445
+	"Texas"	"48"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	1232
+	"Texas"	"48"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	19073
+	"Texas"	"48"	"2012"	"2012"	"Black or African American"	"2054-5"	47705
+	"Texas"	"48"	"2012"	"2012"	"White"	"2106-3"	314717
+	"Texas"	"48"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"Texas"	"48"	"2012"	"2012"			382727
+	"Texas"	"48"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	1229
+	"Texas"	"48"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	18861
+	"Texas"	"48"	"2013"	"2013"	"Black or African American"	"2054-5"	49039
+	"Texas"	"48"	"2013"	"2013"	"White"	"2106-3"	318211
+	"Texas"	"48"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"Texas"	"48"	"2013"	"2013"			387340
+	"Texas"	"48"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	1168
+	"Texas"	"48"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	20844
+	"Texas"	"48"	"2014"	"2014"	"Black or African American"	"2054-5"	51274
+	"Texas"	"48"	"2014"	"2014"	"White"	"2106-3"	326480
+	"Texas"	"48"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"Texas"	"48"	"2014"	"2014"			399766
+	"Texas"	"48"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	1270
+	"Texas"	"48"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	21775
+	"Texas"	"48"	"2015"	"2015"	"Black or African American"	"2054-5"	53144
+	"Texas"	"48"	"2015"	"2015"	"White"	"2106-3"	327429
+	"Texas"	"48"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"Texas"	"48"	"2015"	"2015"			403618
+	"Texas"	"48"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	1272
+	"Texas"	"48"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	24066
+	"Texas"	"48"	"2016"	"2016"	"Black or African American"	"2054-5"	56338
+	"Texas"	"48"	"2016"	"2016"	"White"	"2106-3"	316371
+	"Texas"	"48"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"Texas"	"48"	"2016"	"2016"			398047
+	"Texas"	"48"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	1120
+	"Texas"	"48"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	23679
+	"Texas"	"48"	"2017"	"2017"	"Black or African American"	"2054-5"	56112
+	"Texas"	"48"	"2017"	"2017"	"White"	"2106-3"	301139
+	"Texas"	"48"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"Texas"	"48"	"2017"	"2017"			382050
+	"Texas"	"48"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	1221
+	"Texas"	"48"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	21857
+	"Texas"	"48"	"2018"	"2018"	"Black or African American"	"2054-5"	52999
+	"Texas"	"48"	"2018"	"2018"	"White"	"2106-3"	302547
+	"Texas"	"48"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"Texas"	"48"	"2018"	"2018"			378624
+	"Texas"	"48"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	1207
+	"Texas"	"48"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	21993
+	"Texas"	"48"	"2019"	"2019"	"Black or African American"	"2054-5"	52254
+	"Texas"	"48"	"2019"	"2019"	"White"	"2106-3"	302145
+	"Texas"	"48"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"Texas"	"48"	"2019"	"2019"			377599
+	"Texas"	"48"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Texas"	"48"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Texas"	"48"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"Texas"	"48"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"Texas"	"48"	"2020"	"2020"	"Not Reported"	"100"	368190
+"Total"	"Texas"	"48"	"2020"	"2020"			368190
+	"Texas"	"48"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Texas"	"48"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Texas"	"48"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"Texas"	"48"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"Texas"	"48"	"2021"	"2021"	"Not Reported"	"100"	373594
+"Total"	"Texas"	"48"	"2021"	"2021"			373594
+	"Texas"	"48"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Texas"	"48"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Texas"	"48"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"Texas"	"48"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"Texas"	"48"	"2022"	"2022"	"Not Reported"	"100"	389741
+"Total"	"Texas"	"48"	"2022"	"2022"			389741
+	"Texas"	"48"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Texas"	"48"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Texas"	"48"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"Texas"	"48"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"Texas"	"48"	"2023"	"2023"	"Not Reported"	"100"	387945
+"Total"	"Texas"	"48"	"2023"	"2023"			387945
+"Total"	"Texas"	"48"					5392804
+	"Washington"	"53"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	2217
+	"Washington"	"53"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	9082
+	"Washington"	"53"	"2010"	"2010"	"Black or African American"	"2054-5"	4865
+	"Washington"	"53"	"2010"	"2010"	"White"	"2106-3"	70375
+	"Washington"	"53"	"2010"	"2010"	"Not Reported"	"100"	0
+"Total"	"Washington"	"53"	"2010"	"2010"			86539
+	"Washington"	"53"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	2234
+	"Washington"	"53"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	9444
+	"Washington"	"53"	"2011"	"2011"	"Black or African American"	"2054-5"	5142
+	"Washington"	"53"	"2011"	"2011"	"White"	"2106-3"	70156
+	"Washington"	"53"	"2011"	"2011"	"Not Reported"	"100"	0
+"Total"	"Washington"	"53"	"2011"	"2011"			86976
+	"Washington"	"53"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	2162
+	"Washington"	"53"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	10140
+	"Washington"	"53"	"2012"	"2012"	"Black or African American"	"2054-5"	5075
+	"Washington"	"53"	"2012"	"2012"	"White"	"2106-3"	70086
+	"Washington"	"53"	"2012"	"2012"	"Not Reported"	"100"	0
+"Total"	"Washington"	"53"	"2012"	"2012"			87463
+	"Washington"	"53"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	2140
+	"Washington"	"53"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	9820
+	"Washington"	"53"	"2013"	"2013"	"Black or African American"	"2054-5"	5241
+	"Washington"	"53"	"2013"	"2013"	"White"	"2106-3"	69376
+	"Washington"	"53"	"2013"	"2013"	"Not Reported"	"100"	0
+"Total"	"Washington"	"53"	"2013"	"2013"			86577
+	"Washington"	"53"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	2059
+	"Washington"	"53"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	10306
+	"Washington"	"53"	"2014"	"2014"	"Black or African American"	"2054-5"	5254
+	"Washington"	"53"	"2014"	"2014"	"White"	"2106-3"	70966
+	"Washington"	"53"	"2014"	"2014"	"Not Reported"	"100"	0
+"Total"	"Washington"	"53"	"2014"	"2014"			88585
+	"Washington"	"53"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	2036
+	"Washington"	"53"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	10611
+	"Washington"	"53"	"2015"	"2015"	"Black or African American"	"2054-5"	5302
+	"Washington"	"53"	"2015"	"2015"	"White"	"2106-3"	71041
+	"Washington"	"53"	"2015"	"2015"	"Not Reported"	"100"	0
+"Total"	"Washington"	"53"	"2015"	"2015"			88990
+	"Washington"	"53"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	2164
+	"Washington"	"53"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	11975
+	"Washington"	"53"	"2016"	"2016"	"Black or African American"	"2054-5"	5847
+	"Washington"	"53"	"2016"	"2016"	"White"	"2106-3"	70519
+	"Washington"	"53"	"2016"	"2016"	"Not Reported"	"100"	0
+"Total"	"Washington"	"53"	"2016"	"2016"			90505
+	"Washington"	"53"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	1946
+	"Washington"	"53"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	12022
+	"Washington"	"53"	"2017"	"2017"	"Black or African American"	"2054-5"	6059
+	"Washington"	"53"	"2017"	"2017"	"White"	"2106-3"	67535
+	"Washington"	"53"	"2017"	"2017"	"Not Reported"	"100"	0
+"Total"	"Washington"	"53"	"2017"	"2017"			87562
+	"Washington"	"53"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	2048
+	"Washington"	"53"	"2018"	"2018"	"Asian or Pacific Islander"	"A-PI"	11496
+	"Washington"	"53"	"2018"	"2018"	"Black or African American"	"2054-5"	5986
+	"Washington"	"53"	"2018"	"2018"	"White"	"2106-3"	66555
+	"Washington"	"53"	"2018"	"2018"	"Not Reported"	"100"	0
+"Total"	"Washington"	"53"	"2018"	"2018"			86085
+	"Washington"	"53"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	1976
+	"Washington"	"53"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	11943
+	"Washington"	"53"	"2019"	"2019"	"Black or African American"	"2054-5"	5998
+	"Washington"	"53"	"2019"	"2019"	"White"	"2106-3"	64978
+	"Washington"	"53"	"2019"	"2019"	"Not Reported"	"100"	0
+"Total"	"Washington"	"53"	"2019"	"2019"			84895
+	"Washington"	"53"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Washington"	"53"	"2020"	"2020"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Washington"	"53"	"2020"	"2020"	"Black or African American"	"2054-5"	Missing Race
+	"Washington"	"53"	"2020"	"2020"	"White"	"2106-3"	Missing Race
+	"Washington"	"53"	"2020"	"2020"	"Not Reported"	"100"	83086
+"Total"	"Washington"	"53"	"2020"	"2020"			83086
+	"Washington"	"53"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Washington"	"53"	"2021"	"2021"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Washington"	"53"	"2021"	"2021"	"Black or African American"	"2054-5"	Missing Race
+	"Washington"	"53"	"2021"	"2021"	"White"	"2106-3"	Missing Race
+	"Washington"	"53"	"2021"	"2021"	"Not Reported"	"100"	83911
+"Total"	"Washington"	"53"	"2021"	"2021"			83911
+	"Washington"	"53"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Washington"	"53"	"2022"	"2022"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Washington"	"53"	"2022"	"2022"	"Black or African American"	"2054-5"	Missing Race
+	"Washington"	"53"	"2022"	"2022"	"White"	"2106-3"	Missing Race
+	"Washington"	"53"	"2022"	"2022"	"Not Reported"	"100"	83333
+"Total"	"Washington"	"53"	"2022"	"2022"			83333
+	"Washington"	"53"	"2023"	"2023"	"American Indian or Alaska Native"	"1002-5"	Missing Race
+	"Washington"	"53"	"2023"	"2023"	"Asian or Pacific Islander"	"A-PI"	Missing Race
+	"Washington"	"53"	"2023"	"2023"	"Black or African American"	"2054-5"	Missing Race
+	"Washington"	"53"	"2023"	"2023"	"White"	"2106-3"	Missing Race
+	"Washington"	"53"	"2023"	"2023"	"Not Reported"	"100"	80932
+"Total"	"Washington"	"53"	"2023"	"2023"			80932
+"Total"	"Washington"	"53"					1205439
+"Total"							38056009
+"---"
+"Dataset: Natality, 2007-2023"
+"Query Parameters:"
+"States: Arizona (04); Arkansas (05); California (06); Florida (12); Georgia (13); Illinois (17); Indiana (18); Maryland (24);"
+"Michigan (26); Missouri (29); New Jersey (34); New York (36); North Carolina (37); Ohio (39); Oklahoma (40); Pennsylvania (42);"
+"South Carolina (45); Texas (48); Washington (53)"
+"Year: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020; 2021; 2022; 2023"
+"Group By: State; Year; Mother's Bridged Race"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
+"---"
+"Query Date: Mar 25, 2025 1:23:20 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-current.html on Mar 25, 2025 1:23:20 AM"
+"---"
+Caveats:
+"1. 'Missing Race' appears when Single Race categories are not available for births before year 2016. Maternal race data for"
+"years before 2016 are recoded to the Single Race category ""Not Available"". More information:"
+"http://wonder.cdc.gov/wonder/help/natality.html#About-Single-Race."
+"2. Each birth record represents one liveborn infant."
+"3. Beginning with 2020, bridged race categories are no longer included in the national birth file. Beginning with year 2021,"
+"bridged race population estimates are not available as rate denominators."

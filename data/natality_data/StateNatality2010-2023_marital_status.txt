@@ -1,0 +1,1070 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Marital Status"	"Marital Status Code"	Births
+	"Arizona"	"04"	"2010"	"2010"	"Married"	"1"	48183
+	"Arizona"	"04"	"2010"	"2010"	"Unmarried"	"2"	39294
+	"Arizona"	"04"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"Arizona"	"04"	"2011"	"2011"	"Married"	"1"	47316
+	"Arizona"	"04"	"2011"	"2011"	"Unmarried"	"2"	38227
+	"Arizona"	"04"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"Arizona"	"04"	"2012"	"2012"	"Married"	"1"	47122
+	"Arizona"	"04"	"2012"	"2012"	"Unmarried"	"2"	39319
+	"Arizona"	"04"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"Arizona"	"04"	"2013"	"2013"	"Married"	"1"	46725
+	"Arizona"	"04"	"2013"	"2013"	"Unmarried"	"2"	38875
+	"Arizona"	"04"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"Arizona"	"04"	"2014"	"2014"	"Married"	"1"	47663
+	"Arizona"	"04"	"2014"	"2014"	"Unmarried"	"2"	39224
+	"Arizona"	"04"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"Arizona"	"04"	"2015"	"2015"	"Married"	"1"	46489
+	"Arizona"	"04"	"2015"	"2015"	"Unmarried"	"2"	38862
+	"Arizona"	"04"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"Arizona"	"04"	"2016"	"2016"	"Married"	"1"	46467
+	"Arizona"	"04"	"2016"	"2016"	"Unmarried"	"2"	38053
+	"Arizona"	"04"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"Arizona"	"04"	"2017"	"2017"	"Married"	"1"	45160
+	"Arizona"	"04"	"2017"	"2017"	"Unmarried"	"2"	36604
+	"Arizona"	"04"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2017"	"2017"	"Not Reported"	"NR"	108
+	"Arizona"	"04"	"2018"	"2018"	"Married"	"1"	44427
+	"Arizona"	"04"	"2018"	"2018"	"Unmarried"	"2"	36180
+	"Arizona"	"04"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2018"	"2018"	"Not Reported"	"NR"	116
+	"Arizona"	"04"	"2019"	"2019"	"Married"	"1"	43435
+	"Arizona"	"04"	"2019"	"2019"	"Unmarried"	"2"	35833
+	"Arizona"	"04"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2019"	"2019"	"Not Reported"	"NR"	107
+	"Arizona"	"04"	"2020"	"2020"	"Married"	"1"	42100
+	"Arizona"	"04"	"2020"	"2020"	"Unmarried"	"2"	34737
+	"Arizona"	"04"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2020"	"2020"	"Not Reported"	"NR"	110
+	"Arizona"	"04"	"2021"	"2021"	"Married"	"1"	42479
+	"Arizona"	"04"	"2021"	"2021"	"Unmarried"	"2"	35296
+	"Arizona"	"04"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2021"	"2021"	"Not Reported"	"NR"	141
+	"Arizona"	"04"	"2022"	"2022"	"Married"	"1"	43073
+	"Arizona"	"04"	"2022"	"2022"	"Unmarried"	"2"	35302
+	"Arizona"	"04"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2022"	"2022"	"Not Reported"	"NR"	172
+	"Arizona"	"04"	"2023"	"2023"	"Married"	"1"	42440
+	"Arizona"	"04"	"2023"	"2023"	"Unmarried"	"2"	35527
+	"Arizona"	"04"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"Arizona"	"04"	"2023"	"2023"	"Not Reported"	"NR"	129
+	"Arkansas"	"05"	"2010"	"2010"	"Married"	"1"	21075
+	"Arkansas"	"05"	"2010"	"2010"	"Unmarried"	"2"	17465
+	"Arkansas"	"05"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"Arkansas"	"05"	"2011"	"2011"	"Married"	"1"	21345
+	"Arkansas"	"05"	"2011"	"2011"	"Unmarried"	"2"	17370
+	"Arkansas"	"05"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"Arkansas"	"05"	"2012"	"2012"	"Married"	"1"	21022
+	"Arkansas"	"05"	"2012"	"2012"	"Unmarried"	"2"	17325
+	"Arkansas"	"05"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"Arkansas"	"05"	"2013"	"2013"	"Married"	"1"	20798
+	"Arkansas"	"05"	"2013"	"2013"	"Unmarried"	"2"	17034
+	"Arkansas"	"05"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"Arkansas"	"05"	"2014"	"2014"	"Married"	"1"	21586
+	"Arkansas"	"05"	"2014"	"2014"	"Unmarried"	"2"	16925
+	"Arkansas"	"05"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"Arkansas"	"05"	"2015"	"2015"	"Married"	"1"	21384
+	"Arkansas"	"05"	"2015"	"2015"	"Unmarried"	"2"	17502
+	"Arkansas"	"05"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"Arkansas"	"05"	"2016"	"2016"	"Married"	"1"	21238
+	"Arkansas"	"05"	"2016"	"2016"	"Unmarried"	"2"	17036
+	"Arkansas"	"05"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"Arkansas"	"05"	"2017"	"2017"	"Married"	"1"	20441
+	"Arkansas"	"05"	"2017"	"2017"	"Unmarried"	"2"	17072
+	"Arkansas"	"05"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2018"	"2018"	"Married"	"1"	20217
+	"Arkansas"	"05"	"2018"	"2018"	"Unmarried"	"2"	16795
+	"Arkansas"	"05"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2019"	"2019"	"Married"	"1"	19451
+	"Arkansas"	"05"	"2019"	"2019"	"Unmarried"	"2"	17107
+	"Arkansas"	"05"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2020"	"2020"	"Married"	"1"	18753
+	"Arkansas"	"05"	"2020"	"2020"	"Unmarried"	"2"	16495
+	"Arkansas"	"05"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2021"	"2021"	"Married"	"1"	19305
+	"Arkansas"	"05"	"2021"	"2021"	"Unmarried"	"2"	16654
+	"Arkansas"	"05"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2022"	"2022"	"Married"	"1"	19406
+	"Arkansas"	"05"	"2022"	"2022"	"Unmarried"	"2"	16041
+	"Arkansas"	"05"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2022"	"2022"	"Not Reported"	"NR"	24
+	"Arkansas"	"05"	"2023"	"2023"	"Married"	"1"	19014
+	"Arkansas"	"05"	"2023"	"2023"	"Unmarried"	"2"	16244
+	"Arkansas"	"05"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"California"	"06"	"2010"	"2010"	"Married"	"1"	303625
+	"California"	"06"	"2010"	"2010"	"Unmarried"	"2"	206573
+	"California"	"06"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"California"	"06"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"California"	"06"	"2011"	"2011"	"Married"	"1"	299431
+	"California"	"06"	"2011"	"2011"	"Unmarried"	"2"	202689
+	"California"	"06"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"California"	"06"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"California"	"06"	"2012"	"2012"	"Married"	"1"	301729
+	"California"	"06"	"2012"	"2012"	"Unmarried"	"2"	202026
+	"California"	"06"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"California"	"06"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"California"	"06"	"2013"	"2013"	"Married"	"1"	298406
+	"California"	"06"	"2013"	"2013"	"Unmarried"	"2"	196299
+	"California"	"06"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"California"	"06"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"California"	"06"	"2014"	"2014"	"Married"	"1"	307919
+	"California"	"06"	"2014"	"2014"	"Unmarried"	"2"	194960
+	"California"	"06"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"California"	"06"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"California"	"06"	"2015"	"2015"	"Married"	"1"	300758
+	"California"	"06"	"2015"	"2015"	"Unmarried"	"2"	190990
+	"California"	"06"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"California"	"06"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"California"	"06"	"2016"	"2016"	"Married"	"1"	301976
+	"California"	"06"	"2016"	"2016"	"Unmarried"	"2"	186851
+	"California"	"06"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"California"	"06"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"California"	"06"	"2017"	"2017"	"Married"	"1"	686
+	"California"	"06"	"2017"	"2017"	"Unmarried"	"2"	435
+	"California"	"06"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"California"	"06"	"2017"	"2017"	"Not Reported"	"NR"	470537
+	"California"	"06"	"2018"	"2018"	"Married"	"1"	0
+	"California"	"06"	"2018"	"2018"	"Unmarried"	"2"	0
+	"California"	"06"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"California"	"06"	"2018"	"2018"	"Not Reported"	"NR"	454920
+	"California"	"06"	"2019"	"2019"	"Married"	"1"	0
+	"California"	"06"	"2019"	"2019"	"Unmarried"	"2"	0
+	"California"	"06"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"California"	"06"	"2019"	"2019"	"Not Reported"	"NR"	446479
+	"California"	"06"	"2020"	"2020"	"Married"	"1"	0
+	"California"	"06"	"2020"	"2020"	"Unmarried"	"2"	0
+	"California"	"06"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"California"	"06"	"2020"	"2020"	"Not Reported"	"NR"	420259
+	"California"	"06"	"2021"	"2021"	"Married"	"1"	0
+	"California"	"06"	"2021"	"2021"	"Unmarried"	"2"	0
+	"California"	"06"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"California"	"06"	"2021"	"2021"	"Not Reported"	"NR"	420608
+	"California"	"06"	"2022"	"2022"	"Married"	"1"	0
+	"California"	"06"	"2022"	"2022"	"Unmarried"	"2"	0
+	"California"	"06"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"California"	"06"	"2022"	"2022"	"Not Reported"	"NR"	419104
+	"California"	"06"	"2023"	"2023"	"Married"	"1"	0
+	"California"	"06"	"2023"	"2023"	"Unmarried"	"2"	0
+	"California"	"06"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"California"	"06"	"2023"	"2023"	"Not Reported"	"NR"	400108
+	"Florida"	"12"	"2010"	"2010"	"Married"	"1"	112762
+	"Florida"	"12"	"2010"	"2010"	"Unmarried"	"2"	101828
+	"Florida"	"12"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"Florida"	"12"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"Florida"	"12"	"2011"	"2011"	"Married"	"1"	111869
+	"Florida"	"12"	"2011"	"2011"	"Unmarried"	"2"	101545
+	"Florida"	"12"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"Florida"	"12"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"Florida"	"12"	"2012"	"2012"	"Married"	"1"	110987
+	"Florida"	"12"	"2012"	"2012"	"Unmarried"	"2"	102161
+	"Florida"	"12"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"Florida"	"12"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"Florida"	"12"	"2013"	"2013"	"Married"	"1"	112021
+	"Florida"	"12"	"2013"	"2013"	"Unmarried"	"2"	103386
+	"Florida"	"12"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"Florida"	"12"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"Florida"	"12"	"2014"	"2014"	"Married"	"1"	114569
+	"Florida"	"12"	"2014"	"2014"	"Unmarried"	"2"	105422
+	"Florida"	"12"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"Florida"	"12"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"Florida"	"12"	"2015"	"2015"	"Married"	"1"	117144
+	"Florida"	"12"	"2015"	"2015"	"Unmarried"	"2"	107125
+	"Florida"	"12"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Florida"	"12"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"Florida"	"12"	"2016"	"2016"	"Married"	"1"	119485
+	"Florida"	"12"	"2016"	"2016"	"Unmarried"	"2"	105537
+	"Florida"	"12"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"Florida"	"12"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"Florida"	"12"	"2017"	"2017"	"Married"	"1"	118553
+	"Florida"	"12"	"2017"	"2017"	"Unmarried"	"2"	105023
+	"Florida"	"12"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Florida"	"12"	"2017"	"2017"	"Not Reported"	"NR"	54
+	"Florida"	"12"	"2018"	"2018"	"Married"	"1"	118750
+	"Florida"	"12"	"2018"	"2018"	"Unmarried"	"2"	102751
+	"Florida"	"12"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Florida"	"12"	"2018"	"2018"	"Not Reported"	"NR"	41
+	"Florida"	"12"	"2019"	"2019"	"Married"	"1"	117419
+	"Florida"	"12"	"2019"	"2019"	"Unmarried"	"2"	102543
+	"Florida"	"12"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"Florida"	"12"	"2019"	"2019"	"Not Reported"	"NR"	40
+	"Florida"	"12"	"2020"	"2020"	"Married"	"1"	110572
+	"Florida"	"12"	"2020"	"2020"	"Unmarried"	"2"	99043
+	"Florida"	"12"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Florida"	"12"	"2020"	"2020"	"Not Reported"	"NR"	56
+	"Florida"	"12"	"2021"	"2021"	"Married"	"1"	115592
+	"Florida"	"12"	"2021"	"2021"	"Unmarried"	"2"	100617
+	"Florida"	"12"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Florida"	"12"	"2021"	"2021"	"Not Reported"	"NR"	51
+	"Florida"	"12"	"2022"	"2022"	"Married"	"1"	120816
+	"Florida"	"12"	"2022"	"2022"	"Unmarried"	"2"	103570
+	"Florida"	"12"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"Florida"	"12"	"2022"	"2022"	"Not Reported"	"NR"	47
+	"Florida"	"12"	"2023"	"2023"	"Married"	"1"	119959
+	"Florida"	"12"	"2023"	"2023"	"Unmarried"	"2"	101399
+	"Florida"	"12"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"Florida"	"12"	"2023"	"2023"	"Not Reported"	"NR"	52
+	"Georgia"	"13"	"2010"	"2010"	"Married"	"1"	72548
+	"Georgia"	"13"	"2010"	"2010"	"Unmarried"	"2"	61399
+	"Georgia"	"13"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"Georgia"	"13"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"Georgia"	"13"	"2011"	"2011"	"Married"	"1"	72240
+	"Georgia"	"13"	"2011"	"2011"	"Unmarried"	"2"	60169
+	"Georgia"	"13"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"Georgia"	"13"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"Georgia"	"13"	"2012"	"2012"	"Married"	"1"	71432
+	"Georgia"	"13"	"2012"	"2012"	"Unmarried"	"2"	58848
+	"Georgia"	"13"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"Georgia"	"13"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"Georgia"	"13"	"2013"	"2013"	"Married"	"1"	70301
+	"Georgia"	"13"	"2013"	"2013"	"Unmarried"	"2"	58447
+	"Georgia"	"13"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"Georgia"	"13"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"Georgia"	"13"	"2014"	"2014"	"Married"	"1"	71531
+	"Georgia"	"13"	"2014"	"2014"	"Unmarried"	"2"	59415
+	"Georgia"	"13"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"Georgia"	"13"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"Georgia"	"13"	"2015"	"2015"	"Married"	"1"	72017
+	"Georgia"	"13"	"2015"	"2015"	"Unmarried"	"2"	59387
+	"Georgia"	"13"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Georgia"	"13"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"Georgia"	"13"	"2016"	"2016"	"Married"	"1"	71647
+	"Georgia"	"13"	"2016"	"2016"	"Unmarried"	"2"	58395
+	"Georgia"	"13"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"Georgia"	"13"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"Georgia"	"13"	"2017"	"2017"	"Married"	"1"	71166
+	"Georgia"	"13"	"2017"	"2017"	"Unmarried"	"2"	58060
+	"Georgia"	"13"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Georgia"	"13"	"2017"	"2017"	"Not Reported"	"NR"	17
+	"Georgia"	"13"	"2018"	"2018"	"Married"	"1"	69192
+	"Georgia"	"13"	"2018"	"2018"	"Unmarried"	"2"	56966
+	"Georgia"	"13"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Georgia"	"13"	"2018"	"2018"	"Not Reported"	"NR"	14
+	"Georgia"	"13"	"2019"	"2019"	"Married"	"1"	68700
+	"Georgia"	"13"	"2019"	"2019"	"Unmarried"	"2"	57656
+	"Georgia"	"13"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"Georgia"	"13"	"2019"	"2019"	"Not Reported"	"NR"	15
+	"Georgia"	"13"	"2020"	"2020"	"Married"	"1"	65784
+	"Georgia"	"13"	"2020"	"2020"	"Unmarried"	"2"	56672
+	"Georgia"	"13"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Georgia"	"13"	"2020"	"2020"	"Not Reported"	"NR"	17
+	"Georgia"	"13"	"2021"	"2021"	"Married"	"1"	67040
+	"Georgia"	"13"	"2021"	"2021"	"Unmarried"	"2"	57025
+	"Georgia"	"13"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Georgia"	"13"	"2022"	"2022"	"Married"	"1"	68698
+	"Georgia"	"13"	"2022"	"2022"	"Unmarried"	"2"	57417
+	"Georgia"	"13"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"Georgia"	"13"	"2022"	"2022"	"Not Reported"	"NR"	15
+	"Georgia"	"13"	"2023"	"2023"	"Married"	"1"	67131
+	"Georgia"	"13"	"2023"	"2023"	"Unmarried"	"2"	57981
+	"Georgia"	"13"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"Illinois"	"17"	"2010"	"2010"	"Married"	"1"	98293
+	"Illinois"	"17"	"2010"	"2010"	"Unmarried"	"2"	66907
+	"Illinois"	"17"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"Illinois"	"17"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"Illinois"	"17"	"2011"	"2011"	"Married"	"1"	96811
+	"Illinois"	"17"	"2011"	"2011"	"Unmarried"	"2"	64501
+	"Illinois"	"17"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"Illinois"	"17"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"Illinois"	"17"	"2012"	"2012"	"Married"	"1"	94863
+	"Illinois"	"17"	"2012"	"2012"	"Unmarried"	"2"	64297
+	"Illinois"	"17"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"Illinois"	"17"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"Illinois"	"17"	"2013"	"2013"	"Married"	"1"	93599
+	"Illinois"	"17"	"2013"	"2013"	"Unmarried"	"2"	63332
+	"Illinois"	"17"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"Illinois"	"17"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"Illinois"	"17"	"2014"	"2014"	"Married"	"1"	95001
+	"Illinois"	"17"	"2014"	"2014"	"Unmarried"	"2"	63555
+	"Illinois"	"17"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"Illinois"	"17"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"Illinois"	"17"	"2015"	"2015"	"Married"	"1"	94169
+	"Illinois"	"17"	"2015"	"2015"	"Unmarried"	"2"	63947
+	"Illinois"	"17"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Illinois"	"17"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"Illinois"	"17"	"2016"	"2016"	"Married"	"1"	93153
+	"Illinois"	"17"	"2016"	"2016"	"Unmarried"	"2"	61292
+	"Illinois"	"17"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"Illinois"	"17"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"Illinois"	"17"	"2017"	"2017"	"Married"	"1"	89978
+	"Illinois"	"17"	"2017"	"2017"	"Unmarried"	"2"	59396
+	"Illinois"	"17"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Illinois"	"17"	"2017"	"2017"	"Not Reported"	"NR"	16
+	"Illinois"	"17"	"2018"	"2018"	"Married"	"1"	87845
+	"Illinois"	"17"	"2018"	"2018"	"Unmarried"	"2"	56946
+	"Illinois"	"17"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Illinois"	"17"	"2018"	"2018"	"Not Reported"	"NR"	24
+	"Illinois"	"17"	"2019"	"2019"	"Married"	"1"	84773
+	"Illinois"	"17"	"2019"	"2019"	"Unmarried"	"2"	55336
+	"Illinois"	"17"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"Illinois"	"17"	"2019"	"2019"	"Not Reported"	"NR"	19
+	"Illinois"	"17"	"2020"	"2020"	"Married"	"1"	79269
+	"Illinois"	"17"	"2020"	"2020"	"Unmarried"	"2"	54022
+	"Illinois"	"17"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Illinois"	"17"	"2021"	"2021"	"Married"	"1"	79905
+	"Illinois"	"17"	"2021"	"2021"	"Unmarried"	"2"	52263
+	"Illinois"	"17"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Illinois"	"17"	"2021"	"2021"	"Not Reported"	"NR"	21
+	"Illinois"	"17"	"2022"	"2022"	"Married"	"1"	77794
+	"Illinois"	"17"	"2022"	"2022"	"Unmarried"	"2"	50535
+	"Illinois"	"17"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"Illinois"	"17"	"2022"	"2022"	"Not Reported"	"NR"	21
+	"Illinois"	"17"	"2023"	"2023"	"Married"	"1"	75238
+	"Illinois"	"17"	"2023"	"2023"	"Unmarried"	"2"	49556
+	"Illinois"	"17"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"Illinois"	"17"	"2023"	"2023"	"Not Reported"	"NR"	26
+	"Indiana"	"18"	"2010"	"2010"	"Married"	"1"	47813
+	"Indiana"	"18"	"2010"	"2010"	"Unmarried"	"2"	36127
+	"Indiana"	"18"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"Indiana"	"18"	"2011"	"2011"	"Married"	"1"	47927
+	"Indiana"	"18"	"2011"	"2011"	"Unmarried"	"2"	35774
+	"Indiana"	"18"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"Indiana"	"18"	"2012"	"2012"	"Married"	"1"	47279
+	"Indiana"	"18"	"2012"	"2012"	"Unmarried"	"2"	35948
+	"Indiana"	"18"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"Indiana"	"18"	"2013"	"2013"	"Married"	"1"	47125
+	"Indiana"	"18"	"2013"	"2013"	"Unmarried"	"2"	35977
+	"Indiana"	"18"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"Indiana"	"18"	"2014"	"2014"	"Married"	"1"	47671
+	"Indiana"	"18"	"2014"	"2014"	"Unmarried"	"2"	36409
+	"Indiana"	"18"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"Indiana"	"18"	"2015"	"2015"	"Married"	"1"	47691
+	"Indiana"	"18"	"2015"	"2015"	"Unmarried"	"2"	36349
+	"Indiana"	"18"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"Indiana"	"18"	"2016"	"2016"	"Married"	"1"	47643
+	"Indiana"	"18"	"2016"	"2016"	"Unmarried"	"2"	35448
+	"Indiana"	"18"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"Indiana"	"18"	"2017"	"2017"	"Married"	"1"	47022
+	"Indiana"	"18"	"2017"	"2017"	"Unmarried"	"2"	35142
+	"Indiana"	"18"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2018"	"2018"	"Married"	"1"	46336
+	"Indiana"	"18"	"2018"	"2018"	"Unmarried"	"2"	35303
+	"Indiana"	"18"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2019"	"2019"	"Married"	"1"	45672
+	"Indiana"	"18"	"2019"	"2019"	"Unmarried"	"2"	35180
+	"Indiana"	"18"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2020"	"2020"	"Married"	"1"	44318
+	"Indiana"	"18"	"2020"	"2020"	"Unmarried"	"2"	34289
+	"Indiana"	"18"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2021"	"2021"	"Married"	"1"	45571
+	"Indiana"	"18"	"2021"	"2021"	"Unmarried"	"2"	34368
+	"Indiana"	"18"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2022"	"2022"	"Married"	"1"	45749
+	"Indiana"	"18"	"2022"	"2022"	"Unmarried"	"2"	33891
+	"Indiana"	"18"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2023"	"2023"	"Married"	"1"	45136
+	"Indiana"	"18"	"2023"	"2023"	"Unmarried"	"2"	33859
+	"Indiana"	"18"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"Maryland"	"24"	"2010"	"2010"	"Married"	"1"	42908
+	"Maryland"	"24"	"2010"	"2010"	"Unmarried"	"2"	30893
+	"Maryland"	"24"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"Maryland"	"24"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"Maryland"	"24"	"2011"	"2011"	"Married"	"1"	43002
+	"Maryland"	"24"	"2011"	"2011"	"Unmarried"	"2"	30091
+	"Maryland"	"24"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"Maryland"	"24"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"Maryland"	"24"	"2012"	"2012"	"Married"	"1"	43179
+	"Maryland"	"24"	"2012"	"2012"	"Unmarried"	"2"	29704
+	"Maryland"	"24"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"Maryland"	"24"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"Maryland"	"24"	"2013"	"2013"	"Married"	"1"	42908
+	"Maryland"	"24"	"2013"	"2013"	"Unmarried"	"2"	29045
+	"Maryland"	"24"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"Maryland"	"24"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"Maryland"	"24"	"2014"	"2014"	"Married"	"1"	44549
+	"Maryland"	"24"	"2014"	"2014"	"Unmarried"	"2"	29372
+	"Maryland"	"24"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"Maryland"	"24"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"Maryland"	"24"	"2015"	"2015"	"Married"	"1"	44094
+	"Maryland"	"24"	"2015"	"2015"	"Unmarried"	"2"	29522
+	"Maryland"	"24"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Maryland"	"24"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"Maryland"	"24"	"2016"	"2016"	"Married"	"1"	44130
+	"Maryland"	"24"	"2016"	"2016"	"Unmarried"	"2"	29006
+	"Maryland"	"24"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"Maryland"	"24"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"Maryland"	"24"	"2017"	"2017"	"Married"	"1"	43276
+	"Maryland"	"24"	"2017"	"2017"	"Unmarried"	"2"	28352
+	"Maryland"	"24"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Maryland"	"24"	"2017"	"2017"	"Not Reported"	"NR"	13
+	"Maryland"	"24"	"2018"	"2018"	"Married"	"1"	43174
+	"Maryland"	"24"	"2018"	"2018"	"Unmarried"	"2"	27895
+	"Maryland"	"24"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Maryland"	"24"	"2018"	"2018"	"Not Reported"	"NR"	11
+	"Maryland"	"24"	"2019"	"2019"	"Married"	"1"	41762
+	"Maryland"	"24"	"2019"	"2019"	"Unmarried"	"2"	28398
+	"Maryland"	"24"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"Maryland"	"24"	"2019"	"2019"	"Not Reported"	"NR"	18
+	"Maryland"	"24"	"2020"	"2020"	"Married"	"1"	40604
+	"Maryland"	"24"	"2020"	"2020"	"Unmarried"	"2"	27940
+	"Maryland"	"24"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Maryland"	"24"	"2020"	"2020"	"Not Reported"	"NR"	10
+	"Maryland"	"24"	"2021"	"2021"	"Married"	"1"	40472
+	"Maryland"	"24"	"2021"	"2021"	"Unmarried"	"2"	27803
+	"Maryland"	"24"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Maryland"	"24"	"2021"	"2021"	"Not Reported"	"NR"	10
+	"Maryland"	"24"	"2022"	"2022"	"Married"	"1"	40791
+	"Maryland"	"24"	"2022"	"2022"	"Unmarried"	"2"	27979
+	"Maryland"	"24"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"Maryland"	"24"	"2022"	"2022"	"Not Reported"	"NR"	12
+	"Maryland"	"24"	"2023"	"2023"	"Married"	"1"	38722
+	"Maryland"	"24"	"2023"	"2023"	"Unmarried"	"2"	26855
+	"Maryland"	"24"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"Maryland"	"24"	"2023"	"2023"	"Not Reported"	"NR"	17
+	"Michigan"	"26"	"2010"	"2010"	"Married"	"1"	66612
+	"Michigan"	"26"	"2010"	"2010"	"Unmarried"	"2"	47919
+	"Michigan"	"26"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"Michigan"	"26"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"Michigan"	"26"	"2011"	"2011"	"Married"	"1"	65770
+	"Michigan"	"26"	"2011"	"2011"	"Unmarried"	"2"	48238
+	"Michigan"	"26"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"Michigan"	"26"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"Michigan"	"26"	"2012"	"2012"	"Married"	"1"	65296
+	"Michigan"	"26"	"2012"	"2012"	"Unmarried"	"2"	47795
+	"Michigan"	"26"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"Michigan"	"26"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"Michigan"	"26"	"2013"	"2013"	"Married"	"1"	65360
+	"Michigan"	"26"	"2013"	"2013"	"Unmarried"	"2"	48129
+	"Michigan"	"26"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"Michigan"	"26"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"Michigan"	"26"	"2014"	"2014"	"Married"	"1"	66558
+	"Michigan"	"26"	"2014"	"2014"	"Unmarried"	"2"	47817
+	"Michigan"	"26"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"Michigan"	"26"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"Michigan"	"26"	"2015"	"2015"	"Married"	"1"	65780
+	"Michigan"	"26"	"2015"	"2015"	"Unmarried"	"2"	47532
+	"Michigan"	"26"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Michigan"	"26"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"Michigan"	"26"	"2016"	"2016"	"Married"	"1"	66815
+	"Michigan"	"26"	"2016"	"2016"	"Unmarried"	"2"	46500
+	"Michigan"	"26"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"Michigan"	"26"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"Michigan"	"26"	"2017"	"2017"	"Married"	"1"	65640
+	"Michigan"	"26"	"2017"	"2017"	"Unmarried"	"2"	45775
+	"Michigan"	"26"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Michigan"	"26"	"2017"	"2017"	"Not Reported"	"NR"	11
+	"Michigan"	"26"	"2018"	"2018"	"Married"	"1"	65136
+	"Michigan"	"26"	"2018"	"2018"	"Unmarried"	"2"	44882
+	"Michigan"	"26"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Michigan"	"26"	"2018"	"2018"	"Not Reported"	"NR"	14
+	"Michigan"	"26"	"2019"	"2019"	"Married"	"1"	63667
+	"Michigan"	"26"	"2019"	"2019"	"Unmarried"	"2"	44205
+	"Michigan"	"26"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"Michigan"	"26"	"2019"	"2019"	"Not Reported"	"NR"	14
+	"Michigan"	"26"	"2020"	"2020"	"Married"	"1"	61147
+	"Michigan"	"26"	"2020"	"2020"	"Unmarried"	"2"	42916
+	"Michigan"	"26"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Michigan"	"26"	"2020"	"2020"	"Not Reported"	"NR"	11
+	"Michigan"	"26"	"2021"	"2021"	"Married"	"1"	62643
+	"Michigan"	"26"	"2021"	"2021"	"Unmarried"	"2"	42323
+	"Michigan"	"26"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Michigan"	"26"	"2021"	"2021"	"Not Reported"	"NR"	14
+	"Michigan"	"26"	"2022"	"2022"	"Married"	"1"	62004
+	"Michigan"	"26"	"2022"	"2022"	"Unmarried"	"2"	40306
+	"Michigan"	"26"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"Michigan"	"26"	"2022"	"2022"	"Not Reported"	"NR"	11
+	"Michigan"	"26"	"2023"	"2023"	"Married"	"1"	60800
+	"Michigan"	"26"	"2023"	"2023"	"Unmarried"	"2"	38311
+	"Michigan"	"26"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"Michigan"	"26"	"2023"	"2023"	"Not Reported"	"NR"	13
+	"Missouri"	"29"	"2010"	"2010"	"Married"	"1"	45923
+	"Missouri"	"29"	"2010"	"2010"	"Unmarried"	"2"	30836
+	"Missouri"	"29"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"Missouri"	"29"	"2011"	"2011"	"Married"	"1"	45609
+	"Missouri"	"29"	"2011"	"2011"	"Unmarried"	"2"	30508
+	"Missouri"	"29"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"Missouri"	"29"	"2012"	"2012"	"Married"	"1"	45143
+	"Missouri"	"29"	"2012"	"2012"	"Unmarried"	"2"	30303
+	"Missouri"	"29"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"Missouri"	"29"	"2013"	"2013"	"Married"	"1"	44924
+	"Missouri"	"29"	"2013"	"2013"	"Unmarried"	"2"	30372
+	"Missouri"	"29"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"Missouri"	"29"	"2014"	"2014"	"Married"	"1"	45068
+	"Missouri"	"29"	"2014"	"2014"	"Unmarried"	"2"	30292
+	"Missouri"	"29"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"Missouri"	"29"	"2015"	"2015"	"Married"	"1"	44716
+	"Missouri"	"29"	"2015"	"2015"	"Unmarried"	"2"	30345
+	"Missouri"	"29"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"Missouri"	"29"	"2016"	"2016"	"Married"	"1"	44952
+	"Missouri"	"29"	"2016"	"2016"	"Unmarried"	"2"	29753
+	"Missouri"	"29"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"Missouri"	"29"	"2017"	"2017"	"Married"	"1"	43866
+	"Missouri"	"29"	"2017"	"2017"	"Unmarried"	"2"	29156
+	"Missouri"	"29"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2017"	"2017"	"Not Reported"	"NR"	12
+	"Missouri"	"29"	"2018"	"2018"	"Married"	"1"	43748
+	"Missouri"	"29"	"2018"	"2018"	"Unmarried"	"2"	29511
+	"Missouri"	"29"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2018"	"2018"	"Not Reported"	"NR"	10
+	"Missouri"	"29"	"2019"	"2019"	"Married"	"1"	42995
+	"Missouri"	"29"	"2019"	"2019"	"Unmarried"	"2"	29122
+	"Missouri"	"29"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2019"	"2019"	"Not Reported"	"NR"	10
+	"Missouri"	"29"	"2020"	"2020"	"Married"	"1"	40767
+	"Missouri"	"29"	"2020"	"2020"	"Unmarried"	"2"	28505
+	"Missouri"	"29"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2020"	"2020"	"Not Reported"	"NR"	13
+	"Missouri"	"29"	"2021"	"2021"	"Married"	"1"	41742
+	"Missouri"	"29"	"2021"	"2021"	"Unmarried"	"2"	27702
+	"Missouri"	"29"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2022"	"2022"	"Married"	"1"	41996
+	"Missouri"	"29"	"2022"	"2022"	"Unmarried"	"2"	26982
+	"Missouri"	"29"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2023"	"2023"	"Married"	"1"	40836
+	"Missouri"	"29"	"2023"	"2023"	"Unmarried"	"2"	26284
+	"Missouri"	"29"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"New Jersey"	"34"	"2010"	"2010"	"Married"	"1"	69092
+	"New Jersey"	"34"	"2010"	"2010"	"Unmarried"	"2"	37830
+	"New Jersey"	"34"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"New Jersey"	"34"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"New Jersey"	"34"	"2011"	"2011"	"Married"	"1"	67916
+	"New Jersey"	"34"	"2011"	"2011"	"Unmarried"	"2"	37967
+	"New Jersey"	"34"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"New Jersey"	"34"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"New Jersey"	"34"	"2012"	"2012"	"Married"	"1"	66585
+	"New Jersey"	"34"	"2012"	"2012"	"Unmarried"	"2"	37645
+	"New Jersey"	"34"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"New Jersey"	"34"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"New Jersey"	"34"	"2013"	"2013"	"Married"	"1"	66065
+	"New Jersey"	"34"	"2013"	"2013"	"Unmarried"	"2"	36510
+	"New Jersey"	"34"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"New Jersey"	"34"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"New Jersey"	"34"	"2014"	"2014"	"Married"	"1"	66659
+	"New Jersey"	"34"	"2014"	"2014"	"Unmarried"	"2"	36646
+	"New Jersey"	"34"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"New Jersey"	"34"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"New Jersey"	"34"	"2015"	"2015"	"Married"	"1"	66912
+	"New Jersey"	"34"	"2015"	"2015"	"Unmarried"	"2"	36215
+	"New Jersey"	"34"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"New Jersey"	"34"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"New Jersey"	"34"	"2016"	"2016"	"Married"	"1"	67143
+	"New Jersey"	"34"	"2016"	"2016"	"Unmarried"	"2"	35504
+	"New Jersey"	"34"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"New Jersey"	"34"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"New Jersey"	"34"	"2017"	"2017"	"Married"	"1"	66894
+	"New Jersey"	"34"	"2017"	"2017"	"Unmarried"	"2"	34340
+	"New Jersey"	"34"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"New Jersey"	"34"	"2017"	"2017"	"Not Reported"	"NR"	16
+	"New Jersey"	"34"	"2018"	"2018"	"Married"	"1"	67001
+	"New Jersey"	"34"	"2018"	"2018"	"Unmarried"	"2"	34204
+	"New Jersey"	"34"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"New Jersey"	"34"	"2018"	"2018"	"Not Reported"	"NR"	18
+	"New Jersey"	"34"	"2019"	"2019"	"Married"	"1"	66158
+	"New Jersey"	"34"	"2019"	"2019"	"Unmarried"	"2"	33414
+	"New Jersey"	"34"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"New Jersey"	"34"	"2019"	"2019"	"Not Reported"	"NR"	13
+	"New Jersey"	"34"	"2020"	"2020"	"Married"	"1"	64710
+	"New Jersey"	"34"	"2020"	"2020"	"Unmarried"	"2"	33233
+	"New Jersey"	"34"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"New Jersey"	"34"	"2020"	"2020"	"Not Reported"	"NR"	11
+	"New Jersey"	"34"	"2021"	"2021"	"Married"	"1"	67635
+	"New Jersey"	"34"	"2021"	"2021"	"Unmarried"	"2"	33843
+	"New Jersey"	"34"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"New Jersey"	"34"	"2021"	"2021"	"Not Reported"	"NR"	19
+	"New Jersey"	"34"	"2022"	"2022"	"Married"	"1"	68499
+	"New Jersey"	"34"	"2022"	"2022"	"Unmarried"	"2"	34375
+	"New Jersey"	"34"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"New Jersey"	"34"	"2022"	"2022"	"Not Reported"	"NR"	19
+	"New Jersey"	"34"	"2023"	"2023"	"Married"	"1"	67125
+	"New Jersey"	"34"	"2023"	"2023"	"Unmarried"	"2"	33855
+	"New Jersey"	"34"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"New Jersey"	"34"	"2023"	"2023"	"Not Reported"	"NR"	21
+	"New York"	"36"	"2010"	"2010"	"Married"	"1"	142579
+	"New York"	"36"	"2010"	"2010"	"Unmarried"	"2"	101796
+	"New York"	"36"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"New York"	"36"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"New York"	"36"	"2011"	"2011"	"Married"	"1"	142024
+	"New York"	"36"	"2011"	"2011"	"Unmarried"	"2"	99288
+	"New York"	"36"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"New York"	"36"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"New York"	"36"	"2012"	"2012"	"Married"	"1"	142548
+	"New York"	"36"	"2012"	"2012"	"Unmarried"	"2"	98368
+	"New York"	"36"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"New York"	"36"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"New York"	"36"	"2013"	"2013"	"Married"	"1"	141762
+	"New York"	"36"	"2013"	"2013"	"Unmarried"	"2"	95218
+	"New York"	"36"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"New York"	"36"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"New York"	"36"	"2014"	"2014"	"Married"	"1"	144115
+	"New York"	"36"	"2014"	"2014"	"Unmarried"	"2"	94658
+	"New York"	"36"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"New York"	"36"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"New York"	"36"	"2015"	"2015"	"Married"	"1"	143540
+	"New York"	"36"	"2015"	"2015"	"Unmarried"	"2"	93734
+	"New York"	"36"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"New York"	"36"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"New York"	"36"	"2016"	"2016"	"Married"	"1"	144143
+	"New York"	"36"	"2016"	"2016"	"Unmarried"	"2"	90140
+	"New York"	"36"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"New York"	"36"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"New York"	"36"	"2017"	"2017"	"Married"	"1"	142474
+	"New York"	"36"	"2017"	"2017"	"Unmarried"	"2"	87228
+	"New York"	"36"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"New York"	"36"	"2017"	"2017"	"Not Reported"	"NR"	35
+	"New York"	"36"	"2018"	"2018"	"Married"	"1"	141425
+	"New York"	"36"	"2018"	"2018"	"Unmarried"	"2"	84767
+	"New York"	"36"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"New York"	"36"	"2018"	"2018"	"Not Reported"	"NR"	46
+	"New York"	"36"	"2019"	"2019"	"Married"	"1"	138441
+	"New York"	"36"	"2019"	"2019"	"Unmarried"	"2"	83049
+	"New York"	"36"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"New York"	"36"	"2019"	"2019"	"Not Reported"	"NR"	49
+	"New York"	"36"	"2020"	"2020"	"Married"	"1"	129509
+	"New York"	"36"	"2020"	"2020"	"Unmarried"	"2"	79782
+	"New York"	"36"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"New York"	"36"	"2020"	"2020"	"Not Reported"	"NR"	47
+	"New York"	"36"	"2021"	"2021"	"Married"	"1"	130377
+	"New York"	"36"	"2021"	"2021"	"Unmarried"	"2"	80314
+	"New York"	"36"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"New York"	"36"	"2021"	"2021"	"Not Reported"	"NR"	51
+	"New York"	"36"	"2022"	"2022"	"Married"	"1"	129052
+	"New York"	"36"	"2022"	"2022"	"Unmarried"	"2"	78686
+	"New York"	"36"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"New York"	"36"	"2022"	"2022"	"Not Reported"	"NR"	36
+	"New York"	"36"	"2023"	"2023"	"Married"	"1"	126703
+	"New York"	"36"	"2023"	"2023"	"Unmarried"	"2"	76877
+	"New York"	"36"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"New York"	"36"	"2023"	"2023"	"Not Reported"	"NR"	32
+	"North Carolina"	"37"	"2010"	"2010"	"Married"	"1"	70960
+	"North Carolina"	"37"	"2010"	"2010"	"Unmarried"	"2"	51390
+	"North Carolina"	"37"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"North Carolina"	"37"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"North Carolina"	"37"	"2011"	"2011"	"Married"	"1"	71152
+	"North Carolina"	"37"	"2011"	"2011"	"Unmarried"	"2"	49237
+	"North Carolina"	"37"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"North Carolina"	"37"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"North Carolina"	"37"	"2012"	"2012"	"Married"	"1"	70661
+	"North Carolina"	"37"	"2012"	"2012"	"Unmarried"	"2"	49170
+	"North Carolina"	"37"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"North Carolina"	"37"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"North Carolina"	"37"	"2013"	"2013"	"Married"	"1"	69703
+	"North Carolina"	"37"	"2013"	"2013"	"Unmarried"	"2"	49299
+	"North Carolina"	"37"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"North Carolina"	"37"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"North Carolina"	"37"	"2014"	"2014"	"Married"	"1"	71401
+	"North Carolina"	"37"	"2014"	"2014"	"Unmarried"	"2"	49574
+	"North Carolina"	"37"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"North Carolina"	"37"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"North Carolina"	"37"	"2015"	"2015"	"Married"	"1"	71295
+	"North Carolina"	"37"	"2015"	"2015"	"Unmarried"	"2"	49548
+	"North Carolina"	"37"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"North Carolina"	"37"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"North Carolina"	"37"	"2016"	"2016"	"Married"	"1"	71944
+	"North Carolina"	"37"	"2016"	"2016"	"Unmarried"	"2"	48835
+	"North Carolina"	"37"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"North Carolina"	"37"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"North Carolina"	"37"	"2017"	"2017"	"Married"	"1"	70943
+	"North Carolina"	"37"	"2017"	"2017"	"Unmarried"	"2"	49164
+	"North Carolina"	"37"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"North Carolina"	"37"	"2017"	"2017"	"Not Reported"	"NR"	18
+	"North Carolina"	"37"	"2018"	"2018"	"Married"	"1"	70304
+	"North Carolina"	"37"	"2018"	"2018"	"Unmarried"	"2"	48632
+	"North Carolina"	"37"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"North Carolina"	"37"	"2018"	"2018"	"Not Reported"	"NR"	18
+	"North Carolina"	"37"	"2019"	"2019"	"Married"	"1"	69370
+	"North Carolina"	"37"	"2019"	"2019"	"Unmarried"	"2"	49341
+	"North Carolina"	"37"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"North Carolina"	"37"	"2019"	"2019"	"Not Reported"	"NR"	14
+	"North Carolina"	"37"	"2020"	"2020"	"Married"	"1"	67754
+	"North Carolina"	"37"	"2020"	"2020"	"Unmarried"	"2"	48958
+	"North Carolina"	"37"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"North Carolina"	"37"	"2020"	"2020"	"Not Reported"	"NR"	18
+	"North Carolina"	"37"	"2021"	"2021"	"Married"	"1"	71120
+	"North Carolina"	"37"	"2021"	"2021"	"Unmarried"	"2"	49330
+	"North Carolina"	"37"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"North Carolina"	"37"	"2021"	"2021"	"Not Reported"	"NR"	16
+	"North Carolina"	"37"	"2022"	"2022"	"Married"	"1"	72038
+	"North Carolina"	"37"	"2022"	"2022"	"Unmarried"	"2"	49502
+	"North Carolina"	"37"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"North Carolina"	"37"	"2022"	"2022"	"Not Reported"	"NR"	22
+	"North Carolina"	"37"	"2023"	"2023"	"Married"	"1"	71136
+	"North Carolina"	"37"	"2023"	"2023"	"Unmarried"	"2"	48924
+	"North Carolina"	"37"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"North Carolina"	"37"	"2023"	"2023"	"Not Reported"	"NR"	22
+	"Ohio"	"39"	"2010"	"2010"	"Married"	"1"	78225
+	"Ohio"	"39"	"2010"	"2010"	"Unmarried"	"2"	60903
+	"Ohio"	"39"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"Ohio"	"39"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"Ohio"	"39"	"2011"	"2011"	"Married"	"1"	78058
+	"Ohio"	"39"	"2011"	"2011"	"Unmarried"	"2"	59860
+	"Ohio"	"39"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"Ohio"	"39"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"Ohio"	"39"	"2012"	"2012"	"Married"	"1"	77764
+	"Ohio"	"39"	"2012"	"2012"	"Unmarried"	"2"	60719
+	"Ohio"	"39"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"Ohio"	"39"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"Ohio"	"39"	"2013"	"2013"	"Married"	"1"	78158
+	"Ohio"	"39"	"2013"	"2013"	"Unmarried"	"2"	60778
+	"Ohio"	"39"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"Ohio"	"39"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"Ohio"	"39"	"2014"	"2014"	"Married"	"1"	78847
+	"Ohio"	"39"	"2014"	"2014"	"Unmarried"	"2"	60620
+	"Ohio"	"39"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"Ohio"	"39"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"Ohio"	"39"	"2015"	"2015"	"Married"	"1"	78939
+	"Ohio"	"39"	"2015"	"2015"	"Unmarried"	"2"	60325
+	"Ohio"	"39"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Ohio"	"39"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"Ohio"	"39"	"2016"	"2016"	"Married"	"1"	78765
+	"Ohio"	"39"	"2016"	"2016"	"Unmarried"	"2"	59320
+	"Ohio"	"39"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"Ohio"	"39"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"Ohio"	"39"	"2017"	"2017"	"Married"	"1"	77724
+	"Ohio"	"39"	"2017"	"2017"	"Unmarried"	"2"	59091
+	"Ohio"	"39"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Ohio"	"39"	"2017"	"2017"	"Not Reported"	"NR"	17
+	"Ohio"	"39"	"2018"	"2018"	"Married"	"1"	76788
+	"Ohio"	"39"	"2018"	"2018"	"Unmarried"	"2"	58331
+	"Ohio"	"39"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Ohio"	"39"	"2018"	"2018"	"Not Reported"	"NR"	15
+	"Ohio"	"39"	"2019"	"2019"	"Married"	"1"	75850
+	"Ohio"	"39"	"2019"	"2019"	"Unmarried"	"2"	58595
+	"Ohio"	"39"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"Ohio"	"39"	"2019"	"2019"	"Not Reported"	"NR"	16
+	"Ohio"	"39"	"2020"	"2020"	"Married"	"1"	72905
+	"Ohio"	"39"	"2020"	"2020"	"Unmarried"	"2"	56278
+	"Ohio"	"39"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Ohio"	"39"	"2021"	"2021"	"Married"	"1"	74543
+	"Ohio"	"39"	"2021"	"2021"	"Unmarried"	"2"	55237
+	"Ohio"	"39"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Ohio"	"39"	"2021"	"2021"	"Not Reported"	"NR"	11
+	"Ohio"	"39"	"2022"	"2022"	"Married"	"1"	73922
+	"Ohio"	"39"	"2022"	"2022"	"Unmarried"	"2"	54298
+	"Ohio"	"39"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"Ohio"	"39"	"2022"	"2022"	"Not Reported"	"NR"	11
+	"Ohio"	"39"	"2023"	"2023"	"Married"	"1"	73094
+	"Ohio"	"39"	"2023"	"2023"	"Unmarried"	"2"	53790
+	"Ohio"	"39"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"Ohio"	"39"	"2023"	"2023"	"Not Reported"	"NR"	12
+	"Oklahoma"	"40"	"2010"	"2010"	"Married"	"1"	31006
+	"Oklahoma"	"40"	"2010"	"2010"	"Unmarried"	"2"	22232
+	"Oklahoma"	"40"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"Oklahoma"	"40"	"2011"	"2011"	"Married"	"1"	30426
+	"Oklahoma"	"40"	"2011"	"2011"	"Unmarried"	"2"	21846
+	"Oklahoma"	"40"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"Oklahoma"	"40"	"2012"	"2012"	"Married"	"1"	30452
+	"Oklahoma"	"40"	"2012"	"2012"	"Unmarried"	"2"	22299
+	"Oklahoma"	"40"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"Oklahoma"	"40"	"2013"	"2013"	"Married"	"1"	30858
+	"Oklahoma"	"40"	"2013"	"2013"	"Unmarried"	"2"	22511
+	"Oklahoma"	"40"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"Oklahoma"	"40"	"2014"	"2014"	"Married"	"1"	30827
+	"Oklahoma"	"40"	"2014"	"2014"	"Unmarried"	"2"	22512
+	"Oklahoma"	"40"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"Oklahoma"	"40"	"2015"	"2015"	"Married"	"1"	30920
+	"Oklahoma"	"40"	"2015"	"2015"	"Unmarried"	"2"	22202
+	"Oklahoma"	"40"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"Oklahoma"	"40"	"2016"	"2016"	"Married"	"1"	30367
+	"Oklahoma"	"40"	"2016"	"2016"	"Unmarried"	"2"	22225
+	"Oklahoma"	"40"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"Oklahoma"	"40"	"2017"	"2017"	"Married"	"1"	29102
+	"Oklahoma"	"40"	"2017"	"2017"	"Unmarried"	"2"	21105
+	"Oklahoma"	"40"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2018"	"2018"	"Married"	"1"	28780
+	"Oklahoma"	"40"	"2018"	"2018"	"Unmarried"	"2"	21010
+	"Oklahoma"	"40"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2018"	"2018"	"Not Reported"	"NR"	10
+	"Oklahoma"	"40"	"2019"	"2019"	"Married"	"1"	27696
+	"Oklahoma"	"40"	"2019"	"2019"	"Unmarried"	"2"	21436
+	"Oklahoma"	"40"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2019"	"2019"	"Not Reported"	"NR"	11
+	"Oklahoma"	"40"	"2020"	"2020"	"Married"	"1"	26465
+	"Oklahoma"	"40"	"2020"	"2020"	"Unmarried"	"2"	21149
+	"Oklahoma"	"40"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2021"	"2021"	"Married"	"1"	26958
+	"Oklahoma"	"40"	"2021"	"2021"	"Unmarried"	"2"	21443
+	"Oklahoma"	"40"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2022"	"2022"	"Married"	"1"	27142
+	"Oklahoma"	"40"	"2022"	"2022"	"Unmarried"	"2"	21173
+	"Oklahoma"	"40"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2022"	"2022"	"Not Reported"	"NR"	17
+	"Oklahoma"	"40"	"2023"	"2023"	"Married"	"1"	26444
+	"Oklahoma"	"40"	"2023"	"2023"	"Unmarried"	"2"	21456
+	"Oklahoma"	"40"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"Pennsylvania"	"42"	"2010"	"2010"	"Married"	"1"	83832
+	"Pennsylvania"	"42"	"2010"	"2010"	"Unmarried"	"2"	59489
+	"Pennsylvania"	"42"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"Pennsylvania"	"42"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"Pennsylvania"	"42"	"2011"	"2011"	"Married"	"1"	83417
+	"Pennsylvania"	"42"	"2011"	"2011"	"Unmarried"	"2"	59761
+	"Pennsylvania"	"42"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"Pennsylvania"	"42"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"Pennsylvania"	"42"	"2012"	"2012"	"Married"	"1"	82808
+	"Pennsylvania"	"42"	"2012"	"2012"	"Unmarried"	"2"	59706
+	"Pennsylvania"	"42"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"Pennsylvania"	"42"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"Pennsylvania"	"42"	"2013"	"2013"	"Married"	"1"	82318
+	"Pennsylvania"	"42"	"2013"	"2013"	"Unmarried"	"2"	58603
+	"Pennsylvania"	"42"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"Pennsylvania"	"42"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"Pennsylvania"	"42"	"2014"	"2014"	"Married"	"1"	83885
+	"Pennsylvania"	"42"	"2014"	"2014"	"Unmarried"	"2"	58383
+	"Pennsylvania"	"42"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"Pennsylvania"	"42"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"Pennsylvania"	"42"	"2015"	"2015"	"Married"	"1"	82966
+	"Pennsylvania"	"42"	"2015"	"2015"	"Unmarried"	"2"	58081
+	"Pennsylvania"	"42"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Pennsylvania"	"42"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"Pennsylvania"	"42"	"2016"	"2016"	"Married"	"1"	82729
+	"Pennsylvania"	"42"	"2016"	"2016"	"Unmarried"	"2"	56680
+	"Pennsylvania"	"42"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"Pennsylvania"	"42"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"Pennsylvania"	"42"	"2017"	"2017"	"Married"	"1"	81285
+	"Pennsylvania"	"42"	"2017"	"2017"	"Unmarried"	"2"	56451
+	"Pennsylvania"	"42"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Pennsylvania"	"42"	"2018"	"2018"	"Married"	"1"	80340
+	"Pennsylvania"	"42"	"2018"	"2018"	"Unmarried"	"2"	55324
+	"Pennsylvania"	"42"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Pennsylvania"	"42"	"2019"	"2019"	"Married"	"1"	79366
+	"Pennsylvania"	"42"	"2019"	"2019"	"Unmarried"	"2"	54854
+	"Pennsylvania"	"42"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"Pennsylvania"	"42"	"2019"	"2019"	"Not Reported"	"NR"	10
+	"Pennsylvania"	"42"	"2020"	"2020"	"Married"	"1"	77174
+	"Pennsylvania"	"42"	"2020"	"2020"	"Unmarried"	"2"	53504
+	"Pennsylvania"	"42"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Pennsylvania"	"42"	"2020"	"2020"	"Not Reported"	"NR"	15
+	"Pennsylvania"	"42"	"2021"	"2021"	"Married"	"1"	79943
+	"Pennsylvania"	"42"	"2021"	"2021"	"Unmarried"	"2"	52666
+	"Pennsylvania"	"42"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Pennsylvania"	"42"	"2021"	"2021"	"Not Reported"	"NR"	13
+	"Pennsylvania"	"42"	"2022"	"2022"	"Married"	"1"	79520
+	"Pennsylvania"	"42"	"2022"	"2022"	"Unmarried"	"2"	50715
+	"Pennsylvania"	"42"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"Pennsylvania"	"42"	"2022"	"2022"	"Not Reported"	"NR"	17
+	"Pennsylvania"	"42"	"2023"	"2023"	"Married"	"1"	77729
+	"Pennsylvania"	"42"	"2023"	"2023"	"Unmarried"	"2"	49205
+	"Pennsylvania"	"42"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"Pennsylvania"	"42"	"2023"	"2023"	"Not Reported"	"NR"	17
+	"South Carolina"	"45"	"2010"	"2010"	"Married"	"1"	30569
+	"South Carolina"	"45"	"2010"	"2010"	"Unmarried"	"2"	27773
+	"South Carolina"	"45"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"South Carolina"	"45"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"South Carolina"	"45"	"2011"	"2011"	"Married"	"1"	30375
+	"South Carolina"	"45"	"2011"	"2011"	"Unmarried"	"2"	27018
+	"South Carolina"	"45"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"South Carolina"	"45"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"South Carolina"	"45"	"2012"	"2012"	"Married"	"1"	29753
+	"South Carolina"	"45"	"2012"	"2012"	"Unmarried"	"2"	27402
+	"South Carolina"	"45"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"South Carolina"	"45"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"South Carolina"	"45"	"2013"	"2013"	"Married"	"1"	29916
+	"South Carolina"	"45"	"2013"	"2013"	"Unmarried"	"2"	26879
+	"South Carolina"	"45"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"South Carolina"	"45"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"South Carolina"	"45"	"2014"	"2014"	"Married"	"1"	30366
+	"South Carolina"	"45"	"2014"	"2014"	"Unmarried"	"2"	27261
+	"South Carolina"	"45"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"South Carolina"	"45"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"South Carolina"	"45"	"2015"	"2015"	"Married"	"1"	31096
+	"South Carolina"	"45"	"2015"	"2015"	"Unmarried"	"2"	27043
+	"South Carolina"	"45"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"South Carolina"	"45"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"South Carolina"	"45"	"2016"	"2016"	"Married"	"1"	31377
+	"South Carolina"	"45"	"2016"	"2016"	"Unmarried"	"2"	25965
+	"South Carolina"	"45"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"South Carolina"	"45"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"South Carolina"	"45"	"2017"	"2017"	"Married"	"1"	30723
+	"South Carolina"	"45"	"2017"	"2017"	"Unmarried"	"2"	26298
+	"South Carolina"	"45"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"South Carolina"	"45"	"2018"	"2018"	"Married"	"1"	30508
+	"South Carolina"	"45"	"2018"	"2018"	"Unmarried"	"2"	26157
+	"South Carolina"	"45"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"South Carolina"	"45"	"2019"	"2019"	"Married"	"1"	30419
+	"South Carolina"	"45"	"2019"	"2019"	"Unmarried"	"2"	26614
+	"South Carolina"	"45"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"South Carolina"	"45"	"2020"	"2020"	"Married"	"1"	29716
+	"South Carolina"	"45"	"2020"	"2020"	"Unmarried"	"2"	25976
+	"South Carolina"	"45"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"South Carolina"	"45"	"2020"	"2020"	"Not Reported"	"NR"	12
+	"South Carolina"	"45"	"2021"	"2021"	"Married"	"1"	31298
+	"South Carolina"	"45"	"2021"	"2021"	"Unmarried"	"2"	25876
+	"South Carolina"	"45"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"South Carolina"	"45"	"2021"	"2021"	"Not Reported"	"NR"	11
+	"South Carolina"	"45"	"2022"	"2022"	"Married"	"1"	31775
+	"South Carolina"	"45"	"2022"	"2022"	"Unmarried"	"2"	26036
+	"South Carolina"	"45"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"South Carolina"	"45"	"2023"	"2023"	"Married"	"1"	31809
+	"South Carolina"	"45"	"2023"	"2023"	"Unmarried"	"2"	25908
+	"South Carolina"	"45"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"South Carolina"	"45"	"2023"	"2023"	"Not Reported"	"NR"	12
+	"Texas"	"48"	"2010"	"2010"	"Married"	"1"	222470
+	"Texas"	"48"	"2010"	"2010"	"Unmarried"	"2"	163648
+	"Texas"	"48"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"Texas"	"48"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"Texas"	"48"	"2011"	"2011"	"Married"	"1"	218737
+	"Texas"	"48"	"2011"	"2011"	"Unmarried"	"2"	158708
+	"Texas"	"48"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"Texas"	"48"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"Texas"	"48"	"2012"	"2012"	"Married"	"1"	221619
+	"Texas"	"48"	"2012"	"2012"	"Unmarried"	"2"	161108
+	"Texas"	"48"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"Texas"	"48"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"Texas"	"48"	"2013"	"2013"	"Married"	"1"	223705
+	"Texas"	"48"	"2013"	"2013"	"Unmarried"	"2"	163635
+	"Texas"	"48"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"Texas"	"48"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"Texas"	"48"	"2014"	"2014"	"Married"	"1"	233012
+	"Texas"	"48"	"2014"	"2014"	"Unmarried"	"2"	166754
+	"Texas"	"48"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"Texas"	"48"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"Texas"	"48"	"2015"	"2015"	"Married"	"1"	236102
+	"Texas"	"48"	"2015"	"2015"	"Unmarried"	"2"	167516
+	"Texas"	"48"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Texas"	"48"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"Texas"	"48"	"2016"	"2016"	"Married"	"1"	233496
+	"Texas"	"48"	"2016"	"2016"	"Unmarried"	"2"	164551
+	"Texas"	"48"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"Texas"	"48"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"Texas"	"48"	"2017"	"2017"	"Married"	"1"	225447
+	"Texas"	"48"	"2017"	"2017"	"Unmarried"	"2"	156515
+	"Texas"	"48"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Texas"	"48"	"2017"	"2017"	"Not Reported"	"NR"	88
+	"Texas"	"48"	"2018"	"2018"	"Married"	"1"	223883
+	"Texas"	"48"	"2018"	"2018"	"Unmarried"	"2"	154645
+	"Texas"	"48"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Texas"	"48"	"2018"	"2018"	"Not Reported"	"NR"	96
+	"Texas"	"48"	"2019"	"2019"	"Married"	"1"	221191
+	"Texas"	"48"	"2019"	"2019"	"Unmarried"	"2"	156307
+	"Texas"	"48"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"Texas"	"48"	"2019"	"2019"	"Not Reported"	"NR"	101
+	"Texas"	"48"	"2020"	"2020"	"Married"	"1"	214773
+	"Texas"	"48"	"2020"	"2020"	"Unmarried"	"2"	153363
+	"Texas"	"48"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Texas"	"48"	"2020"	"2020"	"Not Reported"	"NR"	54
+	"Texas"	"48"	"2021"	"2021"	"Married"	"1"	219158
+	"Texas"	"48"	"2021"	"2021"	"Unmarried"	"2"	154333
+	"Texas"	"48"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Texas"	"48"	"2021"	"2021"	"Not Reported"	"NR"	103
+	"Texas"	"48"	"2022"	"2022"	"Married"	"1"	227048
+	"Texas"	"48"	"2022"	"2022"	"Unmarried"	"2"	162580
+	"Texas"	"48"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"Texas"	"48"	"2022"	"2022"	"Not Reported"	"NR"	113
+	"Texas"	"48"	"2023"	"2023"	"Married"	"1"	224600
+	"Texas"	"48"	"2023"	"2023"	"Unmarried"	"2"	163236
+	"Texas"	"48"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"Texas"	"48"	"2023"	"2023"	"Not Reported"	"NR"	109
+	"Washington"	"53"	"2010"	"2010"	"Married"	"1"	57974
+	"Washington"	"53"	"2010"	"2010"	"Unmarried"	"2"	28565
+	"Washington"	"53"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2010"	"2010"	"Not Reported"	"NR"	0
+	"Washington"	"53"	"2011"	"2011"	"Married"	"1"	58421
+	"Washington"	"53"	"2011"	"2011"	"Unmarried"	"2"	28555
+	"Washington"	"53"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2011"	"2011"	"Not Reported"	"NR"	0
+	"Washington"	"53"	"2012"	"2012"	"Married"	"1"	59051
+	"Washington"	"53"	"2012"	"2012"	"Unmarried"	"2"	28412
+	"Washington"	"53"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2012"	"2012"	"Not Reported"	"NR"	0
+	"Washington"	"53"	"2013"	"2013"	"Married"	"1"	58222
+	"Washington"	"53"	"2013"	"2013"	"Unmarried"	"2"	28355
+	"Washington"	"53"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2013"	"2013"	"Not Reported"	"NR"	0
+	"Washington"	"53"	"2014"	"2014"	"Married"	"1"	60135
+	"Washington"	"53"	"2014"	"2014"	"Unmarried"	"2"	28450
+	"Washington"	"53"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2014"	"2014"	"Not Reported"	"NR"	0
+	"Washington"	"53"	"2015"	"2015"	"Married"	"1"	60414
+	"Washington"	"53"	"2015"	"2015"	"Unmarried"	"2"	28576
+	"Washington"	"53"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2015"	"2015"	"Not Reported"	"NR"	0
+	"Washington"	"53"	"2016"	"2016"	"Married"	"1"	61770
+	"Washington"	"53"	"2016"	"2016"	"Unmarried"	"2"	28735
+	"Washington"	"53"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2016"	"2016"	"Not Reported"	"NR"	0
+	"Washington"	"53"	"2017"	"2017"	"Married"	"1"	59844
+	"Washington"	"53"	"2017"	"2017"	"Unmarried"	"2"	27665
+	"Washington"	"53"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2017"	"2017"	"Not Reported"	"NR"	53
+	"Washington"	"53"	"2018"	"2018"	"Married"	"1"	59282
+	"Washington"	"53"	"2018"	"2018"	"Unmarried"	"2"	26760
+	"Washington"	"53"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2018"	"2018"	"Not Reported"	"NR"	43
+	"Washington"	"53"	"2019"	"2019"	"Married"	"1"	58266
+	"Washington"	"53"	"2019"	"2019"	"Unmarried"	"2"	26588
+	"Washington"	"53"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2019"	"2019"	"Not Reported"	"NR"	41
+	"Washington"	"53"	"2020"	"2020"	"Married"	"1"	56737
+	"Washington"	"53"	"2020"	"2020"	"Unmarried"	"2"	26288
+	"Washington"	"53"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2020"	"2020"	"Not Reported"	"NR"	61
+	"Washington"	"53"	"2021"	"2021"	"Married"	"1"	57369
+	"Washington"	"53"	"2021"	"2021"	"Unmarried"	"2"	26489
+	"Washington"	"53"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2021"	"2021"	"Not Reported"	"NR"	53
+	"Washington"	"53"	"2022"	"2022"	"Married"	"1"	56915
+	"Washington"	"53"	"2022"	"2022"	"Unmarried"	"2"	26363
+	"Washington"	"53"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2022"	"2022"	"Not Reported"	"NR"	55
+	"Washington"	"53"	"2023"	"2023"	"Married"	"1"	55155
+	"Washington"	"53"	"2023"	"2023"	"Unmarried"	"2"	25723
+	"Washington"	"53"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"Washington"	"53"	"2023"	"2023"	"Not Reported"	"NR"	54
+"---"
+"Dataset: Natality, 2007-2023"
+"Query Parameters:"
+"States: Arizona (04); Arkansas (05); California (06); Florida (12); Georgia (13); Illinois (17); Indiana (18); Maryland (24);"
+"Michigan (26); Missouri (29); New Jersey (34); New York (36); North Carolina (37); Ohio (39); Oklahoma (40); Pennsylvania (42);"
+"South Carolina (45); Texas (48); Washington (53)"
+"Year: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020; 2021; 2022; 2023"
+"Group By: State; Year; Marital Status"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
+"---"
+"Query Date: Mar 25, 2025 1:21:35 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-current.html on Mar 25, 2025 1:21:35 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/natality.html#Assurance of Confidentiality."
+"2. Each birth record represents one liveborn infant."
+"3. Beginning in 2017, due to state statutory restrictions, California no longer provides record-level data on the marital status"
+"of the mother for births occurring in California to California residents and non-residents (including residents of other"
+"states). For these births, Marital Status is coded as ""Not Reported."""
