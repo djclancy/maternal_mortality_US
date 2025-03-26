@@ -16,22 +16,31 @@
 	"Arizona"	"04"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
 	"Arizona"	"04"	"2015"	"2015"	"Vaginal"	"1"	61834
 	"Arizona"	"04"	"2015"	"2015"	"Cesarean"	"2"	23516
+	"Arizona"	"04"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2016"	"2016"	"Vaginal"	"1"	61297
 	"Arizona"	"04"	"2016"	"2016"	"Cesarean"	"2"	23220
+	"Arizona"	"04"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2017"	"2017"	"Vaginal"	"1"	59884
 	"Arizona"	"04"	"2017"	"2017"	"Cesarean"	"2"	21986
+	"Arizona"	"04"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2018"	"2018"	"Vaginal"	"1"	58521
 	"Arizona"	"04"	"2018"	"2018"	"Cesarean"	"2"	22199
+	"Arizona"	"04"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2019"	"2019"	"Vaginal"	"1"	57330
 	"Arizona"	"04"	"2019"	"2019"	"Cesarean"	"2"	22039
+	"Arizona"	"04"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2020"	"2020"	"Vaginal"	"1"	55076
 	"Arizona"	"04"	"2020"	"2020"	"Cesarean"	"2"	21870
+	"Arizona"	"04"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2021"	"2021"	"Vaginal"	"1"	55545
 	"Arizona"	"04"	"2021"	"2021"	"Cesarean"	"2"	22368
+	"Arizona"	"04"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2022"	"2022"	"Vaginal"	"1"	56055
 	"Arizona"	"04"	"2022"	"2022"	"Cesarean"	"2"	22489
+	"Arizona"	"04"	"2022"	"2022"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2023"	"2023"	"Vaginal"	"1"	55418
 	"Arizona"	"04"	"2023"	"2023"	"Cesarean"	"2"	22675
+	"Arizona"	"04"	"2023"	"2023"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2010"	"2010"	"Vaginal"	"1"	24829
 	"Arkansas"	"05"	"2010"	"2010"	"Cesarean"	"2"	13412
 	"Arkansas"	"05"	"2010"	"2010"	"Unknown or Not Stated"	"9"	299
@@ -52,47 +61,67 @@
 	"Arkansas"	"05"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
 	"Arkansas"	"05"	"2016"	"2016"	"Vaginal"	"1"	25919
 	"Arkansas"	"05"	"2016"	"2016"	"Cesarean"	"2"	12354
+	"Arkansas"	"05"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2017"	"2017"	"Vaginal"	"1"	24949
 	"Arkansas"	"05"	"2017"	"2017"	"Cesarean"	"2"	12565
+	"Arkansas"	"05"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2018"	"2018"	"Vaginal"	"1"	24138
 	"Arkansas"	"05"	"2018"	"2018"	"Cesarean"	"2"	12876
+	"Arkansas"	"05"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2019"	"2019"	"Vaginal"	"1"	23958
 	"Arkansas"	"05"	"2019"	"2019"	"Cesarean"	"2"	12604
+	"Arkansas"	"05"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2020"	"2020"	"Vaginal"	"1"	23330
 	"Arkansas"	"05"	"2020"	"2020"	"Cesarean"	"2"	11917
+	"Arkansas"	"05"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2021"	"2021"	"Vaginal"	"1"	23622
 	"Arkansas"	"05"	"2021"	"2021"	"Cesarean"	"2"	12339
+	"Arkansas"	"05"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2022"	"2022"	"Vaginal"	"1"	23532
 	"Arkansas"	"05"	"2022"	"2022"	"Cesarean"	"2"	11938
+	"Arkansas"	"05"	"2022"	"2022"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2023"	"2023"	"Vaginal"	"1"	23342
 	"Arkansas"	"05"	"2023"	"2023"	"Cesarean"	"2"	11918
+	"Arkansas"	"05"	"2023"	"2023"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2010"	"2010"	"Vaginal"	"1"	341776
 	"California"	"06"	"2010"	"2010"	"Cesarean"	"2"	168417
+	"California"	"06"	"2010"	"2010"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2011"	"2011"	"Vaginal"	"1"	335455
 	"California"	"06"	"2011"	"2011"	"Cesarean"	"2"	166661
+	"California"	"06"	"2011"	"2011"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2012"	"2012"	"Vaginal"	"1"	336388
 	"California"	"06"	"2012"	"2012"	"Cesarean"	"2"	167365
+	"California"	"06"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2013"	"2013"	"Vaginal"	"1"	330328
 	"California"	"06"	"2013"	"2013"	"Cesarean"	"2"	164375
+	"California"	"06"	"2013"	"2013"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2014"	"2014"	"Vaginal"	"1"	338405
 	"California"	"06"	"2014"	"2014"	"Cesarean"	"2"	164472
+	"California"	"06"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2015"	"2015"	"Vaginal"	"1"	333102
 	"California"	"06"	"2015"	"2015"	"Cesarean"	"2"	158646
 	"California"	"06"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
 	"California"	"06"	"2016"	"2016"	"Vaginal"	"1"	332874
 	"California"	"06"	"2016"	"2016"	"Cesarean"	"2"	155952
+	"California"	"06"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2017"	"2017"	"Vaginal"	"1"	323580
 	"California"	"06"	"2017"	"2017"	"Cesarean"	"2"	148077
+	"California"	"06"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2018"	"2018"	"Vaginal"	"1"	314452
 	"California"	"06"	"2018"	"2018"	"Cesarean"	"2"	140464
+	"California"	"06"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2019"	"2019"	"Vaginal"	"1"	309137
 	"California"	"06"	"2019"	"2019"	"Cesarean"	"2"	137337
+	"California"	"06"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2020"	"2020"	"Vaginal"	"1"	292055
 	"California"	"06"	"2020"	"2020"	"Cesarean"	"2"	128196
+	"California"	"06"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2021"	"2021"	"Vaginal"	"1"	291206
 	"California"	"06"	"2021"	"2021"	"Cesarean"	"2"	129401
+	"California"	"06"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2022"	"2022"	"Vaginal"	"1"	289192
 	"California"	"06"	"2022"	"2022"	"Cesarean"	"2"	129910
+	"California"	"06"	"2022"	"2022"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2023"	"2023"	"Vaginal"	"1"	273992
 	"California"	"06"	"2023"	"2023"	"Cesarean"	"2"	126099
 	"California"	"06"	"2023"	"2023"	"Unknown or Not Stated"	"9"	17
@@ -254,10 +283,13 @@
 	"Indiana"	"18"	"2019"	"2019"	"Unknown or Not Stated"	"9"	14
 	"Indiana"	"18"	"2020"	"2020"	"Vaginal"	"1"	54966
 	"Indiana"	"18"	"2020"	"2020"	"Cesarean"	"2"	23642
+	"Indiana"	"18"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2021"	"2021"	"Vaginal"	"1"	55669
 	"Indiana"	"18"	"2021"	"2021"	"Cesarean"	"2"	24272
+	"Indiana"	"18"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2022"	"2022"	"Vaginal"	"1"	55363
 	"Indiana"	"18"	"2022"	"2022"	"Cesarean"	"2"	24282
+	"Indiana"	"18"	"2022"	"2022"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2023"	"2023"	"Vaginal"	"1"	54708
 	"Indiana"	"18"	"2023"	"2023"	"Cesarean"	"2"	24280
 	"Indiana"	"18"	"2023"	"2023"	"Unknown or Not Stated"	"9"	12
@@ -428,6 +460,7 @@
 	"New Jersey"	"34"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
 	"New Jersey"	"34"	"2023"	"2023"	"Vaginal"	"1"	67575
 	"New Jersey"	"34"	"2023"	"2023"	"Cesarean"	"2"	33423
+	"New Jersey"	"34"	"2023"	"2023"	"Unknown or Not Stated"	"9"	Suppressed
 	"New York"	"36"	"2010"	"2010"	"Vaginal"	"1"	158895
 	"New York"	"36"	"2010"	"2010"	"Cesarean"	"2"	84377
 	"New York"	"36"	"2010"	"2010"	"Unknown or Not Stated"	"9"	1103
@@ -559,17 +592,22 @@
 	"Oklahoma"	"40"	"2010"	"2010"	"Unknown or Not Stated"	"9"	10
 	"Oklahoma"	"40"	"2011"	"2011"	"Vaginal"	"1"	34392
 	"Oklahoma"	"40"	"2011"	"2011"	"Cesarean"	"2"	17876
+	"Oklahoma"	"40"	"2011"	"2011"	"Unknown or Not Stated"	"9"	Suppressed
 	"Oklahoma"	"40"	"2012"	"2012"	"Vaginal"	"1"	34929
 	"Oklahoma"	"40"	"2012"	"2012"	"Cesarean"	"2"	17814
+	"Oklahoma"	"40"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"Oklahoma"	"40"	"2013"	"2013"	"Vaginal"	"1"	35327
 	"Oklahoma"	"40"	"2013"	"2013"	"Cesarean"	"2"	18039
+	"Oklahoma"	"40"	"2013"	"2013"	"Unknown or Not Stated"	"9"	Suppressed
 	"Oklahoma"	"40"	"2014"	"2014"	"Vaginal"	"1"	35681
 	"Oklahoma"	"40"	"2014"	"2014"	"Cesarean"	"2"	17651
+	"Oklahoma"	"40"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"Oklahoma"	"40"	"2015"	"2015"	"Vaginal"	"1"	35895
 	"Oklahoma"	"40"	"2015"	"2015"	"Cesarean"	"2"	17227
 	"Oklahoma"	"40"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
 	"Oklahoma"	"40"	"2016"	"2016"	"Vaginal"	"1"	35775
 	"Oklahoma"	"40"	"2016"	"2016"	"Cesarean"	"2"	16816
+	"Oklahoma"	"40"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"Oklahoma"	"40"	"2017"	"2017"	"Vaginal"	"1"	34058
 	"Oklahoma"	"40"	"2017"	"2017"	"Cesarean"	"2"	16156
 	"Oklahoma"	"40"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
@@ -578,6 +616,7 @@
 	"Oklahoma"	"40"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
 	"Oklahoma"	"40"	"2019"	"2019"	"Vaginal"	"1"	33359
 	"Oklahoma"	"40"	"2019"	"2019"	"Cesarean"	"2"	15781
+	"Oklahoma"	"40"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"Oklahoma"	"40"	"2020"	"2020"	"Vaginal"	"1"	32333
 	"Oklahoma"	"40"	"2020"	"2020"	"Cesarean"	"2"	15290
 	"Oklahoma"	"40"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
@@ -655,8 +694,10 @@
 	"South Carolina"	"45"	"2016"	"2016"	"Unknown or Not Stated"	"9"	21
 	"South Carolina"	"45"	"2017"	"2017"	"Vaginal"	"1"	37890
 	"South Carolina"	"45"	"2017"	"2017"	"Cesarean"	"2"	19130
+	"South Carolina"	"45"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"South Carolina"	"45"	"2018"	"2018"	"Vaginal"	"1"	37667
 	"South Carolina"	"45"	"2018"	"2018"	"Cesarean"	"2"	18994
+	"South Carolina"	"45"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"South Carolina"	"45"	"2019"	"2019"	"Vaginal"	"1"	38070
 	"South Carolina"	"45"	"2019"	"2019"	"Cesarean"	"2"	18955
 	"South Carolina"	"45"	"2019"	"2019"	"Unknown or Not Stated"	"9"	13
@@ -665,6 +706,7 @@
 	"South Carolina"	"45"	"2020"	"2020"	"Unknown or Not Stated"	"9"	12
 	"South Carolina"	"45"	"2021"	"2021"	"Vaginal"	"1"	38017
 	"South Carolina"	"45"	"2021"	"2021"	"Cesarean"	"2"	19160
+	"South Carolina"	"45"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"South Carolina"	"45"	"2022"	"2022"	"Vaginal"	"1"	38946
 	"South Carolina"	"45"	"2022"	"2022"	"Cesarean"	"2"	18859
 	"South Carolina"	"45"	"2022"	"2022"	"Unknown or Not Stated"	"9"	15
@@ -724,6 +766,7 @@
 	"Washington"	"53"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
 	"Washington"	"53"	"2013"	"2013"	"Vaginal"	"1"	62064
 	"Washington"	"53"	"2013"	"2013"	"Cesarean"	"2"	24512
+	"Washington"	"53"	"2013"	"2013"	"Unknown or Not Stated"	"9"	Suppressed
 	"Washington"	"53"	"2014"	"2014"	"Vaginal"	"1"	64109
 	"Washington"	"53"	"2014"	"2014"	"Cesarean"	"2"	24476
 	"Washington"	"53"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
@@ -764,23 +807,22 @@
 "Group By: State; Year; Delivery Method"
 "Show Totals: Disabled"
 "Show Zero Values: True"
-"Show Suppressed: False"
+"Show Suppressed: True"
 "Calculate Rates Per: 1,000"
 "Population Option: No populations shown because rates were not selected."
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
 "---"
-"Query Date: Mar 25, 2025 1:16:28 AM"
+"Query Date: Mar 26, 2025 3:05:30 AM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
 "the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
-"http://wonder.cdc.gov/natality-current.html on Mar 25, 2025 1:16:28 AM"
+"http://wonder.cdc.gov/natality-current.html on Mar 26, 2025 3:05:30 AM"
 "---"
 Messages:
 "1. Totals are not available for these results due to suppression constraints. More Information:"
 "http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
-"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
 "---"
 Caveats:
 "1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"

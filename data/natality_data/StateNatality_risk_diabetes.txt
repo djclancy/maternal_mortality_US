@@ -4,12 +4,16 @@
 	"Arizona"	"04"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
 	"Arizona"	"04"	"2011"	"2011"	"Yes"	"1"	4014
 	"Arizona"	"04"	"2011"	"2011"	"No"	"2"	81528
+	"Arizona"	"04"	"2011"	"2011"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2012"	"2012"	"Yes"	"1"	4452
 	"Arizona"	"04"	"2012"	"2012"	"No"	"2"	81988
+	"Arizona"	"04"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2013"	"2013"	"Yes"	"1"	4919
 	"Arizona"	"04"	"2013"	"2013"	"No"	"2"	80679
+	"Arizona"	"04"	"2013"	"2013"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2014"	"2014"	"Yes"	"1"	6126
 	"Arizona"	"04"	"2014"	"2014"	"No"	"2"	80760
+	"Arizona"	"04"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2015"	"2015"	"Yes"	"1"	7224
 	"Arizona"	"04"	"2015"	"2015"	"No"	"2"	78127
 	"Arizona"	"04"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
@@ -24,8 +28,10 @@
 	"Arizona"	"04"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
 	"Arizona"	"04"	"2019"	"2019"	"Yes"	"1"	7769
 	"Arizona"	"04"	"2019"	"2019"	"No"	"2"	71604
+	"Arizona"	"04"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2020"	"2020"	"Yes"	"1"	8273
 	"Arizona"	"04"	"2020"	"2020"	"No"	"2"	68673
+	"Arizona"	"04"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2021"	"2021"	"Yes"	"1"	8696
 	"Arizona"	"04"	"2021"	"2021"	"No"	"2"	69220
 	"Arizona"	"04"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
@@ -34,54 +40,76 @@
 	"Arizona"	"04"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
 	"Arizona"	"04"	"2023"	"2023"	"Yes"	"1"	9165
 	"Arizona"	"04"	"2023"	"2023"	"No"	"2"	68930
+	"Arizona"	"04"	"2023"	"2023"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2010"	"2010"	"Yes"	"1"	1267
 	"Arkansas"	"05"	"2010"	"2010"	"No"	"2"	37265
+	"Arkansas"	"05"	"2010"	"2010"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2011"	"2011"	"Yes"	"1"	1582
 	"Arkansas"	"05"	"2011"	"2011"	"No"	"2"	37129
+	"Arkansas"	"05"	"2011"	"2011"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2012"	"2012"	"Yes"	"1"	1579
 	"Arkansas"	"05"	"2012"	"2012"	"No"	"2"	36764
+	"Arkansas"	"05"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2013"	"2013"	"Yes"	"1"	1459
 	"Arkansas"	"05"	"2013"	"2013"	"No"	"2"	36371
+	"Arkansas"	"05"	"2013"	"2013"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2014"	"2014"	"Yes"	"1"	2055
 	"Arkansas"	"05"	"2014"	"2014"	"No"	"2"	36455
+	"Arkansas"	"05"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2015"	"2015"	"Yes"	"1"	2088
 	"Arkansas"	"05"	"2015"	"2015"	"No"	"2"	36797
+	"Arkansas"	"05"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2016"	"2016"	"Yes"	"1"	2109
 	"Arkansas"	"05"	"2016"	"2016"	"No"	"2"	36165
 	"Arkansas"	"05"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
 	"Arkansas"	"05"	"2017"	"2017"	"Yes"	"1"	2160
 	"Arkansas"	"05"	"2017"	"2017"	"No"	"2"	35357
+	"Arkansas"	"05"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2018"	"2018"	"Yes"	"1"	2222
 	"Arkansas"	"05"	"2018"	"2018"	"No"	"2"	34793
+	"Arkansas"	"05"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2019"	"2019"	"Yes"	"1"	2423
 	"Arkansas"	"05"	"2019"	"2019"	"No"	"2"	34140
+	"Arkansas"	"05"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2020"	"2020"	"Yes"	"1"	2624
 	"Arkansas"	"05"	"2020"	"2020"	"No"	"2"	32627
 	"Arkansas"	"05"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
 	"Arkansas"	"05"	"2021"	"2021"	"Yes"	"1"	2829
 	"Arkansas"	"05"	"2021"	"2021"	"No"	"2"	33135
+	"Arkansas"	"05"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2022"	"2022"	"Yes"	"1"	2749
 	"Arkansas"	"05"	"2022"	"2022"	"No"	"2"	32721
+	"Arkansas"	"05"	"2022"	"2022"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2023"	"2023"	"Yes"	"1"	2983
 	"Arkansas"	"05"	"2023"	"2023"	"No"	"2"	32280
+	"Arkansas"	"05"	"2023"	"2023"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2010"	"2010"	"Yes"	"1"	21114
 	"California"	"06"	"2010"	"2010"	"No"	"2"	489081
+	"California"	"06"	"2010"	"2010"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2011"	"2011"	"Yes"	"1"	24022
 	"California"	"06"	"2011"	"2011"	"No"	"2"	478096
+	"California"	"06"	"2011"	"2011"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2012"	"2012"	"Yes"	"1"	27914
 	"California"	"06"	"2012"	"2012"	"No"	"2"	475837
+	"California"	"06"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2013"	"2013"	"Yes"	"1"	29054
 	"California"	"06"	"2013"	"2013"	"No"	"2"	465648
+	"California"	"06"	"2013"	"2013"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2014"	"2014"	"Yes"	"1"	31762
 	"California"	"06"	"2014"	"2014"	"No"	"2"	471115
+	"California"	"06"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2015"	"2015"	"Yes"	"1"	31162
 	"California"	"06"	"2015"	"2015"	"No"	"2"	460585
+	"California"	"06"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2016"	"2016"	"Yes"	"1"	31869
 	"California"	"06"	"2016"	"2016"	"No"	"2"	456955
+	"California"	"06"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2017"	"2017"	"Yes"	"1"	33403
 	"California"	"06"	"2017"	"2017"	"No"	"2"	438252
+	"California"	"06"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2018"	"2018"	"Yes"	"1"	34335
 	"California"	"06"	"2018"	"2018"	"No"	"2"	420576
+	"California"	"06"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2019"	"2019"	"Yes"	"1"	35899
 	"California"	"06"	"2019"	"2019"	"No"	"2"	410235
 	"California"	"06"	"2019"	"2019"	"Unknown or Not Stated"	"9"	345
@@ -231,21 +259,28 @@
 	"Indiana"	"18"	"2011"	"2011"	"Unknown or Not Stated"	"9"	12
 	"Indiana"	"18"	"2012"	"2012"	"Yes"	"1"	5535
 	"Indiana"	"18"	"2012"	"2012"	"No"	"2"	77687
+	"Indiana"	"18"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2013"	"2013"	"Yes"	"1"	5124
 	"Indiana"	"18"	"2013"	"2013"	"No"	"2"	77973
+	"Indiana"	"18"	"2013"	"2013"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2014"	"2014"	"Yes"	"1"	5217
 	"Indiana"	"18"	"2014"	"2014"	"No"	"2"	78861
+	"Indiana"	"18"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2015"	"2015"	"Yes"	"1"	5387
 	"Indiana"	"18"	"2015"	"2015"	"No"	"2"	78651
+	"Indiana"	"18"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2016"	"2016"	"Yes"	"1"	5880
 	"Indiana"	"18"	"2016"	"2016"	"No"	"2"	77207
+	"Indiana"	"18"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2017"	"2017"	"Yes"	"1"	6061
 	"Indiana"	"18"	"2017"	"2017"	"No"	"2"	76099
 	"Indiana"	"18"	"2017"	"2017"	"Unknown or Not Stated"	"9"	10
 	"Indiana"	"18"	"2018"	"2018"	"Yes"	"1"	6312
 	"Indiana"	"18"	"2018"	"2018"	"No"	"2"	75325
+	"Indiana"	"18"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2019"	"2019"	"Yes"	"1"	6762
 	"Indiana"	"18"	"2019"	"2019"	"No"	"2"	74093
+	"Indiana"	"18"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2020"	"2020"	"Yes"	"1"	7062
 	"Indiana"	"18"	"2020"	"2020"	"No"	"2"	71507
 	"Indiana"	"18"	"2020"	"2020"	"Unknown or Not Stated"	"9"	47
@@ -275,6 +310,7 @@
 	"Maryland"	"24"	"2014"	"2014"	"Unknown or Not Stated"	"9"	79
 	"Maryland"	"24"	"2015"	"2015"	"Yes"	"1"	5575
 	"Maryland"	"24"	"2015"	"2015"	"No"	"2"	68038
+	"Maryland"	"24"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
 	"Maryland"	"24"	"2016"	"2016"	"Yes"	"1"	5599
 	"Maryland"	"24"	"2016"	"2016"	"No"	"2"	67526
 	"Maryland"	"24"	"2016"	"2016"	"Unknown or Not Stated"	"9"	11
@@ -349,14 +385,19 @@
 	"Missouri"	"29"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
 	"Missouri"	"29"	"2012"	"2012"	"Yes"	"1"	4510
 	"Missouri"	"29"	"2012"	"2012"	"No"	"2"	70935
+	"Missouri"	"29"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2013"	"2013"	"Yes"	"1"	4346
 	"Missouri"	"29"	"2013"	"2013"	"No"	"2"	70949
+	"Missouri"	"29"	"2013"	"2013"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2014"	"2014"	"Yes"	"1"	4496
 	"Missouri"	"29"	"2014"	"2014"	"No"	"2"	70863
+	"Missouri"	"29"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2015"	"2015"	"Yes"	"1"	4748
 	"Missouri"	"29"	"2015"	"2015"	"No"	"2"	70312
+	"Missouri"	"29"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2016"	"2016"	"Yes"	"1"	5186
 	"Missouri"	"29"	"2016"	"2016"	"No"	"2"	69518
+	"Missouri"	"29"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2017"	"2017"	"Yes"	"1"	5531
 	"Missouri"	"29"	"2017"	"2017"	"No"	"2"	67503
 	"Missouri"	"29"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
@@ -365,14 +406,19 @@
 	"Missouri"	"29"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
 	"Missouri"	"29"	"2019"	"2019"	"Yes"	"1"	6055
 	"Missouri"	"29"	"2019"	"2019"	"No"	"2"	66069
+	"Missouri"	"29"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2020"	"2020"	"Yes"	"1"	6684
 	"Missouri"	"29"	"2020"	"2020"	"No"	"2"	62599
+	"Missouri"	"29"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2021"	"2021"	"Yes"	"1"	6964
 	"Missouri"	"29"	"2021"	"2021"	"No"	"2"	62487
+	"Missouri"	"29"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2022"	"2022"	"Yes"	"1"	6635
 	"Missouri"	"29"	"2022"	"2022"	"No"	"2"	62349
+	"Missouri"	"29"	"2022"	"2022"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2023"	"2023"	"Yes"	"1"	6595
 	"Missouri"	"29"	"2023"	"2023"	"No"	"2"	60524
+	"Missouri"	"29"	"2023"	"2023"	"Unknown or Not Stated"	"9"	Suppressed
 	"New Jersey"	"34"	"2010"	"2010"	"Yes"	"1"	6206
 	"New Jersey"	"34"	"2010"	"2010"	"No"	"2"	100374
 	"New Jersey"	"34"	"2010"	"2010"	"Unknown or Not Stated"	"9"	342
@@ -393,16 +439,22 @@
 	"New Jersey"	"34"	"2015"	"2015"	"Unknown or Not Stated"	"9"	62
 	"New Jersey"	"34"	"2016"	"2016"	"Yes"	"1"	8557
 	"New Jersey"	"34"	"2016"	"2016"	"No"	"2"	94083
+	"New Jersey"	"34"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"New Jersey"	"34"	"2017"	"2017"	"Yes"	"1"	8940
 	"New Jersey"	"34"	"2017"	"2017"	"No"	"2"	92303
+	"New Jersey"	"34"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"New Jersey"	"34"	"2018"	"2018"	"Yes"	"1"	9506
 	"New Jersey"	"34"	"2018"	"2018"	"No"	"2"	91710
+	"New Jersey"	"34"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"New Jersey"	"34"	"2019"	"2019"	"Yes"	"1"	9400
 	"New Jersey"	"34"	"2019"	"2019"	"No"	"2"	90179
+	"New Jersey"	"34"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"New Jersey"	"34"	"2020"	"2020"	"Yes"	"1"	10323
 	"New Jersey"	"34"	"2020"	"2020"	"No"	"2"	87623
+	"New Jersey"	"34"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"New Jersey"	"34"	"2021"	"2021"	"Yes"	"1"	11043
 	"New Jersey"	"34"	"2021"	"2021"	"No"	"2"	90445
+	"New Jersey"	"34"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"New Jersey"	"34"	"2022"	"2022"	"Yes"	"1"	10056
 	"New Jersey"	"34"	"2022"	"2022"	"No"	"2"	92827
 	"New Jersey"	"34"	"2022"	"2022"	"Unknown or Not Stated"	"9"	10
@@ -451,6 +503,174 @@
 	"New York"	"36"	"2023"	"2023"	"Yes"	"1"	20410
 	"New York"	"36"	"2023"	"2023"	"No"	"2"	182773
 	"New York"	"36"	"2023"	"2023"	"Unknown or Not Stated"	"9"	429
+	"North Carolina"	"37"	"2010"	"2010"	"Yes"	"1"	4889
+	"North Carolina"	"37"	"2010"	"2010"	"No"	"2"	117442
+	"North Carolina"	"37"	"2010"	"2010"	"Unknown or Not Stated"	"9"	19
+	"North Carolina"	"37"	"2011"	"2011"	"Yes"	"1"	7519
+	"North Carolina"	"37"	"2011"	"2011"	"No"	"2"	112847
+	"North Carolina"	"37"	"2011"	"2011"	"Unknown or Not Stated"	"9"	23
+	"North Carolina"	"37"	"2012"	"2012"	"Yes"	"1"	7585
+	"North Carolina"	"37"	"2012"	"2012"	"No"	"2"	112213
+	"North Carolina"	"37"	"2012"	"2012"	"Unknown or Not Stated"	"9"	33
+	"North Carolina"	"37"	"2013"	"2013"	"Yes"	"1"	7501
+	"North Carolina"	"37"	"2013"	"2013"	"No"	"2"	111486
+	"North Carolina"	"37"	"2013"	"2013"	"Unknown or Not Stated"	"9"	15
+	"North Carolina"	"37"	"2014"	"2014"	"Yes"	"1"	7439
+	"North Carolina"	"37"	"2014"	"2014"	"No"	"2"	113518
+	"North Carolina"	"37"	"2014"	"2014"	"Unknown or Not Stated"	"9"	18
+	"North Carolina"	"37"	"2015"	"2015"	"Yes"	"1"	7534
+	"North Carolina"	"37"	"2015"	"2015"	"No"	"2"	113301
+	"North Carolina"	"37"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
+	"North Carolina"	"37"	"2016"	"2016"	"Yes"	"1"	8142
+	"North Carolina"	"37"	"2016"	"2016"	"No"	"2"	112621
+	"North Carolina"	"37"	"2016"	"2016"	"Unknown or Not Stated"	"9"	16
+	"North Carolina"	"37"	"2017"	"2017"	"Yes"	"1"	8973
+	"North Carolina"	"37"	"2017"	"2017"	"No"	"2"	111142
+	"North Carolina"	"37"	"2017"	"2017"	"Unknown or Not Stated"	"9"	10
+	"North Carolina"	"37"	"2018"	"2018"	"Yes"	"1"	9143
+	"North Carolina"	"37"	"2018"	"2018"	"No"	"2"	109791
+	"North Carolina"	"37"	"2018"	"2018"	"Unknown or Not Stated"	"9"	20
+	"North Carolina"	"37"	"2019"	"2019"	"Yes"	"1"	8820
+	"North Carolina"	"37"	"2019"	"2019"	"No"	"2"	109899
+	"North Carolina"	"37"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
+	"North Carolina"	"37"	"2020"	"2020"	"Yes"	"1"	9929
+	"North Carolina"	"37"	"2020"	"2020"	"No"	"2"	106792
+	"North Carolina"	"37"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
+	"North Carolina"	"37"	"2021"	"2021"	"Yes"	"1"	11350
+	"North Carolina"	"37"	"2021"	"2021"	"No"	"2"	109093
+	"North Carolina"	"37"	"2021"	"2021"	"Unknown or Not Stated"	"9"	23
+	"North Carolina"	"37"	"2022"	"2022"	"Yes"	"1"	12096
+	"North Carolina"	"37"	"2022"	"2022"	"No"	"2"	109445
+	"North Carolina"	"37"	"2022"	"2022"	"Unknown or Not Stated"	"9"	21
+	"North Carolina"	"37"	"2023"	"2023"	"Yes"	"1"	12246
+	"North Carolina"	"37"	"2023"	"2023"	"No"	"2"	107806
+	"North Carolina"	"37"	"2023"	"2023"	"Unknown or Not Stated"	"9"	30
+	"Ohio"	"39"	"2010"	"2010"	"Yes"	"1"	9241
+	"Ohio"	"39"	"2010"	"2010"	"No"	"2"	127576
+	"Ohio"	"39"	"2010"	"2010"	"Unknown or Not Stated"	"9"	2311
+	"Ohio"	"39"	"2011"	"2011"	"Yes"	"1"	9491
+	"Ohio"	"39"	"2011"	"2011"	"No"	"2"	125789
+	"Ohio"	"39"	"2011"	"2011"	"Unknown or Not Stated"	"9"	2638
+	"Ohio"	"39"	"2012"	"2012"	"Yes"	"1"	10105
+	"Ohio"	"39"	"2012"	"2012"	"No"	"2"	126383
+	"Ohio"	"39"	"2012"	"2012"	"Unknown or Not Stated"	"9"	1995
+	"Ohio"	"39"	"2013"	"2013"	"Yes"	"1"	10655
+	"Ohio"	"39"	"2013"	"2013"	"No"	"2"	127001
+	"Ohio"	"39"	"2013"	"2013"	"Unknown or Not Stated"	"9"	1280
+	"Ohio"	"39"	"2014"	"2014"	"Yes"	"1"	10770
+	"Ohio"	"39"	"2014"	"2014"	"No"	"2"	128608
+	"Ohio"	"39"	"2014"	"2014"	"Unknown or Not Stated"	"9"	89
+	"Ohio"	"39"	"2015"	"2015"	"Yes"	"1"	11210
+	"Ohio"	"39"	"2015"	"2015"	"No"	"2"	128046
+	"Ohio"	"39"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
+	"Ohio"	"39"	"2016"	"2016"	"Yes"	"1"	11645
+	"Ohio"	"39"	"2016"	"2016"	"No"	"2"	126413
+	"Ohio"	"39"	"2016"	"2016"	"Unknown or Not Stated"	"9"	27
+	"Ohio"	"39"	"2017"	"2017"	"Yes"	"1"	12001
+	"Ohio"	"39"	"2017"	"2017"	"No"	"2"	124817
+	"Ohio"	"39"	"2017"	"2017"	"Unknown or Not Stated"	"9"	14
+	"Ohio"	"39"	"2018"	"2018"	"Yes"	"1"	12334
+	"Ohio"	"39"	"2018"	"2018"	"No"	"2"	122788
+	"Ohio"	"39"	"2018"	"2018"	"Unknown or Not Stated"	"9"	12
+	"Ohio"	"39"	"2019"	"2019"	"Yes"	"1"	12564
+	"Ohio"	"39"	"2019"	"2019"	"No"	"2"	121889
+	"Ohio"	"39"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
+	"Ohio"	"39"	"2020"	"2020"	"Yes"	"1"	13193
+	"Ohio"	"39"	"2020"	"2020"	"No"	"2"	115982
+	"Ohio"	"39"	"2020"	"2020"	"Unknown or Not Stated"	"9"	16
+	"Ohio"	"39"	"2021"	"2021"	"Yes"	"1"	13754
+	"Ohio"	"39"	"2021"	"2021"	"No"	"2"	116018
+	"Ohio"	"39"	"2021"	"2021"	"Unknown or Not Stated"	"9"	19
+	"Ohio"	"39"	"2022"	"2022"	"Yes"	"1"	13299
+	"Ohio"	"39"	"2022"	"2022"	"No"	"2"	114901
+	"Ohio"	"39"	"2022"	"2022"	"Unknown or Not Stated"	"9"	31
+	"Ohio"	"39"	"2023"	"2023"	"Yes"	"1"	13344
+	"Ohio"	"39"	"2023"	"2023"	"No"	"2"	113539
+	"Ohio"	"39"	"2023"	"2023"	"Unknown or Not Stated"	"9"	13
+	"Oklahoma"	"40"	"2010"	"2010"	"Yes"	"1"	2353
+	"Oklahoma"	"40"	"2010"	"2010"	"No"	"2"	50883
+	"Oklahoma"	"40"	"2010"	"2010"	"Unknown or Not Stated"	"9"	Suppressed
+	"Oklahoma"	"40"	"2011"	"2011"	"Yes"	"1"	2436
+	"Oklahoma"	"40"	"2011"	"2011"	"No"	"2"	49835
+	"Oklahoma"	"40"	"2011"	"2011"	"Unknown or Not Stated"	"9"	Suppressed
+	"Oklahoma"	"40"	"2012"	"2012"	"Yes"	"1"	2517
+	"Oklahoma"	"40"	"2012"	"2012"	"No"	"2"	50234
+	"Oklahoma"	"40"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2013"	"2013"	"Yes"	"1"	2602
+	"Oklahoma"	"40"	"2013"	"2013"	"No"	"2"	50767
+	"Oklahoma"	"40"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2014"	"2014"	"Yes"	"1"	2792
+	"Oklahoma"	"40"	"2014"	"2014"	"No"	"2"	50547
+	"Oklahoma"	"40"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2015"	"2015"	"Yes"	"1"	2782
+	"Oklahoma"	"40"	"2015"	"2015"	"No"	"2"	50340
+	"Oklahoma"	"40"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2016"	"2016"	"Yes"	"1"	2954
+	"Oklahoma"	"40"	"2016"	"2016"	"No"	"2"	49637
+	"Oklahoma"	"40"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
+	"Oklahoma"	"40"	"2017"	"2017"	"Yes"	"1"	3041
+	"Oklahoma"	"40"	"2017"	"2017"	"No"	"2"	47172
+	"Oklahoma"	"40"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
+	"Oklahoma"	"40"	"2018"	"2018"	"Yes"	"1"	3323
+	"Oklahoma"	"40"	"2018"	"2018"	"No"	"2"	46477
+	"Oklahoma"	"40"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2019"	"2019"	"Yes"	"1"	3464
+	"Oklahoma"	"40"	"2019"	"2019"	"No"	"2"	45677
+	"Oklahoma"	"40"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
+	"Oklahoma"	"40"	"2020"	"2020"	"Yes"	"1"	3691
+	"Oklahoma"	"40"	"2020"	"2020"	"No"	"2"	43932
+	"Oklahoma"	"40"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2021"	"2021"	"Yes"	"1"	3755
+	"Oklahoma"	"40"	"2021"	"2021"	"No"	"2"	44649
+	"Oklahoma"	"40"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
+	"Oklahoma"	"40"	"2022"	"2022"	"Yes"	"1"	3727
+	"Oklahoma"	"40"	"2022"	"2022"	"No"	"2"	44602
+	"Oklahoma"	"40"	"2022"	"2022"	"Unknown or Not Stated"	"9"	Suppressed
+	"Oklahoma"	"40"	"2023"	"2023"	"Yes"	"1"	3726
+	"Oklahoma"	"40"	"2023"	"2023"	"No"	"2"	44175
+	"Oklahoma"	"40"	"2023"	"2023"	"Unknown or Not Stated"	"9"	Suppressed
+	"Pennsylvania"	"42"	"2010"	"2010"	"Yes"	"1"	7826
+	"Pennsylvania"	"42"	"2010"	"2010"	"No"	"2"	135481
+	"Pennsylvania"	"42"	"2010"	"2010"	"Unknown or Not Stated"	"9"	14
+	"Pennsylvania"	"42"	"2011"	"2011"	"Yes"	"1"	8074
+	"Pennsylvania"	"42"	"2011"	"2011"	"No"	"2"	135079
+	"Pennsylvania"	"42"	"2011"	"2011"	"Unknown or Not Stated"	"9"	25
+	"Pennsylvania"	"42"	"2012"	"2012"	"Yes"	"1"	8539
+	"Pennsylvania"	"42"	"2012"	"2012"	"No"	"2"	133950
+	"Pennsylvania"	"42"	"2012"	"2012"	"Unknown or Not Stated"	"9"	25
+	"Pennsylvania"	"42"	"2013"	"2013"	"Yes"	"1"	8433
+	"Pennsylvania"	"42"	"2013"	"2013"	"No"	"2"	132470
+	"Pennsylvania"	"42"	"2013"	"2013"	"Unknown or Not Stated"	"9"	18
+	"Pennsylvania"	"42"	"2014"	"2014"	"Yes"	"1"	8843
+	"Pennsylvania"	"42"	"2014"	"2014"	"No"	"2"	133399
+	"Pennsylvania"	"42"	"2014"	"2014"	"Unknown or Not Stated"	"9"	26
+	"Pennsylvania"	"42"	"2015"	"2015"	"Yes"	"1"	8641
+	"Pennsylvania"	"42"	"2015"	"2015"	"No"	"2"	132396
+	"Pennsylvania"	"42"	"2015"	"2015"	"Unknown or Not Stated"	"9"	10
+	"Pennsylvania"	"42"	"2016"	"2016"	"Yes"	"1"	8637
+	"Pennsylvania"	"42"	"2016"	"2016"	"No"	"2"	130751
+	"Pennsylvania"	"42"	"2016"	"2016"	"Unknown or Not Stated"	"9"	21
+	"Pennsylvania"	"42"	"2017"	"2017"	"Yes"	"1"	9180
+	"Pennsylvania"	"42"	"2017"	"2017"	"No"	"2"	128537
+	"Pennsylvania"	"42"	"2017"	"2017"	"Unknown or Not Stated"	"9"	28
+	"Pennsylvania"	"42"	"2018"	"2018"	"Yes"	"1"	9850
+	"Pennsylvania"	"42"	"2018"	"2018"	"No"	"2"	125785
+	"Pennsylvania"	"42"	"2018"	"2018"	"Unknown or Not Stated"	"9"	38
+	"Pennsylvania"	"42"	"2019"	"2019"	"Yes"	"1"	10090
+	"Pennsylvania"	"42"	"2019"	"2019"	"No"	"2"	124108
+	"Pennsylvania"	"42"	"2019"	"2019"	"Unknown or Not Stated"	"9"	32
+	"Pennsylvania"	"42"	"2020"	"2020"	"Yes"	"1"	11127
+	"Pennsylvania"	"42"	"2020"	"2020"	"No"	"2"	119521
+	"Pennsylvania"	"42"	"2020"	"2020"	"Unknown or Not Stated"	"9"	45
+	"Pennsylvania"	"42"	"2021"	"2021"	"Yes"	"1"	13044
+	"Pennsylvania"	"42"	"2021"	"2021"	"No"	"2"	119305
+	"Pennsylvania"	"42"	"2021"	"2021"	"Unknown or Not Stated"	"9"	273
+	"Pennsylvania"	"42"	"2022"	"2022"	"Yes"	"1"	13003
+	"Pennsylvania"	"42"	"2022"	"2022"	"No"	"2"	115810
+	"Pennsylvania"	"42"	"2022"	"2022"	"Unknown or Not Stated"	"9"	1439
+	"Pennsylvania"	"42"	"2023"	"2023"	"Yes"	"1"	13427
+	"Pennsylvania"	"42"	"2023"	"2023"	"No"	"2"	113026
+	"Pennsylvania"	"42"	"2023"	"2023"	"Unknown or Not Stated"	"9"	498
 	"South Carolina"	"45"	"2010"	"2010"	"Yes"	"1"	3620
 	"South Carolina"	"45"	"2010"	"2010"	"No"	"2"	54697
 	"South Carolina"	"45"	"2010"	"2010"	"Unknown or Not Stated"	"9"	25
@@ -459,23 +679,31 @@
 	"South Carolina"	"45"	"2011"	"2011"	"Unknown or Not Stated"	"9"	21
 	"South Carolina"	"45"	"2012"	"2012"	"Yes"	"1"	3573
 	"South Carolina"	"45"	"2012"	"2012"	"No"	"2"	53578
+	"South Carolina"	"45"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"South Carolina"	"45"	"2013"	"2013"	"Yes"	"1"	3948
 	"South Carolina"	"45"	"2013"	"2013"	"No"	"2"	52828
 	"South Carolina"	"45"	"2013"	"2013"	"Unknown or Not Stated"	"9"	19
 	"South Carolina"	"45"	"2014"	"2014"	"Yes"	"1"	4372
 	"South Carolina"	"45"	"2014"	"2014"	"No"	"2"	53249
+	"South Carolina"	"45"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"South Carolina"	"45"	"2015"	"2015"	"Yes"	"1"	4336
 	"South Carolina"	"45"	"2015"	"2015"	"No"	"2"	53797
+	"South Carolina"	"45"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
 	"South Carolina"	"45"	"2016"	"2016"	"Yes"	"1"	4380
 	"South Carolina"	"45"	"2016"	"2016"	"No"	"2"	52960
+	"South Carolina"	"45"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"South Carolina"	"45"	"2017"	"2017"	"Yes"	"1"	4210
 	"South Carolina"	"45"	"2017"	"2017"	"No"	"2"	52816
+	"South Carolina"	"45"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"South Carolina"	"45"	"2018"	"2018"	"Yes"	"1"	4395
 	"South Carolina"	"45"	"2018"	"2018"	"No"	"2"	52270
+	"South Carolina"	"45"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"South Carolina"	"45"	"2019"	"2019"	"Yes"	"1"	4320
 	"South Carolina"	"45"	"2019"	"2019"	"No"	"2"	52714
+	"South Carolina"	"45"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"South Carolina"	"45"	"2020"	"2020"	"Yes"	"1"	4971
 	"South Carolina"	"45"	"2020"	"2020"	"No"	"2"	50728
+	"South Carolina"	"45"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"South Carolina"	"45"	"2021"	"2021"	"Yes"	"1"	4887
 	"South Carolina"	"45"	"2021"	"2021"	"No"	"2"	52231
 	"South Carolina"	"45"	"2021"	"2021"	"Unknown or Not Stated"	"9"	67
@@ -487,20 +715,28 @@
 	"South Carolina"	"45"	"2023"	"2023"	"Unknown or Not Stated"	"9"	45
 	"Texas"	"48"	"2010"	"2010"	"Yes"	"1"	17499
 	"Texas"	"48"	"2010"	"2010"	"No"	"2"	368617
+	"Texas"	"48"	"2010"	"2010"	"Unknown or Not Stated"	"9"	Suppressed
 	"Texas"	"48"	"2011"	"2011"	"Yes"	"1"	18540
 	"Texas"	"48"	"2011"	"2011"	"No"	"2"	358903
+	"Texas"	"48"	"2011"	"2011"	"Unknown or Not Stated"	"9"	Suppressed
 	"Texas"	"48"	"2012"	"2012"	"Yes"	"1"	19280
 	"Texas"	"48"	"2012"	"2012"	"No"	"2"	363444
+	"Texas"	"48"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"Texas"	"48"	"2013"	"2013"	"Yes"	"1"	19077
 	"Texas"	"48"	"2013"	"2013"	"No"	"2"	368259
+	"Texas"	"48"	"2013"	"2013"	"Unknown or Not Stated"	"9"	Suppressed
 	"Texas"	"48"	"2014"	"2014"	"Yes"	"1"	22113
 	"Texas"	"48"	"2014"	"2014"	"No"	"2"	377651
+	"Texas"	"48"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"Texas"	"48"	"2015"	"2015"	"Yes"	"1"	22192
 	"Texas"	"48"	"2015"	"2015"	"No"	"2"	381424
+	"Texas"	"48"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
 	"Texas"	"48"	"2016"	"2016"	"Yes"	"1"	22728
 	"Texas"	"48"	"2016"	"2016"	"No"	"2"	375317
+	"Texas"	"48"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"Texas"	"48"	"2017"	"2017"	"Yes"	"1"	23223
 	"Texas"	"48"	"2017"	"2017"	"No"	"2"	358826
+	"Texas"	"48"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"Texas"	"48"	"2018"	"2018"	"Yes"	"1"	23343
 	"Texas"	"48"	"2018"	"2018"	"No"	"2"	355248
 	"Texas"	"48"	"2018"	"2018"	"Unknown or Not Stated"	"9"	33
@@ -565,28 +801,28 @@
 "Dataset: Natality, 2007-2023"
 "Query Parameters:"
 "States: Arizona (04); Arkansas (05); California (06); Florida (12); Georgia (13); Illinois (17); Indiana (18); Maryland (24);"
-"Michigan (26); Missouri (29); New Jersey (34); New York (36); South Carolina (45); Texas (48); Washington (53)"
+"Michigan (26); Missouri (29); New Jersey (34); New York (36); North Carolina (37); Ohio (39); Oklahoma (40); Pennsylvania (42);"
+"South Carolina (45); Texas (48); Washington (53)"
 "Year: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020; 2021; 2022; 2023"
 "Group By: State; Year; Diabetes"
 "Show Totals: Disabled"
 "Show Zero Values: True"
-"Show Suppressed: False"
+"Show Suppressed: True"
 "Calculate Rates Per: 1,000"
 "Population Option: No populations shown because rates were not selected."
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
 "---"
-"Query Date: Mar 25, 2025 1:06:58 AM"
+"Query Date: Mar 26, 2025 2:56:01 AM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
 "the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
-"http://wonder.cdc.gov/natality-current.html on Mar 25, 2025 1:06:58 AM"
+"http://wonder.cdc.gov/natality-current.html on Mar 26, 2025 2:56:01 AM"
 "---"
 Messages:
 "1. Totals are not available for these results due to suppression constraints. More Information:"
 "http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
-"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
 "---"
 Caveats:
 "1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"

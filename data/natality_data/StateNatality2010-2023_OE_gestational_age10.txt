@@ -179,6 +179,7 @@
 	"Arkansas"	"05"	"2013"	"2013"	"41 weeks"	"08"	1738
 	"Arkansas"	"05"	"2013"	"2013"	"42 weeks or more"	"09"	132
 	"Arkansas"	"05"	"2013"	"2013"	"Unknown or Not Stated"	"10"	179
+	"Arkansas"	"05"	"2014"	"2014"	"Under 20 weeks"	"01"	Suppressed
 	"Arkansas"	"05"	"2014"	"2014"	"20 - 27 weeks"	"02"	261
 	"Arkansas"	"05"	"2014"	"2014"	"28 - 31 weeks"	"03"	353
 	"Arkansas"	"05"	"2014"	"2014"	"32 - 35 weeks"	"04"	1775
@@ -188,6 +189,7 @@
 	"Arkansas"	"05"	"2014"	"2014"	"41 weeks"	"08"	1562
 	"Arkansas"	"05"	"2014"	"2014"	"42 weeks or more"	"09"	105
 	"Arkansas"	"05"	"2014"	"2014"	"Unknown or Not Stated"	"10"	31
+	"Arkansas"	"05"	"2015"	"2015"	"Under 20 weeks"	"01"	Suppressed
 	"Arkansas"	"05"	"2015"	"2015"	"20 - 27 weeks"	"02"	283
 	"Arkansas"	"05"	"2015"	"2015"	"28 - 31 weeks"	"03"	400
 	"Arkansas"	"05"	"2015"	"2015"	"32 - 35 weeks"	"04"	1891
@@ -197,6 +199,7 @@
 	"Arkansas"	"05"	"2015"	"2015"	"41 weeks"	"08"	1527
 	"Arkansas"	"05"	"2015"	"2015"	"42 weeks or more"	"09"	109
 	"Arkansas"	"05"	"2015"	"2015"	"Unknown or Not Stated"	"10"	22
+	"Arkansas"	"05"	"2016"	"2016"	"Under 20 weeks"	"01"	Suppressed
 	"Arkansas"	"05"	"2016"	"2016"	"20 - 27 weeks"	"02"	276
 	"Arkansas"	"05"	"2016"	"2016"	"28 - 31 weeks"	"03"	422
 	"Arkansas"	"05"	"2016"	"2016"	"32 - 35 weeks"	"04"	1763
@@ -235,6 +238,7 @@
 	"Arkansas"	"05"	"2019"	"2019"	"40 weeks"	"07"	5487
 	"Arkansas"	"05"	"2019"	"2019"	"41 weeks"	"08"	923
 	"Arkansas"	"05"	"2019"	"2019"	"42 weeks or more"	"09"	62
+	"Arkansas"	"05"	"2019"	"2019"	"Unknown or Not Stated"	"10"	Suppressed
 	"Arkansas"	"05"	"2020"	"2020"	"Under 20 weeks"	"01"	15
 	"Arkansas"	"05"	"2020"	"2020"	"20 - 27 weeks"	"02"	238
 	"Arkansas"	"05"	"2020"	"2020"	"28 - 31 weeks"	"03"	352
@@ -1524,6 +1528,7 @@
 	"New Jersey"	"34"	"2022"	"2022"	"40 weeks"	"07"	21169
 	"New Jersey"	"34"	"2022"	"2022"	"41 weeks"	"08"	6164
 	"New Jersey"	"34"	"2022"	"2022"	"42 weeks or more"	"09"	194
+	"New Jersey"	"34"	"2022"	"2022"	"Unknown or Not Stated"	"10"	Suppressed
 	"New Jersey"	"34"	"2023"	"2023"	"Under 20 weeks"	"01"	15
 	"New Jersey"	"34"	"2023"	"2023"	"20 - 27 weeks"	"02"	500
 	"New Jersey"	"34"	"2023"	"2023"	"28 - 31 weeks"	"03"	739
@@ -2574,6 +2579,7 @@
 	"Washington"	"53"	"2015"	"2015"	"41 weeks"	"08"	9569
 	"Washington"	"53"	"2015"	"2015"	"42 weeks or more"	"09"	694
 	"Washington"	"53"	"2015"	"2015"	"Unknown or Not Stated"	"10"	67
+	"Washington"	"53"	"2016"	"2016"	"Under 20 weeks"	"01"	Suppressed
 	"Washington"	"53"	"2016"	"2016"	"20 - 27 weeks"	"02"	366
 	"Washington"	"53"	"2016"	"2016"	"28 - 31 weeks"	"03"	659
 	"Washington"	"53"	"2016"	"2016"	"32 - 35 weeks"	"04"	3360
@@ -2663,23 +2669,22 @@
 "Group By: State; Year; OE Gestational Age 10"
 "Show Totals: Disabled"
 "Show Zero Values: True"
-"Show Suppressed: False"
+"Show Suppressed: True"
 "Calculate Rates Per: 1,000"
 "Population Option: No populations shown because rates were not selected."
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
 "---"
-"Query Date: Mar 25, 2025 1:19:57 AM"
+"Query Date: Mar 26, 2025 3:08:56 AM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
 "the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
-"http://wonder.cdc.gov/natality-current.html on Mar 25, 2025 1:19:57 AM"
+"http://wonder.cdc.gov/natality-current.html on Mar 26, 2025 3:08:56 AM"
 "---"
 Messages:
 "1. Totals are not available for these results due to suppression constraints. More Information:"
 "http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
-"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
 "---"
 Caveats:
 "1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"

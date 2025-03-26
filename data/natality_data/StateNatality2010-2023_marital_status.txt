@@ -86,18 +86,23 @@
 	"Arkansas"	"05"	"2017"	"2017"	"Married"	"1"	20441
 	"Arkansas"	"05"	"2017"	"2017"	"Unmarried"	"2"	17072
 	"Arkansas"	"05"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2017"	"2017"	"Not Reported"	"NR"	Suppressed
 	"Arkansas"	"05"	"2018"	"2018"	"Married"	"1"	20217
 	"Arkansas"	"05"	"2018"	"2018"	"Unmarried"	"2"	16795
 	"Arkansas"	"05"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2018"	"2018"	"Not Reported"	"NR"	Suppressed
 	"Arkansas"	"05"	"2019"	"2019"	"Married"	"1"	19451
 	"Arkansas"	"05"	"2019"	"2019"	"Unmarried"	"2"	17107
 	"Arkansas"	"05"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2019"	"2019"	"Not Reported"	"NR"	Suppressed
 	"Arkansas"	"05"	"2020"	"2020"	"Married"	"1"	18753
 	"Arkansas"	"05"	"2020"	"2020"	"Unmarried"	"2"	16495
 	"Arkansas"	"05"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2020"	"2020"	"Not Reported"	"NR"	Suppressed
 	"Arkansas"	"05"	"2021"	"2021"	"Married"	"1"	19305
 	"Arkansas"	"05"	"2021"	"2021"	"Unmarried"	"2"	16654
 	"Arkansas"	"05"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2021"	"2021"	"Not Reported"	"NR"	Suppressed
 	"Arkansas"	"05"	"2022"	"2022"	"Married"	"1"	19406
 	"Arkansas"	"05"	"2022"	"2022"	"Unmarried"	"2"	16041
 	"Arkansas"	"05"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
@@ -105,6 +110,7 @@
 	"Arkansas"	"05"	"2023"	"2023"	"Married"	"1"	19014
 	"Arkansas"	"05"	"2023"	"2023"	"Unmarried"	"2"	16244
 	"Arkansas"	"05"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"Arkansas"	"05"	"2023"	"2023"	"Not Reported"	"NR"	Suppressed
 	"California"	"06"	"2010"	"2010"	"Married"	"1"	303625
 	"California"	"06"	"2010"	"2010"	"Unmarried"	"2"	206573
 	"California"	"06"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
@@ -264,6 +270,7 @@
 	"Georgia"	"13"	"2021"	"2021"	"Married"	"1"	67040
 	"Georgia"	"13"	"2021"	"2021"	"Unmarried"	"2"	57025
 	"Georgia"	"13"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Georgia"	"13"	"2021"	"2021"	"Not Reported"	"NR"	Suppressed
 	"Georgia"	"13"	"2022"	"2022"	"Married"	"1"	68698
 	"Georgia"	"13"	"2022"	"2022"	"Unmarried"	"2"	57417
 	"Georgia"	"13"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
@@ -271,6 +278,7 @@
 	"Georgia"	"13"	"2023"	"2023"	"Married"	"1"	67131
 	"Georgia"	"13"	"2023"	"2023"	"Unmarried"	"2"	57981
 	"Georgia"	"13"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"Georgia"	"13"	"2023"	"2023"	"Not Reported"	"NR"	Suppressed
 	"Illinois"	"17"	"2010"	"2010"	"Married"	"1"	98293
 	"Illinois"	"17"	"2010"	"2010"	"Unmarried"	"2"	66907
 	"Illinois"	"17"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
@@ -314,6 +322,7 @@
 	"Illinois"	"17"	"2020"	"2020"	"Married"	"1"	79269
 	"Illinois"	"17"	"2020"	"2020"	"Unmarried"	"2"	54022
 	"Illinois"	"17"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Illinois"	"17"	"2020"	"2020"	"Not Reported"	"NR"	Suppressed
 	"Illinois"	"17"	"2021"	"2021"	"Married"	"1"	79905
 	"Illinois"	"17"	"2021"	"2021"	"Unmarried"	"2"	52263
 	"Illinois"	"17"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
@@ -357,24 +366,31 @@
 	"Indiana"	"18"	"2017"	"2017"	"Married"	"1"	47022
 	"Indiana"	"18"	"2017"	"2017"	"Unmarried"	"2"	35142
 	"Indiana"	"18"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2017"	"2017"	"Not Reported"	"NR"	Suppressed
 	"Indiana"	"18"	"2018"	"2018"	"Married"	"1"	46336
 	"Indiana"	"18"	"2018"	"2018"	"Unmarried"	"2"	35303
 	"Indiana"	"18"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2018"	"2018"	"Not Reported"	"NR"	Suppressed
 	"Indiana"	"18"	"2019"	"2019"	"Married"	"1"	45672
 	"Indiana"	"18"	"2019"	"2019"	"Unmarried"	"2"	35180
 	"Indiana"	"18"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2019"	"2019"	"Not Reported"	"NR"	Suppressed
 	"Indiana"	"18"	"2020"	"2020"	"Married"	"1"	44318
 	"Indiana"	"18"	"2020"	"2020"	"Unmarried"	"2"	34289
 	"Indiana"	"18"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2020"	"2020"	"Not Reported"	"NR"	Suppressed
 	"Indiana"	"18"	"2021"	"2021"	"Married"	"1"	45571
 	"Indiana"	"18"	"2021"	"2021"	"Unmarried"	"2"	34368
 	"Indiana"	"18"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2021"	"2021"	"Not Reported"	"NR"	Suppressed
 	"Indiana"	"18"	"2022"	"2022"	"Married"	"1"	45749
 	"Indiana"	"18"	"2022"	"2022"	"Unmarried"	"2"	33891
 	"Indiana"	"18"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2022"	"2022"	"Not Reported"	"NR"	Suppressed
 	"Indiana"	"18"	"2023"	"2023"	"Married"	"1"	45136
 	"Indiana"	"18"	"2023"	"2023"	"Unmarried"	"2"	33859
 	"Indiana"	"18"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"Indiana"	"18"	"2023"	"2023"	"Not Reported"	"NR"	Suppressed
 	"Maryland"	"24"	"2010"	"2010"	"Married"	"1"	42908
 	"Maryland"	"24"	"2010"	"2010"	"Unmarried"	"2"	30893
 	"Maryland"	"24"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
@@ -534,12 +550,15 @@
 	"Missouri"	"29"	"2021"	"2021"	"Married"	"1"	41742
 	"Missouri"	"29"	"2021"	"2021"	"Unmarried"	"2"	27702
 	"Missouri"	"29"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2021"	"2021"	"Not Reported"	"NR"	Suppressed
 	"Missouri"	"29"	"2022"	"2022"	"Married"	"1"	41996
 	"Missouri"	"29"	"2022"	"2022"	"Unmarried"	"2"	26982
 	"Missouri"	"29"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2022"	"2022"	"Not Reported"	"NR"	Suppressed
 	"Missouri"	"29"	"2023"	"2023"	"Married"	"1"	40836
 	"Missouri"	"29"	"2023"	"2023"	"Unmarried"	"2"	26284
 	"Missouri"	"29"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"Missouri"	"29"	"2023"	"2023"	"Not Reported"	"NR"	Suppressed
 	"New Jersey"	"34"	"2010"	"2010"	"Married"	"1"	69092
 	"New Jersey"	"34"	"2010"	"2010"	"Unmarried"	"2"	37830
 	"New Jersey"	"34"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
@@ -751,6 +770,7 @@
 	"Ohio"	"39"	"2020"	"2020"	"Married"	"1"	72905
 	"Ohio"	"39"	"2020"	"2020"	"Unmarried"	"2"	56278
 	"Ohio"	"39"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Ohio"	"39"	"2020"	"2020"	"Not Reported"	"NR"	Suppressed
 	"Ohio"	"39"	"2021"	"2021"	"Married"	"1"	74543
 	"Ohio"	"39"	"2021"	"2021"	"Unmarried"	"2"	55237
 	"Ohio"	"39"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
@@ -794,6 +814,7 @@
 	"Oklahoma"	"40"	"2017"	"2017"	"Married"	"1"	29102
 	"Oklahoma"	"40"	"2017"	"2017"	"Unmarried"	"2"	21105
 	"Oklahoma"	"40"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2017"	"2017"	"Not Reported"	"NR"	Suppressed
 	"Oklahoma"	"40"	"2018"	"2018"	"Married"	"1"	28780
 	"Oklahoma"	"40"	"2018"	"2018"	"Unmarried"	"2"	21010
 	"Oklahoma"	"40"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
@@ -805,9 +826,11 @@
 	"Oklahoma"	"40"	"2020"	"2020"	"Married"	"1"	26465
 	"Oklahoma"	"40"	"2020"	"2020"	"Unmarried"	"2"	21149
 	"Oklahoma"	"40"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2020"	"2020"	"Not Reported"	"NR"	Suppressed
 	"Oklahoma"	"40"	"2021"	"2021"	"Married"	"1"	26958
 	"Oklahoma"	"40"	"2021"	"2021"	"Unmarried"	"2"	21443
 	"Oklahoma"	"40"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2021"	"2021"	"Not Reported"	"NR"	Suppressed
 	"Oklahoma"	"40"	"2022"	"2022"	"Married"	"1"	27142
 	"Oklahoma"	"40"	"2022"	"2022"	"Unmarried"	"2"	21173
 	"Oklahoma"	"40"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
@@ -815,6 +838,7 @@
 	"Oklahoma"	"40"	"2023"	"2023"	"Married"	"1"	26444
 	"Oklahoma"	"40"	"2023"	"2023"	"Unmarried"	"2"	21456
 	"Oklahoma"	"40"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
+	"Oklahoma"	"40"	"2023"	"2023"	"Not Reported"	"NR"	Suppressed
 	"Pennsylvania"	"42"	"2010"	"2010"	"Married"	"1"	83832
 	"Pennsylvania"	"42"	"2010"	"2010"	"Unmarried"	"2"	59489
 	"Pennsylvania"	"42"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
@@ -846,9 +870,11 @@
 	"Pennsylvania"	"42"	"2017"	"2017"	"Married"	"1"	81285
 	"Pennsylvania"	"42"	"2017"	"2017"	"Unmarried"	"2"	56451
 	"Pennsylvania"	"42"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"Pennsylvania"	"42"	"2017"	"2017"	"Not Reported"	"NR"	Suppressed
 	"Pennsylvania"	"42"	"2018"	"2018"	"Married"	"1"	80340
 	"Pennsylvania"	"42"	"2018"	"2018"	"Unmarried"	"2"	55324
 	"Pennsylvania"	"42"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"Pennsylvania"	"42"	"2018"	"2018"	"Not Reported"	"NR"	Suppressed
 	"Pennsylvania"	"42"	"2019"	"2019"	"Married"	"1"	79366
 	"Pennsylvania"	"42"	"2019"	"2019"	"Unmarried"	"2"	54854
 	"Pennsylvania"	"42"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
@@ -900,12 +926,15 @@
 	"South Carolina"	"45"	"2017"	"2017"	"Married"	"1"	30723
 	"South Carolina"	"45"	"2017"	"2017"	"Unmarried"	"2"	26298
 	"South Carolina"	"45"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
+	"South Carolina"	"45"	"2017"	"2017"	"Not Reported"	"NR"	Suppressed
 	"South Carolina"	"45"	"2018"	"2018"	"Married"	"1"	30508
 	"South Carolina"	"45"	"2018"	"2018"	"Unmarried"	"2"	26157
 	"South Carolina"	"45"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
+	"South Carolina"	"45"	"2018"	"2018"	"Not Reported"	"NR"	Suppressed
 	"South Carolina"	"45"	"2019"	"2019"	"Married"	"1"	30419
 	"South Carolina"	"45"	"2019"	"2019"	"Unmarried"	"2"	26614
 	"South Carolina"	"45"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
+	"South Carolina"	"45"	"2019"	"2019"	"Not Reported"	"NR"	Suppressed
 	"South Carolina"	"45"	"2020"	"2020"	"Married"	"1"	29716
 	"South Carolina"	"45"	"2020"	"2020"	"Unmarried"	"2"	25976
 	"South Carolina"	"45"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
@@ -917,6 +946,7 @@
 	"South Carolina"	"45"	"2022"	"2022"	"Married"	"1"	31775
 	"South Carolina"	"45"	"2022"	"2022"	"Unmarried"	"2"	26036
 	"South Carolina"	"45"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
+	"South Carolina"	"45"	"2022"	"2022"	"Not Reported"	"NR"	Suppressed
 	"South Carolina"	"45"	"2023"	"2023"	"Married"	"1"	31809
 	"South Carolina"	"45"	"2023"	"2023"	"Unmarried"	"2"	25908
 	"South Carolina"	"45"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
@@ -1043,23 +1073,22 @@
 "Group By: State; Year; Marital Status"
 "Show Totals: Disabled"
 "Show Zero Values: True"
-"Show Suppressed: False"
+"Show Suppressed: True"
 "Calculate Rates Per: 1,000"
 "Population Option: No populations shown because rates were not selected."
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
 "---"
-"Query Date: Mar 25, 2025 1:21:35 AM"
+"Query Date: Mar 26, 2025 3:07:23 AM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
 "the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
-"http://wonder.cdc.gov/natality-current.html on Mar 25, 2025 1:21:35 AM"
+"http://wonder.cdc.gov/natality-current.html on Mar 26, 2025 3:07:23 AM"
 "---"
 Messages:
 "1. Totals are not available for these results due to suppression constraints. More Information:"
 "http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
-"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
 "---"
 Caveats:
 "1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"

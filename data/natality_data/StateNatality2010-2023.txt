@@ -179,6 +179,66 @@
 	"New York"	"36"	"2022"	"2022"	207774
 	"New York"	"36"	"2023"	"2023"	203612
 "Total"	"New York"	"36"			3182893
+	"North Carolina"	"37"	"2010"	"2010"	122350
+	"North Carolina"	"37"	"2011"	"2011"	120389
+	"North Carolina"	"37"	"2012"	"2012"	119831
+	"North Carolina"	"37"	"2013"	"2013"	119002
+	"North Carolina"	"37"	"2014"	"2014"	120975
+	"North Carolina"	"37"	"2015"	"2015"	120843
+	"North Carolina"	"37"	"2016"	"2016"	120779
+	"North Carolina"	"37"	"2017"	"2017"	120125
+	"North Carolina"	"37"	"2018"	"2018"	118954
+	"North Carolina"	"37"	"2019"	"2019"	118725
+	"North Carolina"	"37"	"2020"	"2020"	116730
+	"North Carolina"	"37"	"2021"	"2021"	120466
+	"North Carolina"	"37"	"2022"	"2022"	121562
+	"North Carolina"	"37"	"2023"	"2023"	120082
+"Total"	"North Carolina"	"37"			1680813
+	"Ohio"	"39"	"2010"	"2010"	139128
+	"Ohio"	"39"	"2011"	"2011"	137918
+	"Ohio"	"39"	"2012"	"2012"	138483
+	"Ohio"	"39"	"2013"	"2013"	138936
+	"Ohio"	"39"	"2014"	"2014"	139467
+	"Ohio"	"39"	"2015"	"2015"	139264
+	"Ohio"	"39"	"2016"	"2016"	138085
+	"Ohio"	"39"	"2017"	"2017"	136832
+	"Ohio"	"39"	"2018"	"2018"	135134
+	"Ohio"	"39"	"2019"	"2019"	134461
+	"Ohio"	"39"	"2020"	"2020"	129191
+	"Ohio"	"39"	"2021"	"2021"	129791
+	"Ohio"	"39"	"2022"	"2022"	128231
+	"Ohio"	"39"	"2023"	"2023"	126896
+"Total"	"Ohio"	"39"			1891817
+	"Oklahoma"	"40"	"2010"	"2010"	53238
+	"Oklahoma"	"40"	"2011"	"2011"	52272
+	"Oklahoma"	"40"	"2012"	"2012"	52751
+	"Oklahoma"	"40"	"2013"	"2013"	53369
+	"Oklahoma"	"40"	"2014"	"2014"	53339
+	"Oklahoma"	"40"	"2015"	"2015"	53122
+	"Oklahoma"	"40"	"2016"	"2016"	52592
+	"Oklahoma"	"40"	"2017"	"2017"	50214
+	"Oklahoma"	"40"	"2018"	"2018"	49800
+	"Oklahoma"	"40"	"2019"	"2019"	49143
+	"Oklahoma"	"40"	"2020"	"2020"	47623
+	"Oklahoma"	"40"	"2021"	"2021"	48410
+	"Oklahoma"	"40"	"2022"	"2022"	48332
+	"Oklahoma"	"40"	"2023"	"2023"	47909
+"Total"	"Oklahoma"	"40"			712114
+	"Pennsylvania"	"42"	"2010"	"2010"	143321
+	"Pennsylvania"	"42"	"2011"	"2011"	143178
+	"Pennsylvania"	"42"	"2012"	"2012"	142514
+	"Pennsylvania"	"42"	"2013"	"2013"	140921
+	"Pennsylvania"	"42"	"2014"	"2014"	142268
+	"Pennsylvania"	"42"	"2015"	"2015"	141047
+	"Pennsylvania"	"42"	"2016"	"2016"	139409
+	"Pennsylvania"	"42"	"2017"	"2017"	137745
+	"Pennsylvania"	"42"	"2018"	"2018"	135673
+	"Pennsylvania"	"42"	"2019"	"2019"	134230
+	"Pennsylvania"	"42"	"2020"	"2020"	130693
+	"Pennsylvania"	"42"	"2021"	"2021"	132622
+	"Pennsylvania"	"42"	"2022"	"2022"	130252
+	"Pennsylvania"	"42"	"2023"	"2023"	126951
+"Total"	"Pennsylvania"	"42"			1920824
 	"South Carolina"	"45"	"2010"	"2010"	58342
 	"South Carolina"	"45"	"2011"	"2011"	57393
 	"South Carolina"	"45"	"2012"	"2012"	57155
@@ -224,28 +284,29 @@
 	"Washington"	"53"	"2022"	"2022"	83333
 	"Washington"	"53"	"2023"	"2023"	80932
 "Total"	"Washington"	"53"			1205439
-"Total"					31850441
+"Total"					38056009
 "---"
 "Dataset: Natality, 2007-2023"
 "Query Parameters:"
 "States: Arizona (04); Arkansas (05); California (06); Florida (12); Georgia (13); Illinois (17); Indiana (18); Maryland (24);"
-"Michigan (26); Missouri (29); New Jersey (34); New York (36); South Carolina (45); Texas (48); Washington (53)"
+"Michigan (26); Missouri (29); New Jersey (34); New York (36); North Carolina (37); Ohio (39); Oklahoma (40); Pennsylvania (42);"
+"South Carolina (45); Texas (48); Washington (53)"
 "Year: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020; 2021; 2022; 2023"
 "Group By: State; Year"
 "Show Totals: True"
 "Show Zero Values: True"
-"Show Suppressed: False"
+"Show Suppressed: True"
 "Calculate Rates Per: 1,000"
 "Population Option: No populations shown because rates were not selected."
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
 "---"
-"Query Date: Mar 25, 2025 1:03:49 AM"
+"Query Date: Mar 26, 2025 2:43:31 AM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
 "the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
-"http://wonder.cdc.gov/natality-current.html on Mar 25, 2025 1:03:49 AM"
+"http://wonder.cdc.gov/natality-current.html on Mar 26, 2025 2:43:31 AM"
 "---"
 Caveats:
 "1. Each birth record represents one liveborn infant."

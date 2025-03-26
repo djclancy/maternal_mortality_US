@@ -165,6 +165,7 @@
 	"Arizona"	"04"	"2022"	"2022"	"7th month"	"07"	2184
 	"Arizona"	"04"	"2022"	"2022"	"8th month"	"08"	1700
 	"Arizona"	"04"	"2022"	"2022"	"9th month"	"09"	731
+	"Arizona"	"04"	"2022"	"2022"	"10th month"	"10"	Suppressed
 	"Arizona"	"04"	"2022"	"2022"	"Unknown or Not Stated"	"99"	1785
 	"Arizona"	"04"	"2022"	"2022"	"Not Reported"	"98"	0
 	"Arizona"	"04"	"2023"	"2023"	"No prenatal care"	"00"	1892
@@ -242,6 +243,7 @@
 	"Arkansas"	"05"	"2014"	"2014"	"7th month"	"07"	1230
 	"Arkansas"	"05"	"2014"	"2014"	"8th month"	"08"	675
 	"Arkansas"	"05"	"2014"	"2014"	"9th month"	"09"	263
+	"Arkansas"	"05"	"2014"	"2014"	"10th month"	"10"	Suppressed
 	"Arkansas"	"05"	"2014"	"2014"	"Unknown or Not Stated"	"99"	5533
 	"Arkansas"	"05"	"2014"	"2014"	"Not Reported"	"98"	0
 	"Arkansas"	"05"	"2015"	"2015"	"No prenatal care"	"00"	943
@@ -254,6 +256,7 @@
 	"Arkansas"	"05"	"2015"	"2015"	"7th month"	"07"	1324
 	"Arkansas"	"05"	"2015"	"2015"	"8th month"	"08"	728
 	"Arkansas"	"05"	"2015"	"2015"	"9th month"	"09"	289
+	"Arkansas"	"05"	"2015"	"2015"	"10th month"	"10"	Suppressed
 	"Arkansas"	"05"	"2015"	"2015"	"Unknown or Not Stated"	"99"	5302
 	"Arkansas"	"05"	"2015"	"2015"	"Not Reported"	"98"	0
 	"Arkansas"	"05"	"2016"	"2016"	"No prenatal care"	"00"	1047
@@ -266,6 +269,7 @@
 	"Arkansas"	"05"	"2016"	"2016"	"7th month"	"07"	1522
 	"Arkansas"	"05"	"2016"	"2016"	"8th month"	"08"	824
 	"Arkansas"	"05"	"2016"	"2016"	"9th month"	"09"	298
+	"Arkansas"	"05"	"2016"	"2016"	"10th month"	"10"	Suppressed
 	"Arkansas"	"05"	"2016"	"2016"	"Unknown or Not Stated"	"99"	4471
 	"Arkansas"	"05"	"2016"	"2016"	"Not Reported"	"98"	0
 	"Arkansas"	"05"	"2017"	"2017"	"No prenatal care"	"00"	1237
@@ -278,6 +282,7 @@
 	"Arkansas"	"05"	"2017"	"2017"	"7th month"	"07"	1314
 	"Arkansas"	"05"	"2017"	"2017"	"8th month"	"08"	729
 	"Arkansas"	"05"	"2017"	"2017"	"9th month"	"09"	269
+	"Arkansas"	"05"	"2017"	"2017"	"10th month"	"10"	Suppressed
 	"Arkansas"	"05"	"2017"	"2017"	"Unknown or Not Stated"	"99"	2073
 	"Arkansas"	"05"	"2017"	"2017"	"Not Reported"	"98"	0
 	"Arkansas"	"05"	"2018"	"2018"	"No prenatal care"	"00"	924
@@ -290,6 +295,7 @@
 	"Arkansas"	"05"	"2018"	"2018"	"7th month"	"07"	1325
 	"Arkansas"	"05"	"2018"	"2018"	"8th month"	"08"	779
 	"Arkansas"	"05"	"2018"	"2018"	"9th month"	"09"	316
+	"Arkansas"	"05"	"2018"	"2018"	"10th month"	"10"	Suppressed
 	"Arkansas"	"05"	"2018"	"2018"	"Unknown or Not Stated"	"99"	437
 	"Arkansas"	"05"	"2018"	"2018"	"Not Reported"	"98"	0
 	"Arkansas"	"05"	"2019"	"2019"	"No prenatal care"	"00"	790
@@ -302,6 +308,7 @@
 	"Arkansas"	"05"	"2019"	"2019"	"7th month"	"07"	1202
 	"Arkansas"	"05"	"2019"	"2019"	"8th month"	"08"	864
 	"Arkansas"	"05"	"2019"	"2019"	"9th month"	"09"	283
+	"Arkansas"	"05"	"2019"	"2019"	"10th month"	"10"	Suppressed
 	"Arkansas"	"05"	"2019"	"2019"	"Unknown or Not Stated"	"99"	381
 	"Arkansas"	"05"	"2019"	"2019"	"Not Reported"	"98"	0
 	"Arkansas"	"05"	"2020"	"2020"	"No prenatal care"	"00"	938
@@ -314,6 +321,7 @@
 	"Arkansas"	"05"	"2020"	"2020"	"7th month"	"07"	1195
 	"Arkansas"	"05"	"2020"	"2020"	"8th month"	"08"	788
 	"Arkansas"	"05"	"2020"	"2020"	"9th month"	"09"	297
+	"Arkansas"	"05"	"2020"	"2020"	"10th month"	"10"	Suppressed
 	"Arkansas"	"05"	"2020"	"2020"	"Unknown or Not Stated"	"99"	347
 	"Arkansas"	"05"	"2020"	"2020"	"Not Reported"	"98"	0
 	"Arkansas"	"05"	"2021"	"2021"	"No prenatal care"	"00"	1043
@@ -326,6 +334,7 @@
 	"Arkansas"	"05"	"2021"	"2021"	"7th month"	"07"	1435
 	"Arkansas"	"05"	"2021"	"2021"	"8th month"	"08"	1009
 	"Arkansas"	"05"	"2021"	"2021"	"9th month"	"09"	417
+	"Arkansas"	"05"	"2021"	"2021"	"10th month"	"10"	Suppressed
 	"Arkansas"	"05"	"2021"	"2021"	"Unknown or Not Stated"	"99"	363
 	"Arkansas"	"05"	"2021"	"2021"	"Not Reported"	"98"	0
 	"Arkansas"	"05"	"2022"	"2022"	"No prenatal care"	"00"	1189
@@ -338,6 +347,7 @@
 	"Arkansas"	"05"	"2022"	"2022"	"7th month"	"07"	1242
 	"Arkansas"	"05"	"2022"	"2022"	"8th month"	"08"	824
 	"Arkansas"	"05"	"2022"	"2022"	"9th month"	"09"	306
+	"Arkansas"	"05"	"2022"	"2022"	"10th month"	"10"	Suppressed
 	"Arkansas"	"05"	"2022"	"2022"	"Unknown or Not Stated"	"99"	358
 	"Arkansas"	"05"	"2022"	"2022"	"Not Reported"	"98"	0
 	"Arkansas"	"05"	"2023"	"2023"	"No prenatal care"	"00"	1026
@@ -350,6 +360,7 @@
 	"Arkansas"	"05"	"2023"	"2023"	"7th month"	"07"	1164
 	"Arkansas"	"05"	"2023"	"2023"	"8th month"	"08"	800
 	"Arkansas"	"05"	"2023"	"2023"	"9th month"	"09"	316
+	"Arkansas"	"05"	"2023"	"2023"	"10th month"	"10"	Suppressed
 	"Arkansas"	"05"	"2023"	"2023"	"Unknown or Not Stated"	"99"	233
 	"Arkansas"	"05"	"2023"	"2023"	"Not Reported"	"98"	0
 	"California"	"06"	"2010"	"2010"	"No prenatal care"	"00"	2518
@@ -596,6 +607,7 @@
 	"Florida"	"12"	"2014"	"2014"	"7th month"	"07"	4993
 	"Florida"	"12"	"2014"	"2014"	"8th month"	"08"	3548
 	"Florida"	"12"	"2014"	"2014"	"9th month"	"09"	1096
+	"Florida"	"12"	"2014"	"2014"	"10th month"	"10"	Suppressed
 	"Florida"	"12"	"2014"	"2014"	"Unknown or Not Stated"	"99"	9256
 	"Florida"	"12"	"2014"	"2014"	"Not Reported"	"98"	0
 	"Florida"	"12"	"2015"	"2015"	"No prenatal care"	"00"	3119
@@ -621,6 +633,7 @@
 	"Florida"	"12"	"2016"	"2016"	"7th month"	"07"	5334
 	"Florida"	"12"	"2016"	"2016"	"8th month"	"08"	3806
 	"Florida"	"12"	"2016"	"2016"	"9th month"	"09"	1197
+	"Florida"	"12"	"2016"	"2016"	"10th month"	"10"	Suppressed
 	"Florida"	"12"	"2016"	"2016"	"Unknown or Not Stated"	"99"	13360
 	"Florida"	"12"	"2016"	"2016"	"Not Reported"	"98"	0
 	"Florida"	"12"	"2017"	"2017"	"No prenatal care"	"00"	4897
@@ -633,6 +646,7 @@
 	"Florida"	"12"	"2017"	"2017"	"7th month"	"07"	5563
 	"Florida"	"12"	"2017"	"2017"	"8th month"	"08"	4123
 	"Florida"	"12"	"2017"	"2017"	"9th month"	"09"	1295
+	"Florida"	"12"	"2017"	"2017"	"10th month"	"10"	Suppressed
 	"Florida"	"12"	"2017"	"2017"	"Unknown or Not Stated"	"99"	13603
 	"Florida"	"12"	"2017"	"2017"	"Not Reported"	"98"	0
 	"Florida"	"12"	"2018"	"2018"	"No prenatal care"	"00"	4499
@@ -658,6 +672,7 @@
 	"Florida"	"12"	"2019"	"2019"	"7th month"	"07"	5974
 	"Florida"	"12"	"2019"	"2019"	"8th month"	"08"	4905
 	"Florida"	"12"	"2019"	"2019"	"9th month"	"09"	1522
+	"Florida"	"12"	"2019"	"2019"	"10th month"	"10"	Suppressed
 	"Florida"	"12"	"2019"	"2019"	"Unknown or Not Stated"	"99"	12425
 	"Florida"	"12"	"2019"	"2019"	"Not Reported"	"98"	0
 	"Florida"	"12"	"2020"	"2020"	"No prenatal care"	"00"	4758
@@ -670,6 +685,7 @@
 	"Florida"	"12"	"2020"	"2020"	"7th month"	"07"	5609
 	"Florida"	"12"	"2020"	"2020"	"8th month"	"08"	4291
 	"Florida"	"12"	"2020"	"2020"	"9th month"	"09"	1278
+	"Florida"	"12"	"2020"	"2020"	"10th month"	"10"	Suppressed
 	"Florida"	"12"	"2020"	"2020"	"Unknown or Not Stated"	"99"	6822
 	"Florida"	"12"	"2020"	"2020"	"Not Reported"	"98"	0
 	"Florida"	"12"	"2021"	"2021"	"No prenatal care"	"00"	5818
@@ -773,6 +789,7 @@
 	"Georgia"	"13"	"2014"	"2014"	"7th month"	"07"	2654
 	"Georgia"	"13"	"2014"	"2014"	"8th month"	"08"	1784
 	"Georgia"	"13"	"2014"	"2014"	"9th month"	"09"	675
+	"Georgia"	"13"	"2014"	"2014"	"10th month"	"10"	Suppressed
 	"Georgia"	"13"	"2014"	"2014"	"Unknown or Not Stated"	"99"	23197
 	"Georgia"	"13"	"2014"	"2014"	"Not Reported"	"98"	0
 	"Georgia"	"13"	"2015"	"2015"	"No prenatal care"	"00"	3662
@@ -785,6 +802,7 @@
 	"Georgia"	"13"	"2015"	"2015"	"7th month"	"07"	2824
 	"Georgia"	"13"	"2015"	"2015"	"8th month"	"08"	1952
 	"Georgia"	"13"	"2015"	"2015"	"9th month"	"09"	685
+	"Georgia"	"13"	"2015"	"2015"	"10th month"	"10"	Suppressed
 	"Georgia"	"13"	"2015"	"2015"	"Unknown or Not Stated"	"99"	18540
 	"Georgia"	"13"	"2015"	"2015"	"Not Reported"	"98"	0
 	"Georgia"	"13"	"2016"	"2016"	"No prenatal care"	"00"	4261
@@ -797,6 +815,7 @@
 	"Georgia"	"13"	"2016"	"2016"	"7th month"	"07"	3028
 	"Georgia"	"13"	"2016"	"2016"	"8th month"	"08"	2103
 	"Georgia"	"13"	"2016"	"2016"	"9th month"	"09"	776
+	"Georgia"	"13"	"2016"	"2016"	"10th month"	"10"	Suppressed
 	"Georgia"	"13"	"2016"	"2016"	"Unknown or Not Stated"	"99"	6394
 	"Georgia"	"13"	"2016"	"2016"	"Not Reported"	"98"	0
 	"Georgia"	"13"	"2017"	"2017"	"No prenatal care"	"00"	4900
@@ -822,6 +841,7 @@
 	"Georgia"	"13"	"2018"	"2018"	"7th month"	"07"	2832
 	"Georgia"	"13"	"2018"	"2018"	"8th month"	"08"	2019
 	"Georgia"	"13"	"2018"	"2018"	"9th month"	"09"	789
+	"Georgia"	"13"	"2018"	"2018"	"10th month"	"10"	Suppressed
 	"Georgia"	"13"	"2018"	"2018"	"Unknown or Not Stated"	"99"	2851
 	"Georgia"	"13"	"2018"	"2018"	"Not Reported"	"98"	0
 	"Georgia"	"13"	"2019"	"2019"	"No prenatal care"	"00"	5282
@@ -886,6 +906,7 @@
 	"Georgia"	"13"	"2023"	"2023"	"7th month"	"07"	2472
 	"Georgia"	"13"	"2023"	"2023"	"8th month"	"08"	1755
 	"Georgia"	"13"	"2023"	"2023"	"9th month"	"09"	768
+	"Georgia"	"13"	"2023"	"2023"	"10th month"	"10"	Suppressed
 	"Georgia"	"13"	"2023"	"2023"	"Unknown or Not Stated"	"99"	1263
 	"Georgia"	"13"	"2023"	"2023"	"Not Reported"	"98"	0
 	"Illinois"	"17"	"2010"	"2010"	"No prenatal care"	"00"	2822
@@ -950,6 +971,7 @@
 	"Illinois"	"17"	"2014"	"2014"	"7th month"	"07"	2893
 	"Illinois"	"17"	"2014"	"2014"	"8th month"	"08"	1892
 	"Illinois"	"17"	"2014"	"2014"	"9th month"	"09"	621
+	"Illinois"	"17"	"2014"	"2014"	"10th month"	"10"	Suppressed
 	"Illinois"	"17"	"2014"	"2014"	"Unknown or Not Stated"	"99"	4315
 	"Illinois"	"17"	"2014"	"2014"	"Not Reported"	"98"	0
 	"Illinois"	"17"	"2015"	"2015"	"No prenatal care"	"00"	1956
@@ -962,6 +984,7 @@
 	"Illinois"	"17"	"2015"	"2015"	"7th month"	"07"	3215
 	"Illinois"	"17"	"2015"	"2015"	"8th month"	"08"	2167
 	"Illinois"	"17"	"2015"	"2015"	"9th month"	"09"	738
+	"Illinois"	"17"	"2015"	"2015"	"10th month"	"10"	Suppressed
 	"Illinois"	"17"	"2015"	"2015"	"Unknown or Not Stated"	"99"	6173
 	"Illinois"	"17"	"2015"	"2015"	"Not Reported"	"98"	0
 	"Illinois"	"17"	"2016"	"2016"	"No prenatal care"	"00"	2052
@@ -974,6 +997,7 @@
 	"Illinois"	"17"	"2016"	"2016"	"7th month"	"07"	3447
 	"Illinois"	"17"	"2016"	"2016"	"8th month"	"08"	2314
 	"Illinois"	"17"	"2016"	"2016"	"9th month"	"09"	766
+	"Illinois"	"17"	"2016"	"2016"	"10th month"	"10"	Suppressed
 	"Illinois"	"17"	"2016"	"2016"	"Unknown or Not Stated"	"99"	5966
 	"Illinois"	"17"	"2016"	"2016"	"Not Reported"	"98"	0
 	"Illinois"	"17"	"2017"	"2017"	"No prenatal care"	"00"	2069
@@ -999,6 +1023,7 @@
 	"Illinois"	"17"	"2018"	"2018"	"7th month"	"07"	3282
 	"Illinois"	"17"	"2018"	"2018"	"8th month"	"08"	2264
 	"Illinois"	"17"	"2018"	"2018"	"9th month"	"09"	755
+	"Illinois"	"17"	"2018"	"2018"	"10th month"	"10"	Suppressed
 	"Illinois"	"17"	"2018"	"2018"	"Unknown or Not Stated"	"99"	6303
 	"Illinois"	"17"	"2018"	"2018"	"Not Reported"	"98"	0
 	"Illinois"	"17"	"2019"	"2019"	"No prenatal care"	"00"	1783
@@ -1011,6 +1036,7 @@
 	"Illinois"	"17"	"2019"	"2019"	"7th month"	"07"	3018
 	"Illinois"	"17"	"2019"	"2019"	"8th month"	"08"	2137
 	"Illinois"	"17"	"2019"	"2019"	"9th month"	"09"	708
+	"Illinois"	"17"	"2019"	"2019"	"10th month"	"10"	Suppressed
 	"Illinois"	"17"	"2019"	"2019"	"Unknown or Not Stated"	"99"	4054
 	"Illinois"	"17"	"2019"	"2019"	"Not Reported"	"98"	0
 	"Illinois"	"17"	"2020"	"2020"	"No prenatal care"	"00"	1813
@@ -1023,6 +1049,7 @@
 	"Illinois"	"17"	"2020"	"2020"	"7th month"	"07"	2685
 	"Illinois"	"17"	"2020"	"2020"	"8th month"	"08"	1733
 	"Illinois"	"17"	"2020"	"2020"	"9th month"	"09"	576
+	"Illinois"	"17"	"2020"	"2020"	"10th month"	"10"	Suppressed
 	"Illinois"	"17"	"2020"	"2020"	"Unknown or Not Stated"	"99"	3484
 	"Illinois"	"17"	"2020"	"2020"	"Not Reported"	"98"	0
 	"Illinois"	"17"	"2021"	"2021"	"No prenatal care"	"00"	1807
@@ -1035,6 +1062,7 @@
 	"Illinois"	"17"	"2021"	"2021"	"7th month"	"07"	2421
 	"Illinois"	"17"	"2021"	"2021"	"8th month"	"08"	1696
 	"Illinois"	"17"	"2021"	"2021"	"9th month"	"09"	589
+	"Illinois"	"17"	"2021"	"2021"	"10th month"	"10"	Suppressed
 	"Illinois"	"17"	"2021"	"2021"	"Unknown or Not Stated"	"99"	3007
 	"Illinois"	"17"	"2021"	"2021"	"Not Reported"	"98"	0
 	"Illinois"	"17"	"2022"	"2022"	"No prenatal care"	"00"	1914
@@ -1047,6 +1075,7 @@
 	"Illinois"	"17"	"2022"	"2022"	"7th month"	"07"	2601
 	"Illinois"	"17"	"2022"	"2022"	"8th month"	"08"	1891
 	"Illinois"	"17"	"2022"	"2022"	"9th month"	"09"	644
+	"Illinois"	"17"	"2022"	"2022"	"10th month"	"10"	Suppressed
 	"Illinois"	"17"	"2022"	"2022"	"Unknown or Not Stated"	"99"	2008
 	"Illinois"	"17"	"2022"	"2022"	"Not Reported"	"98"	0
 	"Illinois"	"17"	"2023"	"2023"	"No prenatal care"	"00"	1915
@@ -1059,6 +1088,7 @@
 	"Illinois"	"17"	"2023"	"2023"	"7th month"	"07"	2746
 	"Illinois"	"17"	"2023"	"2023"	"8th month"	"08"	1991
 	"Illinois"	"17"	"2023"	"2023"	"9th month"	"09"	654
+	"Illinois"	"17"	"2023"	"2023"	"10th month"	"10"	Suppressed
 	"Illinois"	"17"	"2023"	"2023"	"Unknown or Not Stated"	"99"	1871
 	"Illinois"	"17"	"2023"	"2023"	"Not Reported"	"98"	0
 	"Indiana"	"18"	"2010"	"2010"	"No prenatal care"	"00"	1081
@@ -1123,6 +1153,7 @@
 	"Indiana"	"18"	"2014"	"2014"	"7th month"	"07"	2207
 	"Indiana"	"18"	"2014"	"2014"	"8th month"	"08"	1364
 	"Indiana"	"18"	"2014"	"2014"	"9th month"	"09"	488
+	"Indiana"	"18"	"2014"	"2014"	"10th month"	"10"	Suppressed
 	"Indiana"	"18"	"2014"	"2014"	"Unknown or Not Stated"	"99"	216
 	"Indiana"	"18"	"2014"	"2014"	"Not Reported"	"98"	0
 	"Indiana"	"18"	"2015"	"2015"	"No prenatal care"	"00"	1079
@@ -1135,6 +1166,7 @@
 	"Indiana"	"18"	"2015"	"2015"	"7th month"	"07"	1937
 	"Indiana"	"18"	"2015"	"2015"	"8th month"	"08"	1337
 	"Indiana"	"18"	"2015"	"2015"	"9th month"	"09"	460
+	"Indiana"	"18"	"2015"	"2015"	"10th month"	"10"	Suppressed
 	"Indiana"	"18"	"2015"	"2015"	"Unknown or Not Stated"	"99"	188
 	"Indiana"	"18"	"2015"	"2015"	"Not Reported"	"98"	0
 	"Indiana"	"18"	"2016"	"2016"	"No prenatal care"	"00"	1128
@@ -1160,6 +1192,7 @@
 	"Indiana"	"18"	"2017"	"2017"	"7th month"	"07"	2001
 	"Indiana"	"18"	"2017"	"2017"	"8th month"	"08"	1387
 	"Indiana"	"18"	"2017"	"2017"	"9th month"	"09"	511
+	"Indiana"	"18"	"2017"	"2017"	"10th month"	"10"	Suppressed
 	"Indiana"	"18"	"2017"	"2017"	"Unknown or Not Stated"	"99"	206
 	"Indiana"	"18"	"2017"	"2017"	"Not Reported"	"98"	0
 	"Indiana"	"18"	"2018"	"2018"	"No prenatal care"	"00"	1228
@@ -1172,6 +1205,7 @@
 	"Indiana"	"18"	"2018"	"2018"	"7th month"	"07"	2091
 	"Indiana"	"18"	"2018"	"2018"	"8th month"	"08"	1354
 	"Indiana"	"18"	"2018"	"2018"	"9th month"	"09"	566
+	"Indiana"	"18"	"2018"	"2018"	"10th month"	"10"	Suppressed
 	"Indiana"	"18"	"2018"	"2018"	"Unknown or Not Stated"	"99"	213
 	"Indiana"	"18"	"2018"	"2018"	"Not Reported"	"98"	0
 	"Indiana"	"18"	"2019"	"2019"	"No prenatal care"	"00"	1259
@@ -1184,6 +1218,7 @@
 	"Indiana"	"18"	"2019"	"2019"	"7th month"	"07"	1939
 	"Indiana"	"18"	"2019"	"2019"	"8th month"	"08"	1348
 	"Indiana"	"18"	"2019"	"2019"	"9th month"	"09"	552
+	"Indiana"	"18"	"2019"	"2019"	"10th month"	"10"	Suppressed
 	"Indiana"	"18"	"2019"	"2019"	"Unknown or Not Stated"	"99"	177
 	"Indiana"	"18"	"2019"	"2019"	"Not Reported"	"98"	0
 	"Indiana"	"18"	"2020"	"2020"	"No prenatal care"	"00"	1148
@@ -1196,6 +1231,7 @@
 	"Indiana"	"18"	"2020"	"2020"	"7th month"	"07"	1768
 	"Indiana"	"18"	"2020"	"2020"	"8th month"	"08"	1296
 	"Indiana"	"18"	"2020"	"2020"	"9th month"	"09"	432
+	"Indiana"	"18"	"2020"	"2020"	"10th month"	"10"	Suppressed
 	"Indiana"	"18"	"2020"	"2020"	"Unknown or Not Stated"	"99"	113
 	"Indiana"	"18"	"2020"	"2020"	"Not Reported"	"98"	0
 	"Indiana"	"18"	"2021"	"2021"	"No prenatal care"	"00"	1423
@@ -1208,6 +1244,7 @@
 	"Indiana"	"18"	"2021"	"2021"	"7th month"	"07"	1756
 	"Indiana"	"18"	"2021"	"2021"	"8th month"	"08"	1271
 	"Indiana"	"18"	"2021"	"2021"	"9th month"	"09"	406
+	"Indiana"	"18"	"2021"	"2021"	"10th month"	"10"	Suppressed
 	"Indiana"	"18"	"2021"	"2021"	"Unknown or Not Stated"	"99"	150
 	"Indiana"	"18"	"2021"	"2021"	"Not Reported"	"98"	0
 	"Indiana"	"18"	"2022"	"2022"	"No prenatal care"	"00"	1561
@@ -1220,6 +1257,7 @@
 	"Indiana"	"18"	"2022"	"2022"	"7th month"	"07"	1834
 	"Indiana"	"18"	"2022"	"2022"	"8th month"	"08"	1327
 	"Indiana"	"18"	"2022"	"2022"	"9th month"	"09"	513
+	"Indiana"	"18"	"2022"	"2022"	"10th month"	"10"	Suppressed
 	"Indiana"	"18"	"2022"	"2022"	"Unknown or Not Stated"	"99"	141
 	"Indiana"	"18"	"2022"	"2022"	"Not Reported"	"98"	0
 	"Indiana"	"18"	"2023"	"2023"	"No prenatal care"	"00"	1660
@@ -1232,6 +1270,7 @@
 	"Indiana"	"18"	"2023"	"2023"	"7th month"	"07"	1848
 	"Indiana"	"18"	"2023"	"2023"	"8th month"	"08"	1263
 	"Indiana"	"18"	"2023"	"2023"	"9th month"	"09"	503
+	"Indiana"	"18"	"2023"	"2023"	"10th month"	"10"	Suppressed
 	"Indiana"	"18"	"2023"	"2023"	"Unknown or Not Stated"	"99"	114
 	"Indiana"	"18"	"2023"	"2023"	"Not Reported"	"98"	0
 	"Maryland"	"24"	"2010"	"2010"	"No prenatal care"	"00"	1261
@@ -1322,6 +1361,7 @@
 	"Maryland"	"24"	"2016"	"2016"	"7th month"	"07"	2020
 	"Maryland"	"24"	"2016"	"2016"	"8th month"	"08"	1581
 	"Maryland"	"24"	"2016"	"2016"	"9th month"	"09"	713
+	"Maryland"	"24"	"2016"	"2016"	"10th month"	"10"	Suppressed
 	"Maryland"	"24"	"2016"	"2016"	"Unknown or Not Stated"	"99"	5009
 	"Maryland"	"24"	"2016"	"2016"	"Not Reported"	"98"	0
 	"Maryland"	"24"	"2017"	"2017"	"No prenatal care"	"00"	830
@@ -1373,6 +1413,7 @@
 	"Maryland"	"24"	"2020"	"2020"	"7th month"	"07"	1549
 	"Maryland"	"24"	"2020"	"2020"	"8th month"	"08"	1055
 	"Maryland"	"24"	"2020"	"2020"	"9th month"	"09"	394
+	"Maryland"	"24"	"2020"	"2020"	"10th month"	"10"	Suppressed
 	"Maryland"	"24"	"2020"	"2020"	"Unknown or Not Stated"	"99"	2564
 	"Maryland"	"24"	"2020"	"2020"	"Not Reported"	"98"	0
 	"Maryland"	"24"	"2021"	"2021"	"No prenatal care"	"00"	974
@@ -1385,6 +1426,7 @@
 	"Maryland"	"24"	"2021"	"2021"	"7th month"	"07"	1448
 	"Maryland"	"24"	"2021"	"2021"	"8th month"	"08"	1046
 	"Maryland"	"24"	"2021"	"2021"	"9th month"	"09"	470
+	"Maryland"	"24"	"2021"	"2021"	"10th month"	"10"	Suppressed
 	"Maryland"	"24"	"2021"	"2021"	"Unknown or Not Stated"	"99"	2475
 	"Maryland"	"24"	"2021"	"2021"	"Not Reported"	"98"	0
 	"Maryland"	"24"	"2022"	"2022"	"No prenatal care"	"00"	1365
@@ -1410,6 +1452,7 @@
 	"Maryland"	"24"	"2023"	"2023"	"7th month"	"07"	1500
 	"Maryland"	"24"	"2023"	"2023"	"8th month"	"08"	1070
 	"Maryland"	"24"	"2023"	"2023"	"9th month"	"09"	463
+	"Maryland"	"24"	"2023"	"2023"	"10th month"	"10"	Suppressed
 	"Maryland"	"24"	"2023"	"2023"	"Unknown or Not Stated"	"99"	3270
 	"Maryland"	"24"	"2023"	"2023"	"Not Reported"	"98"	0
 	"Michigan"	"26"	"2010"	"2010"	"No prenatal care"	"00"	1358
@@ -1474,6 +1517,7 @@
 	"Michigan"	"26"	"2014"	"2014"	"7th month"	"07"	2111
 	"Michigan"	"26"	"2014"	"2014"	"8th month"	"08"	1313
 	"Michigan"	"26"	"2014"	"2014"	"9th month"	"09"	482
+	"Michigan"	"26"	"2014"	"2014"	"10th month"	"10"	Suppressed
 	"Michigan"	"26"	"2014"	"2014"	"Unknown or Not Stated"	"99"	2424
 	"Michigan"	"26"	"2014"	"2014"	"Not Reported"	"98"	0
 	"Michigan"	"26"	"2015"	"2015"	"No prenatal care"	"00"	1521
@@ -1499,6 +1543,7 @@
 	"Michigan"	"26"	"2016"	"2016"	"7th month"	"07"	1949
 	"Michigan"	"26"	"2016"	"2016"	"8th month"	"08"	1223
 	"Michigan"	"26"	"2016"	"2016"	"9th month"	"09"	416
+	"Michigan"	"26"	"2016"	"2016"	"10th month"	"10"	Suppressed
 	"Michigan"	"26"	"2016"	"2016"	"Unknown or Not Stated"	"99"	3190
 	"Michigan"	"26"	"2016"	"2016"	"Not Reported"	"98"	0
 	"Michigan"	"26"	"2017"	"2017"	"No prenatal care"	"00"	1775
@@ -1537,6 +1582,7 @@
 	"Michigan"	"26"	"2019"	"2019"	"7th month"	"07"	2005
 	"Michigan"	"26"	"2019"	"2019"	"8th month"	"08"	1539
 	"Michigan"	"26"	"2019"	"2019"	"9th month"	"09"	513
+	"Michigan"	"26"	"2019"	"2019"	"10th month"	"10"	Suppressed
 	"Michigan"	"26"	"2019"	"2019"	"Unknown or Not Stated"	"99"	2582
 	"Michigan"	"26"	"2019"	"2019"	"Not Reported"	"98"	0
 	"Michigan"	"26"	"2020"	"2020"	"No prenatal care"	"00"	1679
@@ -1549,6 +1595,7 @@
 	"Michigan"	"26"	"2020"	"2020"	"7th month"	"07"	1894
 	"Michigan"	"26"	"2020"	"2020"	"8th month"	"08"	1397
 	"Michigan"	"26"	"2020"	"2020"	"9th month"	"09"	484
+	"Michigan"	"26"	"2020"	"2020"	"10th month"	"10"	Suppressed
 	"Michigan"	"26"	"2020"	"2020"	"Unknown or Not Stated"	"99"	1397
 	"Michigan"	"26"	"2020"	"2020"	"Not Reported"	"98"	0
 	"Michigan"	"26"	"2021"	"2021"	"No prenatal care"	"00"	1958
@@ -1561,6 +1608,7 @@
 	"Michigan"	"26"	"2021"	"2021"	"7th month"	"07"	1897
 	"Michigan"	"26"	"2021"	"2021"	"8th month"	"08"	1309
 	"Michigan"	"26"	"2021"	"2021"	"9th month"	"09"	464
+	"Michigan"	"26"	"2021"	"2021"	"10th month"	"10"	Suppressed
 	"Michigan"	"26"	"2021"	"2021"	"Unknown or Not Stated"	"99"	1317
 	"Michigan"	"26"	"2021"	"2021"	"Not Reported"	"98"	0
 	"Michigan"	"26"	"2022"	"2022"	"No prenatal care"	"00"	2135
@@ -1573,6 +1621,7 @@
 	"Michigan"	"26"	"2022"	"2022"	"7th month"	"07"	1993
 	"Michigan"	"26"	"2022"	"2022"	"8th month"	"08"	1379
 	"Michigan"	"26"	"2022"	"2022"	"9th month"	"09"	527
+	"Michigan"	"26"	"2022"	"2022"	"10th month"	"10"	Suppressed
 	"Michigan"	"26"	"2022"	"2022"	"Unknown or Not Stated"	"99"	1376
 	"Michigan"	"26"	"2022"	"2022"	"Not Reported"	"98"	0
 	"Michigan"	"26"	"2023"	"2023"	"No prenatal care"	"00"	2791
@@ -1585,6 +1634,7 @@
 	"Michigan"	"26"	"2023"	"2023"	"7th month"	"07"	1829
 	"Michigan"	"26"	"2023"	"2023"	"8th month"	"08"	1328
 	"Michigan"	"26"	"2023"	"2023"	"9th month"	"09"	452
+	"Michigan"	"26"	"2023"	"2023"	"10th month"	"10"	Suppressed
 	"Michigan"	"26"	"2023"	"2023"	"Unknown or Not Stated"	"99"	2345
 	"Michigan"	"26"	"2023"	"2023"	"Not Reported"	"98"	0
 	"Missouri"	"29"	"2010"	"2010"	"No prenatal care"	"00"	736
@@ -1688,6 +1738,7 @@
 	"Missouri"	"29"	"2017"	"2017"	"7th month"	"07"	1550
 	"Missouri"	"29"	"2017"	"2017"	"8th month"	"08"	1004
 	"Missouri"	"29"	"2017"	"2017"	"9th month"	"09"	367
+	"Missouri"	"29"	"2017"	"2017"	"10th month"	"10"	Suppressed
 	"Missouri"	"29"	"2017"	"2017"	"Unknown or Not Stated"	"99"	4355
 	"Missouri"	"29"	"2017"	"2017"	"Not Reported"	"98"	0
 	"Missouri"	"29"	"2018"	"2018"	"No prenatal care"	"00"	1210
@@ -1700,6 +1751,7 @@
 	"Missouri"	"29"	"2018"	"2018"	"7th month"	"07"	1620
 	"Missouri"	"29"	"2018"	"2018"	"8th month"	"08"	1166
 	"Missouri"	"29"	"2018"	"2018"	"9th month"	"09"	457
+	"Missouri"	"29"	"2018"	"2018"	"10th month"	"10"	Suppressed
 	"Missouri"	"29"	"2018"	"2018"	"Unknown or Not Stated"	"99"	3823
 	"Missouri"	"29"	"2018"	"2018"	"Not Reported"	"98"	0
 	"Missouri"	"29"	"2019"	"2019"	"No prenatal care"	"00"	1657
@@ -1738,6 +1790,7 @@
 	"Missouri"	"29"	"2021"	"2021"	"7th month"	"07"	1276
 	"Missouri"	"29"	"2021"	"2021"	"8th month"	"08"	1010
 	"Missouri"	"29"	"2021"	"2021"	"9th month"	"09"	435
+	"Missouri"	"29"	"2021"	"2021"	"10th month"	"10"	Suppressed
 	"Missouri"	"29"	"2021"	"2021"	"Unknown or Not Stated"	"99"	2025
 	"Missouri"	"29"	"2021"	"2021"	"Not Reported"	"98"	0
 	"Missouri"	"29"	"2022"	"2022"	"No prenatal care"	"00"	1522
@@ -1750,6 +1803,7 @@
 	"Missouri"	"29"	"2022"	"2022"	"7th month"	"07"	1452
 	"Missouri"	"29"	"2022"	"2022"	"8th month"	"08"	1055
 	"Missouri"	"29"	"2022"	"2022"	"9th month"	"09"	523
+	"Missouri"	"29"	"2022"	"2022"	"10th month"	"10"	Suppressed
 	"Missouri"	"29"	"2022"	"2022"	"Unknown or Not Stated"	"99"	1389
 	"Missouri"	"29"	"2022"	"2022"	"Not Reported"	"98"	0
 	"Missouri"	"29"	"2023"	"2023"	"No prenatal care"	"00"	1648
@@ -1853,6 +1907,7 @@
 	"New Jersey"	"34"	"2016"	"2016"	"7th month"	"07"	2203
 	"New Jersey"	"34"	"2016"	"2016"	"8th month"	"08"	1506
 	"New Jersey"	"34"	"2016"	"2016"	"9th month"	"09"	475
+	"New Jersey"	"34"	"2016"	"2016"	"10th month"	"10"	Suppressed
 	"New Jersey"	"34"	"2016"	"2016"	"Unknown or Not Stated"	"99"	1919
 	"New Jersey"	"34"	"2016"	"2016"	"Not Reported"	"98"	0
 	"New Jersey"	"34"	"2017"	"2017"	"No prenatal care"	"00"	1616
@@ -1865,6 +1920,7 @@
 	"New Jersey"	"34"	"2017"	"2017"	"7th month"	"07"	2156
 	"New Jersey"	"34"	"2017"	"2017"	"8th month"	"08"	1489
 	"New Jersey"	"34"	"2017"	"2017"	"9th month"	"09"	534
+	"New Jersey"	"34"	"2017"	"2017"	"10th month"	"10"	Suppressed
 	"New Jersey"	"34"	"2017"	"2017"	"Unknown or Not Stated"	"99"	1514
 	"New Jersey"	"34"	"2017"	"2017"	"Not Reported"	"98"	0
 	"New Jersey"	"34"	"2018"	"2018"	"No prenatal care"	"00"	1682
@@ -1877,6 +1933,7 @@
 	"New Jersey"	"34"	"2018"	"2018"	"7th month"	"07"	2221
 	"New Jersey"	"34"	"2018"	"2018"	"8th month"	"08"	1538
 	"New Jersey"	"34"	"2018"	"2018"	"9th month"	"09"	542
+	"New Jersey"	"34"	"2018"	"2018"	"10th month"	"10"	Suppressed
 	"New Jersey"	"34"	"2018"	"2018"	"Unknown or Not Stated"	"99"	1641
 	"New Jersey"	"34"	"2018"	"2018"	"Not Reported"	"98"	0
 	"New Jersey"	"34"	"2019"	"2019"	"No prenatal care"	"00"	2023
@@ -1889,6 +1946,7 @@
 	"New Jersey"	"34"	"2019"	"2019"	"7th month"	"07"	2215
 	"New Jersey"	"34"	"2019"	"2019"	"8th month"	"08"	1547
 	"New Jersey"	"34"	"2019"	"2019"	"9th month"	"09"	565
+	"New Jersey"	"34"	"2019"	"2019"	"10th month"	"10"	Suppressed
 	"New Jersey"	"34"	"2019"	"2019"	"Unknown or Not Stated"	"99"	1246
 	"New Jersey"	"34"	"2019"	"2019"	"Not Reported"	"98"	0
 	"New Jersey"	"34"	"2020"	"2020"	"No prenatal care"	"00"	1490
@@ -1901,6 +1959,7 @@
 	"New Jersey"	"34"	"2020"	"2020"	"7th month"	"07"	2048
 	"New Jersey"	"34"	"2020"	"2020"	"8th month"	"08"	1417
 	"New Jersey"	"34"	"2020"	"2020"	"9th month"	"09"	538
+	"New Jersey"	"34"	"2020"	"2020"	"10th month"	"10"	Suppressed
 	"New Jersey"	"34"	"2020"	"2020"	"Unknown or Not Stated"	"99"	1203
 	"New Jersey"	"34"	"2020"	"2020"	"Not Reported"	"98"	0
 	"New Jersey"	"34"	"2021"	"2021"	"No prenatal care"	"00"	1880
@@ -1913,6 +1972,7 @@
 	"New Jersey"	"34"	"2021"	"2021"	"7th month"	"07"	1910
 	"New Jersey"	"34"	"2021"	"2021"	"8th month"	"08"	1427
 	"New Jersey"	"34"	"2021"	"2021"	"9th month"	"09"	498
+	"New Jersey"	"34"	"2021"	"2021"	"10th month"	"10"	Suppressed
 	"New Jersey"	"34"	"2021"	"2021"	"Unknown or Not Stated"	"99"	1627
 	"New Jersey"	"34"	"2021"	"2021"	"Not Reported"	"98"	0
 	"New Jersey"	"34"	"2022"	"2022"	"No prenatal care"	"00"	1770
@@ -1925,6 +1985,7 @@
 	"New Jersey"	"34"	"2022"	"2022"	"7th month"	"07"	2328
 	"New Jersey"	"34"	"2022"	"2022"	"8th month"	"08"	1626
 	"New Jersey"	"34"	"2022"	"2022"	"9th month"	"09"	659
+	"New Jersey"	"34"	"2022"	"2022"	"10th month"	"10"	Suppressed
 	"New Jersey"	"34"	"2022"	"2022"	"Unknown or Not Stated"	"99"	881
 	"New Jersey"	"34"	"2022"	"2022"	"Not Reported"	"98"	0
 	"New Jersey"	"34"	"2023"	"2023"	"No prenatal care"	"00"	1890
@@ -1937,6 +1998,7 @@
 	"New Jersey"	"34"	"2023"	"2023"	"7th month"	"07"	2261
 	"New Jersey"	"34"	"2023"	"2023"	"8th month"	"08"	1620
 	"New Jersey"	"34"	"2023"	"2023"	"9th month"	"09"	618
+	"New Jersey"	"34"	"2023"	"2023"	"10th month"	"10"	Suppressed
 	"New Jersey"	"34"	"2023"	"2023"	"Unknown or Not Stated"	"99"	812
 	"New Jersey"	"34"	"2023"	"2023"	"Not Reported"	"98"	0
 	"New York"	"36"	"2010"	"2010"	"No prenatal care"	"00"	1666
@@ -2209,6 +2271,7 @@
 	"North Carolina"	"37"	"2016"	"2016"	"7th month"	"07"	2700
 	"North Carolina"	"37"	"2016"	"2016"	"8th month"	"08"	1857
 	"North Carolina"	"37"	"2016"	"2016"	"9th month"	"09"	723
+	"North Carolina"	"37"	"2016"	"2016"	"10th month"	"10"	Suppressed
 	"North Carolina"	"37"	"2016"	"2016"	"Unknown or Not Stated"	"99"	691
 	"North Carolina"	"37"	"2016"	"2016"	"Not Reported"	"98"	0
 	"North Carolina"	"37"	"2017"	"2017"	"No prenatal care"	"00"	2159
@@ -2286,6 +2349,7 @@
 	"North Carolina"	"37"	"2022"	"2022"	"7th month"	"07"	2936
 	"North Carolina"	"37"	"2022"	"2022"	"8th month"	"08"	2164
 	"North Carolina"	"37"	"2022"	"2022"	"9th month"	"09"	879
+	"North Carolina"	"37"	"2022"	"2022"	"10th month"	"10"	Suppressed
 	"North Carolina"	"37"	"2022"	"2022"	"Unknown or Not Stated"	"99"	778
 	"North Carolina"	"37"	"2022"	"2022"	"Not Reported"	"98"	0
 	"North Carolina"	"37"	"2023"	"2023"	"No prenatal care"	"00"	4954
@@ -2545,6 +2609,7 @@
 	"Oklahoma"	"40"	"2014"	"2014"	"7th month"	"07"	1505
 	"Oklahoma"	"40"	"2014"	"2014"	"8th month"	"08"	1046
 	"Oklahoma"	"40"	"2014"	"2014"	"9th month"	"09"	350
+	"Oklahoma"	"40"	"2014"	"2014"	"10th month"	"10"	Suppressed
 	"Oklahoma"	"40"	"2014"	"2014"	"Unknown or Not Stated"	"99"	1987
 	"Oklahoma"	"40"	"2014"	"2014"	"Not Reported"	"98"	0
 	"Oklahoma"	"40"	"2015"	"2015"	"No prenatal care"	"00"	816
@@ -2557,6 +2622,7 @@
 	"Oklahoma"	"40"	"2015"	"2015"	"7th month"	"07"	1353
 	"Oklahoma"	"40"	"2015"	"2015"	"8th month"	"08"	979
 	"Oklahoma"	"40"	"2015"	"2015"	"9th month"	"09"	353
+	"Oklahoma"	"40"	"2015"	"2015"	"10th month"	"10"	Suppressed
 	"Oklahoma"	"40"	"2015"	"2015"	"Unknown or Not Stated"	"99"	1193
 	"Oklahoma"	"40"	"2015"	"2015"	"Not Reported"	"98"	0
 	"Oklahoma"	"40"	"2016"	"2016"	"No prenatal care"	"00"	946
@@ -2569,6 +2635,7 @@
 	"Oklahoma"	"40"	"2016"	"2016"	"7th month"	"07"	1362
 	"Oklahoma"	"40"	"2016"	"2016"	"8th month"	"08"	1066
 	"Oklahoma"	"40"	"2016"	"2016"	"9th month"	"09"	400
+	"Oklahoma"	"40"	"2016"	"2016"	"10th month"	"10"	Suppressed
 	"Oklahoma"	"40"	"2016"	"2016"	"Unknown or Not Stated"	"99"	1187
 	"Oklahoma"	"40"	"2016"	"2016"	"Not Reported"	"98"	0
 	"Oklahoma"	"40"	"2017"	"2017"	"No prenatal care"	"00"	929
@@ -2581,6 +2648,7 @@
 	"Oklahoma"	"40"	"2017"	"2017"	"7th month"	"07"	1273
 	"Oklahoma"	"40"	"2017"	"2017"	"8th month"	"08"	921
 	"Oklahoma"	"40"	"2017"	"2017"	"9th month"	"09"	314
+	"Oklahoma"	"40"	"2017"	"2017"	"10th month"	"10"	Suppressed
 	"Oklahoma"	"40"	"2017"	"2017"	"Unknown or Not Stated"	"99"	1168
 	"Oklahoma"	"40"	"2017"	"2017"	"Not Reported"	"98"	0
 	"Oklahoma"	"40"	"2018"	"2018"	"No prenatal care"	"00"	821
@@ -2593,6 +2661,7 @@
 	"Oklahoma"	"40"	"2018"	"2018"	"7th month"	"07"	1282
 	"Oklahoma"	"40"	"2018"	"2018"	"8th month"	"08"	883
 	"Oklahoma"	"40"	"2018"	"2018"	"9th month"	"09"	345
+	"Oklahoma"	"40"	"2018"	"2018"	"10th month"	"10"	Suppressed
 	"Oklahoma"	"40"	"2018"	"2018"	"Unknown or Not Stated"	"99"	1077
 	"Oklahoma"	"40"	"2018"	"2018"	"Not Reported"	"98"	0
 	"Oklahoma"	"40"	"2019"	"2019"	"No prenatal care"	"00"	940
@@ -2605,6 +2674,7 @@
 	"Oklahoma"	"40"	"2019"	"2019"	"7th month"	"07"	1173
 	"Oklahoma"	"40"	"2019"	"2019"	"8th month"	"08"	772
 	"Oklahoma"	"40"	"2019"	"2019"	"9th month"	"09"	293
+	"Oklahoma"	"40"	"2019"	"2019"	"10th month"	"10"	Suppressed
 	"Oklahoma"	"40"	"2019"	"2019"	"Unknown or Not Stated"	"99"	530
 	"Oklahoma"	"40"	"2019"	"2019"	"Not Reported"	"98"	0
 	"Oklahoma"	"40"	"2020"	"2020"	"No prenatal care"	"00"	893
@@ -2617,6 +2687,7 @@
 	"Oklahoma"	"40"	"2020"	"2020"	"7th month"	"07"	1125
 	"Oklahoma"	"40"	"2020"	"2020"	"8th month"	"08"	856
 	"Oklahoma"	"40"	"2020"	"2020"	"9th month"	"09"	301
+	"Oklahoma"	"40"	"2020"	"2020"	"10th month"	"10"	Suppressed
 	"Oklahoma"	"40"	"2020"	"2020"	"Unknown or Not Stated"	"99"	822
 	"Oklahoma"	"40"	"2020"	"2020"	"Not Reported"	"98"	0
 	"Oklahoma"	"40"	"2021"	"2021"	"No prenatal care"	"00"	944
@@ -2629,6 +2700,7 @@
 	"Oklahoma"	"40"	"2021"	"2021"	"7th month"	"07"	1050
 	"Oklahoma"	"40"	"2021"	"2021"	"8th month"	"08"	710
 	"Oklahoma"	"40"	"2021"	"2021"	"9th month"	"09"	238
+	"Oklahoma"	"40"	"2021"	"2021"	"10th month"	"10"	Suppressed
 	"Oklahoma"	"40"	"2021"	"2021"	"Unknown or Not Stated"	"99"	625
 	"Oklahoma"	"40"	"2021"	"2021"	"Not Reported"	"98"	0
 	"Oklahoma"	"40"	"2022"	"2022"	"No prenatal care"	"00"	1094
@@ -2641,6 +2713,7 @@
 	"Oklahoma"	"40"	"2022"	"2022"	"7th month"	"07"	1016
 	"Oklahoma"	"40"	"2022"	"2022"	"8th month"	"08"	755
 	"Oklahoma"	"40"	"2022"	"2022"	"9th month"	"09"	275
+	"Oklahoma"	"40"	"2022"	"2022"	"10th month"	"10"	Suppressed
 	"Oklahoma"	"40"	"2022"	"2022"	"Unknown or Not Stated"	"99"	578
 	"Oklahoma"	"40"	"2022"	"2022"	"Not Reported"	"98"	0
 	"Oklahoma"	"40"	"2023"	"2023"	"No prenatal care"	"00"	866
@@ -2653,6 +2726,7 @@
 	"Oklahoma"	"40"	"2023"	"2023"	"7th month"	"07"	980
 	"Oklahoma"	"40"	"2023"	"2023"	"8th month"	"08"	708
 	"Oklahoma"	"40"	"2023"	"2023"	"9th month"	"09"	257
+	"Oklahoma"	"40"	"2023"	"2023"	"10th month"	"10"	Suppressed
 	"Oklahoma"	"40"	"2023"	"2023"	"Unknown or Not Stated"	"99"	609
 	"Oklahoma"	"40"	"2023"	"2023"	"Not Reported"	"98"	0
 	"Pennsylvania"	"42"	"2010"	"2010"	"No prenatal care"	"00"	2280
@@ -2899,6 +2973,7 @@
 	"South Carolina"	"45"	"2014"	"2014"	"7th month"	"07"	1660
 	"South Carolina"	"45"	"2014"	"2014"	"8th month"	"08"	1153
 	"South Carolina"	"45"	"2014"	"2014"	"9th month"	"09"	379
+	"South Carolina"	"45"	"2014"	"2014"	"10th month"	"10"	Suppressed
 	"South Carolina"	"45"	"2014"	"2014"	"Unknown or Not Stated"	"99"	319
 	"South Carolina"	"45"	"2014"	"2014"	"Not Reported"	"98"	0
 	"South Carolina"	"45"	"2015"	"2015"	"No prenatal care"	"00"	812
@@ -2924,6 +2999,7 @@
 	"South Carolina"	"45"	"2016"	"2016"	"7th month"	"07"	1683
 	"South Carolina"	"45"	"2016"	"2016"	"8th month"	"08"	1144
 	"South Carolina"	"45"	"2016"	"2016"	"9th month"	"09"	411
+	"South Carolina"	"45"	"2016"	"2016"	"10th month"	"10"	Suppressed
 	"South Carolina"	"45"	"2016"	"2016"	"Unknown or Not Stated"	"99"	114
 	"South Carolina"	"45"	"2016"	"2016"	"Not Reported"	"98"	0
 	"South Carolina"	"45"	"2017"	"2017"	"No prenatal care"	"00"	919
@@ -2936,6 +3012,7 @@
 	"South Carolina"	"45"	"2017"	"2017"	"7th month"	"07"	1438
 	"South Carolina"	"45"	"2017"	"2017"	"8th month"	"08"	1046
 	"South Carolina"	"45"	"2017"	"2017"	"9th month"	"09"	360
+	"South Carolina"	"45"	"2017"	"2017"	"10th month"	"10"	Suppressed
 	"South Carolina"	"45"	"2017"	"2017"	"Unknown or Not Stated"	"99"	106
 	"South Carolina"	"45"	"2017"	"2017"	"Not Reported"	"98"	0
 	"South Carolina"	"45"	"2018"	"2018"	"No prenatal care"	"00"	1202
@@ -2948,6 +3025,7 @@
 	"South Carolina"	"45"	"2018"	"2018"	"7th month"	"07"	1424
 	"South Carolina"	"45"	"2018"	"2018"	"8th month"	"08"	1015
 	"South Carolina"	"45"	"2018"	"2018"	"9th month"	"09"	410
+	"South Carolina"	"45"	"2018"	"2018"	"10th month"	"10"	Suppressed
 	"South Carolina"	"45"	"2018"	"2018"	"Unknown or Not Stated"	"99"	111
 	"South Carolina"	"45"	"2018"	"2018"	"Not Reported"	"98"	0
 	"South Carolina"	"45"	"2019"	"2019"	"No prenatal care"	"00"	1032
@@ -2960,6 +3038,7 @@
 	"South Carolina"	"45"	"2019"	"2019"	"7th month"	"07"	1368
 	"South Carolina"	"45"	"2019"	"2019"	"8th month"	"08"	955
 	"South Carolina"	"45"	"2019"	"2019"	"9th month"	"09"	338
+	"South Carolina"	"45"	"2019"	"2019"	"10th month"	"10"	Suppressed
 	"South Carolina"	"45"	"2019"	"2019"	"Unknown or Not Stated"	"99"	170
 	"South Carolina"	"45"	"2019"	"2019"	"Not Reported"	"98"	0
 	"South Carolina"	"45"	"2020"	"2020"	"No prenatal care"	"00"	1142
@@ -2972,6 +3051,7 @@
 	"South Carolina"	"45"	"2020"	"2020"	"7th month"	"07"	1362
 	"South Carolina"	"45"	"2020"	"2020"	"8th month"	"08"	963
 	"South Carolina"	"45"	"2020"	"2020"	"9th month"	"09"	370
+	"South Carolina"	"45"	"2020"	"2020"	"10th month"	"10"	Suppressed
 	"South Carolina"	"45"	"2020"	"2020"	"Unknown or Not Stated"	"99"	132
 	"South Carolina"	"45"	"2020"	"2020"	"Not Reported"	"98"	0
 	"South Carolina"	"45"	"2021"	"2021"	"No prenatal care"	"00"	1910
@@ -2984,6 +3064,7 @@
 	"South Carolina"	"45"	"2021"	"2021"	"7th month"	"07"	1527
 	"South Carolina"	"45"	"2021"	"2021"	"8th month"	"08"	1157
 	"South Carolina"	"45"	"2021"	"2021"	"9th month"	"09"	421
+	"South Carolina"	"45"	"2021"	"2021"	"10th month"	"10"	Suppressed
 	"South Carolina"	"45"	"2021"	"2021"	"Unknown or Not Stated"	"99"	101
 	"South Carolina"	"45"	"2021"	"2021"	"Not Reported"	"98"	0
 	"South Carolina"	"45"	"2022"	"2022"	"No prenatal care"	"00"	1143
@@ -2996,6 +3077,7 @@
 	"South Carolina"	"45"	"2022"	"2022"	"7th month"	"07"	1545
 	"South Carolina"	"45"	"2022"	"2022"	"8th month"	"08"	1195
 	"South Carolina"	"45"	"2022"	"2022"	"9th month"	"09"	457
+	"South Carolina"	"45"	"2022"	"2022"	"10th month"	"10"	Suppressed
 	"South Carolina"	"45"	"2022"	"2022"	"Unknown or Not Stated"	"99"	105
 	"South Carolina"	"45"	"2022"	"2022"	"Not Reported"	"98"	0
 	"South Carolina"	"45"	"2023"	"2023"	"No prenatal care"	"00"	1170
@@ -3008,6 +3090,7 @@
 	"South Carolina"	"45"	"2023"	"2023"	"7th month"	"07"	1358
 	"South Carolina"	"45"	"2023"	"2023"	"8th month"	"08"	1002
 	"South Carolina"	"45"	"2023"	"2023"	"9th month"	"09"	424
+	"South Carolina"	"45"	"2023"	"2023"	"10th month"	"10"	Suppressed
 	"South Carolina"	"45"	"2023"	"2023"	"Unknown or Not Stated"	"99"	167
 	"South Carolina"	"45"	"2023"	"2023"	"Not Reported"	"98"	0
 	"Texas"	"48"	"2010"	"2010"	"No prenatal care"	"00"	15739
@@ -3254,6 +3337,7 @@
 	"Washington"	"53"	"2014"	"2014"	"7th month"	"07"	1999
 	"Washington"	"53"	"2014"	"2014"	"8th month"	"08"	1505
 	"Washington"	"53"	"2014"	"2014"	"9th month"	"09"	551
+	"Washington"	"53"	"2014"	"2014"	"10th month"	"10"	Suppressed
 	"Washington"	"53"	"2014"	"2014"	"Unknown or Not Stated"	"99"	4880
 	"Washington"	"53"	"2014"	"2014"	"Not Reported"	"98"	0
 	"Washington"	"53"	"2015"	"2015"	"No prenatal care"	"00"	831
@@ -3331,6 +3415,7 @@
 	"Washington"	"53"	"2020"	"2020"	"7th month"	"07"	1832
 	"Washington"	"53"	"2020"	"2020"	"8th month"	"08"	1349
 	"Washington"	"53"	"2020"	"2020"	"9th month"	"09"	459
+	"Washington"	"53"	"2020"	"2020"	"10th month"	"10"	Suppressed
 	"Washington"	"53"	"2020"	"2020"	"Unknown or Not Stated"	"99"	7669
 	"Washington"	"53"	"2020"	"2020"	"Not Reported"	"98"	0
 	"Washington"	"53"	"2021"	"2021"	"No prenatal care"	"00"	998
@@ -3382,23 +3467,22 @@
 "Group By: State; Year; Month Prenatal Care Began"
 "Show Totals: Disabled"
 "Show Zero Values: True"
-"Show Suppressed: False"
+"Show Suppressed: True"
 "Calculate Rates Per: 1,000"
 "Population Option: No populations shown because rates were not selected."
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
 "---"
-"Query Date: Mar 25, 2025 1:20:50 AM"
+"Query Date: Mar 26, 2025 3:08:10 AM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
 "the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
-"http://wonder.cdc.gov/natality-current.html on Mar 25, 2025 1:20:50 AM"
+"http://wonder.cdc.gov/natality-current.html on Mar 26, 2025 3:08:10 AM"
 "---"
 Messages:
 "1. Totals are not available for these results due to suppression constraints. More Information:"
 "http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
-"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
 "---"
 Caveats:
 "1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"

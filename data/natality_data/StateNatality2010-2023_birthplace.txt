@@ -4,22 +4,28 @@
 	"Arizona"	"04"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	13
 	"Arizona"	"04"	"2010"	"2010"	"Residence"	"4"	663
 	"Arizona"	"04"	"2010"	"2010"	"Other"	"5"	15
+	"Arizona"	"04"	"2010"	"2010"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2011"	"2011"	"In Hospital"	"1"	84380
 	"Arizona"	"04"	"2011"	"2011"	"Freestanding Birth Center"	"2"	454
 	"Arizona"	"04"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	10
 	"Arizona"	"04"	"2011"	"2011"	"Residence"	"4"	679
 	"Arizona"	"04"	"2011"	"2011"	"Other"	"5"	14
+	"Arizona"	"04"	"2011"	"2011"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2012"	"2012"	"In Hospital"	"1"	85177
 	"Arizona"	"04"	"2012"	"2012"	"Freestanding Birth Center"	"2"	505
 	"Arizona"	"04"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	25
 	"Arizona"	"04"	"2012"	"2012"	"Residence"	"4"	724
+	"Arizona"	"04"	"2012"	"2012"	"Other"	"5"	Suppressed
+	"Arizona"	"04"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2013"	"2013"	"In Hospital"	"1"	84450
 	"Arizona"	"04"	"2013"	"2013"	"Freestanding Birth Center"	"2"	459
+	"Arizona"	"04"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Arizona"	"04"	"2013"	"2013"	"Residence"	"4"	672
 	"Arizona"	"04"	"2013"	"2013"	"Other"	"5"	10
 	"Arizona"	"04"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
 	"Arizona"	"04"	"2014"	"2014"	"In Hospital"	"1"	85628
 	"Arizona"	"04"	"2014"	"2014"	"Freestanding Birth Center"	"2"	511
+	"Arizona"	"04"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Arizona"	"04"	"2014"	"2014"	"Residence"	"4"	702
 	"Arizona"	"04"	"2014"	"2014"	"Other"	"5"	39
 	"Arizona"	"04"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
@@ -28,26 +34,31 @@
 	"Arizona"	"04"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	10
 	"Arizona"	"04"	"2015"	"2015"	"Residence"	"4"	716
 	"Arizona"	"04"	"2015"	"2015"	"Other"	"5"	42
+	"Arizona"	"04"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2016"	"2016"	"In Hospital"	"1"	83081
 	"Arizona"	"04"	"2016"	"2016"	"Freestanding Birth Center"	"2"	582
 	"Arizona"	"04"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	38
 	"Arizona"	"04"	"2016"	"2016"	"Residence"	"4"	775
 	"Arizona"	"04"	"2016"	"2016"	"Other"	"5"	42
+	"Arizona"	"04"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2017"	"2017"	"In Hospital"	"1"	80473
 	"Arizona"	"04"	"2017"	"2017"	"Freestanding Birth Center"	"2"	607
 	"Arizona"	"04"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	20
 	"Arizona"	"04"	"2017"	"2017"	"Residence"	"4"	706
 	"Arizona"	"04"	"2017"	"2017"	"Other"	"5"	65
+	"Arizona"	"04"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2018"	"2018"	"In Hospital"	"1"	79284
 	"Arizona"	"04"	"2018"	"2018"	"Freestanding Birth Center"	"2"	702
 	"Arizona"	"04"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	22
 	"Arizona"	"04"	"2018"	"2018"	"Residence"	"4"	667
 	"Arizona"	"04"	"2018"	"2018"	"Other"	"5"	47
+	"Arizona"	"04"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2019"	"2019"	"In Hospital"	"1"	78020
 	"Arizona"	"04"	"2019"	"2019"	"Freestanding Birth Center"	"2"	584
 	"Arizona"	"04"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	13
 	"Arizona"	"04"	"2019"	"2019"	"Residence"	"4"	706
 	"Arizona"	"04"	"2019"	"2019"	"Other"	"5"	48
+	"Arizona"	"04"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2020"	"2020"	"In Hospital"	"1"	75355
 	"Arizona"	"04"	"2020"	"2020"	"Freestanding Birth Center"	"2"	594
 	"Arizona"	"04"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	22
@@ -59,20 +70,25 @@
 	"Arizona"	"04"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	23
 	"Arizona"	"04"	"2021"	"2021"	"Residence"	"4"	1065
 	"Arizona"	"04"	"2021"	"2021"	"Other"	"5"	68
+	"Arizona"	"04"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2022"	"2022"	"In Hospital"	"1"	76557
 	"Arizona"	"04"	"2022"	"2022"	"Freestanding Birth Center"	"2"	728
 	"Arizona"	"04"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	22
 	"Arizona"	"04"	"2022"	"2022"	"Residence"	"4"	1182
 	"Arizona"	"04"	"2022"	"2022"	"Other"	"5"	57
+	"Arizona"	"04"	"2022"	"2022"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arizona"	"04"	"2023"	"2023"	"In Hospital"	"1"	76124
 	"Arizona"	"04"	"2023"	"2023"	"Freestanding Birth Center"	"2"	722
 	"Arizona"	"04"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	15
 	"Arizona"	"04"	"2023"	"2023"	"Residence"	"4"	1157
 	"Arizona"	"04"	"2023"	"2023"	"Other"	"5"	75
+	"Arizona"	"04"	"2023"	"2023"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2010"	"2010"	"In Hospital"	"1"	38224
+	"Arkansas"	"05"	"2010"	"2010"	"Freestanding Birth Center"	"2"	Suppressed
 	"Arkansas"	"05"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	0
 	"Arkansas"	"05"	"2010"	"2010"	"Residence"	"4"	295
 	"Arkansas"	"05"	"2010"	"2010"	"Other"	"5"	17
+	"Arkansas"	"05"	"2010"	"2010"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2011"	"2011"	"In Hospital"	"1"	38371
 	"Arkansas"	"05"	"2011"	"2011"	"Freestanding Birth Center"	"2"	10
 	"Arkansas"	"05"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	0
@@ -80,12 +96,14 @@
 	"Arkansas"	"05"	"2011"	"2011"	"Other"	"5"	15
 	"Arkansas"	"05"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
 	"Arkansas"	"05"	"2012"	"2012"	"In Hospital"	"1"	37943
+	"Arkansas"	"05"	"2012"	"2012"	"Freestanding Birth Center"	"2"	Suppressed
 	"Arkansas"	"05"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	0
 	"Arkansas"	"05"	"2012"	"2012"	"Residence"	"4"	384
 	"Arkansas"	"05"	"2012"	"2012"	"Other"	"5"	14
 	"Arkansas"	"05"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
 	"Arkansas"	"05"	"2013"	"2013"	"In Hospital"	"1"	37381
 	"Arkansas"	"05"	"2013"	"2013"	"Freestanding Birth Center"	"2"	32
+	"Arkansas"	"05"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Arkansas"	"05"	"2013"	"2013"	"Residence"	"4"	396
 	"Arkansas"	"05"	"2013"	"2013"	"Other"	"5"	22
 	"Arkansas"	"05"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
@@ -97,13 +115,16 @@
 	"Arkansas"	"05"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
 	"Arkansas"	"05"	"2015"	"2015"	"In Hospital"	"1"	38349
 	"Arkansas"	"05"	"2015"	"2015"	"Freestanding Birth Center"	"2"	138
+	"Arkansas"	"05"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Arkansas"	"05"	"2015"	"2015"	"Residence"	"4"	362
 	"Arkansas"	"05"	"2015"	"2015"	"Other"	"5"	36
 	"Arkansas"	"05"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
 	"Arkansas"	"05"	"2016"	"2016"	"In Hospital"	"1"	37753
 	"Arkansas"	"05"	"2016"	"2016"	"Freestanding Birth Center"	"2"	101
+	"Arkansas"	"05"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Arkansas"	"05"	"2016"	"2016"	"Residence"	"4"	349
 	"Arkansas"	"05"	"2016"	"2016"	"Other"	"5"	69
+	"Arkansas"	"05"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2017"	"2017"	"In Hospital"	"1"	37098
 	"Arkansas"	"05"	"2017"	"2017"	"Freestanding Birth Center"	"2"	87
 	"Arkansas"	"05"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	0
@@ -112,42 +133,55 @@
 	"Arkansas"	"05"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
 	"Arkansas"	"05"	"2018"	"2018"	"In Hospital"	"1"	36580
 	"Arkansas"	"05"	"2018"	"2018"	"Freestanding Birth Center"	"2"	71
+	"Arkansas"	"05"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Arkansas"	"05"	"2018"	"2018"	"Residence"	"4"	326
 	"Arkansas"	"05"	"2018"	"2018"	"Other"	"5"	40
 	"Arkansas"	"05"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
 	"Arkansas"	"05"	"2019"	"2019"	"In Hospital"	"1"	36169
+	"Arkansas"	"05"	"2019"	"2019"	"Freestanding Birth Center"	"2"	Suppressed
+	"Arkansas"	"05"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Arkansas"	"05"	"2019"	"2019"	"Residence"	"4"	326
 	"Arkansas"	"05"	"2019"	"2019"	"Other"	"5"	60
 	"Arkansas"	"05"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
 	"Arkansas"	"05"	"2020"	"2020"	"In Hospital"	"1"	34841
 	"Arkansas"	"05"	"2020"	"2020"	"Freestanding Birth Center"	"2"	12
+	"Arkansas"	"05"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Arkansas"	"05"	"2020"	"2020"	"Residence"	"4"	353
 	"Arkansas"	"05"	"2020"	"2020"	"Other"	"5"	41
+	"Arkansas"	"05"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2021"	"2021"	"In Hospital"	"1"	35471
+	"Arkansas"	"05"	"2021"	"2021"	"Freestanding Birth Center"	"2"	Suppressed
 	"Arkansas"	"05"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	0
 	"Arkansas"	"05"	"2021"	"2021"	"Residence"	"4"	441
 	"Arkansas"	"05"	"2021"	"2021"	"Other"	"5"	44
+	"Arkansas"	"05"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2022"	"2022"	"In Hospital"	"1"	34899
 	"Arkansas"	"05"	"2022"	"2022"	"Freestanding Birth Center"	"2"	10
+	"Arkansas"	"05"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Arkansas"	"05"	"2022"	"2022"	"Residence"	"4"	513
 	"Arkansas"	"05"	"2022"	"2022"	"Other"	"5"	45
 	"Arkansas"	"05"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
 	"Arkansas"	"05"	"2023"	"2023"	"In Hospital"	"1"	34629
+	"Arkansas"	"05"	"2023"	"2023"	"Freestanding Birth Center"	"2"	Suppressed
+	"Arkansas"	"05"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Arkansas"	"05"	"2023"	"2023"	"Residence"	"4"	576
 	"Arkansas"	"05"	"2023"	"2023"	"Other"	"5"	51
 	"Arkansas"	"05"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
 	"California"	"06"	"2010"	"2010"	"In Hospital"	"1"	506302
 	"California"	"06"	"2010"	"2010"	"Freestanding Birth Center"	"2"	623
+	"California"	"06"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"California"	"06"	"2010"	"2010"	"Residence"	"4"	2844
 	"California"	"06"	"2010"	"2010"	"Other"	"5"	237
 	"California"	"06"	"2010"	"2010"	"Unknown or Not Stated"	"9"	188
 	"California"	"06"	"2011"	"2011"	"In Hospital"	"1"	497952
 	"California"	"06"	"2011"	"2011"	"Freestanding Birth Center"	"2"	720
+	"California"	"06"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"California"	"06"	"2011"	"2011"	"Residence"	"4"	3054
 	"California"	"06"	"2011"	"2011"	"Other"	"5"	367
 	"California"	"06"	"2011"	"2011"	"Unknown or Not Stated"	"9"	21
 	"California"	"06"	"2012"	"2012"	"In Hospital"	"1"	499308
 	"California"	"06"	"2012"	"2012"	"Freestanding Birth Center"	"2"	748
+	"California"	"06"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"California"	"06"	"2012"	"2012"	"Residence"	"4"	3353
 	"California"	"06"	"2012"	"2012"	"Other"	"5"	314
 	"California"	"06"	"2012"	"2012"	"Unknown or Not Stated"	"9"	25
@@ -165,21 +199,25 @@
 	"California"	"06"	"2014"	"2014"	"Unknown or Not Stated"	"9"	14
 	"California"	"06"	"2015"	"2015"	"In Hospital"	"1"	486454
 	"California"	"06"	"2015"	"2015"	"Freestanding Birth Center"	"2"	1149
+	"California"	"06"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"California"	"06"	"2015"	"2015"	"Residence"	"4"	3709
 	"California"	"06"	"2015"	"2015"	"Other"	"5"	413
 	"California"	"06"	"2015"	"2015"	"Unknown or Not Stated"	"9"	18
 	"California"	"06"	"2016"	"2016"	"In Hospital"	"1"	483521
 	"California"	"06"	"2016"	"2016"	"Freestanding Birth Center"	"2"	1338
+	"California"	"06"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"California"	"06"	"2016"	"2016"	"Residence"	"4"	3553
 	"California"	"06"	"2016"	"2016"	"Other"	"5"	393
 	"California"	"06"	"2016"	"2016"	"Unknown or Not Stated"	"9"	15
 	"California"	"06"	"2017"	"2017"	"In Hospital"	"1"	466260
 	"California"	"06"	"2017"	"2017"	"Freestanding Birth Center"	"2"	1413
+	"California"	"06"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"California"	"06"	"2017"	"2017"	"Residence"	"4"	3520
 	"California"	"06"	"2017"	"2017"	"Other"	"5"	434
 	"California"	"06"	"2017"	"2017"	"Unknown or Not Stated"	"9"	26
 	"California"	"06"	"2018"	"2018"	"In Hospital"	"1"	449929
 	"California"	"06"	"2018"	"2018"	"Freestanding Birth Center"	"2"	1329
+	"California"	"06"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"California"	"06"	"2018"	"2018"	"Residence"	"4"	3269
 	"California"	"06"	"2018"	"2018"	"Other"	"5"	368
 	"California"	"06"	"2018"	"2018"	"Unknown or Not Stated"	"9"	16
@@ -188,132 +226,184 @@
 	"California"	"06"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	34
 	"California"	"06"	"2019"	"2019"	"Residence"	"4"	3081
 	"California"	"06"	"2019"	"2019"	"Other"	"5"	448
+	"California"	"06"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2020"	"2020"	"In Hospital"	"1"	414317
 	"California"	"06"	"2020"	"2020"	"Freestanding Birth Center"	"2"	1911
 	"California"	"06"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	15
 	"California"	"06"	"2020"	"2020"	"Residence"	"4"	3591
 	"California"	"06"	"2020"	"2020"	"Other"	"5"	424
+	"California"	"06"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2021"	"2021"	"In Hospital"	"1"	414052
 	"California"	"06"	"2021"	"2021"	"Freestanding Birth Center"	"2"	1972
 	"California"	"06"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	12
 	"California"	"06"	"2021"	"2021"	"Residence"	"4"	4079
 	"California"	"06"	"2021"	"2021"	"Other"	"5"	492
+	"California"	"06"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2022"	"2022"	"In Hospital"	"1"	412663
 	"California"	"06"	"2022"	"2022"	"Freestanding Birth Center"	"2"	1919
+	"California"	"06"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"California"	"06"	"2022"	"2022"	"Residence"	"4"	4033
 	"California"	"06"	"2022"	"2022"	"Other"	"5"	482
+	"California"	"06"	"2022"	"2022"	"Unknown or Not Stated"	"9"	Suppressed
 	"California"	"06"	"2023"	"2023"	"In Hospital"	"1"	394349
 	"California"	"06"	"2023"	"2023"	"Freestanding Birth Center"	"2"	1560
+	"California"	"06"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"California"	"06"	"2023"	"2023"	"Residence"	"4"	3701
 	"California"	"06"	"2023"	"2023"	"Other"	"5"	491
 	"California"	"06"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
 	"Florida"	"12"	"2010"	"2010"	"In Hospital"	"1"	211774
 	"Florida"	"12"	"2010"	"2010"	"Freestanding Birth Center"	"2"	1382
+	"Florida"	"12"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Florida"	"12"	"2010"	"2010"	"Residence"	"4"	1304
 	"Florida"	"12"	"2010"	"2010"	"Other"	"5"	122
+	"Florida"	"12"	"2010"	"2010"	"Unknown or Not Stated"	"9"	Suppressed
 	"Florida"	"12"	"2011"	"2011"	"In Hospital"	"1"	210323
 	"Florida"	"12"	"2011"	"2011"	"Freestanding Birth Center"	"2"	1480
+	"Florida"	"12"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Florida"	"12"	"2011"	"2011"	"Residence"	"4"	1474
 	"Florida"	"12"	"2011"	"2011"	"Other"	"5"	127
+	"Florida"	"12"	"2011"	"2011"	"Unknown or Not Stated"	"9"	Suppressed
 	"Florida"	"12"	"2012"	"2012"	"In Hospital"	"1"	209779
 	"Florida"	"12"	"2012"	"2012"	"Freestanding Birth Center"	"2"	1606
+	"Florida"	"12"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Florida"	"12"	"2012"	"2012"	"Residence"	"4"	1619
 	"Florida"	"12"	"2012"	"2012"	"Other"	"5"	132
+	"Florida"	"12"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"Florida"	"12"	"2013"	"2013"	"In Hospital"	"1"	211754
 	"Florida"	"12"	"2013"	"2013"	"Freestanding Birth Center"	"2"	1752
+	"Florida"	"12"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Florida"	"12"	"2013"	"2013"	"Residence"	"4"	1734
 	"Florida"	"12"	"2013"	"2013"	"Other"	"5"	154
+	"Florida"	"12"	"2013"	"2013"	"Unknown or Not Stated"	"9"	Suppressed
 	"Florida"	"12"	"2014"	"2014"	"In Hospital"	"1"	216171
 	"Florida"	"12"	"2014"	"2014"	"Freestanding Birth Center"	"2"	1747
+	"Florida"	"12"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Florida"	"12"	"2014"	"2014"	"Residence"	"4"	1891
 	"Florida"	"12"	"2014"	"2014"	"Other"	"5"	170
+	"Florida"	"12"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"Florida"	"12"	"2015"	"2015"	"In Hospital"	"1"	220304
 	"Florida"	"12"	"2015"	"2015"	"Freestanding Birth Center"	"2"	1806
+	"Florida"	"12"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Florida"	"12"	"2015"	"2015"	"Residence"	"4"	1967
 	"Florida"	"12"	"2015"	"2015"	"Other"	"5"	185
+	"Florida"	"12"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
 	"Florida"	"12"	"2016"	"2016"	"In Hospital"	"1"	221044
 	"Florida"	"12"	"2016"	"2016"	"Freestanding Birth Center"	"2"	1720
+	"Florida"	"12"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Florida"	"12"	"2016"	"2016"	"Residence"	"4"	2052
 	"Florida"	"12"	"2016"	"2016"	"Other"	"5"	196
+	"Florida"	"12"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"Florida"	"12"	"2017"	"2017"	"In Hospital"	"1"	219587
 	"Florida"	"12"	"2017"	"2017"	"Freestanding Birth Center"	"2"	1820
+	"Florida"	"12"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Florida"	"12"	"2017"	"2017"	"Residence"	"4"	2020
 	"Florida"	"12"	"2017"	"2017"	"Other"	"5"	198
+	"Florida"	"12"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"Florida"	"12"	"2018"	"2018"	"In Hospital"	"1"	217526
 	"Florida"	"12"	"2018"	"2018"	"Freestanding Birth Center"	"2"	1725
+	"Florida"	"12"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Florida"	"12"	"2018"	"2018"	"Residence"	"4"	2081
 	"Florida"	"12"	"2018"	"2018"	"Other"	"5"	203
+	"Florida"	"12"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"Florida"	"12"	"2019"	"2019"	"In Hospital"	"1"	216112
 	"Florida"	"12"	"2019"	"2019"	"Freestanding Birth Center"	"2"	1629
+	"Florida"	"12"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Florida"	"12"	"2019"	"2019"	"Residence"	"4"	2052
 	"Florida"	"12"	"2019"	"2019"	"Other"	"5"	200
+	"Florida"	"12"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"Florida"	"12"	"2020"	"2020"	"In Hospital"	"1"	205381
 	"Florida"	"12"	"2020"	"2020"	"Freestanding Birth Center"	"2"	1598
 	"Florida"	"12"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	11
 	"Florida"	"12"	"2020"	"2020"	"Residence"	"4"	2431
 	"Florida"	"12"	"2020"	"2020"	"Other"	"5"	241
+	"Florida"	"12"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"Florida"	"12"	"2021"	"2021"	"In Hospital"	"1"	211493
 	"Florida"	"12"	"2021"	"2021"	"Freestanding Birth Center"	"2"	1745
+	"Florida"	"12"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Florida"	"12"	"2021"	"2021"	"Residence"	"4"	2714
 	"Florida"	"12"	"2021"	"2021"	"Other"	"5"	297
+	"Florida"	"12"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"Florida"	"12"	"2022"	"2022"	"In Hospital"	"1"	219377
 	"Florida"	"12"	"2022"	"2022"	"Freestanding Birth Center"	"2"	1711
 	"Florida"	"12"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	12
 	"Florida"	"12"	"2022"	"2022"	"Residence"	"4"	2978
 	"Florida"	"12"	"2022"	"2022"	"Other"	"5"	352
+	"Florida"	"12"	"2022"	"2022"	"Unknown or Not Stated"	"9"	Suppressed
 	"Florida"	"12"	"2023"	"2023"	"In Hospital"	"1"	216662
 	"Florida"	"12"	"2023"	"2023"	"Freestanding Birth Center"	"2"	1528
 	"Florida"	"12"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	23
 	"Florida"	"12"	"2023"	"2023"	"Residence"	"4"	2833
 	"Florida"	"12"	"2023"	"2023"	"Other"	"5"	358
+	"Florida"	"12"	"2023"	"2023"	"Unknown or Not Stated"	"9"	Suppressed
 	"Georgia"	"13"	"2010"	"2010"	"In Hospital"	"1"	133234
 	"Georgia"	"13"	"2010"	"2010"	"Freestanding Birth Center"	"2"	120
+	"Georgia"	"13"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Georgia"	"13"	"2010"	"2010"	"Residence"	"4"	497
 	"Georgia"	"13"	"2010"	"2010"	"Other"	"5"	91
+	"Georgia"	"13"	"2010"	"2010"	"Unknown or Not Stated"	"9"	Suppressed
 	"Georgia"	"13"	"2011"	"2011"	"In Hospital"	"1"	131672
 	"Georgia"	"13"	"2011"	"2011"	"Freestanding Birth Center"	"2"	151
 	"Georgia"	"13"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	0
 	"Georgia"	"13"	"2011"	"2011"	"Residence"	"4"	520
 	"Georgia"	"13"	"2011"	"2011"	"Other"	"5"	63
+	"Georgia"	"13"	"2011"	"2011"	"Unknown or Not Stated"	"9"	Suppressed
 	"Georgia"	"13"	"2012"	"2012"	"In Hospital"	"1"	129440
 	"Georgia"	"13"	"2012"	"2012"	"Freestanding Birth Center"	"2"	170
+	"Georgia"	"13"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Georgia"	"13"	"2012"	"2012"	"Residence"	"4"	592
 	"Georgia"	"13"	"2012"	"2012"	"Other"	"5"	74
+	"Georgia"	"13"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"Georgia"	"13"	"2013"	"2013"	"In Hospital"	"1"	127857
 	"Georgia"	"13"	"2013"	"2013"	"Freestanding Birth Center"	"2"	159
+	"Georgia"	"13"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Georgia"	"13"	"2013"	"2013"	"Residence"	"4"	663
 	"Georgia"	"13"	"2013"	"2013"	"Other"	"5"	65
+	"Georgia"	"13"	"2013"	"2013"	"Unknown or Not Stated"	"9"	Suppressed
 	"Georgia"	"13"	"2014"	"2014"	"In Hospital"	"1"	130025
 	"Georgia"	"13"	"2014"	"2014"	"Freestanding Birth Center"	"2"	187
+	"Georgia"	"13"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Georgia"	"13"	"2014"	"2014"	"Residence"	"4"	662
 	"Georgia"	"13"	"2014"	"2014"	"Other"	"5"	32
 	"Georgia"	"13"	"2014"	"2014"	"Unknown or Not Stated"	"9"	39
 	"Georgia"	"13"	"2015"	"2015"	"In Hospital"	"1"	130407
 	"Georgia"	"13"	"2015"	"2015"	"Freestanding Birth Center"	"2"	198
+	"Georgia"	"13"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Georgia"	"13"	"2015"	"2015"	"Residence"	"4"	737
+	"Georgia"	"13"	"2015"	"2015"	"Other"	"5"	Suppressed
 	"Georgia"	"13"	"2015"	"2015"	"Unknown or Not Stated"	"9"	58
 	"Georgia"	"13"	"2016"	"2016"	"In Hospital"	"1"	129019
 	"Georgia"	"13"	"2016"	"2016"	"Freestanding Birth Center"	"2"	206
+	"Georgia"	"13"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Georgia"	"13"	"2016"	"2016"	"Residence"	"4"	765
+	"Georgia"	"13"	"2016"	"2016"	"Other"	"5"	Suppressed
 	"Georgia"	"13"	"2016"	"2016"	"Unknown or Not Stated"	"9"	47
 	"Georgia"	"13"	"2017"	"2017"	"In Hospital"	"1"	128061
 	"Georgia"	"13"	"2017"	"2017"	"Freestanding Birth Center"	"2"	307
+	"Georgia"	"13"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Georgia"	"13"	"2017"	"2017"	"Residence"	"4"	822
+	"Georgia"	"13"	"2017"	"2017"	"Other"	"5"	Suppressed
 	"Georgia"	"13"	"2017"	"2017"	"Unknown or Not Stated"	"9"	49
 	"Georgia"	"13"	"2018"	"2018"	"In Hospital"	"1"	124973
 	"Georgia"	"13"	"2018"	"2018"	"Freestanding Birth Center"	"2"	359
+	"Georgia"	"13"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Georgia"	"13"	"2018"	"2018"	"Residence"	"4"	792
+	"Georgia"	"13"	"2018"	"2018"	"Other"	"5"	Suppressed
 	"Georgia"	"13"	"2018"	"2018"	"Unknown or Not Stated"	"9"	42
 	"Georgia"	"13"	"2019"	"2019"	"In Hospital"	"1"	125133
 	"Georgia"	"13"	"2019"	"2019"	"Freestanding Birth Center"	"2"	447
+	"Georgia"	"13"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Georgia"	"13"	"2019"	"2019"	"Residence"	"4"	744
+	"Georgia"	"13"	"2019"	"2019"	"Other"	"5"	Suppressed
 	"Georgia"	"13"	"2019"	"2019"	"Unknown or Not Stated"	"9"	43
 	"Georgia"	"13"	"2020"	"2020"	"In Hospital"	"1"	121085
 	"Georgia"	"13"	"2020"	"2020"	"Freestanding Birth Center"	"2"	407
+	"Georgia"	"13"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Georgia"	"13"	"2020"	"2020"	"Residence"	"4"	930
+	"Georgia"	"13"	"2020"	"2020"	"Other"	"5"	Suppressed
 	"Georgia"	"13"	"2020"	"2020"	"Unknown or Not Stated"	"9"	39
 	"Georgia"	"13"	"2021"	"2021"	"In Hospital"	"1"	122279
 	"Georgia"	"13"	"2021"	"2021"	"Freestanding Birth Center"	"2"	485
+	"Georgia"	"13"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Georgia"	"13"	"2021"	"2021"	"Residence"	"4"	1245
 	"Georgia"	"13"	"2021"	"2021"	"Other"	"5"	19
 	"Georgia"	"13"	"2021"	"2021"	"Unknown or Not Stated"	"9"	43
@@ -330,115 +420,167 @@
 	"Georgia"	"13"	"2023"	"2023"	"Other"	"5"	16
 	"Georgia"	"13"	"2023"	"2023"	"Unknown or Not Stated"	"9"	54
 	"Illinois"	"17"	"2010"	"2010"	"In Hospital"	"1"	164358
+	"Illinois"	"17"	"2010"	"2010"	"Freestanding Birth Center"	"2"	Suppressed
+	"Illinois"	"17"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Illinois"	"17"	"2010"	"2010"	"Residence"	"4"	738
 	"Illinois"	"17"	"2010"	"2010"	"Other"	"5"	61
 	"Illinois"	"17"	"2010"	"2010"	"Unknown or Not Stated"	"9"	36
 	"Illinois"	"17"	"2011"	"2011"	"In Hospital"	"1"	160475
+	"Illinois"	"17"	"2011"	"2011"	"Freestanding Birth Center"	"2"	Suppressed
+	"Illinois"	"17"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Illinois"	"17"	"2011"	"2011"	"Residence"	"4"	731
 	"Illinois"	"17"	"2011"	"2011"	"Other"	"5"	75
 	"Illinois"	"17"	"2011"	"2011"	"Unknown or Not Stated"	"9"	24
 	"Illinois"	"17"	"2012"	"2012"	"In Hospital"	"1"	158292
+	"Illinois"	"17"	"2012"	"2012"	"Freestanding Birth Center"	"2"	Suppressed
+	"Illinois"	"17"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Illinois"	"17"	"2012"	"2012"	"Residence"	"4"	757
 	"Illinois"	"17"	"2012"	"2012"	"Other"	"5"	77
 	"Illinois"	"17"	"2012"	"2012"	"Unknown or Not Stated"	"9"	27
 	"Illinois"	"17"	"2013"	"2013"	"In Hospital"	"1"	155937
 	"Illinois"	"17"	"2013"	"2013"	"Freestanding Birth Center"	"2"	19
+	"Illinois"	"17"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Illinois"	"17"	"2013"	"2013"	"Residence"	"4"	851
 	"Illinois"	"17"	"2013"	"2013"	"Other"	"5"	83
 	"Illinois"	"17"	"2013"	"2013"	"Unknown or Not Stated"	"9"	39
 	"Illinois"	"17"	"2014"	"2014"	"In Hospital"	"1"	157513
 	"Illinois"	"17"	"2014"	"2014"	"Freestanding Birth Center"	"2"	22
+	"Illinois"	"17"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Illinois"	"17"	"2014"	"2014"	"Residence"	"4"	899
 	"Illinois"	"17"	"2014"	"2014"	"Other"	"5"	87
 	"Illinois"	"17"	"2014"	"2014"	"Unknown or Not Stated"	"9"	30
 	"Illinois"	"17"	"2015"	"2015"	"In Hospital"	"1"	157174
 	"Illinois"	"17"	"2015"	"2015"	"Freestanding Birth Center"	"2"	22
+	"Illinois"	"17"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Illinois"	"17"	"2015"	"2015"	"Residence"	"4"	815
 	"Illinois"	"17"	"2015"	"2015"	"Other"	"5"	102
+	"Illinois"	"17"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
 	"Illinois"	"17"	"2016"	"2016"	"In Hospital"	"1"	153482
 	"Illinois"	"17"	"2016"	"2016"	"Freestanding Birth Center"	"2"	16
+	"Illinois"	"17"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Illinois"	"17"	"2016"	"2016"	"Residence"	"4"	840
 	"Illinois"	"17"	"2016"	"2016"	"Other"	"5"	94
+	"Illinois"	"17"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"Illinois"	"17"	"2017"	"2017"	"In Hospital"	"1"	148469
 	"Illinois"	"17"	"2017"	"2017"	"Freestanding Birth Center"	"2"	19
+	"Illinois"	"17"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Illinois"	"17"	"2017"	"2017"	"Residence"	"4"	784
 	"Illinois"	"17"	"2017"	"2017"	"Other"	"5"	99
 	"Illinois"	"17"	"2017"	"2017"	"Unknown or Not Stated"	"9"	14
 	"Illinois"	"17"	"2018"	"2018"	"In Hospital"	"1"	143825
 	"Illinois"	"17"	"2018"	"2018"	"Freestanding Birth Center"	"2"	24
+	"Illinois"	"17"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Illinois"	"17"	"2018"	"2018"	"Residence"	"4"	855
 	"Illinois"	"17"	"2018"	"2018"	"Other"	"5"	108
+	"Illinois"	"17"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"Illinois"	"17"	"2019"	"2019"	"In Hospital"	"1"	139203
 	"Illinois"	"17"	"2019"	"2019"	"Freestanding Birth Center"	"2"	16
+	"Illinois"	"17"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Illinois"	"17"	"2019"	"2019"	"Residence"	"4"	819
 	"Illinois"	"17"	"2019"	"2019"	"Other"	"5"	87
+	"Illinois"	"17"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"Illinois"	"17"	"2020"	"2020"	"In Hospital"	"1"	132203
 	"Illinois"	"17"	"2020"	"2020"	"Freestanding Birth Center"	"2"	21
+	"Illinois"	"17"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Illinois"	"17"	"2020"	"2020"	"Residence"	"4"	998
 	"Illinois"	"17"	"2020"	"2020"	"Other"	"5"	69
+	"Illinois"	"17"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"Illinois"	"17"	"2021"	"2021"	"In Hospital"	"1"	130692
 	"Illinois"	"17"	"2021"	"2021"	"Freestanding Birth Center"	"2"	247
+	"Illinois"	"17"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Illinois"	"17"	"2021"	"2021"	"Residence"	"4"	1155
 	"Illinois"	"17"	"2021"	"2021"	"Other"	"5"	92
+	"Illinois"	"17"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"Illinois"	"17"	"2022"	"2022"	"In Hospital"	"1"	126691
 	"Illinois"	"17"	"2022"	"2022"	"Freestanding Birth Center"	"2"	370
+	"Illinois"	"17"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Illinois"	"17"	"2022"	"2022"	"Residence"	"4"	1181
 	"Illinois"	"17"	"2022"	"2022"	"Other"	"5"	106
+	"Illinois"	"17"	"2022"	"2022"	"Unknown or Not Stated"	"9"	Suppressed
 	"Illinois"	"17"	"2023"	"2023"	"In Hospital"	"1"	123106
 	"Illinois"	"17"	"2023"	"2023"	"Freestanding Birth Center"	"2"	445
 	"Illinois"	"17"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	0
 	"Illinois"	"17"	"2023"	"2023"	"Residence"	"4"	1162
 	"Illinois"	"17"	"2023"	"2023"	"Other"	"5"	102
+	"Illinois"	"17"	"2023"	"2023"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2010"	"2010"	"In Hospital"	"1"	82145
 	"Indiana"	"18"	"2010"	"2010"	"Freestanding Birth Center"	"2"	473
+	"Indiana"	"18"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Indiana"	"18"	"2010"	"2010"	"Residence"	"4"	1306
 	"Indiana"	"18"	"2010"	"2010"	"Other"	"5"	13
+	"Indiana"	"18"	"2010"	"2010"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2011"	"2011"	"In Hospital"	"1"	81850
 	"Indiana"	"18"	"2011"	"2011"	"Freestanding Birth Center"	"2"	474
+	"Indiana"	"18"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Indiana"	"18"	"2011"	"2011"	"Residence"	"4"	1365
+	"Indiana"	"18"	"2011"	"2011"	"Other"	"5"	Suppressed
+	"Indiana"	"18"	"2011"	"2011"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2012"	"2012"	"In Hospital"	"1"	81382
 	"Indiana"	"18"	"2012"	"2012"	"Freestanding Birth Center"	"2"	529
+	"Indiana"	"18"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Indiana"	"18"	"2012"	"2012"	"Residence"	"4"	1307
+	"Indiana"	"18"	"2012"	"2012"	"Other"	"5"	Suppressed
+	"Indiana"	"18"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2013"	"2013"	"In Hospital"	"1"	81172
 	"Indiana"	"18"	"2013"	"2013"	"Freestanding Birth Center"	"2"	543
+	"Indiana"	"18"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Indiana"	"18"	"2013"	"2013"	"Residence"	"4"	1376
+	"Indiana"	"18"	"2013"	"2013"	"Other"	"5"	Suppressed
 	"Indiana"	"18"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
 	"Indiana"	"18"	"2014"	"2014"	"In Hospital"	"1"	82118
 	"Indiana"	"18"	"2014"	"2014"	"Freestanding Birth Center"	"2"	555
+	"Indiana"	"18"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Indiana"	"18"	"2014"	"2014"	"Residence"	"4"	1385
 	"Indiana"	"18"	"2014"	"2014"	"Other"	"5"	14
+	"Indiana"	"18"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2015"	"2015"	"In Hospital"	"1"	81963
 	"Indiana"	"18"	"2015"	"2015"	"Freestanding Birth Center"	"2"	587
+	"Indiana"	"18"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Indiana"	"18"	"2015"	"2015"	"Residence"	"4"	1481
+	"Indiana"	"18"	"2015"	"2015"	"Other"	"5"	Suppressed
+	"Indiana"	"18"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2016"	"2016"	"In Hospital"	"1"	80989
 	"Indiana"	"18"	"2016"	"2016"	"Freestanding Birth Center"	"2"	720
+	"Indiana"	"18"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Indiana"	"18"	"2016"	"2016"	"Residence"	"4"	1367
+	"Indiana"	"18"	"2016"	"2016"	"Other"	"5"	Suppressed
+	"Indiana"	"18"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2017"	"2017"	"In Hospital"	"1"	80067
 	"Indiana"	"18"	"2017"	"2017"	"Freestanding Birth Center"	"2"	732
+	"Indiana"	"18"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Indiana"	"18"	"2017"	"2017"	"Residence"	"4"	1354
 	"Indiana"	"18"	"2017"	"2017"	"Other"	"5"	10
+	"Indiana"	"18"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2018"	"2018"	"In Hospital"	"1"	79506
 	"Indiana"	"18"	"2018"	"2018"	"Freestanding Birth Center"	"2"	858
+	"Indiana"	"18"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Indiana"	"18"	"2018"	"2018"	"Residence"	"4"	1255
 	"Indiana"	"18"	"2018"	"2018"	"Other"	"5"	16
+	"Indiana"	"18"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2019"	"2019"	"In Hospital"	"1"	78743
 	"Indiana"	"18"	"2019"	"2019"	"Freestanding Birth Center"	"2"	885
+	"Indiana"	"18"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Indiana"	"18"	"2019"	"2019"	"Residence"	"4"	1160
 	"Indiana"	"18"	"2019"	"2019"	"Other"	"5"	62
+	"Indiana"	"18"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2020"	"2020"	"In Hospital"	"1"	76111
 	"Indiana"	"18"	"2020"	"2020"	"Freestanding Birth Center"	"2"	982
+	"Indiana"	"18"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Indiana"	"18"	"2020"	"2020"	"Residence"	"4"	1322
 	"Indiana"	"18"	"2020"	"2020"	"Other"	"5"	189
 	"Indiana"	"18"	"2020"	"2020"	"Unknown or Not Stated"	"9"	10
 	"Indiana"	"18"	"2021"	"2021"	"In Hospital"	"1"	77184
 	"Indiana"	"18"	"2021"	"2021"	"Freestanding Birth Center"	"2"	1005
+	"Indiana"	"18"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Indiana"	"18"	"2021"	"2021"	"Residence"	"4"	1559
 	"Indiana"	"18"	"2021"	"2021"	"Other"	"5"	195
+	"Indiana"	"18"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2022"	"2022"	"In Hospital"	"1"	76928
 	"Indiana"	"18"	"2022"	"2022"	"Freestanding Birth Center"	"2"	1131
 	"Indiana"	"18"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	0
 	"Indiana"	"18"	"2022"	"2022"	"Residence"	"4"	1469
 	"Indiana"	"18"	"2022"	"2022"	"Other"	"5"	120
+	"Indiana"	"18"	"2022"	"2022"	"Unknown or Not Stated"	"9"	Suppressed
 	"Indiana"	"18"	"2023"	"2023"	"In Hospital"	"1"	76044
 	"Indiana"	"18"	"2023"	"2023"	"Freestanding Birth Center"	"2"	1115
 	"Indiana"	"18"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	0
@@ -447,74 +589,106 @@
 	"Indiana"	"18"	"2023"	"2023"	"Unknown or Not Stated"	"9"	10
 	"Maryland"	"24"	"2010"	"2010"	"In Hospital"	"1"	73040
 	"Maryland"	"24"	"2010"	"2010"	"Freestanding Birth Center"	"2"	292
+	"Maryland"	"24"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Maryland"	"24"	"2010"	"2010"	"Residence"	"4"	416
 	"Maryland"	"24"	"2010"	"2010"	"Other"	"5"	49
+	"Maryland"	"24"	"2010"	"2010"	"Unknown or Not Stated"	"9"	Suppressed
 	"Maryland"	"24"	"2011"	"2011"	"In Hospital"	"1"	72296
 	"Maryland"	"24"	"2011"	"2011"	"Freestanding Birth Center"	"2"	291
+	"Maryland"	"24"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Maryland"	"24"	"2011"	"2011"	"Residence"	"4"	466
 	"Maryland"	"24"	"2011"	"2011"	"Other"	"5"	32
+	"Maryland"	"24"	"2011"	"2011"	"Unknown or Not Stated"	"9"	Suppressed
 	"Maryland"	"24"	"2012"	"2012"	"In Hospital"	"1"	72057
 	"Maryland"	"24"	"2012"	"2012"	"Freestanding Birth Center"	"2"	353
+	"Maryland"	"24"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Maryland"	"24"	"2012"	"2012"	"Residence"	"4"	400
 	"Maryland"	"24"	"2012"	"2012"	"Other"	"5"	69
+	"Maryland"	"24"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"Maryland"	"24"	"2013"	"2013"	"In Hospital"	"1"	71154
 	"Maryland"	"24"	"2013"	"2013"	"Freestanding Birth Center"	"2"	369
+	"Maryland"	"24"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Maryland"	"24"	"2013"	"2013"	"Residence"	"4"	390
 	"Maryland"	"24"	"2013"	"2013"	"Other"	"5"	37
+	"Maryland"	"24"	"2013"	"2013"	"Unknown or Not Stated"	"9"	Suppressed
 	"Maryland"	"24"	"2014"	"2014"	"In Hospital"	"1"	73118
 	"Maryland"	"24"	"2014"	"2014"	"Freestanding Birth Center"	"2"	374
+	"Maryland"	"24"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Maryland"	"24"	"2014"	"2014"	"Residence"	"4"	375
 	"Maryland"	"24"	"2014"	"2014"	"Other"	"5"	50
+	"Maryland"	"24"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"Maryland"	"24"	"2015"	"2015"	"In Hospital"	"1"	72751
 	"Maryland"	"24"	"2015"	"2015"	"Freestanding Birth Center"	"2"	362
+	"Maryland"	"24"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Maryland"	"24"	"2015"	"2015"	"Residence"	"4"	428
 	"Maryland"	"24"	"2015"	"2015"	"Other"	"5"	66
+	"Maryland"	"24"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
 	"Maryland"	"24"	"2016"	"2016"	"In Hospital"	"1"	72272
 	"Maryland"	"24"	"2016"	"2016"	"Freestanding Birth Center"	"2"	329
+	"Maryland"	"24"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Maryland"	"24"	"2016"	"2016"	"Residence"	"4"	465
 	"Maryland"	"24"	"2016"	"2016"	"Other"	"5"	68
+	"Maryland"	"24"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"Maryland"	"24"	"2017"	"2017"	"In Hospital"	"1"	70717
 	"Maryland"	"24"	"2017"	"2017"	"Freestanding Birth Center"	"2"	326
+	"Maryland"	"24"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Maryland"	"24"	"2017"	"2017"	"Residence"	"4"	515
 	"Maryland"	"24"	"2017"	"2017"	"Other"	"5"	74
+	"Maryland"	"24"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"Maryland"	"24"	"2018"	"2018"	"In Hospital"	"1"	70127
 	"Maryland"	"24"	"2018"	"2018"	"Freestanding Birth Center"	"2"	329
+	"Maryland"	"24"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Maryland"	"24"	"2018"	"2018"	"Residence"	"4"	521
 	"Maryland"	"24"	"2018"	"2018"	"Other"	"5"	100
+	"Maryland"	"24"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"Maryland"	"24"	"2019"	"2019"	"In Hospital"	"1"	69214
 	"Maryland"	"24"	"2019"	"2019"	"Freestanding Birth Center"	"2"	342
+	"Maryland"	"24"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Maryland"	"24"	"2019"	"2019"	"Residence"	"4"	533
 	"Maryland"	"24"	"2019"	"2019"	"Other"	"5"	83
+	"Maryland"	"24"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"Maryland"	"24"	"2020"	"2020"	"In Hospital"	"1"	67523
 	"Maryland"	"24"	"2020"	"2020"	"Freestanding Birth Center"	"2"	216
+	"Maryland"	"24"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Maryland"	"24"	"2020"	"2020"	"Residence"	"4"	720
 	"Maryland"	"24"	"2020"	"2020"	"Other"	"5"	90
+	"Maryland"	"24"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"Maryland"	"24"	"2021"	"2021"	"In Hospital"	"1"	67159
 	"Maryland"	"24"	"2021"	"2021"	"Freestanding Birth Center"	"2"	176
+	"Maryland"	"24"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Maryland"	"24"	"2021"	"2021"	"Residence"	"4"	856
 	"Maryland"	"24"	"2021"	"2021"	"Other"	"5"	84
+	"Maryland"	"24"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"Maryland"	"24"	"2022"	"2022"	"In Hospital"	"1"	67682
 	"Maryland"	"24"	"2022"	"2022"	"Freestanding Birth Center"	"2"	110
+	"Maryland"	"24"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Maryland"	"24"	"2022"	"2022"	"Residence"	"4"	902
 	"Maryland"	"24"	"2022"	"2022"	"Other"	"5"	82
+	"Maryland"	"24"	"2022"	"2022"	"Unknown or Not Stated"	"9"	Suppressed
 	"Maryland"	"24"	"2023"	"2023"	"In Hospital"	"1"	64584
 	"Maryland"	"24"	"2023"	"2023"	"Freestanding Birth Center"	"2"	94
 	"Maryland"	"24"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	11
 	"Maryland"	"24"	"2023"	"2023"	"Residence"	"4"	815
 	"Maryland"	"24"	"2023"	"2023"	"Other"	"5"	89
+	"Maryland"	"24"	"2023"	"2023"	"Unknown or Not Stated"	"9"	Suppressed
 	"Michigan"	"26"	"2010"	"2010"	"In Hospital"	"1"	113572
 	"Michigan"	"26"	"2010"	"2010"	"Freestanding Birth Center"	"2"	114
+	"Michigan"	"26"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Michigan"	"26"	"2010"	"2010"	"Residence"	"4"	802
 	"Michigan"	"26"	"2010"	"2010"	"Other"	"5"	35
+	"Michigan"	"26"	"2010"	"2010"	"Unknown or Not Stated"	"9"	Suppressed
 	"Michigan"	"26"	"2011"	"2011"	"In Hospital"	"1"	112905
 	"Michigan"	"26"	"2011"	"2011"	"Freestanding Birth Center"	"2"	127
 	"Michigan"	"26"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	11
 	"Michigan"	"26"	"2011"	"2011"	"Residence"	"4"	924
 	"Michigan"	"26"	"2011"	"2011"	"Other"	"5"	39
+	"Michigan"	"26"	"2011"	"2011"	"Unknown or Not Stated"	"9"	Suppressed
 	"Michigan"	"26"	"2012"	"2012"	"In Hospital"	"1"	111877
 	"Michigan"	"26"	"2012"	"2012"	"Freestanding Birth Center"	"2"	141
+	"Michigan"	"26"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Michigan"	"26"	"2012"	"2012"	"Residence"	"4"	1036
 	"Michigan"	"26"	"2012"	"2012"	"Other"	"5"	27
+	"Michigan"	"26"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"Michigan"	"26"	"2013"	"2013"	"In Hospital"	"1"	112342
 	"Michigan"	"26"	"2013"	"2013"	"Freestanding Birth Center"	"2"	72
 	"Michigan"	"26"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	11
@@ -523,24 +697,34 @@
 	"Michigan"	"26"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
 	"Michigan"	"26"	"2014"	"2014"	"In Hospital"	"1"	112973
 	"Michigan"	"26"	"2014"	"2014"	"Freestanding Birth Center"	"2"	117
+	"Michigan"	"26"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Michigan"	"26"	"2014"	"2014"	"Residence"	"4"	1231
 	"Michigan"	"26"	"2014"	"2014"	"Other"	"5"	51
+	"Michigan"	"26"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"Michigan"	"26"	"2015"	"2015"	"In Hospital"	"1"	111828
 	"Michigan"	"26"	"2015"	"2015"	"Freestanding Birth Center"	"2"	118
+	"Michigan"	"26"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Michigan"	"26"	"2015"	"2015"	"Residence"	"4"	1306
 	"Michigan"	"26"	"2015"	"2015"	"Other"	"5"	56
+	"Michigan"	"26"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
 	"Michigan"	"26"	"2016"	"2016"	"In Hospital"	"1"	111754
 	"Michigan"	"26"	"2016"	"2016"	"Freestanding Birth Center"	"2"	128
+	"Michigan"	"26"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Michigan"	"26"	"2016"	"2016"	"Residence"	"4"	1388
 	"Michigan"	"26"	"2016"	"2016"	"Other"	"5"	35
+	"Michigan"	"26"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"Michigan"	"26"	"2017"	"2017"	"In Hospital"	"1"	109884
 	"Michigan"	"26"	"2017"	"2017"	"Freestanding Birth Center"	"2"	117
+	"Michigan"	"26"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Michigan"	"26"	"2017"	"2017"	"Residence"	"4"	1375
 	"Michigan"	"26"	"2017"	"2017"	"Other"	"5"	46
+	"Michigan"	"26"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"Michigan"	"26"	"2018"	"2018"	"In Hospital"	"1"	108403
 	"Michigan"	"26"	"2018"	"2018"	"Freestanding Birth Center"	"2"	84
+	"Michigan"	"26"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Michigan"	"26"	"2018"	"2018"	"Residence"	"4"	1487
 	"Michigan"	"26"	"2018"	"2018"	"Other"	"5"	53
+	"Michigan"	"26"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"Michigan"	"26"	"2019"	"2019"	"In Hospital"	"1"	106215
 	"Michigan"	"26"	"2019"	"2019"	"Freestanding Birth Center"	"2"	93
 	"Michigan"	"26"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	0
@@ -549,20 +733,25 @@
 	"Michigan"	"26"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
 	"Michigan"	"26"	"2020"	"2020"	"In Hospital"	"1"	101949
 	"Michigan"	"26"	"2020"	"2020"	"Freestanding Birth Center"	"2"	82
+	"Michigan"	"26"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Michigan"	"26"	"2020"	"2020"	"Residence"	"4"	1972
 	"Michigan"	"26"	"2020"	"2020"	"Other"	"5"	64
 	"Michigan"	"26"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
 	"Michigan"	"26"	"2021"	"2021"	"In Hospital"	"1"	102609
 	"Michigan"	"26"	"2021"	"2021"	"Freestanding Birth Center"	"2"	91
+	"Michigan"	"26"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Michigan"	"26"	"2021"	"2021"	"Residence"	"4"	2225
 	"Michigan"	"26"	"2021"	"2021"	"Other"	"5"	52
 	"Michigan"	"26"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
 	"Michigan"	"26"	"2022"	"2022"	"In Hospital"	"1"	99883
 	"Michigan"	"26"	"2022"	"2022"	"Freestanding Birth Center"	"2"	396
+	"Michigan"	"26"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Michigan"	"26"	"2022"	"2022"	"Residence"	"4"	2032
+	"Michigan"	"26"	"2022"	"2022"	"Other"	"5"	Suppressed
 	"Michigan"	"26"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
 	"Michigan"	"26"	"2023"	"2023"	"In Hospital"	"1"	96669
 	"Michigan"	"26"	"2023"	"2023"	"Freestanding Birth Center"	"2"	403
+	"Michigan"	"26"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Michigan"	"26"	"2023"	"2023"	"Residence"	"4"	2024
 	"Michigan"	"26"	"2023"	"2023"	"Other"	"5"	21
 	"Michigan"	"26"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
@@ -571,91 +760,115 @@
 	"Missouri"	"29"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	71
 	"Missouri"	"29"	"2010"	"2010"	"Residence"	"4"	859
 	"Missouri"	"29"	"2010"	"2010"	"Other"	"5"	77
+	"Missouri"	"29"	"2010"	"2010"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2011"	"2011"	"In Hospital"	"1"	74912
 	"Missouri"	"29"	"2011"	"2011"	"Freestanding Birth Center"	"2"	61
 	"Missouri"	"29"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	76
 	"Missouri"	"29"	"2011"	"2011"	"Residence"	"4"	989
 	"Missouri"	"29"	"2011"	"2011"	"Other"	"5"	78
+	"Missouri"	"29"	"2011"	"2011"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2012"	"2012"	"In Hospital"	"1"	74023
 	"Missouri"	"29"	"2012"	"2012"	"Freestanding Birth Center"	"2"	136
 	"Missouri"	"29"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	69
 	"Missouri"	"29"	"2012"	"2012"	"Residence"	"4"	1151
 	"Missouri"	"29"	"2012"	"2012"	"Other"	"5"	66
+	"Missouri"	"29"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2013"	"2013"	"In Hospital"	"1"	73791
 	"Missouri"	"29"	"2013"	"2013"	"Freestanding Birth Center"	"2"	297
 	"Missouri"	"29"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	37
 	"Missouri"	"29"	"2013"	"2013"	"Residence"	"4"	1094
 	"Missouri"	"29"	"2013"	"2013"	"Other"	"5"	75
+	"Missouri"	"29"	"2013"	"2013"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2014"	"2014"	"In Hospital"	"1"	73711
 	"Missouri"	"29"	"2014"	"2014"	"Freestanding Birth Center"	"2"	382
 	"Missouri"	"29"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	34
 	"Missouri"	"29"	"2014"	"2014"	"Residence"	"4"	1143
 	"Missouri"	"29"	"2014"	"2014"	"Other"	"5"	89
+	"Missouri"	"29"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2015"	"2015"	"In Hospital"	"1"	73416
 	"Missouri"	"29"	"2015"	"2015"	"Freestanding Birth Center"	"2"	367
 	"Missouri"	"29"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	40
 	"Missouri"	"29"	"2015"	"2015"	"Residence"	"4"	1131
 	"Missouri"	"29"	"2015"	"2015"	"Other"	"5"	106
+	"Missouri"	"29"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2016"	"2016"	"In Hospital"	"1"	72969
 	"Missouri"	"29"	"2016"	"2016"	"Freestanding Birth Center"	"2"	295
 	"Missouri"	"29"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	139
 	"Missouri"	"29"	"2016"	"2016"	"Residence"	"4"	1179
 	"Missouri"	"29"	"2016"	"2016"	"Other"	"5"	122
+	"Missouri"	"29"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2017"	"2017"	"In Hospital"	"1"	71312
 	"Missouri"	"29"	"2017"	"2017"	"Freestanding Birth Center"	"2"	268
 	"Missouri"	"29"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	194
 	"Missouri"	"29"	"2017"	"2017"	"Residence"	"4"	1164
 	"Missouri"	"29"	"2017"	"2017"	"Other"	"5"	95
+	"Missouri"	"29"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2018"	"2018"	"In Hospital"	"1"	71457
 	"Missouri"	"29"	"2018"	"2018"	"Freestanding Birth Center"	"2"	275
 	"Missouri"	"29"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	214
 	"Missouri"	"29"	"2018"	"2018"	"Residence"	"4"	1183
 	"Missouri"	"29"	"2018"	"2018"	"Other"	"5"	139
+	"Missouri"	"29"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2019"	"2019"	"In Hospital"	"1"	70422
 	"Missouri"	"29"	"2019"	"2019"	"Freestanding Birth Center"	"2"	240
 	"Missouri"	"29"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	230
 	"Missouri"	"29"	"2019"	"2019"	"Residence"	"4"	1071
 	"Missouri"	"29"	"2019"	"2019"	"Other"	"5"	162
+	"Missouri"	"29"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2020"	"2020"	"In Hospital"	"1"	67274
 	"Missouri"	"29"	"2020"	"2020"	"Freestanding Birth Center"	"2"	272
 	"Missouri"	"29"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	251
 	"Missouri"	"29"	"2020"	"2020"	"Residence"	"4"	1309
 	"Missouri"	"29"	"2020"	"2020"	"Other"	"5"	178
+	"Missouri"	"29"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2021"	"2021"	"In Hospital"	"1"	67252
 	"Missouri"	"29"	"2021"	"2021"	"Freestanding Birth Center"	"2"	247
 	"Missouri"	"29"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	296
 	"Missouri"	"29"	"2021"	"2021"	"Residence"	"4"	1403
 	"Missouri"	"29"	"2021"	"2021"	"Other"	"5"	252
+	"Missouri"	"29"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2022"	"2022"	"In Hospital"	"1"	66768
 	"Missouri"	"29"	"2022"	"2022"	"Freestanding Birth Center"	"2"	197
 	"Missouri"	"29"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	318
 	"Missouri"	"29"	"2022"	"2022"	"Residence"	"4"	1421
 	"Missouri"	"29"	"2022"	"2022"	"Other"	"5"	279
+	"Missouri"	"29"	"2022"	"2022"	"Unknown or Not Stated"	"9"	Suppressed
 	"Missouri"	"29"	"2023"	"2023"	"In Hospital"	"1"	64832
 	"Missouri"	"29"	"2023"	"2023"	"Freestanding Birth Center"	"2"	150
 	"Missouri"	"29"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	244
 	"Missouri"	"29"	"2023"	"2023"	"Residence"	"4"	1692
 	"Missouri"	"29"	"2023"	"2023"	"Other"	"5"	204
+	"Missouri"	"29"	"2023"	"2023"	"Unknown or Not Stated"	"9"	Suppressed
 	"New Jersey"	"34"	"2010"	"2010"	"In Hospital"	"1"	106503
 	"New Jersey"	"34"	"2010"	"2010"	"Freestanding Birth Center"	"2"	21
+	"New Jersey"	"34"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"New Jersey"	"34"	"2010"	"2010"	"Residence"	"4"	302
 	"New Jersey"	"34"	"2010"	"2010"	"Other"	"5"	91
+	"New Jersey"	"34"	"2010"	"2010"	"Unknown or Not Stated"	"9"	Suppressed
 	"New Jersey"	"34"	"2011"	"2011"	"In Hospital"	"1"	105409
 	"New Jersey"	"34"	"2011"	"2011"	"Freestanding Birth Center"	"2"	25
+	"New Jersey"	"34"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"New Jersey"	"34"	"2011"	"2011"	"Residence"	"4"	336
 	"New Jersey"	"34"	"2011"	"2011"	"Other"	"5"	109
+	"New Jersey"	"34"	"2011"	"2011"	"Unknown or Not Stated"	"9"	Suppressed
 	"New Jersey"	"34"	"2012"	"2012"	"In Hospital"	"1"	103765
 	"New Jersey"	"34"	"2012"	"2012"	"Freestanding Birth Center"	"2"	25
+	"New Jersey"	"34"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"New Jersey"	"34"	"2012"	"2012"	"Residence"	"4"	336
 	"New Jersey"	"34"	"2012"	"2012"	"Other"	"5"	96
+	"New Jersey"	"34"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"New Jersey"	"34"	"2013"	"2013"	"In Hospital"	"1"	102101
 	"New Jersey"	"34"	"2013"	"2013"	"Freestanding Birth Center"	"2"	23
+	"New Jersey"	"34"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"New Jersey"	"34"	"2013"	"2013"	"Residence"	"4"	349
 	"New Jersey"	"34"	"2013"	"2013"	"Other"	"5"	93
+	"New Jersey"	"34"	"2013"	"2013"	"Unknown or Not Stated"	"9"	Suppressed
 	"New Jersey"	"34"	"2014"	"2014"	"In Hospital"	"1"	102796
 	"New Jersey"	"34"	"2014"	"2014"	"Freestanding Birth Center"	"2"	30
+	"New Jersey"	"34"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"New Jersey"	"34"	"2014"	"2014"	"Residence"	"4"	381
 	"New Jersey"	"34"	"2014"	"2014"	"Other"	"5"	91
+	"New Jersey"	"34"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"New Jersey"	"34"	"2015"	"2015"	"In Hospital"	"1"	102619
 	"New Jersey"	"34"	"2015"	"2015"	"Freestanding Birth Center"	"2"	13
 	"New Jersey"	"34"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	11
@@ -664,11 +877,13 @@
 	"New Jersey"	"34"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
 	"New Jersey"	"34"	"2016"	"2016"	"In Hospital"	"1"	102122
 	"New Jersey"	"34"	"2016"	"2016"	"Freestanding Birth Center"	"2"	25
+	"New Jersey"	"34"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"New Jersey"	"34"	"2016"	"2016"	"Residence"	"4"	404
 	"New Jersey"	"34"	"2016"	"2016"	"Other"	"5"	87
 	"New Jersey"	"34"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
 	"New Jersey"	"34"	"2017"	"2017"	"In Hospital"	"1"	100736
 	"New Jersey"	"34"	"2017"	"2017"	"Freestanding Birth Center"	"2"	18
+	"New Jersey"	"34"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"New Jersey"	"34"	"2017"	"2017"	"Residence"	"4"	397
 	"New Jersey"	"34"	"2017"	"2017"	"Other"	"5"	95
 	"New Jersey"	"34"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
@@ -680,26 +895,31 @@
 	"New Jersey"	"34"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
 	"New Jersey"	"34"	"2019"	"2019"	"In Hospital"	"1"	98926
 	"New Jersey"	"34"	"2019"	"2019"	"Freestanding Birth Center"	"2"	142
+	"New Jersey"	"34"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"New Jersey"	"34"	"2019"	"2019"	"Residence"	"4"	415
 	"New Jersey"	"34"	"2019"	"2019"	"Other"	"5"	97
 	"New Jersey"	"34"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
 	"New Jersey"	"34"	"2020"	"2020"	"In Hospital"	"1"	96993
 	"New Jersey"	"34"	"2020"	"2020"	"Freestanding Birth Center"	"2"	299
+	"New Jersey"	"34"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"New Jersey"	"34"	"2020"	"2020"	"Residence"	"4"	562
 	"New Jersey"	"34"	"2020"	"2020"	"Other"	"5"	95
 	"New Jersey"	"34"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
 	"New Jersey"	"34"	"2021"	"2021"	"In Hospital"	"1"	100399
 	"New Jersey"	"34"	"2021"	"2021"	"Freestanding Birth Center"	"2"	397
+	"New Jersey"	"34"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"New Jersey"	"34"	"2021"	"2021"	"Residence"	"4"	591
 	"New Jersey"	"34"	"2021"	"2021"	"Other"	"5"	103
 	"New Jersey"	"34"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
 	"New Jersey"	"34"	"2022"	"2022"	"In Hospital"	"1"	101648
 	"New Jersey"	"34"	"2022"	"2022"	"Freestanding Birth Center"	"2"	527
+	"New Jersey"	"34"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"New Jersey"	"34"	"2022"	"2022"	"Residence"	"4"	605
 	"New Jersey"	"34"	"2022"	"2022"	"Other"	"5"	110
 	"New Jersey"	"34"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
 	"New Jersey"	"34"	"2023"	"2023"	"In Hospital"	"1"	99701
 	"New Jersey"	"34"	"2023"	"2023"	"Freestanding Birth Center"	"2"	626
+	"New Jersey"	"34"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"New Jersey"	"34"	"2023"	"2023"	"Residence"	"4"	545
 	"New Jersey"	"34"	"2023"	"2023"	"Other"	"5"	120
 	"New Jersey"	"34"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
@@ -708,6 +928,7 @@
 	"New York"	"36"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	45
 	"New York"	"36"	"2010"	"2010"	"Residence"	"4"	2068
 	"New York"	"36"	"2010"	"2010"	"Other"	"5"	235
+	"New York"	"36"	"2010"	"2010"	"Unknown or Not Stated"	"9"	Suppressed
 	"New York"	"36"	"2011"	"2011"	"In Hospital"	"1"	238591
 	"New York"	"36"	"2011"	"2011"	"Freestanding Birth Center"	"2"	191
 	"New York"	"36"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	60
@@ -719,6 +940,7 @@
 	"New York"	"36"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	62
 	"New York"	"36"	"2012"	"2012"	"Residence"	"4"	2177
 	"New York"	"36"	"2012"	"2012"	"Other"	"5"	366
+	"New York"	"36"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"New York"	"36"	"2013"	"2013"	"In Hospital"	"1"	234113
 	"New York"	"36"	"2013"	"2013"	"Freestanding Birth Center"	"2"	163
 	"New York"	"36"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	47
@@ -730,11 +952,13 @@
 	"New York"	"36"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	35
 	"New York"	"36"	"2014"	"2014"	"Residence"	"4"	2325
 	"New York"	"36"	"2014"	"2014"	"Other"	"5"	520
+	"New York"	"36"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"New York"	"36"	"2015"	"2015"	"In Hospital"	"1"	234168
 	"New York"	"36"	"2015"	"2015"	"Freestanding Birth Center"	"2"	176
 	"New York"	"36"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	45
 	"New York"	"36"	"2015"	"2015"	"Residence"	"4"	2331
 	"New York"	"36"	"2015"	"2015"	"Other"	"5"	548
+	"New York"	"36"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
 	"New York"	"36"	"2016"	"2016"	"In Hospital"	"1"	231201
 	"New York"	"36"	"2016"	"2016"	"Freestanding Birth Center"	"2"	167
 	"New York"	"36"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	24
@@ -746,21 +970,25 @@
 	"New York"	"36"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	46
 	"New York"	"36"	"2017"	"2017"	"Residence"	"4"	2339
 	"New York"	"36"	"2017"	"2017"	"Other"	"5"	643
+	"New York"	"36"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"New York"	"36"	"2018"	"2018"	"In Hospital"	"1"	222922
 	"New York"	"36"	"2018"	"2018"	"Freestanding Birth Center"	"2"	219
 	"New York"	"36"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	47
 	"New York"	"36"	"2018"	"2018"	"Residence"	"4"	2477
 	"New York"	"36"	"2018"	"2018"	"Other"	"5"	567
+	"New York"	"36"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"New York"	"36"	"2019"	"2019"	"In Hospital"	"1"	218297
 	"New York"	"36"	"2019"	"2019"	"Freestanding Birth Center"	"2"	264
 	"New York"	"36"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	34
 	"New York"	"36"	"2019"	"2019"	"Residence"	"4"	2458
 	"New York"	"36"	"2019"	"2019"	"Other"	"5"	484
+	"New York"	"36"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"New York"	"36"	"2020"	"2020"	"In Hospital"	"1"	205358
 	"New York"	"36"	"2020"	"2020"	"Freestanding Birth Center"	"2"	349
 	"New York"	"36"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	37
 	"New York"	"36"	"2020"	"2020"	"Residence"	"4"	3030
 	"New York"	"36"	"2020"	"2020"	"Other"	"5"	562
+	"New York"	"36"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"New York"	"36"	"2021"	"2021"	"In Hospital"	"1"	206768
 	"New York"	"36"	"2021"	"2021"	"Freestanding Birth Center"	"2"	316
 	"New York"	"36"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	29
@@ -772,65 +1000,85 @@
 	"New York"	"36"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	47
 	"New York"	"36"	"2022"	"2022"	"Residence"	"4"	3019
 	"New York"	"36"	"2022"	"2022"	"Other"	"5"	700
+	"New York"	"36"	"2022"	"2022"	"Unknown or Not Stated"	"9"	Suppressed
 	"New York"	"36"	"2023"	"2023"	"In Hospital"	"1"	199631
 	"New York"	"36"	"2023"	"2023"	"Freestanding Birth Center"	"2"	188
 	"New York"	"36"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	17
 	"New York"	"36"	"2023"	"2023"	"Residence"	"4"	3045
 	"New York"	"36"	"2023"	"2023"	"Other"	"5"	727
+	"New York"	"36"	"2023"	"2023"	"Unknown or Not Stated"	"9"	Suppressed
 	"North Carolina"	"37"	"2010"	"2010"	"In Hospital"	"1"	121277
 	"North Carolina"	"37"	"2010"	"2010"	"Freestanding Birth Center"	"2"	354
+	"North Carolina"	"37"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"North Carolina"	"37"	"2010"	"2010"	"Residence"	"4"	639
 	"North Carolina"	"37"	"2010"	"2010"	"Other"	"5"	75
 	"North Carolina"	"37"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
 	"North Carolina"	"37"	"2011"	"2011"	"In Hospital"	"1"	119239
 	"North Carolina"	"37"	"2011"	"2011"	"Freestanding Birth Center"	"2"	461
+	"North Carolina"	"37"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"North Carolina"	"37"	"2011"	"2011"	"Residence"	"4"	672
 	"North Carolina"	"37"	"2011"	"2011"	"Other"	"5"	13
 	"North Carolina"	"37"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
 	"North Carolina"	"37"	"2012"	"2012"	"In Hospital"	"1"	118670
 	"North Carolina"	"37"	"2012"	"2012"	"Freestanding Birth Center"	"2"	540
+	"North Carolina"	"37"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"North Carolina"	"37"	"2012"	"2012"	"Residence"	"4"	605
 	"North Carolina"	"37"	"2012"	"2012"	"Other"	"5"	12
 	"North Carolina"	"37"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
 	"North Carolina"	"37"	"2013"	"2013"	"In Hospital"	"1"	117797
 	"North Carolina"	"37"	"2013"	"2013"	"Freestanding Birth Center"	"2"	535
+	"North Carolina"	"37"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"North Carolina"	"37"	"2013"	"2013"	"Residence"	"4"	648
 	"North Carolina"	"37"	"2013"	"2013"	"Other"	"5"	16
+	"North Carolina"	"37"	"2013"	"2013"	"Unknown or Not Stated"	"9"	Suppressed
 	"North Carolina"	"37"	"2014"	"2014"	"In Hospital"	"1"	119756
 	"North Carolina"	"37"	"2014"	"2014"	"Freestanding Birth Center"	"2"	574
+	"North Carolina"	"37"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"North Carolina"	"37"	"2014"	"2014"	"Residence"	"4"	624
 	"North Carolina"	"37"	"2014"	"2014"	"Other"	"5"	20
 	"North Carolina"	"37"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
 	"North Carolina"	"37"	"2015"	"2015"	"In Hospital"	"1"	119505
 	"North Carolina"	"37"	"2015"	"2015"	"Freestanding Birth Center"	"2"	655
+	"North Carolina"	"37"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"North Carolina"	"37"	"2015"	"2015"	"Residence"	"4"	659
 	"North Carolina"	"37"	"2015"	"2015"	"Other"	"5"	21
 	"North Carolina"	"37"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
 	"North Carolina"	"37"	"2016"	"2016"	"In Hospital"	"1"	119281
 	"North Carolina"	"37"	"2016"	"2016"	"Freestanding Birth Center"	"2"	865
+	"North Carolina"	"37"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"North Carolina"	"37"	"2016"	"2016"	"Residence"	"4"	604
 	"North Carolina"	"37"	"2016"	"2016"	"Other"	"5"	23
+	"North Carolina"	"37"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"North Carolina"	"37"	"2017"	"2017"	"In Hospital"	"1"	118286
 	"North Carolina"	"37"	"2017"	"2017"	"Freestanding Birth Center"	"2"	1173
+	"North Carolina"	"37"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"North Carolina"	"37"	"2017"	"2017"	"Residence"	"4"	642
 	"North Carolina"	"37"	"2017"	"2017"	"Other"	"5"	19
+	"North Carolina"	"37"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"North Carolina"	"37"	"2018"	"2018"	"In Hospital"	"1"	117201
 	"North Carolina"	"37"	"2018"	"2018"	"Freestanding Birth Center"	"2"	1097
+	"North Carolina"	"37"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"North Carolina"	"37"	"2018"	"2018"	"Residence"	"4"	624
 	"North Carolina"	"37"	"2018"	"2018"	"Other"	"5"	25
+	"North Carolina"	"37"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"North Carolina"	"37"	"2019"	"2019"	"In Hospital"	"1"	117112
 	"North Carolina"	"37"	"2019"	"2019"	"Freestanding Birth Center"	"2"	876
+	"North Carolina"	"37"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"North Carolina"	"37"	"2019"	"2019"	"Residence"	"4"	716
 	"North Carolina"	"37"	"2019"	"2019"	"Other"	"5"	15
+	"North Carolina"	"37"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"North Carolina"	"37"	"2020"	"2020"	"In Hospital"	"1"	115021
 	"North Carolina"	"37"	"2020"	"2020"	"Freestanding Birth Center"	"2"	825
+	"North Carolina"	"37"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"North Carolina"	"37"	"2020"	"2020"	"Residence"	"4"	852
 	"North Carolina"	"37"	"2020"	"2020"	"Other"	"5"	22
+	"North Carolina"	"37"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"North Carolina"	"37"	"2021"	"2021"	"In Hospital"	"1"	118653
 	"North Carolina"	"37"	"2021"	"2021"	"Freestanding Birth Center"	"2"	709
 	"North Carolina"	"37"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	67
 	"North Carolina"	"37"	"2021"	"2021"	"Residence"	"4"	1017
 	"North Carolina"	"37"	"2021"	"2021"	"Other"	"5"	17
+	"North Carolina"	"37"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"North Carolina"	"37"	"2022"	"2022"	"In Hospital"	"1"	119876
 	"North Carolina"	"37"	"2022"	"2022"	"Freestanding Birth Center"	"2"	598
 	"North Carolina"	"37"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	0
@@ -839,23 +1087,28 @@
 	"North Carolina"	"37"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
 	"North Carolina"	"37"	"2023"	"2023"	"In Hospital"	"1"	118364
 	"North Carolina"	"37"	"2023"	"2023"	"Freestanding Birth Center"	"2"	528
+	"North Carolina"	"37"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"North Carolina"	"37"	"2023"	"2023"	"Residence"	"4"	1155
 	"North Carolina"	"37"	"2023"	"2023"	"Other"	"5"	25
+	"North Carolina"	"37"	"2023"	"2023"	"Unknown or Not Stated"	"9"	Suppressed
 	"Ohio"	"39"	"2010"	"2010"	"In Hospital"	"1"	137123
 	"Ohio"	"39"	"2010"	"2010"	"Freestanding Birth Center"	"2"	643
 	"Ohio"	"39"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	37
 	"Ohio"	"39"	"2010"	"2010"	"Residence"	"4"	1268
 	"Ohio"	"39"	"2010"	"2010"	"Other"	"5"	56
+	"Ohio"	"39"	"2010"	"2010"	"Unknown or Not Stated"	"9"	Suppressed
 	"Ohio"	"39"	"2011"	"2011"	"In Hospital"	"1"	135858
 	"Ohio"	"39"	"2011"	"2011"	"Freestanding Birth Center"	"2"	661
 	"Ohio"	"39"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	40
 	"Ohio"	"39"	"2011"	"2011"	"Residence"	"4"	1287
 	"Ohio"	"39"	"2011"	"2011"	"Other"	"5"	71
+	"Ohio"	"39"	"2011"	"2011"	"Unknown or Not Stated"	"9"	Suppressed
 	"Ohio"	"39"	"2012"	"2012"	"In Hospital"	"1"	136349
 	"Ohio"	"39"	"2012"	"2012"	"Freestanding Birth Center"	"2"	582
 	"Ohio"	"39"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	53
 	"Ohio"	"39"	"2012"	"2012"	"Residence"	"4"	1428
 	"Ohio"	"39"	"2012"	"2012"	"Other"	"5"	70
+	"Ohio"	"39"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"Ohio"	"39"	"2013"	"2013"	"In Hospital"	"1"	136733
 	"Ohio"	"39"	"2013"	"2013"	"Freestanding Birth Center"	"2"	609
 	"Ohio"	"39"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	31
@@ -918,6 +1171,7 @@
 	"Ohio"	"39"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
 	"Ohio"	"39"	"2023"	"2023"	"In Hospital"	"1"	123604
 	"Ohio"	"39"	"2023"	"2023"	"Freestanding Birth Center"	"2"	891
+	"Ohio"	"39"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Ohio"	"39"	"2023"	"2023"	"Residence"	"4"	2289
 	"Ohio"	"39"	"2023"	"2023"	"Other"	"5"	108
 	"Ohio"	"39"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
@@ -941,6 +1195,7 @@
 	"Oklahoma"	"40"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
 	"Oklahoma"	"40"	"2013"	"2013"	"In Hospital"	"1"	52878
 	"Oklahoma"	"40"	"2013"	"2013"	"Freestanding Birth Center"	"2"	63
+	"Oklahoma"	"40"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Oklahoma"	"40"	"2013"	"2013"	"Residence"	"4"	383
 	"Oklahoma"	"40"	"2013"	"2013"	"Other"	"5"	44
 	"Oklahoma"	"40"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
@@ -958,6 +1213,7 @@
 	"Oklahoma"	"40"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
 	"Oklahoma"	"40"	"2016"	"2016"	"In Hospital"	"1"	51874
 	"Oklahoma"	"40"	"2016"	"2016"	"Freestanding Birth Center"	"2"	98
+	"Oklahoma"	"40"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Oklahoma"	"40"	"2016"	"2016"	"Residence"	"4"	571
 	"Oklahoma"	"40"	"2016"	"2016"	"Other"	"5"	48
 	"Oklahoma"	"40"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
@@ -969,31 +1225,37 @@
 	"Oklahoma"	"40"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
 	"Oklahoma"	"40"	"2018"	"2018"	"In Hospital"	"1"	49042
 	"Oklahoma"	"40"	"2018"	"2018"	"Freestanding Birth Center"	"2"	185
+	"Oklahoma"	"40"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Oklahoma"	"40"	"2018"	"2018"	"Residence"	"4"	516
 	"Oklahoma"	"40"	"2018"	"2018"	"Other"	"5"	55
 	"Oklahoma"	"40"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
 	"Oklahoma"	"40"	"2019"	"2019"	"In Hospital"	"1"	48408
 	"Oklahoma"	"40"	"2019"	"2019"	"Freestanding Birth Center"	"2"	178
+	"Oklahoma"	"40"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Oklahoma"	"40"	"2019"	"2019"	"Residence"	"4"	505
 	"Oklahoma"	"40"	"2019"	"2019"	"Other"	"5"	51
 	"Oklahoma"	"40"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
 	"Oklahoma"	"40"	"2020"	"2020"	"In Hospital"	"1"	46804
 	"Oklahoma"	"40"	"2020"	"2020"	"Freestanding Birth Center"	"2"	226
+	"Oklahoma"	"40"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Oklahoma"	"40"	"2020"	"2020"	"Residence"	"4"	540
 	"Oklahoma"	"40"	"2020"	"2020"	"Other"	"5"	52
 	"Oklahoma"	"40"	"2020"	"2020"	"Unknown or Not Stated"	"9"	0
 	"Oklahoma"	"40"	"2021"	"2021"	"In Hospital"	"1"	47473
 	"Oklahoma"	"40"	"2021"	"2021"	"Freestanding Birth Center"	"2"	268
+	"Oklahoma"	"40"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Oklahoma"	"40"	"2021"	"2021"	"Residence"	"4"	614
 	"Oklahoma"	"40"	"2021"	"2021"	"Other"	"5"	53
 	"Oklahoma"	"40"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
 	"Oklahoma"	"40"	"2022"	"2022"	"In Hospital"	"1"	47276
 	"Oklahoma"	"40"	"2022"	"2022"	"Freestanding Birth Center"	"2"	333
+	"Oklahoma"	"40"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Oklahoma"	"40"	"2022"	"2022"	"Residence"	"4"	670
 	"Oklahoma"	"40"	"2022"	"2022"	"Other"	"5"	51
 	"Oklahoma"	"40"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
 	"Oklahoma"	"40"	"2023"	"2023"	"In Hospital"	"1"	46791
 	"Oklahoma"	"40"	"2023"	"2023"	"Freestanding Birth Center"	"2"	390
+	"Oklahoma"	"40"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Oklahoma"	"40"	"2023"	"2023"	"Residence"	"4"	624
 	"Oklahoma"	"40"	"2023"	"2023"	"Other"	"5"	103
 	"Oklahoma"	"40"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
@@ -1008,6 +1270,7 @@
 	"Pennsylvania"	"42"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	32
 	"Pennsylvania"	"42"	"2011"	"2011"	"Residence"	"4"	2708
 	"Pennsylvania"	"42"	"2011"	"2011"	"Other"	"5"	58
+	"Pennsylvania"	"42"	"2011"	"2011"	"Unknown or Not Stated"	"9"	Suppressed
 	"Pennsylvania"	"42"	"2012"	"2012"	"In Hospital"	"1"	138057
 	"Pennsylvania"	"42"	"2012"	"2012"	"Freestanding Birth Center"	"2"	1670
 	"Pennsylvania"	"42"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	12
@@ -1025,6 +1288,7 @@
 	"Pennsylvania"	"42"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	14
 	"Pennsylvania"	"42"	"2014"	"2014"	"Residence"	"4"	2472
 	"Pennsylvania"	"42"	"2014"	"2014"	"Other"	"5"	351
+	"Pennsylvania"	"42"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"Pennsylvania"	"42"	"2015"	"2015"	"In Hospital"	"1"	136283
 	"Pennsylvania"	"42"	"2015"	"2015"	"Freestanding Birth Center"	"2"	1666
 	"Pennsylvania"	"42"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	20
@@ -1042,19 +1306,25 @@
 	"Pennsylvania"	"42"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	11
 	"Pennsylvania"	"42"	"2017"	"2017"	"Residence"	"4"	2611
 	"Pennsylvania"	"42"	"2017"	"2017"	"Other"	"5"	531
+	"Pennsylvania"	"42"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"Pennsylvania"	"42"	"2018"	"2018"	"In Hospital"	"1"	130727
 	"Pennsylvania"	"42"	"2018"	"2018"	"Freestanding Birth Center"	"2"	1722
 	"Pennsylvania"	"42"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	10
 	"Pennsylvania"	"42"	"2018"	"2018"	"Residence"	"4"	2638
 	"Pennsylvania"	"42"	"2018"	"2018"	"Other"	"5"	573
+	"Pennsylvania"	"42"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"Pennsylvania"	"42"	"2019"	"2019"	"In Hospital"	"1"	129314
 	"Pennsylvania"	"42"	"2019"	"2019"	"Freestanding Birth Center"	"2"	1701
+	"Pennsylvania"	"42"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Pennsylvania"	"42"	"2019"	"2019"	"Residence"	"4"	2606
 	"Pennsylvania"	"42"	"2019"	"2019"	"Other"	"5"	601
+	"Pennsylvania"	"42"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"Pennsylvania"	"42"	"2020"	"2020"	"In Hospital"	"1"	125412
 	"Pennsylvania"	"42"	"2020"	"2020"	"Freestanding Birth Center"	"2"	1662
+	"Pennsylvania"	"42"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Pennsylvania"	"42"	"2020"	"2020"	"Residence"	"4"	2873
 	"Pennsylvania"	"42"	"2020"	"2020"	"Other"	"5"	736
+	"Pennsylvania"	"42"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"Pennsylvania"	"42"	"2021"	"2021"	"In Hospital"	"1"	126869
 	"Pennsylvania"	"42"	"2021"	"2021"	"Freestanding Birth Center"	"2"	1552
 	"Pennsylvania"	"42"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	10
@@ -1063,11 +1333,13 @@
 	"Pennsylvania"	"42"	"2021"	"2021"	"Unknown or Not Stated"	"9"	0
 	"Pennsylvania"	"42"	"2022"	"2022"	"In Hospital"	"1"	124348
 	"Pennsylvania"	"42"	"2022"	"2022"	"Freestanding Birth Center"	"2"	1227
+	"Pennsylvania"	"42"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Pennsylvania"	"42"	"2022"	"2022"	"Residence"	"4"	3840
 	"Pennsylvania"	"42"	"2022"	"2022"	"Other"	"5"	830
 	"Pennsylvania"	"42"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
 	"Pennsylvania"	"42"	"2023"	"2023"	"In Hospital"	"1"	120934
 	"Pennsylvania"	"42"	"2023"	"2023"	"Freestanding Birth Center"	"2"	1207
+	"Pennsylvania"	"42"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Pennsylvania"	"42"	"2023"	"2023"	"Residence"	"4"	4181
 	"Pennsylvania"	"42"	"2023"	"2023"	"Other"	"5"	621
 	"Pennsylvania"	"42"	"2023"	"2023"	"Unknown or Not Stated"	"9"	0
@@ -1076,100 +1348,136 @@
 	"South Carolina"	"45"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	0
 	"South Carolina"	"45"	"2010"	"2010"	"Residence"	"4"	260
 	"South Carolina"	"45"	"2010"	"2010"	"Other"	"5"	15
+	"South Carolina"	"45"	"2010"	"2010"	"Unknown or Not Stated"	"9"	Suppressed
 	"South Carolina"	"45"	"2011"	"2011"	"In Hospital"	"1"	56696
 	"South Carolina"	"45"	"2011"	"2011"	"Freestanding Birth Center"	"2"	430
+	"South Carolina"	"45"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"South Carolina"	"45"	"2011"	"2011"	"Residence"	"4"	255
 	"South Carolina"	"45"	"2011"	"2011"	"Other"	"5"	10
 	"South Carolina"	"45"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
 	"South Carolina"	"45"	"2012"	"2012"	"In Hospital"	"1"	56343
 	"South Carolina"	"45"	"2012"	"2012"	"Freestanding Birth Center"	"2"	511
+	"South Carolina"	"45"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"South Carolina"	"45"	"2012"	"2012"	"Residence"	"4"	282
 	"South Carolina"	"45"	"2012"	"2012"	"Other"	"5"	17
 	"South Carolina"	"45"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
 	"South Carolina"	"45"	"2013"	"2013"	"In Hospital"	"1"	56001
 	"South Carolina"	"45"	"2013"	"2013"	"Freestanding Birth Center"	"2"	476
+	"South Carolina"	"45"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"South Carolina"	"45"	"2013"	"2013"	"Residence"	"4"	307
 	"South Carolina"	"45"	"2013"	"2013"	"Other"	"5"	10
 	"South Carolina"	"45"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
 	"South Carolina"	"45"	"2014"	"2014"	"In Hospital"	"1"	56831
 	"South Carolina"	"45"	"2014"	"2014"	"Freestanding Birth Center"	"2"	443
+	"South Carolina"	"45"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"South Carolina"	"45"	"2014"	"2014"	"Residence"	"4"	340
 	"South Carolina"	"45"	"2014"	"2014"	"Other"	"5"	10
+	"South Carolina"	"45"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"South Carolina"	"45"	"2015"	"2015"	"In Hospital"	"1"	57274
 	"South Carolina"	"45"	"2015"	"2015"	"Freestanding Birth Center"	"2"	502
+	"South Carolina"	"45"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"South Carolina"	"45"	"2015"	"2015"	"Residence"	"4"	353
+	"South Carolina"	"45"	"2015"	"2015"	"Other"	"5"	Suppressed
 	"South Carolina"	"45"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
 	"South Carolina"	"45"	"2016"	"2016"	"In Hospital"	"1"	56393
 	"South Carolina"	"45"	"2016"	"2016"	"Freestanding Birth Center"	"2"	544
+	"South Carolina"	"45"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"South Carolina"	"45"	"2016"	"2016"	"Residence"	"4"	396
+	"South Carolina"	"45"	"2016"	"2016"	"Other"	"5"	Suppressed
 	"South Carolina"	"45"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
 	"South Carolina"	"45"	"2017"	"2017"	"In Hospital"	"1"	56065
 	"South Carolina"	"45"	"2017"	"2017"	"Freestanding Birth Center"	"2"	549
+	"South Carolina"	"45"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"South Carolina"	"45"	"2017"	"2017"	"Residence"	"4"	406
+	"South Carolina"	"45"	"2017"	"2017"	"Other"	"5"	Suppressed
 	"South Carolina"	"45"	"2017"	"2017"	"Unknown or Not Stated"	"9"	0
 	"South Carolina"	"45"	"2018"	"2018"	"In Hospital"	"1"	55732
 	"South Carolina"	"45"	"2018"	"2018"	"Freestanding Birth Center"	"2"	529
+	"South Carolina"	"45"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"South Carolina"	"45"	"2018"	"2018"	"Residence"	"4"	393
 	"South Carolina"	"45"	"2018"	"2018"	"Other"	"5"	12
 	"South Carolina"	"45"	"2018"	"2018"	"Unknown or Not Stated"	"9"	0
 	"South Carolina"	"45"	"2019"	"2019"	"In Hospital"	"1"	56224
 	"South Carolina"	"45"	"2019"	"2019"	"Freestanding Birth Center"	"2"	443
+	"South Carolina"	"45"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"South Carolina"	"45"	"2019"	"2019"	"Residence"	"4"	361
+	"South Carolina"	"45"	"2019"	"2019"	"Other"	"5"	Suppressed
 	"South Carolina"	"45"	"2019"	"2019"	"Unknown or Not Stated"	"9"	0
 	"South Carolina"	"45"	"2020"	"2020"	"In Hospital"	"1"	54771
 	"South Carolina"	"45"	"2020"	"2020"	"Freestanding Birth Center"	"2"	340
+	"South Carolina"	"45"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"South Carolina"	"45"	"2020"	"2020"	"Residence"	"4"	577
 	"South Carolina"	"45"	"2020"	"2020"	"Other"	"5"	12
+	"South Carolina"	"45"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"South Carolina"	"45"	"2021"	"2021"	"In Hospital"	"1"	56064
 	"South Carolina"	"45"	"2021"	"2021"	"Freestanding Birth Center"	"2"	346
+	"South Carolina"	"45"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"South Carolina"	"45"	"2021"	"2021"	"Residence"	"4"	743
 	"South Carolina"	"45"	"2021"	"2021"	"Other"	"5"	24
+	"South Carolina"	"45"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"South Carolina"	"45"	"2022"	"2022"	"In Hospital"	"1"	56506
 	"South Carolina"	"45"	"2022"	"2022"	"Freestanding Birth Center"	"2"	356
+	"South Carolina"	"45"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"South Carolina"	"45"	"2022"	"2022"	"Residence"	"4"	918
 	"South Carolina"	"45"	"2022"	"2022"	"Other"	"5"	38
 	"South Carolina"	"45"	"2022"	"2022"	"Unknown or Not Stated"	"9"	0
 	"South Carolina"	"45"	"2023"	"2023"	"In Hospital"	"1"	56416
 	"South Carolina"	"45"	"2023"	"2023"	"Freestanding Birth Center"	"2"	407
+	"South Carolina"	"45"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"South Carolina"	"45"	"2023"	"2023"	"Residence"	"4"	874
 	"South Carolina"	"45"	"2023"	"2023"	"Other"	"5"	30
+	"South Carolina"	"45"	"2023"	"2023"	"Unknown or Not Stated"	"9"	Suppressed
 	"Texas"	"48"	"2010"	"2010"	"In Hospital"	"1"	382400
 	"Texas"	"48"	"2010"	"2010"	"Freestanding Birth Center"	"2"	1828
+	"Texas"	"48"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Texas"	"48"	"2010"	"2010"	"Residence"	"4"	1834
 	"Texas"	"48"	"2010"	"2010"	"Other"	"5"	46
+	"Texas"	"48"	"2010"	"2010"	"Unknown or Not Stated"	"9"	Suppressed
 	"Texas"	"48"	"2011"	"2011"	"In Hospital"	"1"	373511
 	"Texas"	"48"	"2011"	"2011"	"Freestanding Birth Center"	"2"	1995
+	"Texas"	"48"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Texas"	"48"	"2011"	"2011"	"Residence"	"4"	1887
 	"Texas"	"48"	"2011"	"2011"	"Other"	"5"	49
 	"Texas"	"48"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
 	"Texas"	"48"	"2012"	"2012"	"In Hospital"	"1"	378304
 	"Texas"	"48"	"2012"	"2012"	"Freestanding Birth Center"	"2"	2309
+	"Texas"	"48"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Texas"	"48"	"2012"	"2012"	"Residence"	"4"	2057
 	"Texas"	"48"	"2012"	"2012"	"Other"	"5"	52
+	"Texas"	"48"	"2012"	"2012"	"Unknown or Not Stated"	"9"	Suppressed
 	"Texas"	"48"	"2013"	"2013"	"In Hospital"	"1"	382725
 	"Texas"	"48"	"2013"	"2013"	"Freestanding Birth Center"	"2"	2564
+	"Texas"	"48"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Texas"	"48"	"2013"	"2013"	"Residence"	"4"	2011
 	"Texas"	"48"	"2013"	"2013"	"Other"	"5"	37
+	"Texas"	"48"	"2013"	"2013"	"Unknown or Not Stated"	"9"	Suppressed
 	"Texas"	"48"	"2014"	"2014"	"In Hospital"	"1"	394284
 	"Texas"	"48"	"2014"	"2014"	"Freestanding Birth Center"	"2"	3001
+	"Texas"	"48"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Texas"	"48"	"2014"	"2014"	"Residence"	"4"	2424
 	"Texas"	"48"	"2014"	"2014"	"Other"	"5"	50
+	"Texas"	"48"	"2014"	"2014"	"Unknown or Not Stated"	"9"	Suppressed
 	"Texas"	"48"	"2015"	"2015"	"In Hospital"	"1"	398159
 	"Texas"	"48"	"2015"	"2015"	"Freestanding Birth Center"	"2"	3101
+	"Texas"	"48"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Texas"	"48"	"2015"	"2015"	"Residence"	"4"	2295
 	"Texas"	"48"	"2015"	"2015"	"Other"	"5"	62
 	"Texas"	"48"	"2015"	"2015"	"Unknown or Not Stated"	"9"	0
 	"Texas"	"48"	"2016"	"2016"	"In Hospital"	"1"	392471
 	"Texas"	"48"	"2016"	"2016"	"Freestanding Birth Center"	"2"	3181
+	"Texas"	"48"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Texas"	"48"	"2016"	"2016"	"Residence"	"4"	2316
 	"Texas"	"48"	"2016"	"2016"	"Other"	"5"	75
 	"Texas"	"48"	"2016"	"2016"	"Unknown or Not Stated"	"9"	0
 	"Texas"	"48"	"2017"	"2017"	"In Hospital"	"1"	376488
 	"Texas"	"48"	"2017"	"2017"	"Freestanding Birth Center"	"2"	3117
+	"Texas"	"48"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Texas"	"48"	"2017"	"2017"	"Residence"	"4"	2378
 	"Texas"	"48"	"2017"	"2017"	"Other"	"5"	60
+	"Texas"	"48"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"Texas"	"48"	"2018"	"2018"	"In Hospital"	"1"	373168
 	"Texas"	"48"	"2018"	"2018"	"Freestanding Birth Center"	"2"	2973
+	"Texas"	"48"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Texas"	"48"	"2018"	"2018"	"Residence"	"4"	2428
 	"Texas"	"48"	"2018"	"2018"	"Other"	"5"	30
 	"Texas"	"48"	"2018"	"2018"	"Unknown or Not Stated"	"9"	21
@@ -1177,82 +1485,116 @@
 	"Texas"	"48"	"2019"	"2019"	"Freestanding Birth Center"	"2"	2809
 	"Texas"	"48"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	0
 	"Texas"	"48"	"2019"	"2019"	"Residence"	"4"	2618
+	"Texas"	"48"	"2019"	"2019"	"Other"	"5"	Suppressed
+	"Texas"	"48"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"Texas"	"48"	"2020"	"2020"	"In Hospital"	"1"	361694
 	"Texas"	"48"	"2020"	"2020"	"Freestanding Birth Center"	"2"	3418
+	"Texas"	"48"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Texas"	"48"	"2020"	"2020"	"Residence"	"4"	3064
+	"Texas"	"48"	"2020"	"2020"	"Other"	"5"	Suppressed
+	"Texas"	"48"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"Texas"	"48"	"2021"	"2021"	"In Hospital"	"1"	366013
 	"Texas"	"48"	"2021"	"2021"	"Freestanding Birth Center"	"2"	3805
 	"Texas"	"48"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	0
 	"Texas"	"48"	"2021"	"2021"	"Residence"	"4"	3765
+	"Texas"	"48"	"2021"	"2021"	"Other"	"5"	Suppressed
+	"Texas"	"48"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"Texas"	"48"	"2022"	"2022"	"In Hospital"	"1"	381702
 	"Texas"	"48"	"2022"	"2022"	"Freestanding Birth Center"	"2"	4054
+	"Texas"	"48"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Texas"	"48"	"2022"	"2022"	"Residence"	"4"	3970
 	"Texas"	"48"	"2022"	"2022"	"Other"	"5"	10
+	"Texas"	"48"	"2022"	"2022"	"Unknown or Not Stated"	"9"	Suppressed
 	"Texas"	"48"	"2023"	"2023"	"In Hospital"	"1"	379794
 	"Texas"	"48"	"2023"	"2023"	"Freestanding Birth Center"	"2"	3987
+	"Texas"	"48"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Texas"	"48"	"2023"	"2023"	"Residence"	"4"	4151
+	"Texas"	"48"	"2023"	"2023"	"Other"	"5"	Suppressed
+	"Texas"	"48"	"2023"	"2023"	"Unknown or Not Stated"	"9"	Suppressed
 	"Washington"	"53"	"2010"	"2010"	"In Hospital"	"1"	83946
 	"Washington"	"53"	"2010"	"2010"	"Freestanding Birth Center"	"2"	939
+	"Washington"	"53"	"2010"	"2010"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Washington"	"53"	"2010"	"2010"	"Residence"	"4"	1618
 	"Washington"	"53"	"2010"	"2010"	"Other"	"5"	31
 	"Washington"	"53"	"2010"	"2010"	"Unknown or Not Stated"	"9"	0
 	"Washington"	"53"	"2011"	"2011"	"In Hospital"	"1"	84201
 	"Washington"	"53"	"2011"	"2011"	"Freestanding Birth Center"	"2"	1095
+	"Washington"	"53"	"2011"	"2011"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Washington"	"53"	"2011"	"2011"	"Residence"	"4"	1635
 	"Washington"	"53"	"2011"	"2011"	"Other"	"5"	44
 	"Washington"	"53"	"2011"	"2011"	"Unknown or Not Stated"	"9"	0
 	"Washington"	"53"	"2012"	"2012"	"In Hospital"	"1"	84453
 	"Washington"	"53"	"2012"	"2012"	"Freestanding Birth Center"	"2"	1182
+	"Washington"	"53"	"2012"	"2012"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Washington"	"53"	"2012"	"2012"	"Residence"	"4"	1743
 	"Washington"	"53"	"2012"	"2012"	"Other"	"5"	80
 	"Washington"	"53"	"2012"	"2012"	"Unknown or Not Stated"	"9"	0
 	"Washington"	"53"	"2013"	"2013"	"In Hospital"	"1"	83365
 	"Washington"	"53"	"2013"	"2013"	"Freestanding Birth Center"	"2"	1273
+	"Washington"	"53"	"2013"	"2013"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Washington"	"53"	"2013"	"2013"	"Residence"	"4"	1856
 	"Washington"	"53"	"2013"	"2013"	"Other"	"5"	80
 	"Washington"	"53"	"2013"	"2013"	"Unknown or Not Stated"	"9"	0
 	"Washington"	"53"	"2014"	"2014"	"In Hospital"	"1"	85159
 	"Washington"	"53"	"2014"	"2014"	"Freestanding Birth Center"	"2"	1304
+	"Washington"	"53"	"2014"	"2014"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Washington"	"53"	"2014"	"2014"	"Residence"	"4"	2049
 	"Washington"	"53"	"2014"	"2014"	"Other"	"5"	66
 	"Washington"	"53"	"2014"	"2014"	"Unknown or Not Stated"	"9"	0
 	"Washington"	"53"	"2015"	"2015"	"In Hospital"	"1"	85461
 	"Washington"	"53"	"2015"	"2015"	"Freestanding Birth Center"	"2"	1421
+	"Washington"	"53"	"2015"	"2015"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Washington"	"53"	"2015"	"2015"	"Residence"	"4"	2029
 	"Washington"	"53"	"2015"	"2015"	"Other"	"5"	77
+	"Washington"	"53"	"2015"	"2015"	"Unknown or Not Stated"	"9"	Suppressed
 	"Washington"	"53"	"2016"	"2016"	"In Hospital"	"1"	87009
 	"Washington"	"53"	"2016"	"2016"	"Freestanding Birth Center"	"2"	1463
+	"Washington"	"53"	"2016"	"2016"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Washington"	"53"	"2016"	"2016"	"Residence"	"4"	1926
 	"Washington"	"53"	"2016"	"2016"	"Other"	"5"	100
+	"Washington"	"53"	"2016"	"2016"	"Unknown or Not Stated"	"9"	Suppressed
 	"Washington"	"53"	"2017"	"2017"	"In Hospital"	"1"	84265
 	"Washington"	"53"	"2017"	"2017"	"Freestanding Birth Center"	"2"	1351
+	"Washington"	"53"	"2017"	"2017"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Washington"	"53"	"2017"	"2017"	"Residence"	"4"	1877
 	"Washington"	"53"	"2017"	"2017"	"Other"	"5"	56
+	"Washington"	"53"	"2017"	"2017"	"Unknown or Not Stated"	"9"	Suppressed
 	"Washington"	"53"	"2018"	"2018"	"In Hospital"	"1"	82848
 	"Washington"	"53"	"2018"	"2018"	"Freestanding Birth Center"	"2"	1301
 	"Washington"	"53"	"2018"	"2018"	"Clinic/Doctor's Office"	"3"	13
 	"Washington"	"53"	"2018"	"2018"	"Residence"	"4"	1822
 	"Washington"	"53"	"2018"	"2018"	"Other"	"5"	100
+	"Washington"	"53"	"2018"	"2018"	"Unknown or Not Stated"	"9"	Suppressed
 	"Washington"	"53"	"2019"	"2019"	"In Hospital"	"1"	81831
 	"Washington"	"53"	"2019"	"2019"	"Freestanding Birth Center"	"2"	1230
+	"Washington"	"53"	"2019"	"2019"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Washington"	"53"	"2019"	"2019"	"Residence"	"4"	1745
 	"Washington"	"53"	"2019"	"2019"	"Other"	"5"	85
+	"Washington"	"53"	"2019"	"2019"	"Unknown or Not Stated"	"9"	Suppressed
 	"Washington"	"53"	"2020"	"2020"	"In Hospital"	"1"	79456
 	"Washington"	"53"	"2020"	"2020"	"Freestanding Birth Center"	"2"	1403
+	"Washington"	"53"	"2020"	"2020"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Washington"	"53"	"2020"	"2020"	"Residence"	"4"	2140
 	"Washington"	"53"	"2020"	"2020"	"Other"	"5"	78
+	"Washington"	"53"	"2020"	"2020"	"Unknown or Not Stated"	"9"	Suppressed
 	"Washington"	"53"	"2021"	"2021"	"In Hospital"	"1"	80108
 	"Washington"	"53"	"2021"	"2021"	"Freestanding Birth Center"	"2"	1598
+	"Washington"	"53"	"2021"	"2021"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Washington"	"53"	"2021"	"2021"	"Residence"	"4"	2116
 	"Washington"	"53"	"2021"	"2021"	"Other"	"5"	85
+	"Washington"	"53"	"2021"	"2021"	"Unknown or Not Stated"	"9"	Suppressed
 	"Washington"	"53"	"2022"	"2022"	"In Hospital"	"1"	79436
 	"Washington"	"53"	"2022"	"2022"	"Freestanding Birth Center"	"2"	1670
+	"Washington"	"53"	"2022"	"2022"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Washington"	"53"	"2022"	"2022"	"Residence"	"4"	2127
 	"Washington"	"53"	"2022"	"2022"	"Other"	"5"	93
+	"Washington"	"53"	"2022"	"2022"	"Unknown or Not Stated"	"9"	Suppressed
 	"Washington"	"53"	"2023"	"2023"	"In Hospital"	"1"	77137
 	"Washington"	"53"	"2023"	"2023"	"Freestanding Birth Center"	"2"	1761
+	"Washington"	"53"	"2023"	"2023"	"Clinic/Doctor's Office"	"3"	Suppressed
 	"Washington"	"53"	"2023"	"2023"	"Residence"	"4"	1929
 	"Washington"	"53"	"2023"	"2023"	"Other"	"5"	98
+	"Washington"	"53"	"2023"	"2023"	"Unknown or Not Stated"	"9"	Suppressed
 "---"
 "Dataset: Natality, 2007-2023"
 "Query Parameters:"
@@ -1263,23 +1605,22 @@
 "Group By: State; Year; Birthplace"
 "Show Totals: Disabled"
 "Show Zero Values: True"
-"Show Suppressed: False"
+"Show Suppressed: True"
 "Calculate Rates Per: 1,000"
 "Population Option: No populations shown because rates were not selected."
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
 "---"
-"Query Date: Mar 25, 2025 1:15:51 AM"
+"Query Date: Mar 26, 2025 3:04:44 AM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
 "the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
-"http://wonder.cdc.gov/natality-current.html on Mar 25, 2025 1:15:51 AM"
+"http://wonder.cdc.gov/natality-current.html on Mar 26, 2025 3:04:44 AM"
 "---"
 Messages:
 "1. Totals are not available for these results due to suppression constraints. More Information:"
 "http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
-"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
 "---"
 Caveats:
 "1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"

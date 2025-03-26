@@ -4,6 +4,7 @@
 	"Arizona"	"04"	"2010"	"2010"	"Certified Nurse Midwife(CNM/CM)"	"3"	5249
 	"Arizona"	"04"	"2010"	"2010"	"Other Midwife"	"4"	642
 	"Arizona"	"04"	"2010"	"2010"	"Other"	"5"	177
+	"Arizona"	"04"	"2010"	"2010"	"Unknown or not stated"	"9"	Suppressed
 	"Arizona"	"04"	"2010"	"2010"	"Not Reported"	"100"	0
 	"Arizona"	"04"	"2011"	"2011"	"Doctor of Medicine(MD)"	"1"	71480
 	"Arizona"	"04"	"2011"	"2011"	"Doctor of Osteopathy(DO)"	"2"	8295
@@ -17,6 +18,7 @@
 	"Arizona"	"04"	"2012"	"2012"	"Certified Nurse Midwife(CNM/CM)"	"3"	5617
 	"Arizona"	"04"	"2012"	"2012"	"Other Midwife"	"4"	781
 	"Arizona"	"04"	"2012"	"2012"	"Other"	"5"	199
+	"Arizona"	"04"	"2012"	"2012"	"Unknown or not stated"	"9"	Suppressed
 	"Arizona"	"04"	"2012"	"2012"	"Not Reported"	"100"	0
 	"Arizona"	"04"	"2013"	"2013"	"Doctor of Medicine(MD)"	"1"	70436
 	"Arizona"	"04"	"2013"	"2013"	"Doctor of Osteopathy(DO)"	"2"	8545
@@ -65,18 +67,21 @@
 	"Arizona"	"04"	"2019"	"2019"	"Certified Nurse Midwife(CNM/CM)"	"3"	7671
 	"Arizona"	"04"	"2019"	"2019"	"Other Midwife"	"4"	32
 	"Arizona"	"04"	"2019"	"2019"	"Other"	"5"	338
+	"Arizona"	"04"	"2019"	"2019"	"Unknown or not stated"	"9"	Suppressed
 	"Arizona"	"04"	"2019"	"2019"	"Not Reported"	"100"	0
 	"Arizona"	"04"	"2020"	"2020"	"Doctor of Medicine(MD)"	"1"	56796
 	"Arizona"	"04"	"2020"	"2020"	"Doctor of Osteopathy(DO)"	"2"	10520
 	"Arizona"	"04"	"2020"	"2020"	"Certified Nurse Midwife(CNM/CM)"	"3"	9183
 	"Arizona"	"04"	"2020"	"2020"	"Other Midwife"	"4"	57
 	"Arizona"	"04"	"2020"	"2020"	"Other"	"5"	383
+	"Arizona"	"04"	"2020"	"2020"	"Unknown or not stated"	"9"	Suppressed
 	"Arizona"	"04"	"2020"	"2020"	"Not Reported"	"100"	0
 	"Arizona"	"04"	"2021"	"2021"	"Doctor of Medicine(MD)"	"1"	57269
 	"Arizona"	"04"	"2021"	"2021"	"Doctor of Osteopathy(DO)"	"2"	10300
 	"Arizona"	"04"	"2021"	"2021"	"Certified Nurse Midwife(CNM/CM)"	"3"	9948
 	"Arizona"	"04"	"2021"	"2021"	"Other Midwife"	"4"	62
 	"Arizona"	"04"	"2021"	"2021"	"Other"	"5"	330
+	"Arizona"	"04"	"2021"	"2021"	"Unknown or not stated"	"9"	Suppressed
 	"Arizona"	"04"	"2021"	"2021"	"Not Reported"	"100"	0
 	"Arizona"	"04"	"2022"	"2022"	"Doctor of Medicine(MD)"	"1"	57276
 	"Arizona"	"04"	"2022"	"2022"	"Doctor of Osteopathy(DO)"	"2"	10548
@@ -90,12 +95,14 @@
 	"Arizona"	"04"	"2023"	"2023"	"Certified Nurse Midwife(CNM/CM)"	"3"	10390
 	"Arizona"	"04"	"2023"	"2023"	"Other Midwife"	"4"	47
 	"Arizona"	"04"	"2023"	"2023"	"Other"	"5"	360
+	"Arizona"	"04"	"2023"	"2023"	"Unknown or not stated"	"9"	Suppressed
 	"Arizona"	"04"	"2023"	"2023"	"Not Reported"	"100"	0
 	"Arkansas"	"05"	"2010"	"2010"	"Doctor of Medicine(MD)"	"1"	36457
 	"Arkansas"	"05"	"2010"	"2010"	"Doctor of Osteopathy(DO)"	"2"	1350
 	"Arkansas"	"05"	"2010"	"2010"	"Certified Nurse Midwife(CNM/CM)"	"3"	343
 	"Arkansas"	"05"	"2010"	"2010"	"Other Midwife"	"4"	187
 	"Arkansas"	"05"	"2010"	"2010"	"Other"	"5"	197
+	"Arkansas"	"05"	"2010"	"2010"	"Unknown or not stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2010"	"2010"	"Not Reported"	"100"	0
 	"Arkansas"	"05"	"2011"	"2011"	"Doctor of Medicine(MD)"	"1"	36466
 	"Arkansas"	"05"	"2011"	"2011"	"Doctor of Osteopathy(DO)"	"2"	1464
@@ -158,6 +165,7 @@
 	"Arkansas"	"05"	"2019"	"2019"	"Certified Nurse Midwife(CNM/CM)"	"3"	164
 	"Arkansas"	"05"	"2019"	"2019"	"Other Midwife"	"4"	204
 	"Arkansas"	"05"	"2019"	"2019"	"Other"	"5"	162
+	"Arkansas"	"05"	"2019"	"2019"	"Unknown or not stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2019"	"2019"	"Not Reported"	"100"	0
 	"Arkansas"	"05"	"2020"	"2020"	"Doctor of Medicine(MD)"	"1"	32224
 	"Arkansas"	"05"	"2020"	"2020"	"Doctor of Osteopathy(DO)"	"2"	2507
@@ -171,18 +179,21 @@
 	"Arkansas"	"05"	"2021"	"2021"	"Certified Nurse Midwife(CNM/CM)"	"3"	111
 	"Arkansas"	"05"	"2021"	"2021"	"Other Midwife"	"4"	281
 	"Arkansas"	"05"	"2021"	"2021"	"Other"	"5"	188
+	"Arkansas"	"05"	"2021"	"2021"	"Unknown or not stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2021"	"2021"	"Not Reported"	"100"	0
 	"Arkansas"	"05"	"2022"	"2022"	"Doctor of Medicine(MD)"	"1"	32523
 	"Arkansas"	"05"	"2022"	"2022"	"Doctor of Osteopathy(DO)"	"2"	2216
 	"Arkansas"	"05"	"2022"	"2022"	"Certified Nurse Midwife(CNM/CM)"	"3"	149
 	"Arkansas"	"05"	"2022"	"2022"	"Other Midwife"	"4"	338
 	"Arkansas"	"05"	"2022"	"2022"	"Other"	"5"	240
+	"Arkansas"	"05"	"2022"	"2022"	"Unknown or not stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2022"	"2022"	"Not Reported"	"100"	0
 	"Arkansas"	"05"	"2023"	"2023"	"Doctor of Medicine(MD)"	"1"	32179
 	"Arkansas"	"05"	"2023"	"2023"	"Doctor of Osteopathy(DO)"	"2"	2250
 	"Arkansas"	"05"	"2023"	"2023"	"Certified Nurse Midwife(CNM/CM)"	"3"	283
 	"Arkansas"	"05"	"2023"	"2023"	"Other Midwife"	"4"	367
 	"Arkansas"	"05"	"2023"	"2023"	"Other"	"5"	180
+	"Arkansas"	"05"	"2023"	"2023"	"Unknown or not stated"	"9"	Suppressed
 	"Arkansas"	"05"	"2023"	"2023"	"Not Reported"	"100"	0
 	"California"	"06"	"2010"	"2010"	"Doctor of Medicine(MD)"	"1"	443581
 	"California"	"06"	"2010"	"2010"	"Doctor of Osteopathy(DO)"	"2"	17222
@@ -315,6 +326,7 @@
 	"Florida"	"12"	"2014"	"2014"	"Certified Nurse Midwife(CNM/CM)"	"3"	22968
 	"Florida"	"12"	"2014"	"2014"	"Other Midwife"	"4"	2958
 	"Florida"	"12"	"2014"	"2014"	"Other"	"5"	1408
+	"Florida"	"12"	"2014"	"2014"	"Unknown or not stated"	"9"	Suppressed
 	"Florida"	"12"	"2014"	"2014"	"Not Reported"	"100"	0
 	"Florida"	"12"	"2015"	"2015"	"Doctor of Medicine(MD)"	"1"	183536
 	"Florida"	"12"	"2015"	"2015"	"Doctor of Osteopathy(DO)"	"2"	11786
@@ -664,6 +676,7 @@
 	"Indiana"	"18"	"2022"	"2022"	"Certified Nurse Midwife(CNM/CM)"	"3"	6160
 	"Indiana"	"18"	"2022"	"2022"	"Other Midwife"	"4"	884
 	"Indiana"	"18"	"2022"	"2022"	"Other"	"5"	10070
+	"Indiana"	"18"	"2022"	"2022"	"Unknown or not stated"	"9"	Suppressed
 	"Indiana"	"18"	"2022"	"2022"	"Not Reported"	"100"	0
 	"Indiana"	"18"	"2023"	"2023"	"Doctor of Medicine(MD)"	"1"	59697
 	"Indiana"	"18"	"2023"	"2023"	"Doctor of Osteopathy(DO)"	"2"	5354
@@ -775,18 +788,21 @@
 	"Michigan"	"26"	"2010"	"2010"	"Certified Nurse Midwife(CNM/CM)"	"3"	7147
 	"Michigan"	"26"	"2010"	"2010"	"Other Midwife"	"4"	336
 	"Michigan"	"26"	"2010"	"2010"	"Other"	"5"	318
+	"Michigan"	"26"	"2010"	"2010"	"Unknown or not stated"	"9"	Suppressed
 	"Michigan"	"26"	"2010"	"2010"	"Not Reported"	"100"	0
 	"Michigan"	"26"	"2011"	"2011"	"Doctor of Medicine(MD)"	"1"	86207
 	"Michigan"	"26"	"2011"	"2011"	"Doctor of Osteopathy(DO)"	"2"	19892
 	"Michigan"	"26"	"2011"	"2011"	"Certified Nurse Midwife(CNM/CM)"	"3"	7156
 	"Michigan"	"26"	"2011"	"2011"	"Other Midwife"	"4"	407
 	"Michigan"	"26"	"2011"	"2011"	"Other"	"5"	339
+	"Michigan"	"26"	"2011"	"2011"	"Unknown or not stated"	"9"	Suppressed
 	"Michigan"	"26"	"2011"	"2011"	"Not Reported"	"100"	0
 	"Michigan"	"26"	"2012"	"2012"	"Doctor of Medicine(MD)"	"1"	84573
 	"Michigan"	"26"	"2012"	"2012"	"Doctor of Osteopathy(DO)"	"2"	20389
 	"Michigan"	"26"	"2012"	"2012"	"Certified Nurse Midwife(CNM/CM)"	"3"	7275
 	"Michigan"	"26"	"2012"	"2012"	"Other Midwife"	"4"	499
 	"Michigan"	"26"	"2012"	"2012"	"Other"	"5"	350
+	"Michigan"	"26"	"2012"	"2012"	"Unknown or not stated"	"9"	Suppressed
 	"Michigan"	"26"	"2012"	"2012"	"Not Reported"	"100"	0
 	"Michigan"	"26"	"2013"	"2013"	"Doctor of Medicine(MD)"	"1"	84034
 	"Michigan"	"26"	"2013"	"2013"	"Doctor of Osteopathy(DO)"	"2"	21033
@@ -800,18 +816,21 @@
 	"Michigan"	"26"	"2014"	"2014"	"Certified Nurse Midwife(CNM/CM)"	"3"	7759
 	"Michigan"	"26"	"2014"	"2014"	"Other Midwife"	"4"	795
 	"Michigan"	"26"	"2014"	"2014"	"Other"	"5"	458
+	"Michigan"	"26"	"2014"	"2014"	"Unknown or not stated"	"9"	Suppressed
 	"Michigan"	"26"	"2014"	"2014"	"Not Reported"	"100"	0
 	"Michigan"	"26"	"2015"	"2015"	"Doctor of Medicine(MD)"	"1"	81934
 	"Michigan"	"26"	"2015"	"2015"	"Doctor of Osteopathy(DO)"	"2"	22198
 	"Michigan"	"26"	"2015"	"2015"	"Certified Nurse Midwife(CNM/CM)"	"3"	7772
 	"Michigan"	"26"	"2015"	"2015"	"Other Midwife"	"4"	825
 	"Michigan"	"26"	"2015"	"2015"	"Other"	"5"	577
+	"Michigan"	"26"	"2015"	"2015"	"Unknown or not stated"	"9"	Suppressed
 	"Michigan"	"26"	"2015"	"2015"	"Not Reported"	"100"	0
 	"Michigan"	"26"	"2016"	"2016"	"Doctor of Medicine(MD)"	"1"	81472
 	"Michigan"	"26"	"2016"	"2016"	"Doctor of Osteopathy(DO)"	"2"	22011
 	"Michigan"	"26"	"2016"	"2016"	"Certified Nurse Midwife(CNM/CM)"	"3"	8264
 	"Michigan"	"26"	"2016"	"2016"	"Other Midwife"	"4"	971
 	"Michigan"	"26"	"2016"	"2016"	"Other"	"5"	588
+	"Michigan"	"26"	"2016"	"2016"	"Unknown or not stated"	"9"	Suppressed
 	"Michigan"	"26"	"2016"	"2016"	"Not Reported"	"100"	0
 	"Michigan"	"26"	"2017"	"2017"	"Doctor of Medicine(MD)"	"1"	78823
 	"Michigan"	"26"	"2017"	"2017"	"Doctor of Osteopathy(DO)"	"2"	22089
@@ -825,6 +844,7 @@
 	"Michigan"	"26"	"2018"	"2018"	"Certified Nurse Midwife(CNM/CM)"	"3"	9115
 	"Michigan"	"26"	"2018"	"2018"	"Other Midwife"	"4"	995
 	"Michigan"	"26"	"2018"	"2018"	"Other"	"5"	689
+	"Michigan"	"26"	"2018"	"2018"	"Unknown or not stated"	"9"	Suppressed
 	"Michigan"	"26"	"2018"	"2018"	"Not Reported"	"100"	0
 	"Michigan"	"26"	"2019"	"2019"	"Doctor of Medicine(MD)"	"1"	75160
 	"Michigan"	"26"	"2019"	"2019"	"Doctor of Osteopathy(DO)"	"2"	21627
@@ -880,6 +900,7 @@
 	"Missouri"	"29"	"2012"	"2012"	"Certified Nurse Midwife(CNM/CM)"	"3"	2329
 	"Missouri"	"29"	"2012"	"2012"	"Other Midwife"	"4"	835
 	"Missouri"	"29"	"2012"	"2012"	"Other"	"5"	406
+	"Missouri"	"29"	"2012"	"2012"	"Unknown or not stated"	"9"	Suppressed
 	"Missouri"	"29"	"2012"	"2012"	"Not Reported"	"100"	0
 	"Missouri"	"29"	"2013"	"2013"	"Doctor of Medicine(MD)"	"1"	61283
 	"Missouri"	"29"	"2013"	"2013"	"Doctor of Osteopathy(DO)"	"2"	10361
@@ -893,48 +914,56 @@
 	"Missouri"	"29"	"2014"	"2014"	"Certified Nurse Midwife(CNM/CM)"	"3"	2552
 	"Missouri"	"29"	"2014"	"2014"	"Other Midwife"	"4"	781
 	"Missouri"	"29"	"2014"	"2014"	"Other"	"5"	502
+	"Missouri"	"29"	"2014"	"2014"	"Unknown or not stated"	"9"	Suppressed
 	"Missouri"	"29"	"2014"	"2014"	"Not Reported"	"100"	0
 	"Missouri"	"29"	"2015"	"2015"	"Doctor of Medicine(MD)"	"1"	59583
 	"Missouri"	"29"	"2015"	"2015"	"Doctor of Osteopathy(DO)"	"2"	11540
 	"Missouri"	"29"	"2015"	"2015"	"Certified Nurse Midwife(CNM/CM)"	"3"	2519
 	"Missouri"	"29"	"2015"	"2015"	"Other Midwife"	"4"	805
 	"Missouri"	"29"	"2015"	"2015"	"Other"	"5"	613
+	"Missouri"	"29"	"2015"	"2015"	"Unknown or not stated"	"9"	Suppressed
 	"Missouri"	"29"	"2015"	"2015"	"Not Reported"	"100"	0
 	"Missouri"	"29"	"2016"	"2016"	"Doctor of Medicine(MD)"	"1"	58931
 	"Missouri"	"29"	"2016"	"2016"	"Doctor of Osteopathy(DO)"	"2"	11414
 	"Missouri"	"29"	"2016"	"2016"	"Certified Nurse Midwife(CNM/CM)"	"3"	2956
 	"Missouri"	"29"	"2016"	"2016"	"Other Midwife"	"4"	889
 	"Missouri"	"29"	"2016"	"2016"	"Other"	"5"	514
+	"Missouri"	"29"	"2016"	"2016"	"Unknown or not stated"	"9"	Suppressed
 	"Missouri"	"29"	"2016"	"2016"	"Not Reported"	"100"	0
 	"Missouri"	"29"	"2017"	"2017"	"Doctor of Medicine(MD)"	"1"	56683
 	"Missouri"	"29"	"2017"	"2017"	"Doctor of Osteopathy(DO)"	"2"	11838
 	"Missouri"	"29"	"2017"	"2017"	"Certified Nurse Midwife(CNM/CM)"	"3"	3231
 	"Missouri"	"29"	"2017"	"2017"	"Other Midwife"	"4"	858
 	"Missouri"	"29"	"2017"	"2017"	"Other"	"5"	422
+	"Missouri"	"29"	"2017"	"2017"	"Unknown or not stated"	"9"	Suppressed
 	"Missouri"	"29"	"2017"	"2017"	"Not Reported"	"100"	0
 	"Missouri"	"29"	"2018"	"2018"	"Doctor of Medicine(MD)"	"1"	56484
 	"Missouri"	"29"	"2018"	"2018"	"Doctor of Osteopathy(DO)"	"2"	12033
 	"Missouri"	"29"	"2018"	"2018"	"Certified Nurse Midwife(CNM/CM)"	"3"	3456
 	"Missouri"	"29"	"2018"	"2018"	"Other Midwife"	"4"	935
 	"Missouri"	"29"	"2018"	"2018"	"Other"	"5"	360
+	"Missouri"	"29"	"2018"	"2018"	"Unknown or not stated"	"9"	Suppressed
 	"Missouri"	"29"	"2018"	"2018"	"Not Reported"	"100"	0
 	"Missouri"	"29"	"2019"	"2019"	"Doctor of Medicine(MD)"	"1"	55077
 	"Missouri"	"29"	"2019"	"2019"	"Doctor of Osteopathy(DO)"	"2"	12165
 	"Missouri"	"29"	"2019"	"2019"	"Certified Nurse Midwife(CNM/CM)"	"3"	3675
 	"Missouri"	"29"	"2019"	"2019"	"Other Midwife"	"4"	923
 	"Missouri"	"29"	"2019"	"2019"	"Other"	"5"	282
+	"Missouri"	"29"	"2019"	"2019"	"Unknown or not stated"	"9"	Suppressed
 	"Missouri"	"29"	"2019"	"2019"	"Not Reported"	"100"	0
 	"Missouri"	"29"	"2020"	"2020"	"Doctor of Medicine(MD)"	"1"	51816
 	"Missouri"	"29"	"2020"	"2020"	"Doctor of Osteopathy(DO)"	"2"	12039
 	"Missouri"	"29"	"2020"	"2020"	"Certified Nurse Midwife(CNM/CM)"	"3"	3918
 	"Missouri"	"29"	"2020"	"2020"	"Other Midwife"	"4"	1190
 	"Missouri"	"29"	"2020"	"2020"	"Other"	"5"	321
+	"Missouri"	"29"	"2020"	"2020"	"Unknown or not stated"	"9"	Suppressed
 	"Missouri"	"29"	"2020"	"2020"	"Not Reported"	"100"	0
 	"Missouri"	"29"	"2021"	"2021"	"Doctor of Medicine(MD)"	"1"	51088
 	"Missouri"	"29"	"2021"	"2021"	"Doctor of Osteopathy(DO)"	"2"	12926
 	"Missouri"	"29"	"2021"	"2021"	"Certified Nurse Midwife(CNM/CM)"	"3"	3718
 	"Missouri"	"29"	"2021"	"2021"	"Other Midwife"	"4"	1241
 	"Missouri"	"29"	"2021"	"2021"	"Other"	"5"	478
+	"Missouri"	"29"	"2021"	"2021"	"Unknown or not stated"	"9"	Suppressed
 	"Missouri"	"29"	"2021"	"2021"	"Not Reported"	"100"	0
 	"Missouri"	"29"	"2022"	"2022"	"Doctor of Medicine(MD)"	"1"	50154
 	"Missouri"	"29"	"2022"	"2022"	"Doctor of Osteopathy(DO)"	"2"	13049
@@ -948,6 +977,7 @@
 	"Missouri"	"29"	"2023"	"2023"	"Certified Nurse Midwife(CNM/CM)"	"3"	4271
 	"Missouri"	"29"	"2023"	"2023"	"Other Midwife"	"4"	1447
 	"Missouri"	"29"	"2023"	"2023"	"Other"	"5"	424
+	"Missouri"	"29"	"2023"	"2023"	"Unknown or not stated"	"9"	Suppressed
 	"Missouri"	"29"	"2023"	"2023"	"Not Reported"	"100"	0
 	"New Jersey"	"34"	"2010"	"2010"	"Doctor of Medicine(MD)"	"1"	88753
 	"New Jersey"	"34"	"2010"	"2010"	"Doctor of Osteopathy(DO)"	"2"	9857
@@ -961,12 +991,14 @@
 	"New Jersey"	"34"	"2011"	"2011"	"Certified Nurse Midwife(CNM/CM)"	"3"	7564
 	"New Jersey"	"34"	"2011"	"2011"	"Other Midwife"	"4"	149
 	"New Jersey"	"34"	"2011"	"2011"	"Other"	"5"	217
+	"New Jersey"	"34"	"2011"	"2011"	"Unknown or not stated"	"9"	Suppressed
 	"New Jersey"	"34"	"2011"	"2011"	"Not Reported"	"100"	0
 	"New Jersey"	"34"	"2012"	"2012"	"Doctor of Medicine(MD)"	"1"	86793
 	"New Jersey"	"34"	"2012"	"2012"	"Doctor of Osteopathy(DO)"	"2"	9811
 	"New Jersey"	"34"	"2012"	"2012"	"Certified Nurse Midwife(CNM/CM)"	"3"	7191
 	"New Jersey"	"34"	"2012"	"2012"	"Other Midwife"	"4"	189
 	"New Jersey"	"34"	"2012"	"2012"	"Other"	"5"	238
+	"New Jersey"	"34"	"2012"	"2012"	"Unknown or not stated"	"9"	Suppressed
 	"New Jersey"	"34"	"2012"	"2012"	"Not Reported"	"100"	0
 	"New Jersey"	"34"	"2013"	"2013"	"Doctor of Medicine(MD)"	"1"	85315
 	"New Jersey"	"34"	"2013"	"2013"	"Doctor of Osteopathy(DO)"	"2"	9429
@@ -980,6 +1012,7 @@
 	"New Jersey"	"34"	"2014"	"2014"	"Certified Nurse Midwife(CNM/CM)"	"3"	7032
 	"New Jersey"	"34"	"2014"	"2014"	"Other Midwife"	"4"	264
 	"New Jersey"	"34"	"2014"	"2014"	"Other"	"5"	388
+	"New Jersey"	"34"	"2014"	"2014"	"Unknown or not stated"	"9"	Suppressed
 	"New Jersey"	"34"	"2014"	"2014"	"Not Reported"	"100"	0
 	"New Jersey"	"34"	"2015"	"2015"	"Doctor of Medicine(MD)"	"1"	83636
 	"New Jersey"	"34"	"2015"	"2015"	"Doctor of Osteopathy(DO)"	"2"	11567
@@ -1035,6 +1068,7 @@
 	"New Jersey"	"34"	"2022"	"2022"	"Certified Nurse Midwife(CNM/CM)"	"3"	10765
 	"New Jersey"	"34"	"2022"	"2022"	"Other Midwife"	"4"	300
 	"New Jersey"	"34"	"2022"	"2022"	"Other"	"5"	491
+	"New Jersey"	"34"	"2022"	"2022"	"Unknown or not stated"	"9"	Suppressed
 	"New Jersey"	"34"	"2022"	"2022"	"Not Reported"	"100"	0
 	"New Jersey"	"34"	"2023"	"2023"	"Doctor of Medicine(MD)"	"1"	73784
 	"New Jersey"	"34"	"2023"	"2023"	"Doctor of Osteopathy(DO)"	"2"	15382
@@ -1074,12 +1108,14 @@
 	"New York"	"36"	"2014"	"2014"	"Doctor of Medicine(MD)"	"1"	200174
 	"New York"	"36"	"2014"	"2014"	"Doctor of Osteopathy(DO)"	"2"	12237
 	"New York"	"36"	"2014"	"2014"	"Certified Nurse Midwife(CNM/CM)"	"3"	24629
+	"New York"	"36"	"2014"	"2014"	"Other Midwife"	"4"	Suppressed
 	"New York"	"36"	"2014"	"2014"	"Other"	"5"	1579
 	"New York"	"36"	"2014"	"2014"	"Unknown or not stated"	"9"	146
 	"New York"	"36"	"2014"	"2014"	"Not Reported"	"100"	0
 	"New York"	"36"	"2015"	"2015"	"Doctor of Medicine(MD)"	"1"	195890
 	"New York"	"36"	"2015"	"2015"	"Doctor of Osteopathy(DO)"	"2"	14122
 	"New York"	"36"	"2015"	"2015"	"Certified Nurse Midwife(CNM/CM)"	"3"	25305
+	"New York"	"36"	"2015"	"2015"	"Other Midwife"	"4"	Suppressed
 	"New York"	"36"	"2015"	"2015"	"Other"	"5"	1816
 	"New York"	"36"	"2015"	"2015"	"Unknown or not stated"	"9"	133
 	"New York"	"36"	"2015"	"2015"	"Not Reported"	"100"	0
@@ -1242,36 +1278,42 @@
 	"Ohio"	"39"	"2010"	"2010"	"Certified Nurse Midwife(CNM/CM)"	"3"	9426
 	"Ohio"	"39"	"2010"	"2010"	"Other Midwife"	"4"	779
 	"Ohio"	"39"	"2010"	"2010"	"Other"	"5"	909
+	"Ohio"	"39"	"2010"	"2010"	"Unknown or not stated"	"9"	Suppressed
 	"Ohio"	"39"	"2010"	"2010"	"Not Reported"	"100"	0
 	"Ohio"	"39"	"2011"	"2011"	"Doctor of Medicine(MD)"	"1"	107730
 	"Ohio"	"39"	"2011"	"2011"	"Doctor of Osteopathy(DO)"	"2"	18836
 	"Ohio"	"39"	"2011"	"2011"	"Certified Nurse Midwife(CNM/CM)"	"3"	9569
 	"Ohio"	"39"	"2011"	"2011"	"Other Midwife"	"4"	778
 	"Ohio"	"39"	"2011"	"2011"	"Other"	"5"	1000
+	"Ohio"	"39"	"2011"	"2011"	"Unknown or not stated"	"9"	Suppressed
 	"Ohio"	"39"	"2011"	"2011"	"Not Reported"	"100"	0
 	"Ohio"	"39"	"2012"	"2012"	"Doctor of Medicine(MD)"	"1"	107522
 	"Ohio"	"39"	"2012"	"2012"	"Doctor of Osteopathy(DO)"	"2"	19004
 	"Ohio"	"39"	"2012"	"2012"	"Certified Nurse Midwife(CNM/CM)"	"3"	10039
 	"Ohio"	"39"	"2012"	"2012"	"Other Midwife"	"4"	897
 	"Ohio"	"39"	"2012"	"2012"	"Other"	"5"	1014
+	"Ohio"	"39"	"2012"	"2012"	"Unknown or not stated"	"9"	Suppressed
 	"Ohio"	"39"	"2012"	"2012"	"Not Reported"	"100"	0
 	"Ohio"	"39"	"2013"	"2013"	"Doctor of Medicine(MD)"	"1"	107814
 	"Ohio"	"39"	"2013"	"2013"	"Doctor of Osteopathy(DO)"	"2"	19563
 	"Ohio"	"39"	"2013"	"2013"	"Certified Nurse Midwife(CNM/CM)"	"3"	9444
 	"Ohio"	"39"	"2013"	"2013"	"Other Midwife"	"4"	1021
 	"Ohio"	"39"	"2013"	"2013"	"Other"	"5"	1087
+	"Ohio"	"39"	"2013"	"2013"	"Unknown or not stated"	"9"	Suppressed
 	"Ohio"	"39"	"2013"	"2013"	"Not Reported"	"100"	0
 	"Ohio"	"39"	"2014"	"2014"	"Doctor of Medicine(MD)"	"1"	107692
 	"Ohio"	"39"	"2014"	"2014"	"Doctor of Osteopathy(DO)"	"2"	19967
 	"Ohio"	"39"	"2014"	"2014"	"Certified Nurse Midwife(CNM/CM)"	"3"	9727
 	"Ohio"	"39"	"2014"	"2014"	"Other Midwife"	"4"	1022
 	"Ohio"	"39"	"2014"	"2014"	"Other"	"5"	1052
+	"Ohio"	"39"	"2014"	"2014"	"Unknown or not stated"	"9"	Suppressed
 	"Ohio"	"39"	"2014"	"2014"	"Not Reported"	"100"	0
 	"Ohio"	"39"	"2015"	"2015"	"Doctor of Medicine(MD)"	"1"	105775
 	"Ohio"	"39"	"2015"	"2015"	"Doctor of Osteopathy(DO)"	"2"	20897
 	"Ohio"	"39"	"2015"	"2015"	"Certified Nurse Midwife(CNM/CM)"	"3"	10345
 	"Ohio"	"39"	"2015"	"2015"	"Other Midwife"	"4"	1070
 	"Ohio"	"39"	"2015"	"2015"	"Other"	"5"	1168
+	"Ohio"	"39"	"2015"	"2015"	"Unknown or not stated"	"9"	Suppressed
 	"Ohio"	"39"	"2015"	"2015"	"Not Reported"	"100"	0
 	"Ohio"	"39"	"2016"	"2016"	"Doctor of Medicine(MD)"	"1"	103092
 	"Ohio"	"39"	"2016"	"2016"	"Doctor of Osteopathy(DO)"	"2"	22263
@@ -1299,6 +1341,7 @@
 	"Ohio"	"39"	"2019"	"2019"	"Certified Nurse Midwife(CNM/CM)"	"3"	11863
 	"Ohio"	"39"	"2019"	"2019"	"Other Midwife"	"4"	1452
 	"Ohio"	"39"	"2019"	"2019"	"Other"	"5"	810
+	"Ohio"	"39"	"2019"	"2019"	"Unknown or not stated"	"9"	Suppressed
 	"Ohio"	"39"	"2019"	"2019"	"Not Reported"	"100"	0
 	"Ohio"	"39"	"2020"	"2020"	"Doctor of Medicine(MD)"	"1"	92077
 	"Ohio"	"39"	"2020"	"2020"	"Doctor of Osteopathy(DO)"	"2"	23060
@@ -1333,60 +1376,70 @@
 	"Oklahoma"	"40"	"2010"	"2010"	"Certified Nurse Midwife(CNM/CM)"	"3"	2495
 	"Oklahoma"	"40"	"2010"	"2010"	"Other Midwife"	"4"	209
 	"Oklahoma"	"40"	"2010"	"2010"	"Other"	"5"	244
+	"Oklahoma"	"40"	"2010"	"2010"	"Unknown or not stated"	"9"	Suppressed
 	"Oklahoma"	"40"	"2010"	"2010"	"Not Reported"	"100"	0
 	"Oklahoma"	"40"	"2011"	"2011"	"Doctor of Medicine(MD)"	"1"	38179
 	"Oklahoma"	"40"	"2011"	"2011"	"Doctor of Osteopathy(DO)"	"2"	11395
 	"Oklahoma"	"40"	"2011"	"2011"	"Certified Nurse Midwife(CNM/CM)"	"3"	2266
 	"Oklahoma"	"40"	"2011"	"2011"	"Other Midwife"	"4"	188
 	"Oklahoma"	"40"	"2011"	"2011"	"Other"	"5"	243
+	"Oklahoma"	"40"	"2011"	"2011"	"Unknown or not stated"	"9"	Suppressed
 	"Oklahoma"	"40"	"2011"	"2011"	"Not Reported"	"100"	0
 	"Oklahoma"	"40"	"2012"	"2012"	"Doctor of Medicine(MD)"	"1"	37703
 	"Oklahoma"	"40"	"2012"	"2012"	"Doctor of Osteopathy(DO)"	"2"	12566
 	"Oklahoma"	"40"	"2012"	"2012"	"Certified Nurse Midwife(CNM/CM)"	"3"	2017
 	"Oklahoma"	"40"	"2012"	"2012"	"Other Midwife"	"4"	205
 	"Oklahoma"	"40"	"2012"	"2012"	"Other"	"5"	257
+	"Oklahoma"	"40"	"2012"	"2012"	"Unknown or not stated"	"9"	Suppressed
 	"Oklahoma"	"40"	"2012"	"2012"	"Not Reported"	"100"	0
 	"Oklahoma"	"40"	"2013"	"2013"	"Doctor of Medicine(MD)"	"1"	37154
 	"Oklahoma"	"40"	"2013"	"2013"	"Doctor of Osteopathy(DO)"	"2"	13624
 	"Oklahoma"	"40"	"2013"	"2013"	"Certified Nurse Midwife(CNM/CM)"	"3"	2157
 	"Oklahoma"	"40"	"2013"	"2013"	"Other Midwife"	"4"	133
 	"Oklahoma"	"40"	"2013"	"2013"	"Other"	"5"	299
+	"Oklahoma"	"40"	"2013"	"2013"	"Unknown or not stated"	"9"	Suppressed
 	"Oklahoma"	"40"	"2013"	"2013"	"Not Reported"	"100"	0
 	"Oklahoma"	"40"	"2014"	"2014"	"Doctor of Medicine(MD)"	"1"	35852
 	"Oklahoma"	"40"	"2014"	"2014"	"Doctor of Osteopathy(DO)"	"2"	14477
 	"Oklahoma"	"40"	"2014"	"2014"	"Certified Nurse Midwife(CNM/CM)"	"3"	2477
 	"Oklahoma"	"40"	"2014"	"2014"	"Other Midwife"	"4"	274
 	"Oklahoma"	"40"	"2014"	"2014"	"Other"	"5"	256
+	"Oklahoma"	"40"	"2014"	"2014"	"Unknown or not stated"	"9"	Suppressed
 	"Oklahoma"	"40"	"2014"	"2014"	"Not Reported"	"100"	0
 	"Oklahoma"	"40"	"2015"	"2015"	"Doctor of Medicine(MD)"	"1"	34877
 	"Oklahoma"	"40"	"2015"	"2015"	"Doctor of Osteopathy(DO)"	"2"	15040
 	"Oklahoma"	"40"	"2015"	"2015"	"Certified Nurse Midwife(CNM/CM)"	"3"	2661
 	"Oklahoma"	"40"	"2015"	"2015"	"Other Midwife"	"4"	245
 	"Oklahoma"	"40"	"2015"	"2015"	"Other"	"5"	298
+	"Oklahoma"	"40"	"2015"	"2015"	"Unknown or not stated"	"9"	Suppressed
 	"Oklahoma"	"40"	"2015"	"2015"	"Not Reported"	"100"	0
 	"Oklahoma"	"40"	"2016"	"2016"	"Doctor of Medicine(MD)"	"1"	34272
 	"Oklahoma"	"40"	"2016"	"2016"	"Doctor of Osteopathy(DO)"	"2"	15294
 	"Oklahoma"	"40"	"2016"	"2016"	"Certified Nurse Midwife(CNM/CM)"	"3"	2389
 	"Oklahoma"	"40"	"2016"	"2016"	"Other Midwife"	"4"	244
 	"Oklahoma"	"40"	"2016"	"2016"	"Other"	"5"	390
+	"Oklahoma"	"40"	"2016"	"2016"	"Unknown or not stated"	"9"	Suppressed
 	"Oklahoma"	"40"	"2016"	"2016"	"Not Reported"	"100"	0
 	"Oklahoma"	"40"	"2017"	"2017"	"Doctor of Medicine(MD)"	"1"	32630
 	"Oklahoma"	"40"	"2017"	"2017"	"Doctor of Osteopathy(DO)"	"2"	14737
 	"Oklahoma"	"40"	"2017"	"2017"	"Certified Nurse Midwife(CNM/CM)"	"3"	2013
 	"Oklahoma"	"40"	"2017"	"2017"	"Other Midwife"	"4"	356
 	"Oklahoma"	"40"	"2017"	"2017"	"Other"	"5"	477
+	"Oklahoma"	"40"	"2017"	"2017"	"Unknown or not stated"	"9"	Suppressed
 	"Oklahoma"	"40"	"2017"	"2017"	"Not Reported"	"100"	0
 	"Oklahoma"	"40"	"2018"	"2018"	"Doctor of Medicine(MD)"	"1"	32408
 	"Oklahoma"	"40"	"2018"	"2018"	"Doctor of Osteopathy(DO)"	"2"	14719
 	"Oklahoma"	"40"	"2018"	"2018"	"Certified Nurse Midwife(CNM/CM)"	"3"	1932
 	"Oklahoma"	"40"	"2018"	"2018"	"Other Midwife"	"4"	330
 	"Oklahoma"	"40"	"2018"	"2018"	"Other"	"5"	408
+	"Oklahoma"	"40"	"2018"	"2018"	"Unknown or not stated"	"9"	Suppressed
 	"Oklahoma"	"40"	"2018"	"2018"	"Not Reported"	"100"	0
 	"Oklahoma"	"40"	"2019"	"2019"	"Doctor of Medicine(MD)"	"1"	31218
 	"Oklahoma"	"40"	"2019"	"2019"	"Doctor of Osteopathy(DO)"	"2"	15291
 	"Oklahoma"	"40"	"2019"	"2019"	"Certified Nurse Midwife(CNM/CM)"	"3"	1789
 	"Oklahoma"	"40"	"2019"	"2019"	"Other Midwife"	"4"	354
 	"Oklahoma"	"40"	"2019"	"2019"	"Other"	"5"	487
+	"Oklahoma"	"40"	"2019"	"2019"	"Unknown or not stated"	"9"	Suppressed
 	"Oklahoma"	"40"	"2019"	"2019"	"Not Reported"	"100"	0
 	"Oklahoma"	"40"	"2020"	"2020"	"Doctor of Medicine(MD)"	"1"	29612
 	"Oklahoma"	"40"	"2020"	"2020"	"Doctor of Osteopathy(DO)"	"2"	15228
@@ -1414,6 +1467,7 @@
 	"Oklahoma"	"40"	"2023"	"2023"	"Certified Nurse Midwife(CNM/CM)"	"3"	1905
 	"Oklahoma"	"40"	"2023"	"2023"	"Other Midwife"	"4"	411
 	"Oklahoma"	"40"	"2023"	"2023"	"Other"	"5"	945
+	"Oklahoma"	"40"	"2023"	"2023"	"Unknown or not stated"	"9"	Suppressed
 	"Oklahoma"	"40"	"2023"	"2023"	"Not Reported"	"100"	0
 	"Pennsylvania"	"42"	"2010"	"2010"	"Doctor of Medicine(MD)"	"1"	111254
 	"Pennsylvania"	"42"	"2010"	"2010"	"Doctor of Osteopathy(DO)"	"2"	15360
@@ -1441,6 +1495,7 @@
 	"Pennsylvania"	"42"	"2013"	"2013"	"Certified Nurse Midwife(CNM/CM)"	"3"	16075
 	"Pennsylvania"	"42"	"2013"	"2013"	"Other Midwife"	"4"	2107
 	"Pennsylvania"	"42"	"2013"	"2013"	"Other"	"5"	1049
+	"Pennsylvania"	"42"	"2013"	"2013"	"Unknown or not stated"	"9"	Suppressed
 	"Pennsylvania"	"42"	"2013"	"2013"	"Not Reported"	"100"	0
 	"Pennsylvania"	"42"	"2014"	"2014"	"Doctor of Medicine(MD)"	"1"	103708
 	"Pennsylvania"	"42"	"2014"	"2014"	"Doctor of Osteopathy(DO)"	"2"	17676
@@ -1601,12 +1656,14 @@
 	"South Carolina"	"45"	"2022"	"2022"	"Certified Nurse Midwife(CNM/CM)"	"3"	3429
 	"South Carolina"	"45"	"2022"	"2022"	"Other Midwife"	"4"	855
 	"South Carolina"	"45"	"2022"	"2022"	"Other"	"5"	383
+	"South Carolina"	"45"	"2022"	"2022"	"Unknown or not stated"	"9"	Suppressed
 	"South Carolina"	"45"	"2022"	"2022"	"Not Reported"	"100"	0
 	"South Carolina"	"45"	"2023"	"2023"	"Doctor of Medicine(MD)"	"1"	49941
 	"South Carolina"	"45"	"2023"	"2023"	"Doctor of Osteopathy(DO)"	"2"	2847
 	"South Carolina"	"45"	"2023"	"2023"	"Certified Nurse Midwife(CNM/CM)"	"3"	3614
 	"South Carolina"	"45"	"2023"	"2023"	"Other Midwife"	"4"	844
 	"South Carolina"	"45"	"2023"	"2023"	"Other"	"5"	478
+	"South Carolina"	"45"	"2023"	"2023"	"Unknown or not stated"	"9"	Suppressed
 	"South Carolina"	"45"	"2023"	"2023"	"Not Reported"	"100"	0
 	"Texas"	"48"	"2010"	"2010"	"Doctor of Medicine(MD)"	"1"	351848
 	"Texas"	"48"	"2010"	"2010"	"Doctor of Osteopathy(DO)"	"2"	16642
@@ -1814,23 +1871,22 @@
 "Group By: State; Year; Medical Attendant"
 "Show Totals: Disabled"
 "Show Zero Values: True"
-"Show Suppressed: False"
+"Show Suppressed: True"
 "Calculate Rates Per: 1,000"
 "Population Option: No populations shown because rates were not selected."
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
 "---"
-"Query Date: Mar 25, 2025 1:17:26 AM"
+"Query Date: Mar 26, 2025 3:06:27 AM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
 "the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
-"http://wonder.cdc.gov/natality-current.html on Mar 25, 2025 1:17:26 AM"
+"http://wonder.cdc.gov/natality-current.html on Mar 26, 2025 3:06:27 AM"
 "---"
 Messages:
 "1. Totals are not available for these results due to suppression constraints. More Information:"
 "http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
-"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
 "---"
 Caveats:
 "1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"
