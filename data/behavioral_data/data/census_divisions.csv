@@ -1,0 +1,51 @@
+﻿State,Census Division,Census Division Code,Region
+Connecticut,Division 1: New England,CENS-D1,Region 1: Northeast
+Maine,Division 1: New England,CENS-D1,Region 1: Northeast
+Massachusetts,Division 1: New England,CENS-D1,Region 1: Northeast
+New Hampshire,Division 1: New England,CENS-D1,Region 1: Northeast
+Rhode Island,Division 1: New England,CENS-D1,Region 1: Northeast
+Vermont,Division 1: New England,CENS-D1,Region 1: Northeast
+New Jersey,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast
+New York,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast
+Pennsylvania,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast
+Indiana,Division 3: East North Central,CENS-D3,Region 2: Midwest
+Illinois,Division 3: East North Central,CENS-D3,Region 2: Midwest
+Michigan,Division 3: East North Central,CENS-D3,Region 2: Midwest
+Ohio,Division 3: East North Central,CENS-D3,Region 2: Midwest
+Wisconsin,Division 3: East North Central,CENS-D3,Region 2: Midwest
+Iowa,Division 4: West North Central,CENS-D4,Region 2: Midwest
+Kansas,Division 4: West North Central,CENS-D4,Region 2: Midwest
+Minnesota,Division 4: West North Central,CENS-D4,Region 2: Midwest
+Missouri,Division 4: West North Central,CENS-D4,Region 2: Midwest
+Nebraska,Division 4: West North Central,CENS-D4,Region 2: Midwest
+North Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest
+South Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest
+Delaware,Division 5: South Atlantic,CENS-D5,Region 3: South
+Florida,Division 5: South Atlantic,CENS-D5,Region 3: South
+Georgia,Division 5: South Atlantic,CENS-D5,Region 3: South
+Maryland,Division 5: South Atlantic,CENS-D5,Region 3: South
+North Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South
+South Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South
+Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South
+West Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South
+Alabama,Division 6: East South Central,CENS-D6,Region 3: South
+Kentucky,Division 6: East South Central,CENS-D6,Region 3: South
+Mississippi,Division 6: East South Central,CENS-D6,Region 3: South
+Tennessee,Division 6: East South Central,CENS-D6,Region 3: South
+Arkansas,Division 7: West South Central,CENS-D7,Region 3: South
+Louisiana,Division 7: West South Central,CENS-D7,Region 3: South
+Oklahoma,Division 7: West South Central,CENS-D7,Region 3: South
+Texas,Division 7: West South Central,CENS-D7,Region 3: South
+Arizona,Division 8: Mountain,CENS-D8,Region 4: West
+Colorado,Division 8: Mountain,CENS-D8,Region 4: West
+Idaho,Division 8: Mountain,CENS-D8,Region 4: West
+New Mexico,Division 8: Mountain,CENS-D8,Region 4: West
+Montana,Division 8: Mountain,CENS-D8,Region 4: West
+Utah,Division 8: Mountain,CENS-D8,Region 4: West
+Nevada,Division 8: Mountain,CENS-D8,Region 4: West
+Wyoming,Division 8: Mountain,CENS-D8,Region 4: West
+Alaska,Division 9: Pacific,CENS-D9,Region 4: West
+California,Division 9: Pacific,CENS-D9,Region 4: West
+Hawaii,Division 9: Pacific,CENS-D9,Region 4: West
+Oregon,Division 9: Pacific,CENS-D9,Region 4: West
+Washington,Division 9: Pacific,CENS-D9,Region 4: West

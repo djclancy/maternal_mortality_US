@@ -1,0 +1,651 @@
+,Year,State,Census Division,Census Division Code,Region,Female_Population,Percent_Overweight,Percent_Obese,Percent_Overweight_or_Obese,Percent_No_Activity
+0,2011,Alaska,Division 9: Pacific,CENS-D9,Region 4: West,349802,31.3,26.7,58.0,24.0
+1,2012,Alaska,Division 9: Pacific,CENS-D9,Region 4: West,350355,32.8,25.4,58.199999999999996,20.1
+2,2013,Alaska,Division 9: Pacific,CENS-D9,Region 4: West,350355,31.2,27.5,58.7,21.7
+3,2014,Alaska,Division 9: Pacific,CENS-D9,Region 4: West,351150,29.4,30.2,59.599999999999994,20.3
+4,2015,Alaska,Division 9: Pacific,CENS-D9,Region 4: West,349737,30.9,30.5,61.4,23.2
+5,2016,Alaska,Division 9: Pacific,CENS-D9,Region 4: West,351321,31.7,30.3,62.0,21.2
+6,2017,Alaska,Division 9: Pacific,CENS-D9,Region 4: West,354019,26.5,36.1,62.6,20.2
+7,2018,Alaska,Division 9: Pacific,CENS-D9,Region 4: West,354486,28.3,28.5,56.8,22.1
+8,2019,Alaska,Division 9: Pacific,CENS-D9,Region 4: West,351112,31.4,30.6,62.0,21.2
+9,2020,Alaska,Division 9: Pacific,CENS-D9,Region 4: West,352337,30.0,29.6,59.6,24.7
+10,2021,Alaska,Division 9: Pacific,CENS-D9,Region 4: West,349552,29.6,34.9,64.5,22.3
+11,2022,Alaska,Division 9: Pacific,CENS-D9,Region 4: West,347916,30.1,33.3,63.4,24.2
+12,2023,Alaska,Division 9: Pacific,CENS-D9,Region 4: West,347551,28.3,34.3,62.599999999999994,21.2
+13,2011,Alabama,Division 6: East South Central,CENS-D6,Region 3: South,2478327,30.5,31.8,62.3,35.3
+14,2012,Alabama,Division 6: East South Central,CENS-D6,Region 3: South,2485732,30.1,34.1,64.2,30.4
+15,2013,Alabama,Division 6: East South Central,CENS-D6,Region 3: South,2485732,30.9,34.0,64.9,35.6
+16,2014,Alabama,Division 6: East South Central,CENS-D6,Region 3: South,2501408,29.8,32.9,62.7,30.8
+17,2015,Alabama,Division 6: East South Central,CENS-D6,Region 3: South,2506169,28.4,36.4,64.8,33.7
+18,2016,Alabama,Division 6: East South Central,CENS-D6,Region 3: South,2507248,29.5,35.2,64.7,32.9
+19,2017,Alabama,Division 6: East South Central,CENS-D6,Region 3: South,2514851,30.2,37.4,67.6,35.8
+20,2018,Alabama,Division 6: East South Central,CENS-D6,Region 3: South,2518600,29.6,37.8,67.4,33.8
+21,2019,Alabama,Division 6: East South Central,CENS-D6,Region 3: South,2533574,30.1,36.2,66.30000000000001,34.3
+22,2020,Alabama,Division 6: East South Central,CENS-D6,Region 3: South,2527452,29.8,40.3,70.1,32.1
+23,2021,Alabama,Division 6: East South Central,CENS-D6,Region 3: South,2593981,27.7,41.6,69.3,35.7
+24,2022,Alabama,Division 6: East South Central,CENS-D6,Region 3: South,2613048,30.5,40.6,71.1,34.2
+25,2023,Alabama,Division 6: East South Central,CENS-D6,Region 3: South,2636667,29.7,40.7,70.4,32.9
+26,2011,Arkansas,Division 7: West South Central,CENS-D7,Region 3: South,1490129,28.6,31.2,59.8,34.1
+27,2012,Arkansas,Division 7: West South Central,CENS-D7,Region 3: South,1499866,26.8,35.1,61.900000000000006,33.7
+28,2013,Arkansas,Division 7: West South Central,CENS-D7,Region 3: South,1499866,31.1,34.1,65.2,36.4
+29,2014,Arkansas,Division 7: West South Central,CENS-D7,Region 3: South,1509591,29.6,36.0,65.6,32.4
+30,2015,Arkansas,Division 7: West South Central,CENS-D7,Region 3: South,1514628,32.0,33.9,65.9,37.9
+31,2016,Arkansas,Division 7: West South Central,CENS-D7,Region 3: South,1519466,27.0,39.4,66.4,35.4
+32,2017,Arkansas,Division 7: West South Central,CENS-D7,Region 3: South,1524597,28.8,37.4,66.2,35.9
+33,2018,Arkansas,Division 7: West South Central,CENS-D7,Region 3: South,1537145,29.4,39.4,68.8,33.4
+34,2019,Arkansas,Division 7: West South Central,CENS-D7,Region 3: South,1543099,29.2,39.0,68.2,34.1
+35,2020,Arkansas,Division 7: West South Central,CENS-D7,Region 3: South,1533362,24.8,39.1,63.900000000000006,34.0
+36,2021,Arkansas,Division 7: West South Central,CENS-D7,Region 3: South,1532210,28.9,38.6,67.5,32.9
+37,2022,Arkansas,Division 7: West South Central,CENS-D7,Region 3: South,1541149,29.4,39.6,69.0,34.5
+38,2023,Arkansas,Division 7: West South Central,CENS-D7,Region 3: South,1555531,28.3,41.7,70.0,35.7
+39,2011,Arizona,Division 8: Mountain,CENS-D8,Region 4: West,3253991,29.1,25.8,54.900000000000006,24.5
+40,2012,Arizona,Division 8: Mountain,CENS-D8,Region 4: West,3292568,28.2,25.6,53.8,23.9
+41,2013,Arizona,Division 8: Mountain,CENS-D8,Region 4: West,3292568,26.8,27.1,53.900000000000006,27.0
+42,2014,Arizona,Division 8: Mountain,CENS-D8,Region 4: West,3388538,29.5,28.8,58.3,23.2
+43,2015,Arizona,Division 8: Mountain,CENS-D8,Region 4: West,3440680,32.0,27.1,59.1,25.3
+44,2016,Arizona,Division 8: Mountain,CENS-D8,Region 4: West,3486843,28.9,27.8,56.7,25.4
+45,2017,Arizona,Division 8: Mountain,CENS-D8,Region 4: West,3528548,29.2,28.8,58.0,26.5
+46,2018,Arizona,Division 8: Mountain,CENS-D8,Region 4: West,3606517,30.3,28.0,58.3,25.8
+47,2019,Arizona,Division 8: Mountain,CENS-D8,Region 4: West,3657782,28.8,32.1,60.900000000000006,25.9
+48,2020,Arizona,Division 8: Mountain,CENS-D8,Region 4: West,3609085,30.6,31.0,61.6,24.3
+49,2021,Arizona,Division 8: Mountain,CENS-D8,Region 4: West,3646696,31.4,31.6,63.0,25.9
+50,2022,Arizona,Division 8: Mountain,CENS-D8,Region 4: West,3680816,27.8,33.8,61.599999999999994,26.5
+51,2023,Arizona,Division 8: Mountain,CENS-D8,Region 4: West,3722672,29.9,31.6,61.5,24.4
+52,2011,California,Division 9: Pacific,CENS-D9,Region 4: West,18941220,28.5,24.5,53.0,20.1
+53,2012,California,Division 9: Pacific,CENS-D9,Region 4: West,19123657,29.8,23.8,53.6,21.1
+54,2013,California,Division 9: Pacific,CENS-D9,Region 4: West,19123657,29.7,23.1,52.8,21.8
+55,2014,California,Division 9: Pacific,CENS-D9,Region 4: West,19538043,27.6,25.4,53.0,23.0
+56,2015,California,Division 9: Pacific,CENS-D9,Region 4: West,19704260,30.2,23.7,53.9,20.3
+57,2016,California,Division 9: Pacific,CENS-D9,Region 4: West,19758786,29.5,25.2,54.7,22.3
+58,2017,California,Division 9: Pacific,CENS-D9,Region 4: West,19886602,29.6,25.8,55.400000000000006,21.1
+59,2018,California,Division 9: Pacific,CENS-D9,Region 4: West,19883492,30.4,25.6,56.0,22.5
+60,2019,California,Division 9: Pacific,CENS-D9,Region 4: West,19871429,30.3,28.0,58.3,24.3
+61,2020,California,Division 9: Pacific,CENS-D9,Region 4: West,19783141,30.0,29.8,59.8,21.9
+62,2021,California,Division 9: Pacific,CENS-D9,Region 4: West,19618902,29.3,28.7,58.0,22.0
+63,2022,California,Division 9: Pacific,CENS-D9,Region 4: West,19492917,29.2,27.9,57.099999999999994,23.9
+64,2023,California,Division 9: Pacific,CENS-D9,Region 4: West,19514495,30.2,26.9,57.099999999999994,24.7
+65,2011,Colorado,Division 8: Mountain,CENS-D8,Region 4: West,2547660,26.7,20.3,47.0,17.1
+66,2012,Colorado,Division 8: Mountain,CENS-D8,Region 4: West,2586212,27.2,19.8,47.0,18.3
+67,2013,Colorado,Division 8: Mountain,CENS-D8,Region 4: West,2586212,27.1,21.8,48.900000000000006,18.6
+68,2014,Colorado,Division 8: Mountain,CENS-D8,Region 4: West,2663267,28.5,20.7,49.2,18.0
+69,2015,Colorado,Division 8: Mountain,CENS-D8,Region 4: West,2715554,28.0,20.2,48.2,18.0
+70,2016,Colorado,Division 8: Mountain,CENS-D8,Region 4: West,2749844,28.1,22.2,50.3,16.5
+71,2017,Colorado,Division 8: Mountain,CENS-D8,Region 4: West,2786985,27.7,23.8,51.5,20.6
+72,2018,Colorado,Division 8: Mountain,CENS-D8,Region 4: West,2830803,28.4,24.2,52.599999999999994,17.3
+73,2019,Colorado,Division 8: Mountain,CENS-D8,Region 4: West,2853781,28.9,23.0,51.9,18.6
+74,2020,Colorado,Division 8: Mountain,CENS-D8,Region 4: West,2822773,29.8,24.1,53.900000000000006,18.1
+75,2021,Colorado,Division 8: Mountain,CENS-D8,Region 4: West,2869032,29.9,25.8,55.7,19.0
+76,2022,Colorado,Division 8: Mountain,CENS-D8,Region 4: West,2879030,29.5,25.2,54.7,17.8
+77,2023,Colorado,Division 8: Mountain,CENS-D8,Region 4: West,2897502,29.2,25.3,54.5,18.5
+78,2011,Connecticut,Division 1: New England,CENS-D1,Region 1: Northeast,1836914,28.3,23.6,51.900000000000006,27.0
+79,2012,Connecticut,Division 1: New England,CENS-D1,Region 1: Northeast,1840541,29.2,24.1,53.3,23.3
+80,2013,Connecticut,Division 1: New England,CENS-D1,Region 1: Northeast,1840541,31.4,24.4,55.8,26.5
+81,2014,Connecticut,Division 1: New England,CENS-D1,Region 1: Northeast,1842561,28.1,26.0,54.1,23.2
+82,2015,Connecticut,Division 1: New England,CENS-D1,Region 1: Northeast,1838823,29.8,23.9,53.7,25.3
+83,2016,Connecticut,Division 1: New England,CENS-D1,Region 1: Northeast,1831299,29.2,25.0,54.2,22.8
+84,2017,Connecticut,Division 1: New England,CENS-D1,Region 1: Northeast,1837537,31.0,24.4,55.4,25.5
+85,2018,Connecticut,Division 1: New England,CENS-D1,Region 1: Northeast,1832132,30.3,26.4,56.7,24.6
+86,2019,Connecticut,Division 1: New England,CENS-D1,Region 1: Northeast,1821510,31.0,28.3,59.3,25.3
+87,2020,Connecticut,Division 1: New England,CENS-D1,Region 1: Northeast,1828861,28.4,30.0,58.4,22.4
+88,2021,Connecticut,Division 1: New England,CENS-D1,Region 1: Northeast,1837552,28.7,30.7,59.4,26.3
+89,2022,Connecticut,Division 1: New England,CENS-D1,Region 1: Northeast,1849516,30.3,30.8,61.1,26.5
+90,2023,Connecticut,Division 1: New England,CENS-D1,Region 1: Northeast,1841458,29.7,30.0,59.7,28.5
+91,2011,Delaware,Division 5: South Atlantic,CENS-D5,Region 3: South,467217,28.7,28.6,57.3,27.4
+92,2012,Delaware,Division 5: South Atlantic,CENS-D5,Region 3: South,472401,32.5,27.8,60.3,26.1
+93,2013,Delaware,Division 5: South Atlantic,CENS-D5,Region 3: South,472401,27.0,31.5,58.5,30.3
+94,2014,Delaware,Division 5: South Atlantic,CENS-D5,Region 3: South,481609,31.2,31.9,63.099999999999994,26.9
+95,2015,Delaware,Division 5: South Atlantic,CENS-D5,Region 3: South,487726,30.2,31.2,61.4,30.9
+96,2016,Delaware,Division 5: South Atlantic,CENS-D5,Region 3: South,491833,32.3,30.7,63.0,30.5
+97,2017,Delaware,Division 5: South Atlantic,CENS-D5,Region 3: South,496429,32.5,31.3,63.8,33.7
+98,2018,Delaware,Division 5: South Atlantic,CENS-D5,Region 3: South,499247,29.2,33.5,62.7,30.0
+99,2019,Delaware,Division 5: South Atlantic,CENS-D5,Region 3: South,503476,29.5,35.0,64.5,28.6
+100,2020,Delaware,Division 5: South Atlantic,CENS-D5,Region 3: South,499959,28.9,37.7,66.6,26.5
+101,2021,Delaware,Division 5: South Atlantic,CENS-D5,Region 3: South,517476,29.7,36.1,65.8,31.8
+102,2022,Delaware,Division 5: South Atlantic,CENS-D5,Region 3: South,523739,28.1,40.5,68.6,26.6
+103,2023,Delaware,Division 5: South Atlantic,CENS-D5,Region 3: South,532896,30.5,37.7,68.2,29.1
+104,2011,Florida,Division 5: South Atlantic,CENS-D5,Region 3: South,9736393,30.4,25.6,56.0,29.2
+105,2012,Florida,Division 5: South Atlantic,CENS-D5,Region 3: South,9876567,31.2,23.9,55.099999999999994,26.1
+106,2013,Florida,Division 5: South Atlantic,CENS-D5,Region 3: South,9876567,30.0,25.3,55.3,30.0
+107,2014,Florida,Division 5: South Atlantic,CENS-D5,Region 3: South,10171069,29.5,26.6,56.1,26.6
+108,2015,Florida,Division 5: South Atlantic,CENS-D5,Region 3: South,10380034,32.0,25.9,57.9,26.9
+109,2016,Florida,Division 5: South Atlantic,CENS-D5,Region 3: South,10541579,30.1,26.6,56.7,32.3
+110,2017,Florida,Division 5: South Atlantic,CENS-D5,Region 3: South,10730133,30.8,27.3,58.1,31.3
+111,2018,Florida,Division 5: South Atlantic,CENS-D5,Region 3: South,10894649,30.8,30.2,61.0,29.4
+112,2019,Florida,Division 5: South Atlantic,CENS-D5,Region 3: South,10979732,32.5,27.2,59.7,27.2
+113,2020,Florida,Division 5: South Atlantic,CENS-D5,Region 3: South,10842330,30.1,27.9,58.0,29.9
+114,2021,Florida,Division 5: South Atlantic,CENS-D5,Region 3: South,11066608,,,,
+115,2022,Florida,Division 5: South Atlantic,CENS-D5,Region 3: South,11291355,30.1,30.8,60.900000000000006,26.6
+116,2023,Florida,Division 5: South Atlantic,CENS-D5,Region 3: South,11494151,29.9,29.3,59.2,27.8
+117,2011,Georgia,Division 5: South Atlantic,CENS-D5,Region 3: South,5006214,28.4,29.3,57.7,29.7
+118,2012,Georgia,Division 5: South Atlantic,CENS-D5,Region 3: South,5068892,29.9,30.5,60.4,25.7
+119,2013,Georgia,Division 5: South Atlantic,CENS-D5,Region 3: South,5068892,29.8,31.5,61.3,31.1
+120,2014,Georgia,Division 5: South Atlantic,CENS-D5,Region 3: South,5175404,28.4,32.4,60.8,25.8
+121,2015,Georgia,Division 5: South Atlantic,CENS-D5,Region 3: South,5239402,27.2,32.3,59.5,29.6
+122,2016,Georgia,Division 5: South Atlantic,CENS-D5,Region 3: South,5292221,28.8,33.1,61.900000000000006,30.2
+123,2017,Georgia,Division 5: South Atlantic,CENS-D5,Region 3: South,5358658,27.9,33.6,61.5,32.9
+124,2018,Georgia,Division 5: South Atlantic,CENS-D5,Region 3: South,5399185,31.0,33.3,64.3,29.3
+125,2019,Georgia,Division 5: South Atlantic,CENS-D5,Region 3: South,5447297,29.5,33.6,63.1,29.6
+126,2020,Georgia,Division 5: South Atlantic,CENS-D5,Region 3: South,5402643,27.5,35.2,62.7,27.6
+127,2021,Georgia,Division 5: South Atlantic,CENS-D5,Region 3: South,5529422,30.7,35.8,66.5,26.3
+128,2022,Georgia,Division 5: South Atlantic,CENS-D5,Region 3: South,5588925,26.5,39.9,66.4,27.3
+129,2023,Georgia,Division 5: South Atlantic,CENS-D5,Region 3: South,5650723,29.6,38.3,67.9,27.0
+130,2011,Hawaii,Division 9: Pacific,CENS-D9,Region 4: West,686210,27.6,19.2,46.8,24.4
+131,2012,Hawaii,Division 9: Pacific,CENS-D9,Region 4: West,691117,26.2,20.3,46.5,22.6
+132,2013,Hawaii,Division 9: Pacific,CENS-D9,Region 4: West,691117,27.0,18.7,45.7,25.4
+133,2014,Hawaii,Division 9: Pacific,CENS-D9,Region 4: West,702248,28.3,21.0,49.3,23.2
+134,2015,Hawaii,Division 9: Pacific,CENS-D9,Region 4: West,706968,28.0,19.7,47.7,25.5
+135,2016,Hawaii,Division 9: Pacific,CENS-D9,Region 4: West,710500,26.5,21.4,47.9,22.1
+136,2017,Hawaii,Division 9: Pacific,CENS-D9,Region 4: West,711188,28.0,22.4,50.4,28.3
+137,2018,Hawaii,Division 9: Pacific,CENS-D9,Region 4: West,709789,28.3,23.0,51.3,23.5
+138,2019,Hawaii,Division 9: Pacific,CENS-D9,Region 4: West,708017,27.0,21.9,48.9,27.2
+139,2020,Hawaii,Division 9: Pacific,CENS-D9,Region 4: West,707824,27.6,22.3,49.900000000000006,21.7
+140,2021,Hawaii,Division 9: Pacific,CENS-D9,Region 4: West,715949,29.6,21.5,51.1,22.8
+141,2022,Hawaii,Division 9: Pacific,CENS-D9,Region 4: West,714887,27.0,24.8,51.8,24.5
+142,2023,Hawaii,Division 9: Pacific,CENS-D9,Region 4: West,715998,27.2,25.3,52.5,25.3
+143,2011,Iowa,Division 4: West North Central,CENS-D4,Region 2: Midwest,1550058,30.6,27.4,58.0,25.0
+144,2012,Iowa,Division 4: West North Central,CENS-D4,Region 2: Midwest,1550079,28.8,29.3,58.1,23.2
+145,2013,Iowa,Division 4: West North Central,CENS-D4,Region 2: Midwest,1550079,30.2,30.1,60.3,28.2
+146,2014,Iowa,Division 4: West North Central,CENS-D4,Region 2: Midwest,1562325,30.3,29.8,60.1,24.1
+147,2015,Iowa,Division 4: West North Central,CENS-D4,Region 2: Midwest,1574610,29.8,29.3,59.1,25.6
+148,2016,Iowa,Division 4: West North Central,CENS-D4,Region 2: Midwest,1578025,30.6,30.0,60.6,23.6
+149,2017,Iowa,Division 4: West North Central,CENS-D4,Region 2: Midwest,1583446,29.0,36.4,65.4,24.5
+150,2018,Iowa,Division 4: West North Central,CENS-D4,Region 2: Midwest,1591257,29.4,34.6,64.0,23.4
+151,2019,Iowa,Division 4: West North Central,CENS-D4,Region 2: Midwest,1584686,29.9,32.6,62.5,25.7
+152,2020,Iowa,Division 4: West North Central,CENS-D4,Region 2: Midwest,1585575,29.7,36.2,65.9,24.7
+153,2021,Iowa,Division 4: West North Central,CENS-D4,Region 2: Midwest,1589812,29.5,36.4,65.9,26.9
+154,2022,Iowa,Division 4: West North Central,CENS-D4,Region 2: Midwest,1592858,28.3,39.1,67.4,28.3
+155,2023,Iowa,Division 4: West North Central,CENS-D4,Region 2: Midwest,1604691,29.7,38.6,68.3,25.1
+156,2011,Idaho,Division 8: Mountain,CENS-D8,Region 4: West,790071,27.6,27.9,55.5,22.2
+157,2012,Idaho,Division 8: Mountain,CENS-D8,Region 4: West,797016,28.7,26.2,54.9,20.4
+158,2013,Idaho,Division 8: Mountain,CENS-D8,Region 4: West,797016,28.9,27.9,56.8,23.5
+159,2014,Idaho,Division 8: Mountain,CENS-D8,Region 4: West,817414,29.6,29.2,58.8,18.6
+160,2015,Idaho,Division 8: Mountain,CENS-D8,Region 4: West,828111,30.6,27.3,57.900000000000006,20.6
+161,2016,Idaho,Division 8: Mountain,CENS-D8,Region 4: West,841937,30.0,26.6,56.6,21.4
+162,2017,Idaho,Division 8: Mountain,CENS-D8,Region 4: West,854223,30.4,28.2,58.599999999999994,22.4
+163,2018,Idaho,Division 8: Mountain,CENS-D8,Region 4: West,872050,28.8,27.1,55.900000000000006,22.0
+164,2019,Idaho,Division 8: Mountain,CENS-D8,Region 4: West,889021,27.7,30.6,58.3,23.8
+165,2020,Idaho,Division 8: Mountain,CENS-D8,Region 4: West,874604,27.8,30.2,58.0,21.6
+166,2021,Idaho,Division 8: Mountain,CENS-D8,Region 4: West,946610,30.9,31.8,62.7,21.2
+167,2022,Idaho,Division 8: Mountain,CENS-D8,Region 4: West,962108,30.9,33.0,63.9,23.0
+168,2023,Idaho,Division 8: Mountain,CENS-D8,Region 4: West,976269,30.7,31.1,61.8,22.0
+169,2011,Illinois,Division 3: East North Central,CENS-D3,Region 2: Midwest,6559951,29.2,26.5,55.7,26.9
+170,2012,Illinois,Division 3: East North Central,CENS-D3,Region 2: Midwest,6558602,29.8,28.0,57.8,23.4
+171,2013,Illinois,Division 3: East North Central,CENS-D3,Region 2: Midwest,6558602,29.9,30.5,60.4,26.7
+172,2014,Illinois,Division 3: East North Central,CENS-D3,Region 2: Midwest,6559975,28.6,30.7,59.3,25.7
+173,2015,Illinois,Division 3: East North Central,CENS-D3,Region 2: Midwest,6549560,27.5,31.9,59.4,25.5
+174,2016,Illinois,Division 3: East North Central,CENS-D3,Region 2: Midwest,6511815,27.5,31.0,58.5,26.2
+175,2017,Illinois,Division 3: East North Central,CENS-D3,Region 2: Midwest,6507123,31.0,30.5,61.5,25.8
+176,2018,Illinois,Division 3: East North Central,CENS-D3,Region 2: Midwest,6475018,28.7,33.2,61.900000000000006,27.0
+177,2019,Illinois,Division 3: East North Central,CENS-D3,Region 2: Midwest,6454516,28.7,32.2,60.900000000000006,26.8
+178,2020,Illinois,Division 3: East North Central,CENS-D3,Region 2: Midwest,6469081,33.9,30.7,64.6,25.0
+179,2021,Illinois,Division 3: East North Central,CENS-D3,Region 2: Midwest,6407105,29.8,34.7,64.5,29.4
+180,2022,Illinois,Division 3: East North Central,CENS-D3,Region 2: Midwest,6352997,27.4,35.7,63.1,24.9
+181,2023,Illinois,Division 3: East North Central,CENS-D3,Region 2: Midwest,6352031,32.4,36.0,68.4,22.1
+182,2011,Indiana,Division 3: East North Central,CENS-D3,Region 2: Midwest,3310492,29.7,30.8,60.5,29.3
+183,2012,Indiana,Division 3: East North Central,CENS-D3,Region 2: Midwest,3320189,28.0,30.9,58.9,27.4
+184,2013,Indiana,Division 3: East North Central,CENS-D3,Region 2: Midwest,3320189,29.6,32.6,62.2,33.1
+185,2014,Indiana,Division 3: East North Central,CENS-D3,Region 2: Midwest,3352876,29.2,33.0,62.2,28.1
+186,2015,Indiana,Division 3: East North Central,CENS-D3,Region 2: Midwest,3366591,29.8,30.7,60.5,31.0
+187,2016,Indiana,Division 3: East North Central,CENS-D3,Region 2: Midwest,3365716,30.4,32.6,63.0,28.5
+188,2017,Indiana,Division 3: East North Central,CENS-D3,Region 2: Midwest,3380666,29.0,33.7,62.7,31.6
+189,2018,Indiana,Division 3: East North Central,CENS-D3,Region 2: Midwest,3395905,28.7,34.2,62.900000000000006,30.4
+190,2019,Indiana,Division 3: East North Central,CENS-D3,Region 2: Midwest,3412312,28.8,35.7,64.5,32.0
+191,2020,Indiana,Division 3: East North Central,CENS-D3,Region 2: Midwest,3396543,27.2,38.1,65.3,28.9
+192,2021,Indiana,Division 3: East North Central,CENS-D3,Region 2: Midwest,3431054,27.6,38.2,65.80000000000001,27.5
+193,2022,Indiana,Division 3: East North Central,CENS-D3,Region 2: Midwest,3440370,29.4,38.8,68.19999999999999,30.8
+194,2023,Indiana,Division 3: East North Central,CENS-D3,Region 2: Midwest,3450034,27.7,40.5,68.2,28.1
+195,2011,Kansas,Division 4: West North Central,CENS-D4,Region 2: Midwest,1448050,28.5,29.1,57.6,26.5
+196,2012,Kansas,Division 4: West North Central,CENS-D4,Region 2: Midwest,1451288,29.8,29.0,58.8,24.9
+197,2013,Kansas,Division 4: West North Central,CENS-D4,Region 2: Midwest,1451288,29.8,29.4,59.2,26.9
+198,2014,Kansas,Division 4: West North Central,CENS-D4,Region 2: Midwest,1459076,28.4,31.5,59.9,25.7
+199,2015,Kansas,Division 4: West North Central,CENS-D4,Region 2: Midwest,1462417,27.9,33.3,61.199999999999996,27.1
+200,2016,Kansas,Division 4: West North Central,CENS-D4,Region 2: Midwest,1458436,29.2,30.9,60.099999999999994,25.9
+201,2017,Kansas,Division 4: West North Central,CENS-D4,Region 2: Midwest,1460550,29.1,32.4,61.5,28.7
+202,2018,Kansas,Division 4: West North Central,CENS-D4,Region 2: Midwest,1461765,28.1,35.6,63.7,24.7
+203,2019,Kansas,Division 4: West North Central,CENS-D4,Region 2: Midwest,1467027,29.3,36.4,65.7,28.0
+204,2020,Kansas,Division 4: West North Central,CENS-D4,Region 2: Midwest,1460700,29.3,34.8,64.1,23.3
+205,2021,Kansas,Division 4: West North Central,CENS-D4,Region 2: Midwest,1459972,28.8,36.8,65.6,25.5
+206,2022,Kansas,Division 4: West North Central,CENS-D4,Region 2: Midwest,1463359,28.1,36.8,64.9,25.8
+207,2023,Kansas,Division 4: West North Central,CENS-D4,Region 2: Midwest,1464046,29.1,36.2,65.30000000000001,26.8
+208,2011,Kentucky,Division 6: East South Central,CENS-D6,Region 3: South,2225611,29.2,31.1,60.3,30.5
+209,2012,Kentucky,Division 6: East South Central,CENS-D6,Region 3: South,2225476,30.4,31.0,61.4,31.8
+210,2013,Kentucky,Division 6: East South Central,CENS-D6,Region 3: South,2225476,30.1,33.1,63.2,31.7
+211,2014,Kentucky,Division 6: East South Central,CENS-D6,Region 3: South,2239299,32.2,29.9,62.1,30.5
+212,2015,Kentucky,Division 6: East South Central,CENS-D6,Region 3: South,2250200,28.8,32.9,61.7,33.0
+213,2016,Kentucky,Division 6: East South Central,CENS-D6,Region 3: South,2257160,29.6,35.2,64.80000000000001,31.7
+214,2017,Kentucky,Division 6: East South Central,CENS-D6,Region 3: South,2259339,30.8,32.5,63.3,37.6
+215,2018,Kentucky,Division 6: East South Central,CENS-D6,Region 3: South,2269381,27.9,36.8,64.69999999999999,34.5
+216,2019,Kentucky,Division 6: East South Central,CENS-D6,Region 3: South,2269468,30.9,37.9,68.8,34.3
+217,2020,Kentucky,Division 6: East South Central,CENS-D6,Region 3: South,2265430,29.1,36.1,65.2,32.6
+218,2021,Kentucky,Division 6: East South Central,CENS-D6,Region 3: South,2280066,28.0,40.9,68.9,32.3
+219,2022,Kentucky,Division 6: East South Central,CENS-D6,Region 3: South,2279152,31.2,36.7,67.9,27.1
+220,2023,Kentucky,Division 6: East South Central,CENS-D6,Region 3: South,2282464,,,,
+221,2011,Louisiana,Division 7: West South Central,CENS-D7,Region 3: South,2338719,29.6,33.8,63.4,37.0
+222,2012,Louisiana,Division 7: West South Central,CENS-D7,Region 3: South,2353005,30.4,35.9,66.3,33.7
+223,2013,Louisiana,Division 7: West South Central,CENS-D7,Region 3: South,2353005,27.4,35.0,62.4,35.5
+224,2014,Louisiana,Division 7: West South Central,CENS-D7,Region 3: South,2377560,28.8,35.7,64.5,32.7
+225,2015,Louisiana,Division 7: West South Central,CENS-D7,Region 3: South,2384425,29.0,36.5,65.5,34.7
+226,2016,Louisiana,Division 7: West South Central,CENS-D7,Region 3: South,2389786,28.5,36.5,65.0,32.3
+227,2017,Louisiana,Division 7: West South Central,CENS-D7,Region 3: South,2394638,30.6,36.5,67.1,33.5
+228,2018,Louisiana,Division 7: West South Central,CENS-D7,Region 3: South,2383448,27.3,39.5,66.8,34.1
+229,2019,Louisiana,Division 7: West South Central,CENS-D7,Region 3: South,2380592,30.5,38.3,68.8,34.7
+230,2020,Louisiana,Division 7: West South Central,CENS-D7,Region 3: South,2387684,29.5,39.8,69.3,33.3
+231,2021,Louisiana,Division 7: West South Central,CENS-D7,Region 3: South,2363181,28.7,41.2,69.9,33.0
+232,2022,Louisiana,Division 7: West South Central,CENS-D7,Region 3: South,2342095,27.6,42.5,70.1,32.1
+233,2023,Louisiana,Division 7: West South Central,CENS-D7,Region 3: South,2337609,28.2,41.9,70.1,33.6
+234,2011,Massachusetts,Division 1: New England,CENS-D1,Region 1: Northeast,3399742,29.1,21.4,50.5,24.8
+235,2012,Massachusetts,Division 1: New England,CENS-D1,Region 1: Northeast,3426391,27.9,21.2,49.099999999999994,21.1
+236,2013,Massachusetts,Division 1: New England,CENS-D1,Region 1: Northeast,3426391,27.3,21.4,48.7,24.6
+237,2014,Massachusetts,Division 1: New England,CENS-D1,Region 1: Northeast,3475729,28.1,23.0,51.1,21.9
+238,2015,Massachusetts,Division 1: New England,CENS-D1,Region 1: Northeast,3497038,27.5,23.0,50.5,28.0
+239,2016,Massachusetts,Division 1: New England,CENS-D1,Region 1: Northeast,3505962,30.7,21.1,51.8,21.3
+240,2017,Massachusetts,Division 1: New England,CENS-D1,Region 1: Northeast,3526549,29.1,24.2,53.3,26.4
+241,2018,Massachusetts,Division 1: New England,CENS-D1,Region 1: Northeast,3551262,29.7,24.3,54.0,24.4
+242,2019,Massachusetts,Division 1: New England,CENS-D1,Region 1: Northeast,3546947,28.9,24.3,53.2,27.0
+243,2020,Massachusetts,Division 1: New England,CENS-D1,Region 1: Northeast,3537011,29.2,23.4,52.599999999999994,21.5
+244,2021,Massachusetts,Division 1: New England,CENS-D1,Region 1: Northeast,3576471,28.9,27.1,56.0,23.5
+245,2022,Massachusetts,Division 1: New England,CENS-D1,Region 1: Northeast,3562487,29.6,26.5,56.1,23.0
+246,2023,Massachusetts,Division 1: New England,CENS-D1,Region 1: Northeast,3580213,28.6,27.8,56.400000000000006,23.9
+247,2011,Maryland,Division 5: South Atlantic,CENS-D5,Region 3: South,3008077,29.9,27.9,57.8,27.8
+248,2012,Maryland,Division 5: South Atlantic,CENS-D5,Region 3: South,3035272,30.2,28.7,58.9,25.7
+249,2013,Maryland,Division 5: South Atlantic,CENS-D5,Region 3: South,3035272,30.9,28.8,59.7,27.1
+250,2014,Maryland,Division 5: South Atlantic,CENS-D5,Region 3: South,3080374,30.1,31.3,61.400000000000006,23.8
+251,2015,Maryland,Division 5: South Atlantic,CENS-D5,Region 3: South,3094053,31.1,29.8,60.900000000000006,26.0
+252,2016,Maryland,Division 5: South Atlantic,CENS-D5,Region 3: South,3098674,28.2,31.5,59.7,26.3
+253,2017,Maryland,Division 5: South Atlantic,CENS-D5,Region 3: South,3116355,29.2,32.3,61.5,27.8
+254,2018,Maryland,Division 5: South Atlantic,CENS-D5,Region 3: South,3112368,30.1,33.1,63.2,25.1
+255,2019,Maryland,Division 5: South Atlantic,CENS-D5,Region 3: South,3117667,28.6,34.5,63.1,24.9
+256,2020,Maryland,Division 5: South Atlantic,CENS-D5,Region 3: South,3111980,31.4,31.6,63.0,23.4
+257,2021,Maryland,Division 5: South Atlantic,CENS-D5,Region 3: South,3162038,29.8,35.4,65.2,24.7
+258,2022,Maryland,Division 5: South Atlantic,CENS-D5,Region 3: South,3160543,30.7,34.8,65.5,24.1
+259,2023,Maryland,Division 5: South Atlantic,CENS-D5,Region 3: South,3180149,29.9,35.2,65.1,25.8
+260,2011,Maine,Division 1: New England,CENS-D1,Region 1: Northeast,677112,30.5,27.6,58.1,22.9
+261,2012,Maine,Division 1: New England,CENS-D1,Region 1: Northeast,678478,30.2,26.6,56.8,20.9
+262,2013,Maine,Division 1: New England,CENS-D1,Region 1: Northeast,678478,30.2,28.7,58.9,23.0
+263,2014,Maine,Division 1: New England,CENS-D1,Region 1: Northeast,682467,28.9,28.5,57.4,20.2
+264,2015,Maine,Division 1: New England,CENS-D1,Region 1: Northeast,678298,30.6,30.9,61.5,23.9
+265,2016,Maine,Division 1: New England,CENS-D1,Region 1: Northeast,680777,29.1,29.5,58.6,22.4
+266,2017,Maine,Division 1: New England,CENS-D1,Region 1: Northeast,681144,32.6,26.9,59.5,23.7
+267,2018,Maine,Division 1: New England,CENS-D1,Region 1: Northeast,682670,30.1,29.2,59.3,21.7
+268,2019,Maine,Division 1: New England,CENS-D1,Region 1: Northeast,687882,28.3,30.5,58.8,30.0
+269,2020,Maine,Division 1: New England,CENS-D1,Region 1: Northeast,684197,29.7,29.7,59.4,21.3
+270,2021,Maine,Division 1: New England,CENS-D1,Region 1: Northeast,698764,28.8,32.2,61.0,27.4
+271,2022,Maine,Division 1: New England,CENS-D1,Region 1: Northeast,700783,27.5,33.6,61.1,23.2
+272,2023,Maine,Division 1: New England,CENS-D1,Region 1: Northeast,710596,30.1,33.5,63.6,23.1
+273,2011,Michigan,Division 3: East North Central,CENS-D3,Region 2: Midwest,5027510,30.3,30.7,61.0,25.0
+274,2012,Michigan,Division 3: East North Central,CENS-D3,Region 2: Midwest,5031931,29.6,30.6,60.2,25.1
+275,2013,Michigan,Division 3: East North Central,CENS-D3,Region 2: Midwest,5031931,29.3,31.9,61.2,25.0
+276,2014,Michigan,Division 3: East North Central,CENS-D3,Region 2: Midwest,5044620,29.2,30.6,59.8,27.2
+277,2015,Michigan,Division 3: East North Central,CENS-D3,Region 2: Midwest,5045509,29.8,30.6,60.400000000000006,27.2
+278,2016,Michigan,Division 3: East North Central,CENS-D3,Region 2: Midwest,5045080,29.9,32.6,62.5,25.7
+279,2017,Michigan,Division 3: East North Central,CENS-D3,Region 2: Midwest,5055069,29.9,33.2,63.1,29.0
+280,2018,Michigan,Division 3: East North Central,CENS-D3,Region 2: Midwest,5069099,29.0,34.6,63.6,26.0
+281,2019,Michigan,Division 3: East North Central,CENS-D3,Region 2: Midwest,5070952,30.2,37.1,67.3,25.9
+282,2020,Michigan,Division 3: East North Central,CENS-D3,Region 2: Midwest,5061942,29.0,37.1,66.1,22.4
+283,2021,Michigan,Division 3: East North Central,CENS-D3,Region 2: Midwest,5073942,29.0,34.9,63.9,27.0
+284,2022,Michigan,Division 3: East North Central,CENS-D3,Region 2: Midwest,5055029,28.1,35.6,63.7,26.4
+285,2023,Michigan,Division 3: East North Central,CENS-D3,Region 2: Midwest,5071744,28.7,37.5,66.2,27.7
+286,2011,Minnesota,Division 4: West North Central,CENS-D4,Region 2: Midwest,2688390,30.4,22.9,53.3,22.1
+287,2012,Minnesota,Division 4: West North Central,CENS-D4,Region 2: Midwest,2708398,30.8,23.6,54.400000000000006,18.3
+288,2013,Minnesota,Division 4: West North Central,CENS-D4,Region 2: Midwest,2708398,28.5,23.8,52.3,23.3
+289,2014,Minnesota,Division 4: West North Central,CENS-D4,Region 2: Midwest,2744350,30.3,25.4,55.7,21.4
+290,2015,Minnesota,Division 4: West North Central,CENS-D4,Region 2: Midwest,2759564,30.5,24.3,54.8,21.3
+291,2016,Minnesota,Division 4: West North Central,CENS-D4,Region 2: Midwest,2772006,30.1,25.9,56.0,18.4
+292,2017,Minnesota,Division 4: West North Central,CENS-D4,Region 2: Midwest,2795892,30.6,26.4,57.0,24.5
+293,2018,Minnesota,Division 4: West North Central,CENS-D4,Region 2: Midwest,2817199,30.3,27.5,57.8,21.3
+294,2019,Minnesota,Division 4: West North Central,CENS-D4,Region 2: Midwest,2835416,29.6,29.1,58.7,19.0
+295,2020,Minnesota,Division 4: West North Central,CENS-D4,Region 2: Midwest,2811149,31.3,28.2,59.5,19.8
+296,2021,Minnesota,Division 4: West North Central,CENS-D4,Region 2: Midwest,2846722,28.9,31.0,59.9,21.8
+297,2022,Minnesota,Division 4: West North Central,CENS-D4,Region 2: Midwest,2847546,30.0,32.6,62.6,22.1
+298,2023,Minnesota,Division 4: West North Central,CENS-D4,Region 2: Midwest,2867907,28.5,33.1,61.6,23.9
+299,2011,Missouri,Division 4: West North Central,CENS-D4,Region 2: Midwest,3064932,29.8,30.7,60.5,28.7
+300,2012,Missouri,Division 4: West North Central,CENS-D4,Region 2: Midwest,3068397,30.8,29.6,60.400000000000006,27.5
+301,2013,Missouri,Division 4: West North Central,CENS-D4,Region 2: Midwest,3068397,28.3,30.2,58.5,28.6
+302,2014,Missouri,Division 4: West North Central,CENS-D4,Region 2: Midwest,3093076,29.2,30.2,59.4,26.8
+303,2015,Missouri,Division 4: West North Central,CENS-D4,Region 2: Midwest,3100027,28.5,31.2,59.7,27.2
+304,2016,Missouri,Division 4: West North Central,CENS-D4,Region 2: Midwest,3098349,28.4,31.4,59.8,25.9
+305,2017,Missouri,Division 4: West North Central,CENS-D4,Region 2: Midwest,3110838,29.9,33.5,63.4,29.9
+306,2018,Missouri,Division 4: West North Central,CENS-D4,Region 2: Midwest,3123287,25.9,35.7,61.6,28.4
+307,2019,Missouri,Division 4: West North Central,CENS-D4,Region 2: Midwest,3129259,27.9,34.6,62.5,31.6
+308,2020,Missouri,Division 4: West North Central,CENS-D4,Region 2: Midwest,3120159,29.3,36.2,65.5,28.0
+309,2021,Missouri,Division 4: West North Central,CENS-D4,Region 2: Midwest,3123006,28.1,36.6,64.7,25.6
+310,2022,Missouri,Division 4: West North Central,CENS-D4,Region 2: Midwest,3131606,29.1,37.6,66.7,27.3
+311,2023,Missouri,Division 4: West North Central,CENS-D4,Region 2: Midwest,3139380,28.9,36.4,65.3,30.6
+312,2011,Mississippi,Division 6: East South Central,CENS-D6,Region 3: South,1531878,29.0,37.3,66.3,38.5
+313,2012,Mississippi,Division 6: East South Central,CENS-D6,Region 3: South,1542854,29.5,37.3,66.8,33.8
+314,2013,Mississippi,Division 6: East South Central,CENS-D6,Region 3: South,1542854,29.6,36.4,66.0,42.3
+315,2014,Mississippi,Division 6: East South Central,CENS-D6,Region 3: South,1536251,31.0,37.9,68.9,36.1
+316,2015,Mississippi,Division 6: East South Central,CENS-D6,Region 3: South,1543838,28.7,37.2,65.9,39.3
+317,2016,Mississippi,Division 6: East South Central,CENS-D6,Region 3: South,1547792,29.3,39.3,68.6,34.2
+318,2017,Mississippi,Division 6: East South Central,CENS-D6,Region 3: South,1537627,26.9,38.8,65.69999999999999,36.6
+319,2018,Mississippi,Division 6: East South Central,CENS-D6,Region 3: South,1539701,27.8,42.6,70.4,36.7
+320,2019,Mississippi,Division 6: East South Central,CENS-D6,Region 3: South,1541192,26.8,44.9,71.7,40.1
+321,2020,Mississippi,Division 6: East South Central,CENS-D6,Region 3: South,1538127,29.1,42.8,71.9,34.0
+322,2021,Mississippi,Division 6: East South Central,CENS-D6,Region 3: South,1514542,29.8,41.5,71.3,33.9
+323,2022,Mississippi,Division 6: East South Central,CENS-D6,Region 3: South,1513368,28.5,41.9,70.4,35.3
+324,2023,Mississippi,Division 6: East South Central,CENS-D6,Region 3: South,1514769,28.7,42.0,70.7,37.4
+325,2011,Montana,Division 8: Mountain,CENS-D8,Region 4: West,497888,28.6,23.3,51.900000000000006,24.3
+326,2012,Montana,Division 8: Mountain,CENS-D8,Region 4: West,501683,29.3,23.4,52.7,19.3
+327,2013,Montana,Division 8: Mountain,CENS-D8,Region 4: West,501683,30.1,23.1,53.2,21.5
+328,2014,Montana,Division 8: Mountain,CENS-D8,Region 4: West,510170,30.4,24.9,55.3,19.6
+329,2015,Montana,Division 8: Mountain,CENS-D8,Region 4: West,513923,28.5,23.4,51.9,22.4
+330,2016,Montana,Division 8: Mountain,CENS-D8,Region 4: West,516497,29.3,26.0,55.3,20.5
+331,2017,Montana,Division 8: Mountain,CENS-D8,Region 4: West,524136,30.1,23.3,53.400000000000006,23.3
+332,2018,Montana,Division 8: Mountain,CENS-D8,Region 4: West,527523,30.7,25.8,56.5,25.0
+333,2019,Montana,Division 8: Mountain,CENS-D8,Region 4: West,531608,29.0,29.5,58.5,20.0
+334,2020,Montana,Division 8: Mountain,CENS-D8,Region 4: West,527577,30.4,28.2,58.599999999999994,19.5
+335,2021,Montana,Division 8: Mountain,CENS-D8,Region 4: West,543360,28.8,31.9,60.7,23.2
+336,2022,Montana,Division 8: Mountain,CENS-D8,Region 4: West,555594,29.6,30.6,60.2,21.0
+337,2023,Montana,Division 8: Mountain,CENS-D8,Region 4: West,560233,28.5,30.9,59.4,21.0
+338,2011,North Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,4968558,29.9,30.0,59.9,28.7
+339,2012,North Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,5001026,30.3,29.6,59.900000000000006,27.5
+340,2013,North Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,5001026,30.3,30.2,60.5,28.0
+341,2014,North Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,5101561,29.7,31.1,60.8,24.5
+342,2015,North Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,5146796,29.6,31.3,60.900000000000006,27.1
+343,2016,North Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,5213407,29.0,33.3,62.3,25.2
+344,2017,North Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,5274881,29.3,33.8,63.099999999999994,25.9
+345,2018,North Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,5331376,30.6,33.9,64.5,27.1
+346,2019,North Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,5393757,29.0,37.4,66.4,27.7
+347,2020,North Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,5333560,30.7,34.4,65.1,23.2
+348,2021,North Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,5401839,27.3,37.9,65.2,24.9
+349,2022,North Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,5469181,28.8,36.1,64.9,24.8
+350,2023,North Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,5523437,28.5,36.5,65.0,23.5
+351,2011,North Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,339988,29.8,25.4,55.2,26.0
+352,2012,North Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,342037,30.9,26.7,57.599999999999994,23.2
+353,2013,North Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,342037,30.9,28.0,58.9,27.7
+354,2014,North Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,363158,30.7,29.5,60.2,21.2
+355,2015,North Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,368776,30.4,27.1,57.5,25.4
+356,2016,North Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,367772,30.3,31.6,61.900000000000006,23.0
+357,2017,North Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,367093,30.8,31.2,62.0,27.8
+358,2018,North Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,368855,30.1,34.2,64.30000000000001,21.7
+359,2019,North Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,373723,29.9,33.1,63.0,28.3
+360,2020,North Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,371110,31.8,31.5,63.3,25.2
+361,2021,North Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,375404,30.3,33.1,63.400000000000006,26.6
+362,2022,North Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,380416,30.7,33.6,64.3,24.4
+363,2023,North Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,383435,30.5,35.2,65.7,22.9
+364,2011,Nebraska,Division 4: West North Central,CENS-D4,Region 2: Midwest,930145,29.2,27.6,56.8,25.4
+365,2012,Nebraska,Division 4: West North Central,CENS-D4,Region 2: Midwest,932426,29.5,28.1,57.6,21.6
+366,2013,Nebraska,Division 4: West North Central,CENS-D4,Region 2: Midwest,932426,30.2,28.4,58.599999999999994,24.3
+367,2014,Nebraska,Division 4: West North Central,CENS-D4,Region 2: Midwest,945306,30.5,28.7,59.2,21.4
+368,2015,Nebraska,Division 4: West North Central,CENS-D4,Region 2: Midwest,953601,30.4,29.8,60.2,25.4
+369,2016,Nebraska,Division 4: West North Central,CENS-D4,Region 2: Midwest,956992,30.4,31.4,61.8,24.1
+370,2017,Nebraska,Division 4: West North Central,CENS-D4,Region 2: Midwest,960803,30.2,32.3,62.5,25.0
+371,2018,Nebraska,Division 4: West North Central,CENS-D4,Region 2: Midwest,968055,29.9,33.8,63.699999999999996,24.3
+372,2019,Nebraska,Division 4: West North Central,CENS-D4,Region 2: Midwest,967758,29.7,34.7,64.4,27.3
+373,2020,Nebraska,Division 4: West North Central,CENS-D4,Region 2: Midwest,964149,30.7,33.3,64.0,22.2
+374,2021,Nebraska,Division 4: West North Central,CENS-D4,Region 2: Midwest,977673,30.1,35.0,65.1,25.1
+375,2022,Nebraska,Division 4: West North Central,CENS-D4,Region 2: Midwest,979086,30.7,35.4,66.1,26.5
+376,2023,Nebraska,Division 4: West North Central,CENS-D4,Region 2: Midwest,985970,30.7,36.6,67.3,24.2
+377,2011,New Hampshire,Division 1: New England,CENS-D1,Region 1: Northeast,667134,29.1,24.1,53.2,22.0
+378,2012,New Hampshire,Division 1: New England,CENS-D1,Region 1: Northeast,672430,28.4,25.6,54.0,20.8
+379,2013,New Hampshire,Division 1: New England,CENS-D1,Region 1: Northeast,672430,29.0,24.8,53.8,22.9
+380,2014,New Hampshire,Division 1: New England,CENS-D1,Region 1: Northeast,671999,29.0,25.3,54.3,20.3
+381,2015,New Hampshire,Division 1: New England,CENS-D1,Region 1: Northeast,672892,30.1,24.6,54.7,23.0
+382,2016,New Hampshire,Division 1: New England,CENS-D1,Region 1: Northeast,670073,28.6,26.5,55.1,20.6
+383,2017,New Hampshire,Division 1: New England,CENS-D1,Region 1: Northeast,677054,30.7,25.4,56.099999999999994,25.3
+384,2018,New Hampshire,Division 1: New England,CENS-D1,Region 1: Northeast,687016,29.9,28.1,58.0,22.9
+385,2019,New Hampshire,Division 1: New England,CENS-D1,Region 1: Northeast,686751,30.5,30.5,61.0,23.9
+386,2020,New Hampshire,Division 1: New England,CENS-D1,Region 1: Northeast,683442,29.5,27.9,57.4,21.8
+387,2021,New Hampshire,Division 1: New England,CENS-D1,Region 1: Northeast,695758,29.9,27.9,57.8,21.5
+388,2022,New Hampshire,Division 1: New England,CENS-D1,Region 1: Northeast,698445,31.9,30.4,62.3,22.2
+389,2023,New Hampshire,Division 1: New England,CENS-D1,Region 1: Northeast,702176,29.3,30.7,60.0,22.3
+390,2011,New Jersey,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,4522613,30.5,21.8,52.3,28.7
+391,2012,New Jersey,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,4543154,30.0,22.9,52.9,27.0
+392,2013,New Jersey,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,4543154,29.8,24.9,54.7,30.1
+393,2014,New Jersey,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,4574784,30.1,25.3,55.400000000000006,26.4
+394,2015,New Jersey,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,4583121,32.0,23.7,55.7,29.4
+395,2016,New Jersey,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,4574258,29.8,25.6,55.400000000000006,32.3
+396,2017,New Jersey,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,4608796,30.1,25.2,55.3,31.5
+397,2018,New Jersey,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,4558134,29.4,25.5,54.9,30.8
+398,2019,New Jersey,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,4539599,,,,
+399,2020,New Jersey,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,4544295,30.4,26.7,57.099999999999994,23.0
+400,2021,New Jersey,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,4703570,32.2,27.5,59.7,26.8
+401,2022,New Jersey,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,4696995,32.3,27.4,59.699999999999996,26.1
+402,2023,New Jersey,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,4717692,30.7,28.6,59.3,26.9
+403,2011,New Mexico,Division 8: Mountain,CENS-D8,Region 4: West,1045666,30.0,26.3,56.3,26.4
+404,2012,New Mexico,Division 8: Mountain,CENS-D8,Region 4: West,1050661,29.9,27.5,57.4,24.0
+405,2013,New Mexico,Division 8: Mountain,CENS-D8,Region 4: West,1050661,30.3,27.1,57.400000000000006,25.6
+406,2014,New Mexico,Division 8: Mountain,CENS-D8,Region 4: West,1052793,30.9,29.4,60.3,26.1
+407,2015,New Mexico,Division 8: Mountain,CENS-D8,Region 4: West,1049966,31.0,28.5,59.5,23.7
+408,2016,New Mexico,Division 8: Mountain,CENS-D8,Region 4: West,1050791,31.9,27.6,59.5,23.4
+409,2017,New Mexico,Division 8: Mountain,CENS-D8,Region 4: West,1053926,31.8,29.4,61.2,26.7
+410,2018,New Mexico,Division 8: Mountain,CENS-D8,Region 4: West,1055787,30.4,33.5,63.9,25.1
+411,2019,New Mexico,Division 8: Mountain,CENS-D8,Region 4: West,1060121,31.1,32.5,63.6,27.0
+412,2020,New Mexico,Division 8: Mountain,CENS-D8,Region 4: West,1059014,31.5,31.1,62.6,24.8
+413,2021,New Mexico,Division 8: Mountain,CENS-D8,Region 4: West,1063522,31.4,35.6,67.0,26.4
+414,2022,New Mexico,Division 8: Mountain,CENS-D8,Region 4: West,1065559,32.8,32.6,65.4,27.1
+415,2023,New Mexico,Division 8: Mountain,CENS-D8,Region 4: West,1065826,33.1,33.6,66.7,25.4
+416,2011,Nevada,Division 8: Mountain,CENS-D8,Region 4: West,1350572,27.9,23.4,51.3,25.9
+417,2012,Nevada,Division 8: Mountain,CENS-D8,Region 4: West,1367067,28.7,25.8,54.5,23.5
+418,2013,Nevada,Division 8: Mountain,CENS-D8,Region 4: West,1367067,29.8,26.6,56.400000000000006,27.2
+419,2014,Nevada,Division 8: Mountain,CENS-D8,Region 4: West,1412355,27.4,25.4,52.8,24.9
+420,2015,Nevada,Division 8: Mountain,CENS-D8,Region 4: West,1443389,32.3,25.4,57.699999999999996,28.4
+421,2016,Nevada,Division 8: Mountain,CENS-D8,Region 4: West,1466905,29.2,25.8,55.0,28.1
+422,2017,Nevada,Division 8: Mountain,CENS-D8,Region 4: West,1491787,31.0,27.1,58.1,26.3
+423,2018,Nevada,Division 8: Mountain,CENS-D8,Region 4: West,1512018,32.3,29.2,61.5,27.3
+424,2019,Nevada,Division 8: Mountain,CENS-D8,Region 4: West,1535377,33.4,29.2,62.599999999999994,27.2
+425,2020,Nevada,Division 8: Mountain,CENS-D8,Region 4: West,1510085,29.7,27.0,56.7,27.9
+426,2021,Nevada,Division 8: Mountain,CENS-D8,Region 4: West,1558784,33.9,29.4,63.3,26.2
+427,2022,Nevada,Division 8: Mountain,CENS-D8,Region 4: West,1577850,28.2,35.3,63.5,28.7
+428,2023,Nevada,Division 8: Mountain,CENS-D8,Region 4: West,1586682,30.2,31.9,62.099999999999994,29.2
+429,2011,New York,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,10027190,30.4,23.7,54.099999999999994,28.4
+430,2012,New York,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,10084389,30.6,22.9,53.5,27.6
+431,2013,New York,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,10084389,28.6,26.1,54.7,28.4
+432,2014,New York,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,10171918,28.0,26.2,54.2,26.8
+433,2015,New York,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,10179199,29.1,24.3,53.400000000000006,31.7
+434,2016,New York,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,10163239,29.6,25.2,54.8,28.5
+435,2017,New York,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,10211503,29.0,25.3,54.3,29.7
+436,2018,New York,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,10050896,29.6,27.3,56.900000000000006,26.2
+437,2019,New York,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,10002751,30.5,27.7,58.2,29.4
+438,2020,New York,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,10040665,30.6,26.3,56.900000000000006,27.5
+439,2021,New York,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,10139340,28.8,29.8,58.6,28.1
+440,2022,New York,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,10048252,29.4,30.3,59.7,28.1
+441,2023,New York,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,10019312,30.5,28.7,59.2,28.8
+442,2011,Ohio,Division 3: East North Central,CENS-D3,Region 2: Midwest,5903423,29.9,27.6,57.5,28.6
+443,2012,Ohio,Division 3: East North Central,CENS-D3,Region 2: Midwest,5901591,29.5,29.7,59.2,27.1
+444,2013,Ohio,Division 3: East North Central,CENS-D3,Region 2: Midwest,5901591,28.7,30.8,59.5,29.6
+445,2014,Ohio,Division 3: East North Central,CENS-D3,Region 2: Midwest,5917577,29.2,32.5,61.7,26.0
+446,2015,Ohio,Division 3: East North Central,CENS-D3,Region 2: Midwest,5929472,33.0,28.4,61.4,28.1
+447,2016,Ohio,Division 3: East North Central,CENS-D3,Region 2: Midwest,5922773,29.7,32.1,61.8,28.6
+448,2017,Ohio,Division 3: East North Central,CENS-D3,Region 2: Midwest,5949355,29.9,34.1,64.0,31.0
+449,2018,Ohio,Division 3: East North Central,CENS-D3,Region 2: Midwest,5957347,29.8,34.3,64.1,28.5
+450,2019,Ohio,Division 3: East North Central,CENS-D3,Region 2: Midwest,5956893,29.6,35.7,65.30000000000001,30.4
+451,2020,Ohio,Division 3: East North Central,CENS-D3,Region 2: Midwest,5953479,27.5,37.1,64.6,27.1
+452,2021,Ohio,Division 3: East North Central,CENS-D3,Region 2: Midwest,5971442,28.4,39.0,67.4,28.9
+453,2022,Ohio,Division 3: East North Central,CENS-D3,Region 2: Midwest,5945847,29.0,39.1,68.1,28.0
+454,2023,Ohio,Division 3: East North Central,CENS-D3,Region 2: Midwest,5972119,28.9,37.0,65.9,28.9
+455,2011,Oklahoma,Division 7: West South Central,CENS-D7,Region 3: South,1913665,28.6,31.5,60.1,31.7
+456,2012,Oklahoma,Division 7: West South Central,CENS-D7,Region 3: South,1925013,29.8,31.4,61.2,29.1
+457,2013,Oklahoma,Division 7: West South Central,CENS-D7,Region 3: South,1925013,30.7,32.2,62.900000000000006,34.1
+458,2014,Oklahoma,Division 7: West South Central,CENS-D7,Region 3: South,1957489,30.6,32.5,63.1,30.4
+459,2015,Oklahoma,Division 7: West South Central,CENS-D7,Region 3: South,1971783,30.3,34.0,64.3,33.1
+460,2016,Oklahoma,Division 7: West South Central,CENS-D7,Region 3: South,1980288,30.6,32.2,62.800000000000004,31.2
+461,2017,Oklahoma,Division 7: West South Central,CENS-D7,Region 3: South,1981878,29.1,36.1,65.2,34.8
+462,2018,Oklahoma,Division 7: West South Central,CENS-D7,Region 3: South,1993003,29.0,37.0,66.0,29.1
+463,2019,Oklahoma,Division 7: West South Central,CENS-D7,Region 3: South,1994494,31.3,37.2,68.5,35.6
+464,2020,Oklahoma,Division 7: West South Central,CENS-D7,Region 3: South,1992725,27.6,38.6,66.2,31.7
+465,2021,Oklahoma,Division 7: West South Central,CENS-D7,Region 3: South,2001932,29.3,39.0,68.3,31.0
+466,2022,Oklahoma,Division 7: West South Central,CENS-D7,Region 3: South,2015605,27.8,41.6,69.4,33.4
+467,2023,Oklahoma,Division 7: West South Central,CENS-D7,Region 3: South,2039136,27.8,39.3,67.1,33.8
+468,2011,Oregon,Division 9: Pacific,CENS-D9,Region 4: West,1957743,28.5,27.2,55.7,18.7
+469,2012,Oregon,Division 9: Pacific,CENS-D9,Region 4: West,1966564,28.0,27.3,55.3,16.6
+470,2013,Oregon,Division 9: Pacific,CENS-D9,Region 4: West,1966564,27.4,25.0,52.4,17.7
+471,2014,Oregon,Division 9: Pacific,CENS-D9,Region 4: West,2005946,26.4,28.7,55.099999999999994,17.2
+472,2015,Oregon,Division 9: Pacific,CENS-D9,Region 4: West,2036815,28.7,28.9,57.599999999999994,18.3
+473,2016,Oregon,Division 9: Pacific,CENS-D9,Region 4: West,2067427,27.7,28.8,56.5,17.4
+474,2017,Oregon,Division 9: Pacific,CENS-D9,Region 4: West,2088760,29.0,30.0,59.0,22.4
+475,2018,Oregon,Division 9: Pacific,CENS-D9,Region 4: West,2110770,28.1,30.8,58.900000000000006,20.5
+476,2019,Oregon,Division 9: Pacific,CENS-D9,Region 4: West,2128061,29.9,29.0,58.9,24.4
+477,2020,Oregon,Division 9: Pacific,CENS-D9,Region 4: West,2105719,30.2,28.5,58.7,18.5
+478,2021,Oregon,Division 9: Pacific,CENS-D9,Region 4: West,2124623,30.1,31.1,61.2,21.9
+479,2022,Oregon,Division 9: Pacific,CENS-D9,Region 4: West,2118486,32.1,31.4,63.5,20.1
+480,2023,Oregon,Division 9: Pacific,CENS-D9,Region 4: West,2128151,26.6,34.2,60.800000000000004,21.4
+481,2011,Pennsylvania,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,6526048,30.9,27.6,58.5,28.3
+482,2012,Pennsylvania,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,6534203,28.8,29.2,58.0,25.6
+483,2013,Pennsylvania,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,6534203,28.0,29.7,57.7,28.1
+484,2014,Pennsylvania,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,6533959,28.9,29.1,58.0,24.5
+485,2015,Pennsylvania,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,6540257,29.9,30.1,60.0,29.6
+486,2016,Pennsylvania,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,6521357,30.1,29.3,59.400000000000006,24.7
+487,2017,Pennsylvania,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,6533016,30.3,30.5,60.8,25.9
+488,2018,Pennsylvania,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,6535440,29.4,30.8,60.2,26.9
+489,2019,Pennsylvania,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,6529462,30.6,33.2,63.800000000000004,26.7
+490,2020,Pennsylvania,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,6525743,30.8,32.1,62.900000000000006,27.6
+491,2021,Pennsylvania,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,6564424,29.3,32.6,61.900000000000006,26.8
+492,2022,Pennsylvania,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,6572178,30.1,34.3,64.4,25.5
+493,2023,Pennsylvania,Division 2: Middle Atlantic,CENS-D2,Region 1: Northeast,6572348,,,,
+494,2011,Rhode Island,Division 1: New England,CENS-D1,Region 1: Northeast,542906,31.4,23.3,54.7,27.7
+495,2012,Rhode Island,Division 1: New England,CENS-D1,Region 1: Northeast,543457,29.8,23.8,53.6,25.6
+496,2013,Rhode Island,Division 1: New England,CENS-D1,Region 1: Northeast,543457,31.5,26.1,57.6,28.3
+497,2014,Rhode Island,Division 1: New England,CENS-D1,Region 1: Northeast,543523,29.0,25.8,54.8,25.1
+498,2015,Rhode Island,Division 1: New England,CENS-D1,Region 1: Northeast,544525,31.4,24.1,55.5,29.6
+499,2016,Rhode Island,Division 1: New England,CENS-D1,Region 1: Northeast,545068,31.5,25.3,56.8,28.1
+500,2017,Rhode Island,Division 1: New England,CENS-D1,Region 1: Northeast,546441,30.2,29.0,59.2,29.1
+501,2018,Rhode Island,Division 1: New England,CENS-D1,Region 1: Northeast,541415,31.0,27.1,58.1,28.4
+502,2019,Rhode Island,Division 1: New England,CENS-D1,Region 1: Northeast,542140,29.6,28.2,57.8,28.3
+503,2020,Rhode Island,Division 1: New England,CENS-D1,Region 1: Northeast,543274,28.8,28.4,57.2,25.7
+504,2021,Rhode Island,Division 1: New England,CENS-D1,Region 1: Northeast,559021,30.8,29.2,60.0,26.7
+505,2022,Rhode Island,Division 1: New England,CENS-D1,Region 1: Northeast,557893,31.4,31.9,63.3,26.5
+506,2023,Rhode Island,Division 1: New England,CENS-D1,Region 1: Northeast,560463,30.3,31.5,61.8,30.3
+507,2011,South Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,2404948,28.4,33.0,61.4,29.5
+508,2012,South Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,2427942,29.4,33.0,62.4,28.6
+509,2013,South Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,2427942,29.8,33.4,63.2,29.2
+510,2014,South Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,2481123,30.0,32.4,62.4,27.9
+511,2015,South Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,2511050,29.3,33.1,62.400000000000006,29.2
+512,2016,South Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,2555776,29.8,33.5,63.3,29.2
+513,2017,South Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,2587467,28.7,35.1,63.8,30.5
+514,2018,South Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,2615420,29.2,36.2,65.4,30.0
+515,2019,South Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,2663713,30.2,36.8,67.0,30.9
+516,2020,South Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,2622835,28.4,39.4,67.8,29.1
+517,2021,South Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,2669016,29.1,38.3,67.4,27.4
+518,2022,South Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,2712725,29.1,37.2,66.30000000000001,29.7
+519,2023,South Carolina,Division 5: South Atlantic,CENS-D5,Region 3: South,2768541,28.2,39.6,67.8,28.9
+520,2011,South Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,413577,28.9,26.3,55.2,24.8
+521,2012,South Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,415551,31.2,27.5,58.7,20.6
+522,2013,South Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,415551,31.9,27.6,59.5,21.7
+523,2014,South Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,425794,29.6,28.1,57.7,22.8
+524,2015,South Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,426929,28.5,28.5,57.0,21.1
+525,2016,South Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,429786,32.8,26.7,59.5,18.9
+526,2017,South Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,431237,31.4,29.5,60.9,21.9
+527,2018,South Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,436964,32.4,28.7,61.099999999999994,23.3
+528,2019,South Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,435201,31.8,32.3,64.1,30.7
+529,2020,South Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,436388,31.6,34.3,65.9,22.1
+530,2021,South Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,443426,31.2,37.0,68.2,23.9
+531,2022,South Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,447367,29.6,37.0,66.6,23.4
+532,2023,South Dakota,Division 4: West North Central,CENS-D4,Region 2: Midwest,451096,29.5,34.1,63.6,26.8
+533,2011,Tennessee,Division 6: East South Central,CENS-D6,Region 3: South,3284402,29.7,30.4,60.099999999999994,37.2
+534,2012,Tennessee,Division 6: East South Central,CENS-D6,Region 3: South,3311487,29.4,31.8,61.2,31.4
+535,2013,Tennessee,Division 6: East South Central,CENS-D6,Region 3: South,3311487,28.8,34.6,63.400000000000006,39.5
+536,2014,Tennessee,Division 6: East South Central,CENS-D6,Region 3: South,3359153,32.1,30.5,62.6,30.3
+537,2015,Tennessee,Division 6: East South Central,CENS-D6,Region 3: South,3385610,30.1,34.5,64.6,31.9
+538,2016,Tennessee,Division 6: East South Central,CENS-D6,Region 3: South,3404136,29.9,33.5,63.4,32.6
+539,2017,Tennessee,Division 6: East South Central,CENS-D6,Region 3: South,3443849,31.0,32.4,63.4,32.5
+540,2018,Tennessee,Division 6: East South Central,CENS-D6,Region 3: South,3467819,29.4,35.3,64.69999999999999,34.0
+541,2019,Tennessee,Division 6: East South Central,CENS-D6,Region 3: South,3500059,30.6,36.0,66.6,33.2
+542,2020,Tennessee,Division 6: East South Central,CENS-D6,Region 3: South,3467806,30.7,36.7,67.4,27.5
+543,2021,Tennessee,Division 6: East South Central,CENS-D6,Region 3: South,3562037,32.5,37.1,69.6,30.5
+544,2022,Tennessee,Division 6: East South Central,CENS-D6,Region 3: South,3588721,24.8,42.7,67.5,32.4
+545,2023,Tennessee,Division 6: East South Central,CENS-D6,Region 3: South,3629494,27.9,39.4,67.3,30.4
+546,2011,Texas,Division 7: West South Central,CENS-D7,Region 3: South,12933519,28.9,29.9,58.8,28.4
+547,2012,Texas,Division 7: West South Central,CENS-D7,Region 3: South,13113985,29.2,30.0,59.2,29.0
+548,2013,Texas,Division 7: West South Central,CENS-D7,Region 3: South,13113985,29.1,32.2,61.300000000000004,33.5
+549,2014,Texas,Division 7: West South Central,CENS-D7,Region 3: South,13572641,30.4,30.7,61.099999999999994,30.0
+550,2015,Texas,Division 7: West South Central,CENS-D7,Region 3: South,13843701,29.4,33.1,62.5,31.2
+551,2016,Texas,Division 7: West South Central,CENS-D7,Region 3: South,14031643,27.8,34.6,62.400000000000006,28.4
+552,2017,Texas,Division 7: West South Central,CENS-D7,Region 3: South,14241895,31.4,32.1,63.5,33.9
+553,2018,Texas,Division 7: West South Central,CENS-D7,Region 3: South,14451661,27.2,36.2,63.400000000000006,28.8
+554,2019,Texas,Division 7: West South Central,CENS-D7,Region 3: South,14610119,30.9,34.9,65.8,29.4
+555,2020,Texas,Division 7: West South Central,CENS-D7,Region 3: South,14413722,29.0,36.1,65.1,27.3
+556,2021,Texas,Division 7: West South Central,CENS-D7,Region 3: South,14788930,28.9,36.6,65.5,27.1
+557,2022,Texas,Division 7: West South Central,CENS-D7,Region 3: South,15008431,29.5,36.7,66.2,29.2
+558,2023,Texas,Division 7: West South Central,CENS-D7,Region 3: South,15290157,31.1,35.5,66.6,31.2
+559,2011,Utah,Division 8: Mountain,CENS-D8,Region 4: West,1399583,27.4,22.9,50.3,19.5
+560,2012,Utah,Division 8: Mountain,CENS-D8,Region 4: West,1420259,26.1,24.0,50.1,18.0
+561,2013,Utah,Division 8: Mountain,CENS-D8,Region 4: West,1420259,28.1,23.7,51.8,21.5
+562,2014,Utah,Division 8: Mountain,CENS-D8,Region 4: West,1463375,27.0,25.8,52.8,18.1
+563,2015,Utah,Division 8: Mountain,CENS-D8,Region 4: West,1489536,27.6,24.0,51.6,20.9
+564,2016,Utah,Division 8: Mountain,CENS-D8,Region 4: West,1513072,27.7,25.1,52.8,16.6
+565,2017,Utah,Division 8: Mountain,CENS-D8,Region 4: West,1538400,28.6,24.3,52.900000000000006,20.9
+566,2018,Utah,Division 8: Mountain,CENS-D8,Region 4: West,1568648,27.7,26.8,54.5,19.2
+567,2019,Utah,Division 8: Mountain,CENS-D8,Region 4: West,1595287,28.2,28.9,57.099999999999994,19.4
+568,2020,Utah,Division 8: Mountain,CENS-D8,Region 4: West,1564289,28.6,28.6,57.2,18.0
+569,2021,Utah,Division 8: Mountain,CENS-D8,Region 4: West,1643205,28.2,31.4,59.599999999999994,19.4
+570,2022,Utah,Division 8: Mountain,CENS-D8,Region 4: West,1664683,29.3,30.5,59.8,18.6
+571,2023,Utah,Division 8: Mountain,CENS-D8,Region 4: West,1685987,28.1,30.2,58.3,17.8
+572,2011,Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,4117825,28.3,28.6,56.900000000000006,26.6
+573,2012,Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,4170822,30.1,27.5,57.6,24.6
+574,2013,Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,4170822,30.7,27.3,58.0,28.3
+575,2014,Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,4233618,30.5,29.3,59.8,25.8
+576,2015,Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,4256667,28.4,29.7,58.099999999999994,25.9
+577,2016,Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,4276323,30.6,29.5,60.1,25.2
+578,2017,Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,4306266,29.7,31.6,61.3,27.2
+579,2018,Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,4326947,31.4,30.2,61.599999999999994,23.9
+580,2019,Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,4333720,29.5,34.2,63.7,27.0
+581,2020,Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,4322815,30.1,31.8,61.900000000000006,23.1
+582,2021,Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,4368343,29.5,34.9,64.4,24.6
+583,2022,Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,4384305,27.0,36.3,63.3,23.8
+584,2023,Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,4413602,29.7,36.0,65.7,26.6
+585,2011,Vermont,Division 1: New England,CENS-D1,Region 1: Northeast,318038,28.1,23.6,51.7,19.9
+586,2012,Vermont,Division 1: New England,CENS-D1,Region 1: Northeast,316827,28.5,23.0,51.5,17.1
+587,2013,Vermont,Division 1: New England,CENS-D1,Region 1: Northeast,316827,30.0,23.8,53.8,19.9
+588,2014,Vermont,Division 1: New England,CENS-D1,Region 1: Northeast,318046,28.2,24.2,52.4,19.8
+589,2015,Vermont,Division 1: New England,CENS-D1,Region 1: Northeast,317490,27.5,25.6,53.1,22.2
+590,2016,Vermont,Division 1: New England,CENS-D1,Region 1: Northeast,316720,26.5,26.2,52.7,19.1
+591,2017,Vermont,Division 1: New England,CENS-D1,Region 1: Northeast,315847,29.6,27.2,56.8,21.6
+592,2018,Vermont,Division 1: New England,CENS-D1,Region 1: Northeast,318181,26.8,27.2,54.0,19.5
+593,2019,Vermont,Division 1: New England,CENS-D1,Region 1: Northeast,314825,25.5,25.7,51.2,19.6
+594,2020,Vermont,Division 1: New England,CENS-D1,Region 1: Northeast,315899,29.0,26.4,55.4,18.4
+595,2021,Vermont,Division 1: New England,CENS-D1,Region 1: Northeast,325277,26.9,29.0,55.9,19.0
+596,2022,Vermont,Division 1: New England,CENS-D1,Region 1: Northeast,326366,29.1,27.7,56.8,21.4
+597,2023,Vermont,Division 1: New England,CENS-D1,Region 1: Northeast,324526,28.1,28.1,56.2,21.2
+598,2011,Washington,Division 9: Pacific,CENS-D9,Region 4: West,3421977,29.3,24.9,54.2,22.1
+599,2012,Washington,Division 9: Pacific,CENS-D9,Region 4: West,3455583,27.3,26.3,53.6,20.0
+600,2013,Washington,Division 9: Pacific,CENS-D9,Region 4: West,3455583,27.6,27.7,55.3,20.3
+601,2014,Washington,Division 9: Pacific,CENS-D9,Region 4: West,3531933,31.1,26.0,57.1,18.4
+602,2015,Washington,Division 9: Pacific,CENS-D9,Region 4: West,3585130,29.9,25.9,55.8,19.6
+603,2016,Washington,Division 9: Pacific,CENS-D9,Region 4: West,3648274,28.9,27.7,56.599999999999994,19.3
+604,2017,Washington,Division 9: Pacific,CENS-D9,Region 4: West,3707128,27.9,27.1,55.0,20.2
+605,2018,Washington,Division 9: Pacific,CENS-D9,Region 4: West,3768732,29.3,28.0,57.3,18.0
+606,2019,Washington,Division 9: Pacific,CENS-D9,Region 4: West,3807321,29.5,28.0,57.5,19.7
+607,2020,Washington,Division 9: Pacific,CENS-D9,Region 4: West,3753458,29.1,28.0,57.1,19.7
+608,2021,Washington,Division 9: Pacific,CENS-D9,Region 4: West,3841372,30.3,29.3,59.6,19.2
+609,2022,Washington,Division 9: Pacific,CENS-D9,Region 4: West,3855375,29.5,31.8,61.3,18.7
+610,2023,Washington,Division 9: Pacific,CENS-D9,Region 4: West,3878903,29.1,30.9,60.0,19.4
+611,2011,Wisconsin,Division 3: East North Central,CENS-D3,Region 2: Midwest,2876635,30.6,26.1,56.7,22.3
+612,2012,Wisconsin,Division 3: East North Central,CENS-D3,Region 2: Midwest,2883661,29.5,29.8,59.3,21.2
+613,2013,Wisconsin,Division 3: East North Central,CENS-D3,Region 2: Midwest,2883661,30.9,28.7,59.599999999999994,23.0
+614,2014,Wisconsin,Division 3: East North Central,CENS-D3,Region 2: Midwest,2899582,29.6,30.5,60.1,22.9
+615,2015,Wisconsin,Division 3: East North Central,CENS-D3,Region 2: Midwest,2903040,28.7,30.1,58.8,21.4
+616,2016,Wisconsin,Division 3: East North Central,CENS-D3,Region 2: Midwest,2905788,30.0,29.9,59.9,21.7
+617,2017,Wisconsin,Division 3: East North Central,CENS-D3,Region 2: Midwest,2915029,28.3,31.6,59.900000000000006,22.8
+618,2018,Wisconsin,Division 3: East North Central,CENS-D3,Region 2: Midwest,2922286,30.3,33.1,63.400000000000006,23.5
+619,2019,Wisconsin,Division 3: East North Central,CENS-D3,Region 2: Midwest,2929630,28.4,35.5,63.9,25.6
+620,2020,Wisconsin,Division 3: East North Central,CENS-D3,Region 2: Midwest,2917192,30.3,32.0,62.3,22.0
+621,2021,Wisconsin,Division 3: East North Central,CENS-D3,Region 2: Midwest,2940659,29.0,34.5,63.5,22.9
+622,2022,Wisconsin,Division 3: East North Central,CENS-D3,Region 2: Midwest,2933768,29.6,37.3,66.9,23.4
+623,2023,Wisconsin,Division 3: East North Central,CENS-D3,Region 2: Midwest,2951547,29.5,37.5,67.0,29.7
+624,2011,West Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,940890,31.4,34.2,65.6,37.5
+625,2012,West Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,943732,30.0,33.1,63.1,34.5
+626,2013,West Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,943732,28.6,34.9,63.5,33.4
+627,2014,West Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,935640,28.5,36.0,64.5,32.2
+628,2015,West Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,935569,31.0,33.8,64.8,33.0
+629,2016,West Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,930189,28.6,37.4,66.0,31.8
+630,2017,West Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,918691,29.2,36.7,65.9,32.7
+631,2018,West Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,911175,29.6,38.5,68.1,31.0
+632,2019,West Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,906286,28.6,39.8,68.4,33.7
+633,2020,West Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,913683,28.8,37.6,66.4,33.2
+634,2021,West Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,895599,28.5,41.8,70.3,35.4
+635,2022,West Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,893055,28.8,40.5,69.3,34.9
+636,2023,West Virginia,Division 5: South Atlantic,CENS-D5,Region 3: South,887440,29.0,42.1,71.1,37.1
+637,2011,Wyoming,Division 8: Mountain,CENS-D8,Region 4: West,278742,29.3,23.8,53.1,24.3
+638,2012,Wyoming,Division 8: Mountain,CENS-D8,Region 4: West,283676,30.6,26.8,57.400000000000006,22.6
+639,2013,Wyoming,Division 8: Mountain,CENS-D8,Region 4: West,283676,29.3,27.4,56.7,25.1
+640,2014,Wyoming,Division 8: Mountain,CENS-D8,Region 4: West,286972,27.8,29.2,57.0,22.5
+641,2015,Wyoming,Division 8: Mountain,CENS-D8,Region 4: West,291005,29.9,27.8,57.7,26.8
+642,2016,Wyoming,Division 8: Mountain,CENS-D8,Region 4: West,287296,29.8,27.2,57.0,24.5
+643,2017,Wyoming,Division 8: Mountain,CENS-D8,Region 4: West,283536,30.0,28.1,58.1,23.3
+644,2018,Wyoming,Division 8: Mountain,CENS-D8,Region 4: West,285118,30.3,27.8,58.1,22.3
+645,2019,Wyoming,Division 8: Mountain,CENS-D8,Region 4: West,282754,30.0,28.5,58.5,23.7
+646,2020,Wyoming,Division 8: Mountain,CENS-D8,Region 4: West,285068,28.1,31.4,59.5,24.6
+647,2021,Wyoming,Division 8: Mountain,CENS-D8,Region 4: West,282796,32.3,31.5,63.8,25.3
+648,2022,Wyoming,Division 8: Mountain,CENS-D8,Region 4: West,283526,33.0,34.3,67.3,25.2
+649,2023,Wyoming,Division 8: Mountain,CENS-D8,Region 4: West,288322,30.1,34.7,64.80000000000001,27.6
