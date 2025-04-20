@@ -21,8 +21,48 @@ The United States has a high maternal mortality rate compared to other peer nati
 * Public health officials.
 
 
+# What is in the repo
+
+## Data
+
+### Merged Data Sets
+
+``` data/merged_data_sets``` <- Final data sets. 
+Contains:
+```merged_data_raw_totals.csv``` with raw totals by state.
+```merged_data_scaled_totals.csv``` with features normalized by population or births.
+### Data Used in Analysis
+
+```data/acs_income_by_year``` <- American Community Survey data on state-level income distribution.
+
+```data/behavioral_data``` <- CDC DNPAO data on nutrition, physical activity, and obesity.
+
+```data/cdc_data``` <- CDC maternal mortality data.
+
+```data/natality_data``` <- CDC natality data.
 
 
+### Additional data for future use
+
+
+```data/all_division_data``` <- American Community Survey data broken up by division instead of by state.
+
+```data/acs_health_insurance_data``` <- health insurance information for all the states from the American Community Survey.
+
+### Data manipulation:
+
+In the folder ```data_manipulation``` we combine the data into the ```.csv``` files contained in ```data/merged_data_sets```.
+
+
+## Analysis:
+
+### Exploratory and Final Analysis
+```final_analysis``` contains:
+Exploratory analysis in ```exploratory_analysis.ipynb```.
+Final comparison and analysis in ```model-training-testing.ipynb```.
+
+### Additional analysis
+We have additional exploratory analysis and model comparisons in ```additional_analysis```.
 
 
 [^1]: https://www.cbsnews.com/news/us-maternal-mortality-rate-higher-whats-different/
